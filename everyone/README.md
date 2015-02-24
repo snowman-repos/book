@@ -50,7 +50,7 @@ Therefore, you're going to need to work closely with others; you cannot work in 
 
 #### Documentation
 
-It's important that you write down any and all information that may be useful to others. Whether that be project scope, meeting minutes, design decisions, timelines, technical issues etc. This documentation should be in a consistent and easily shareable format that must be agreed before the start of the project.
+It's important that you write down any and all information that may be useful to others. Whether that be project scope, meeting minutes, design decisions, timelines, technical issues etc. Whatever role you have in putting together your website or app, there will be something you do that other people may need to know about and understand. Your documentation should be in a consistent and easily shareable format that must be agreed before the start of the project.
 
 #### Communication
 
@@ -61,6 +61,10 @@ Non-distributed teams should at least sit nearby eachother and always schedule r
 Distributed teams can simulate proximity by using some sort of communication tool, even if it's an IRC chatroom. Just knowing that your team members are just a few taps away encourages frequent contact and makes their presence felt.
 
 Generally speaking, the more communication the better; however, certain tasks, particularly those creative tasks like designing and developing, or juggling multiple projects, require extended periods of concentration which should not be disrupted. Therefore meetings should be scheduled as frequently and as seldom as required.
+
+#### Privacy
+
+
 
 #### Scope, Schedules & Timelines
 
