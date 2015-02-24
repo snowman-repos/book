@@ -4,7 +4,7 @@ _Reading time ~ 20 minutes_
 
 Your role is the most important. You may think that you're paying a production team to do all the hard work and take it out of your hands but unfortunately that simply isn't the case. If you were opening a shop you wouldn't expect the painters & decorators to establish your product display, prices, general business practices, hire staff etc. Before embarking on this project you need to have a detailed plan, not just about what kind of web project you want but how you plan to use it, how you plan to maintain and grow it, who will use it, and what they will use it for. There is an awful lot to think about and you need to accurately convey those thoughts to your production team.
 
-The ultimate success of the web project starts and ends with you. How much you care about it, and how much resources you spend on it will be obvious to the end user. Even a brilliant production team using rhobust technology may produce a failed project if organisational issues at your end.
+The ultimate success of the web project starts and ends with you. How much you care about it, and how much resources you spend on it will be obvious to the end user. Even a brilliant production team using rhobust technology may produce a failed project if there are organisational issues at your end.
 
 ## What is a web project?
 
@@ -49,7 +49,7 @@ No matter what your competitors are doing, there's no guarantee that they're doi
 
 ## Prepare your business
 
-Being such an integral part of any business, a new web project will inevitably require organisation change to accommodate it. It's like opening a new shop or business division - you need people specifically responsible for it to drive its success. If you expanded your business in such a way but only assigned the same people who are already handling the other parts of the business then you can expect them to be spread too thinly and be unable to devote their full attention to either area of responsibility and the business will suffer as a result.
+Being such an integral part of any business, a new web project will inevitably require organisational change to accommodate it. It's like opening a new shop or business division - you need people specifically responsible for it to drive its success. If you expanded your business in such a way but only assigned the same people who are already handling the other parts of the business then you can expect them to be spread too thinly and be unable to devote their full attention to either area of responsibility and the business will suffer as a result.
 
 In this section we're talking about what roles are required within your organisation to ensure the project's continued success. Although we may refer to a “team”, these roles may just be one person (maybe you?) but it's still important to establish the roles and responsibilities required.
 
@@ -65,13 +65,13 @@ So you will need to establish a leadership person in your organisation who is so
 
 ### Your team
 
-As stated in the first chapter, a website or web app is ultimately a way of delivering content to people via the web. You therefore need to prioritise content above all else and establish a set of guidelines for content production and maintenance - what will be the tone/style of the language used, when and how content will be added and removed, who is responsibile for content, etc. Having guidliness will ensure that new people joining your organisation will be able to seamlessly maintain the project.
+As stated in the first chapter, a website or web app is ultimately a way of delivering content to people via the web. You therefore need to prioritise content above all else and establish a set of guidelines for content production and maintenance - what will be the tone/style of the language used, when and how content will be added and removed, who is responsibile for content, etc. Having guidelines will ensure that new people joining your organisation will be able to seamlessly maintain the project.
 
 Content maintainers need to be specialists, and that's why there is a whole chapter in this book about content management. Content for the web is different to that on other media because the way people engage with the web is different - skim-reading, tapping, clicking, swiping, pinching, uploading, downloading etc. For instance the text you write in a physical brochure would look ridiculous on a website and would be unlikely to perform its function as well.
 
 You may have heard of a tool called a “Content Management System”, or CMS for short. Examples include Wordpress, Drupal, Joomla, ExpressionEngine, Sitecore, Umbraco, Ghost, Perch etc. CMS's allow anyone with access to log in and change your website's content. Unfortunately a tool such as this isn't going to solve your content problems. A CMS will have more features than you need, as it's not focused specifically for your content, and be difficult to use. You still need a dedicated team of specialists who are not only trained in writing web copy and copy specifically for your organisation, but who are also trained in using any tools (such as a CMS) and procedures that you have established. These people will be able to maintain the quality, consistency, and relevancy of the content and will likely not forget how to use those tools and procedures because they use them on a regular basis. They will be able to more easily remember too what content is currently live and what needs to be changed or removed. In the long term, having dedicated content people will optimise your return on investment because your users will always be more engaged and you will spend less on things like repeated CMS training or content consultants to periodically come in and resolve issues for you.
 
-Depending on the size of your project, you may need lots of people to maintain content or you may need just one. What's important though is that there's one person ultimately responsible for maintaining control of content or overseeing the content team. Policies should be put in place that dictate who has access to the CMS, what the tone and style of copy should be, what kind of media can be uploaded, etc. These policies would make up a **content style guide**.
+Depending on the size of your project, you may need lots of people to maintain content or you may need just one. What's important though is that there's one person ultimately responsible for maintaining control of content or overseeing the content team. Policies should be put in place that dictate who has access to the CMS, what the tone and style of copy should be, what kind of media can be uploaded, etc. These policies would make up a **content style guide** (_see Appendix B - Content Styleguide_).
 
 ### Customer Service
 
