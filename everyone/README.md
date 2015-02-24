@@ -64,7 +64,17 @@ Generally speaking, the more communication the better; however, certain tasks, p
 
 #### Privacy
 
+Interruptions to certain tasks, particularly design and development tasks, as well as those of project managers juggling multiple projects simultaneously, kill producivity and waste time by introducing significant recovery times to “get back in the zone”. Interruptions may come in the form of a planned meeting or just by someone walking over to someone else's desk to talk to them (an incoming phone call is essentially the same thing). A planned meeting not only hinders productivity beforehand, as people try to plan their work around it, but also lasts longer and so increases the recovery time. A random interruption is equivalent to walking up to someone's sandcastle, kicking it down, and expecting them to continue building from where they left off.
 
+A lot of what we web professionals actually do is in our heads. We write code, plan tests, conceive and play with design ideas. This requires us to maintain a mental model of the work done so far and how work yet to be done can smoothly integrate. This requires a great deal of concentration that we need to maintain in order to solve the problem at hand. While we may at times appear unproductive, tapping keyboard and haphazzardly moving things around an on-screen canvas, we're actually re-arranging of mental model of the project.
+
+It may take some people an hour or so to get in the zone. Imagine starting work around 0930, checking some emails, maybe taking part in a daily standup meeting. By the time a developer starts coding it may be 1030-1100. By the time they're coding well it may be 1200. What then? It's nearly lunchtime... In the afternoon they get back to work at 1300, back in the zone at 1400. Great, a few good solid hours of coding. But then they're interrupted by someone and it takes them 10 minutes to get back to the level of concentration they were at before. If this happens several times then an hour is lost.
+
+Nobody can do much work in less than an hour, so anything that leaves someone with less than two hours is probably going to mean it’s not worth the effort to get started only to stop and have to get started again afterwards. The point is, our productive work time is precious and needs to be optimised. The best way to do this is to **schedule meetings at times when the majority of people are already least productive** in order to reduce or eliminate concentration recovery time, and try and keep everyone on the same work schedule. Otherwise we may find people working late into the night, when they're less likely to be interrupted; and believe me, as we get older we're much less capable of handling late nights...
+
+Other tricks to prevent or limit interruptions include rules against phones, instant messengers, social media, etc. and also obvious flags like “don't disturb anyone with headphones on” or “wear headphones when you can't be disturbed”. Maybe when immediate interaction isn't required people could work off-site in a cafe or at home.
+
+Most importantly we need to be open and politely communicate with colleagues when and why we can't be interrupted and how it affects our productivity. Chances are that managers are on different schedules and they will want, indeed feel entitled to, information whenever they want it. We can't impose our own schedules on them so we need to work with them, effectively communicating why such a system needs to be in place and how it benefits the whole organisation.
 
 #### Scope, Schedules & Timelines
 
@@ -82,7 +92,21 @@ If you sense a conflict with someone else, then try to recognise their strengths
 
 The designer sees the developer as incompetent or lazy, unable or willing to complete the work. The developer sees the designer as incompetent and lazy, ignorant of the medium they're working in and unwilling to learn more about the technology constraints. The result is a project that doesn't look as good as the designer's idea, doesn't perform as well as the developer planned, and everyone is unhappy. The designer and developer resent eachother and will continue to resent working together on future projects.
 
-The solution in this case is of course to establish at the start the working methodology, performance considerations, technology frameworks, and work together more closely. An iterative design approach where each module/component/section can be designed, developed, and tested simultaneously means the small technical problems can be identified and resolved before they snowball in to bigger, more personal problems. So maybe if you're experiencing such conflicts you may need to adjust the way you work to make it easier for others to work with you, and hopefully they will do the same.
+The solution in this case is of course to establish at the start the working methodology, performance considerations, technology frameworks, and work together more closely. An iterative design approach where each module/component/section can be designed, developed, and tested simultaneously means the small technical problems can be identified and resolved before they snowball in to bigger, more personal problems. So maybe if you're experiencing such conflicts you may need to adjust the way you work to make it easier for others to work with you, and hopefully they will do the same. It's all about understanding how others work and how we can more smoothly work together. It's not easy - you have to try and think differently.
+
+#### Empathy
+
+> I'm starting to think empathy really is one of the most valuable skills (if you can call it a skill) that you can have. If you can put yourself in another persons shoes, you can imagine what it's like to use the things you make. That gives you mad UX skills. It means you can write a damn fine support email. You can make a meeting worth having. You can communicate clearly, because you can imagine what it's like to receive that communication. I'm looking forward to reading this.
+
+> -_Christ Coyier_
+
+People always notice when you go the extra mile for them, and in turn they're more likely to reciprocate for you. Always consider all of your communication, not just your tweets, texts, written emails, comments etc. but also your tone, your body language, and how you interact with people. Imagine if you were on the receiving end - did you communicate clearly and get your point across in a way that was friendly and reassuring? Did you convey urgency without sounding rude or impatient? Were you yourself? Were you helpful without being condescending?
+
+In the web industry there are lots of things you can do to be more empathic towards others. Doing the boring jobs, writing documentation, doing the overtime, finding a way to help free up someone else's time if they're workload exceeds yours. You can report bugs, provide feedback, offer motivation and inspiration. Just always try and be as helpful as possible. For example, when reporting a bug, offer as much information as you can, offer a reduced test case; you may find that in doing so you may be able to identify or solve the problem yourself or even learn something new in the process. You might contribute to open-source projects in some way, as this is what makes our industry truly great. To again quote from Chris Coyier:
+
+> What better way to show gratitude than to contribute your time and smarts to something that a lot of people benefit from?
+
+Pat people on the back when they've done good work, or just say thanks when they've helped improve yours.
 
 ## Do people even need to be managed?
 
@@ -127,72 +151,3 @@ You need to assess every opportunity careful in terms of your individual goals. 
 The great thing about the working with the web is that it's pretty low-risk these days. It's fairly easy to find work no matter where you live - if you don't live in a big city or tech hub then all you need is an internet connection and you can work remotely. You can afford to join a company and leave soon afterwards if you find it unsuitable. Just learn from the experience and try and think of ways to avoid making the same mistake again.
 
 Another part of the job-search than you need to be particularly critical of is interviews. Remember that when invited for an interview you are interviewing the interviewer or the company just as much as they are interviewing you. Again, if you think the interview process is weak then it suggests that the company's HR is weak; they don't care much about who they hire and they've probably not hired the best people or the kind of people you want to work with and learn from. If they focus on your academic credentials, give you some crappy little test, or just ask you generic interview questions like “where do you see yourself in 10 years?”, “what are your strengths and weaknesses” etc., just walk away.
-
-
-
-http://css-tricks.com/web-devvy-ways-practice-gratitude-empathy/
-
-Have you seen THIS IS WATER? It's great. It's about choosing to think differently, especially when frustrated. I think about it all the time. For instance, every time someone cuts me off on the road, I assume they are rushing someone to the hospital. It doesn't always work, but it's nice when it does. And it's not just a trick, it's learning to think differently.
-
-
-In a related vein, I've enjoyed attempting to practice gratitude the last few years. I have an app on my phone that bugs me to write something I was grateful for that day. Forcing yourself to look back on the day and be thankful for something is good for perspective. I'd love to link to some gratitude stuff, but everything seems to try and be selling something. I don't have any problem with selling things, that just isn't the vibe I'm after here. You don't have to buy anything to practice gratitude, it's about thinking differently.
-
-In another related vein, I'm starting to think empathy really is one of the most valuable skills (if you can call it a skill) that you can have. If you can put yourself in another persons shoes, you can imagine what it's like to use the things you make. That gives you mad UX skills. It means you can write a damn fine support email. You can make a meeting worth having. You can communicate clearly, because you can imagine what it's like to receive that communication. I'm looking forward to reading this.
-
-In yet another related vein, it would be hard to miss there are some problems in this world with gender. There are lots of problems in this world, this is one of them. I've been enjoying this book, leveling up my understanding of that.
-
-I hope this isn't too preachy or anything. I'm just trying to get better at this stuff. It feels better. So with that wordy introduction, what can we do within our little web world to practice this stuff?
-
-Read your emails, comments, and tweets back to yourself and imagine getting that yourself
-
-Is it clear? Is it useful? Did you acknowledge and address everything other people were waiting for? Does it make the point you are most trying to make? If it's critical, were you able to convey that without rudeness? Does it feel like you?
-
-Go the extra mile
-
-The other day I was having problems with the articles on this site being saved to a third-party reading service correctly. Daniel Ryan copies one of the pages of this site over to his own server to test it. I didn't ask for that. I didn't hire him to do that. He just went the extra mile when I was asking for advice.
-
-You can't do that every single time for every single situation, but you can when you can and people always notice.
-
-Thank people that go the extra mile for you
-
-Don't let that slip by. Being more thankful in general is a good goal, and these are big easy targets to start with. Don't rule out a gift. I recently learned that some people (apparently I'm not one of them) that really love getting gifts. It's like the ultimate way they feel appreciated.
-
-Practice being critical without being a jerk
-
-You don't have to like everything. But hopefully when you don't, it's for a reason that you can articulate. And you can explain that without it being a personal attack or petty insult.
-
-Related: It's possible to take the high ground without being condescending.
-
-Related: You can always stop being a jerk in an exchange even after you've started. Anger begets anger, kindness begets kindness.
-
-Related: Being internally skeptical is healthy.
-
-Do the crap-jobs
-
-Like writing docs. Like taking a weekend shift. Like taking out the office trash. It's not about being taken advantage of or wasting time, it's about saying thanks by freeing up someone else's time.
-
-Report bugs
-
-I once took an all-day bus tour of some of the volcanoes in Costa Rica. How cool, right? Only guess what, it was rainy and foggy. We didn't see a single volcano. We drove around in the rain and occasionally got out, got wet, and got back on the bus. It was a pretty awful day. We would have had more fun and spent less money not going at all. But by the end, we all felt some camaraderie with everyone else on the tour, and even with the tour guide.
-
-At the end of it, we were asked to fill out review cards. My friend Kevin left a critical review. I was like c'mmmmmonnnn, it's not their fault it was foggy and rainy. He was right though. His review wasn't rude, it was honest. While it wasn't their fault it was foggy and rainy, it was their fault that they took us on a full-day tour anyway with no back up plan. They didn't alter anything to make it more fun under the circumstances. If we all just left happy reviews, what motivation would they have to make it better?
-
-In web development, you aren't showing empathy by not reporting bugs. You are showing empathy by reporting bugs.
-
-Make reduced test cases
-
-As a proprietor of some web forums and some open-source projects, I'm always amazed at how many threads would benefit from a reduced test case. When you're having a problem, it shows you value everyone else's time involved when you strip it down to the the minimum amount need to reproduce it. As a side benefit, a lot of times you'll solve the problem and learn something while doing it.
-
-Contribute to open source
-
-This is a broad statement that gets tossed around a lot. Because it's true. What better way to show gratitude than to contribute your time and smarts to something that a lot of people benefit from?
-
-Get the paid version / Use the donate button
-
-I would guess most businesses don't want sympathy-buys, but rather they want your money when they have been useful to you. For better or worse, freemium is a rather established standard for web products. Sometimes the only way to get traction is giving away as much usefulness as you can without going broke. Financial support is certainly a form of gratitude, whether it's signing up for a paid plan or sending in a donation to someone accepting them for their work.
-
-Write in to support just to say thanks
-
-Everyone I've known who excels at support has both tremendous empathy, but also a thick hide. They know they are encountering customers at their most frustrated and are in for some abuse.
-
-Not only can you practice your empathy skills while dealing with customer support when you actually have a problem, you can reach out just to say thanks when you don't have a problem at all.
