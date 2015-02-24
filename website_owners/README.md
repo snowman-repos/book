@@ -75,28 +75,7 @@ Depending on the size of your project, you may need lots of people to maintain c
 
 Aside from producing content in-house, you may even want to handle the entire production internally as well. If your website or application is business critical and you have sufficient resources at hand, you may consider it unwise to hire an outside production team. The current trend is that many companies are building internal teams to take on production roles, which may be more cost-effective as well as strategically wise. This is forcing many “traditional” website agencies to become squeezed and downsize. There will always be work for specialist contractors but they will come at a cost and be more suitable for short-term projects.
 
-Perhaps you might not need a production team at all? If your requirements are basic, or common, enough then you may take advantage of another current trend - software as a service. The rise of SaaS is threatening the lower end of many sectors, including accountacy and book-keeping, recruitment, customer 
-
-
-
-
-02. The rise of software as a service
-
-The rise of software as a service is threatening the lower end of all kinds of sectors. For example, services like FreeAgent are replacing traditional book keepers. In fact SaaS is eroding traditional models in everything from recruitment to customer management.
-
-Unfortunately for some, web design is no exception. There was a time when self employed web designers could produce cheap websites from home and make a reasonable income. Today that is becoming hard with services like Squarespace allowing people to build their own website.
-
-Web design trends for 2015
-FreeAgent is in the vanguard of the trend for software-as-a-service
-But this doesn't just apply to 'build your own website' services. It would now be insanity to build a custom content management system in the vast majority of cases. Once this was big business for many developers. The same is true for ecommerce platforms. Services like Shopify means the days of building shopping carts for most are over.
-
-What this does is push those low end web designers up market at exactly the same time as the high end agencies are lowering their prices. This squeezes the middle.
-
-Software as a service is commoditising much of what use to be bespoke work. But even bespoke design is becoming easier than ever before.
-
-
-https://boagworld.com/season/10/episode/1011/
-
+Perhaps you might not need a production team at all? If your requirements are basic, or common, enough then you may take advantage of another current trend - software as a service. The rise of SaaS is threatening the lower end of many sectors including accountacy and book-keeping, recruitment, customer management, even taxis. The web is no exception, as services like Squarespace are making it extremely easy for small businesses to get online quickly and cheaply using their stunning and surprisingly flexible templates. While several years ago, agencies could have relied on the income from building custom content management systems, today it would be madness. Likewise services like Shopify or Stripe mean developers no longer need to build e-commerce or online payment systems. By establishing early what you need to produce, i.e. the scope of your project, you can identify the skills and services required, and assess whether they can be bought cheaply and easily online.
 
 ### Customer Service
 
