@@ -64,48 +64,51 @@ Before presenting any ideas to clients, be sure to consult your team. Share with
 
 On occasion, you may find your clients disagreeing with your proposals. In this case, you need to be able to confidently explain the decisions and back them up with data or evidence as much as possible. This may be in the form of website analytics, public surveys, user statistics, or even well-resepected blogs and articles from industry experts. You need to make them listen to you and be sure that their disagreement doesn't stem from some arbitrary personal preference. Don't forget - this book is about making the web a better place so you've got the users to think about too. You don't want to end up building something that performs poorly from a usability perspective just because your client's spouse likes it. Similarly though, you need to listen to them. You are the expert in the web and the production of web projects but _they_ are the expert in _their_ business. They know their users/customers better than you and there's a good chance their advice may be worth taking back to your team for discussion.
 
-### Budgets
-
-Don't shy away from bringing up money right at the start. Everyone knows that money is going to need to change hands so there's no point beating around the bush.
-
-
-
 ### Contracts & Agreements
 
-The very first step in any project is setting down in writing exactly what your scope of work is and what are the roles and responsibilities of each party. Without a detailed agreement, you have nothing to fall back on if something goes wrong. It also goes back to building client confidence in you and your team. Not only does it look professional, but you drawing up a formal agreement lets the client know that you have fully understood their requirements. Such an agreement may be known as a Scope of Work (SoW), an example of which may be found in _Appendix C - Scope of Work_.
+The very first step in any project is setting down in writing exactly what your scope of work is and what are the roles and responsibilities of each party. Without a detailed agreement, you have nothing to fall back on if something goes wrong. It holds you, your team, and your client all accountable for the project's success. It also goes back to building client confidence in you and your team. Not only does it look professional, but you drawing up a formal agreement lets the client know that you have fully understood their requirements. Such an agreement may be known as a Scope of Work (SoW), an example of which may be found in _Appendix C - Scope of Work_, and should at its most basic level cover the following topics:
 
+* Project Goals
+* Feature requirements
+* Roles & Responsibilities
+* Timelines
+* Change Request Policy
+* Cost
+* Success Measures
 
+#### Schedules & Deadlines
 
-
-
-
-
-
-
-
-- contracts / agreements
-
-After you’ve had the initial conversation with the client about the site, you should draw up a contract that details the scope of the project, the cost and how you will handle revisions. You may include a certain number of revisions with your quote, or you may choose to charge an hourly rate for any changes. All freelance web designers have their own policies.
-
-“I limit revisions within the initial quote,” Lowrance says. “I describe them as ‘rounds.’ So the contract will say something like ‘1 round of revisions after delivery of mockups.’ That means that after I hand in those first few potential designs, I expect the client to spend some time thinking about them and send me one e-mail listing everything they’d like to see different. That’s what it’s really about — getting them to take the time to make a thorough list, rather than drag it out over several conversations and multiple versions of the mockup or final site.”
-
-Spelling out your revision policies in the contract will set the parameters for the project and give you a point of reference should the client begin making excessive requests.
-
-You spend weeks working on a website, agonizing over every detail and producing something that you can’t wait to show your client. You’re sure the client will be just as overjoyed as you are about the final look. You click “send,” and you wait for the accolades to start pouring in.
-
-Then you get the e-mail.
-
-The one that says, “Everything looks great, but…”
-
-The one that asks, “Could you maybe just change this one thing? Oh, and then just this one other, small thing? Wait, now that I think about it, also just this other tiny change?”
-
-Sometimes, they really are small changes. Other times, they are actually major changes, but the client doesn’t understand the amount of time it takes to make them. Sometimes, those small changes just keep adding up, creating so-called “revision inflation.”
-
-Establishing a system for handling revision requests is integral to your success as a freelance web designer. Without it, you can spend hours performing unpaid revisions, and your once lucrative contract can have you working for peanuts.
-
-Structure budgets and contracts to support deliveryTo improve our chances of success when contracting out development work, we need to work with experienced budgeting and contracting officers. In cases where we use third parties to help build a service, a well-defined contract can facilitate good development practices like conducting a research and prototyping phase, refining product requirements as the service is built, evaluating open source alternatives, ensuring frequent delivery milestones, and allowing the flexibility to purchase cloud computing resources.checklist
-Budget includes research, discovery, and prototyping activities
 Contract is structured to request frequent deliverables and not multi-month milestones
+
+feedback from client
+
+#### Change Requests
+
+You may spend weeks or months painstakingly working on a website, covering every feature request in detail, ensuring it's the best work your team can produce. You may be very proud of the work and eager to show the client. You excitedly send them an email and wait for the praise to pour in...
+
+“Everything is great! but...”
+
+and then more:
+
+“maybe we could just change this one thing...”
+
+“also I think this could do with a bit more work...”
+
+etc. etc.
+
+Any requested feature not clearly listed in the original scope is beyond that scope and therefore counts as a revision or change request. This must be made explicitly clear to clients. Extending the scope, also known as “scope creep” jeopardises all other features by disrupting work schedules and putting deadlines at risk. Luckily, in your written agreement with the project owner, you have established a policy for handling these change requests... right?
+
+There are various solutions. You may want to state a specific number of permitted revisions within the project budget and timeline, although in doing so you are essentially banking on the requests being very simple. What if it's actually a significant amount of work? You can't always accurately assess feature complexity before work on it has begun and surely the client isn't going to be aware of how much work is involved in each request. Another approach is to charge a special fee or increased rate per change request. This is more reliable and may even serve to discourage the project owner from making such requests, which can only work in your favour. You may also factor several "rounds" of change requests into your agreement, allowing a fixed amount of time and budget for dealing with changes and new features. Whatever your own solution is, you should structure your agreement and your budgets to support delivery.
+
+#### Budgets
+
+Don't shy away from bringing up money right at the start. Everyone knows that money is going to need to change hands so there's no point beating around the bush. Budgeting is hard. You essentially have to guess how long the project or feature set is going to take, or guess the value of the work to the client, in order to calculate how much to charge.
+
+
+Budget includes research, discovery, and prototyping activities
+
+
+
 Contract is structured to hold vendors accountable to deliverables
 Contract allows the government delivery team the flexibility to adjust feature prioritization as the project evolves
 Contract ensures open source solutions are evaluated alongside commercial solutions when technology choices are made
