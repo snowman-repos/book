@@ -72,7 +72,12 @@ Don't shy away from bringing up money right at the start. Everyone knows that mo
 
 ### Contracts & Agreements
 
-The very first step in any project is setting down in writing exactly what your scope of work is and what are the roles and responsibilities of each party. Without a detailed agreement, you have nothing to fall back on if something goes wrong. It also goes back to building client confidence in you and your team. Not only does it look professional, but you drawing up a formal agreement lets the client know that you have fully understood their requirements.
+The very first step in any project is setting down in writing exactly what your scope of work is and what are the roles and responsibilities of each party. Without a detailed agreement, you have nothing to fall back on if something goes wrong. It also goes back to building client confidence in you and your team. Not only does it look professional, but you drawing up a formal agreement lets the client know that you have fully understood their requirements. Such an agreement may be known as a Scope of Work (SoW), an example of which may be found in _Appendix C - Scope of Work_.
+
+
+
+
+
 
 
 
@@ -111,6 +116,11 @@ Contract includes a transition of services period and transition-out plan
 key questions
 How frequent are the delivery milestones?
 What are the performance metrics defined in the contract? (i.e., response time, system uptime, time period to address priority issues, etc.)
+
+
+
+
+
 
 - budgets
 
