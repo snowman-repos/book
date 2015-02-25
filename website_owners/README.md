@@ -1,6 +1,6 @@
 # Website Owners
 
-_Reading time ~ 20 minutes_
+_Reading time ~ 35 minutes_
 
 Your role is the most important. You may think that you're paying a production team to do all the hard work and take it out of your hands but unfortunately that simply isn't the case. If you were opening a shop you wouldn't expect the painters & decorators to establish your product display, prices, general business practices, hire staff etc. Before embarking on this project you need to have a detailed plan, not just about what kind of web project you want but how you plan to use it, how you plan to maintain and grow it, who will use it, and what they will use it for. There is an awful lot to think about and you need to accurately convey those thoughts to your production team.
 
