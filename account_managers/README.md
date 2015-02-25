@@ -1,5 +1,7 @@
 # Client Managers
 
+_Reading time ~ 30 minutes_
+
 Your role is the most important. You are the interface between the project owner (the “client”) and the production team. That means that at some stage in every project, one or the other, probably both, are going to be pissed off with you. You may even find yourself in the position of negotiating internal conflicts within your team. How well you handle all of that depends on how well you've prepared, for this role is all about being prepared. Being prepared and being organised.
 
 Another part of your role may involve actually seeking work. In such cases you need to represent your team and promote their skills as well as your own.
