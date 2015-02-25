@@ -215,4 +215,17 @@ In fact, rather than delivering everything at the end of the project you're prob
 
 ## Gathering Feedback
 
-Just like every other role, you too must gather feedback. The feedback you gather is important not just for you but for your entire team. Aside from gathering data on the website's success that you can pass on to the production team, based on some form of analytics or survey data as discussed above, you're interested in your client's perceived satisfaction both with you and the project overall. As usual, it's important to structure feedback requests so as to make it easy to extrapolate useful information from it. That means asking specific questions that reference specific aspects of the work. The very act of eliciting good feedback itself is a measure of your success; it means that your client has been made engaged enough to become emotionally invested in the project, and that's thanks to you.
+Just like every other role, you too must gather feedback. The feedback you gather is important not just for you but for your entire team. Aside from gathering data on the website's success that you can pass on to the production team, based on some form of analytics or survey data as discussed above, you're interested in your client's perceived satisfaction both with you and the project overall. As usual, it's important to structure feedback requests so as to make it easy to extrapolate useful information from it. That means asking specific questions that reference specific aspects of the work. The very act of eliciting good feedback itself is a measure of your success; it means that your client has been made engaged enough to become emotionally invested in the project, and that's thanks to you. Let's recall what your role has covered since the project began:
+* Gather requirements
+* Compiling the propsal / agreements
+* Scheduling
+* Regular updates
+* Accepting and applying the client's feedback
+* Conveying expertise / educating the client
+* Documenting
+
+Given this list, you might want to ask the following questions, or similar, to asses the client's opinions of how you and your team have handled the project:
+
+*
+
+Note that these questions are specific and measurable. As you get more project notches on your client management bedpost, you will be able to review and consider your own performance.
