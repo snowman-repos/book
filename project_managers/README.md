@@ -1,6 +1,6 @@
 # Project Managers
 
-Your role is the most important.
+Your role is the most important. You are responsible for making sure the rest of the production team can do their jobs smoothly, for making sure the project actually gets produced, and produced to the best of your team's abilities. You are the enabler.
 
 ## Success Criteria
 ## Assemble the Team
