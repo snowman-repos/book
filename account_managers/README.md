@@ -1,6 +1,6 @@
 # Client Managers
 
-_Reading time ~ 40 minutes_
+_Reading time ~ 45 minutes_
 
 Your role is the most important. You are the interface between the project owner (the “client”) and the production team. That means that at some stage in every project, one or the other, probably both, are going to be pissed off with you. You may even find yourself in the position of negotiating internal conflicts within your team. How well you handle all of that depends on how well you've prepared, for this role is all about being prepared. Being prepared and being organised.
 
@@ -224,8 +224,15 @@ Just like every other role, you too must gather feedback. The feedback you gathe
 * Conveying expertise / educating the client
 * Documenting
 
-Given this list, you might want to ask the following questions, or similar, to asses the client's opinions of how you and your team have handled the project:
+Given this list, you will want to formulate questions that asses the client's perception of how you and your team have handled the project in this context. For example:
 
-*
+* Did we fulfill the following requirements...
+* To what extent have the deliverables met the expectations set in our original proposal [1-5]
+* To what extent were we on shedule? How happy were you with the time we took to deliver each stage of the project? [1-5]
+* How happy were you with the project updates I sent? Were they frequent enough? Detailed enough?
+* To what extend do you feel you fully understand the strategic decisions we made? [1-5]
+* How happy are you with the [code/design/something else] documentation we provided?
+* How likely are you to recommend us / engage us again? [1-5]
+* Any other comments?
 
-Note that these questions are specific and measurable. As you get more project notches on your client management bedpost, you will be able to review and consider your own performance.
+These questions should be specific and measurable. As you get more project notches on your client management bedpost, you will be able to review and consider your own performance.
