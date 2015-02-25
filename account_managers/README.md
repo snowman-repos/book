@@ -66,21 +66,23 @@ On occasion, you may find your clients disagreeing with your proposals. In this 
 
 ### Contracts & Agreements
 
-The very first step in any project is setting down in writing exactly what your scope of work is and what are the roles and responsibilities of each party. Without a detailed agreement, you have nothing to fall back on if something goes wrong. It holds you, your team, and your client all accountable for the project's success. It also goes back to building client confidence in you and your team. Not only does it look professional, but you drawing up a formal agreement lets the client know that you have fully understood their requirements. Such an agreement may be known as a Scope of Work (SoW), an example of which may be found in _Appendix C - Scope of Work_, and should at its most basic level cover the following topics:
+The very first step in any project is setting down in writing exactly what your scope of work is and what are the roles and responsibilities of each party. Without a detailed agreement, you have nothing to fall back on if something goes wrong. It holds you, your team, and your client all accountable for the project deliverables. It also goes back to building client confidence in you and your team. Not only does it look professional, but you drawing up a formal agreement lets the client know that you have fully understood their requirements. Such an agreement may be known as a Scope of Work (SoW), an example of which may be found in _Appendix C - Scope of Work_, and should at its most basic level cover the following topics:
 
 * Project Goals
-* Feature requirements
+* Feature Requirements
+* Deliverables
 * Roles & Responsibilities
 * Timelines
 * Change Request Policy
+* Warranty & Legal Issues
 * Cost
-* Success Measures
+* Success Measures & Performance Metrics
+
+While the contract should be as explicit as required to convey the exact requirements and production plan, it should not be so rigid as to restrict the production team's flexibility to adjust feature prioritisation as the project evolves.
 
 #### Schedules & Deadlines
 
-Contract is structured to request frequent deliverables and not multi-month milestones
-
-feedback from client
+The contract should be structured to offer frequent deliverables and not multi-month or longterm milestones. Milestones/deadlines must always remain flexible and so the more space between them the more unlikely it is that they will be met smoothly. Shorter, more agile iterations are both easier to achieve and offer more chances for immediate feedback and improvement on work completed. It's not just deliverables that need to be scheduled either. Meetings, especially those that produce client feedback, must also be on fixed schedules that commit all parties to working together and fulfilling their responsibilities.
 
 #### Change Requests
 
@@ -102,51 +104,17 @@ There are various solutions. You may want to state a specific number of permitte
 
 #### Budgets
 
-Don't shy away from bringing up money right at the start. Everyone knows that money is going to need to change hands so there's no point beating around the bush. Budgeting is hard. You essentially have to guess how long the project or feature set is going to take, or guess the value of the work to the client, in order to calculate how much to charge.
+Don't shy away from bringing up money right at the start. Everyone knows that money is going to need to change hands so there's no point beating around the bush. Budgeting is hard. You essentially have to guess how long the project or feature set is going to take, or guess the value of the work to the client, in order to calculate how much to charge. Like with any difficult problem, it's easier to try and break it down as much as possible. Ensure that you consider time for research, planning, discovery, admin, prototyping, design, development, testing, fixes & revisions, and deployment. 
 
+Indeed you're not just charging for the design and development or even the final deliverables. You may have PDFs, training workshops, interactive guides, and other educational material to prepare as part of the course that should be charged under client education. You have more organising, writing, designing, planning, and coding than you might at first be aware. The amount of client education required may very depending on the project owner so this will need to be factored into your pricing - hours spent helping your client use your product should be billable time. Typically you might want to add 10% onto your price as a contingency for "Support & Training" or "Onboarding". If they're going to need a lot of education but are not willing to pay for it then it may be wise to pass on the job. Most clients actually understand this. Those who are interested in improving their business are interested in improving themselves as well. This is the foundation for a truly fulfilling and mutually beneficial client relationship. Seek out these relationships. Bear in mind though that whether they want to pay for it or not, it is your responsibility to teach your client to use your product, otherwise your team's work will be for nothing (well, except some money... but we're trying to make the web better, right?). In some cases, you may be able to factor client education hours and their opportunity cost as part of your company's marketing budget. A happy client and a successful product may be worth more in the long run.
 
-Budget includes research, discovery, and prototyping activities
-
-
-
-Contract is structured to hold vendors accountable to deliverables
-Contract allows the government delivery team the flexibility to adjust feature prioritization as the project evolves
-Contract ensures open source solutions are evaluated alongside commercial solutions when technology choices are made
-Contract specifies that software and data generated by third parties remains under our control, and can be reused and released to the public as appropriate and in accordance with the law
-Contract allows us to use tools, services, and hosting from vendors with a variety of pricing models, including fixed fees and variable service-based models like “pay-for-what-you-use” services
-Contract specifies a warranty period where defects uncovered by the public are addressed by the vendor(s) at no additional cost to the government
-Contract includes a transition of services period and transition-out plan
-key questions
-How frequent are the delivery milestones?
-What are the performance metrics defined in the contract? (i.e., response time, system uptime, time period to address priority issues, etc.)
+Another budget you may want to propose is an ongoing retainer. You can provide the client with all the documentation and tools and excitement as you like before pushing them out to sea, but how about rowing out with them? You could call it a digital strategy retainer, or whatever other buzz phrase you like, and help them grow their business online. Such a service, if your team is able to offer it, may include audience research, content creation, ongoing SEO, advertising, technical maintenance, social media management, and analytics reporting. This is usually not only educating and rewarding, but may even enable you to upsell more work.
 
 
 
 
 
 
-- budgets
-
-Client education means new deliverables, which have to be prepared by those directly involved in the project. Developers, designers, project managers, and other team members are responsible for creating the PDFs, training workshops, interactive guides, and other educational material.
-
-That means more organizing, writing, designing, planning, and coding—all things we normally bill for, but now we have to bill in the name of client education.
-
-Take this into account at the beginning of a project. The amount of education a client needs can be a consideration for taking a job at all, but it should at least factor into pricing. Hours spent helping your client use your product is billable time that you shouldn’t give away for free.
-
-At Brolik, we’ve helped a range of clients—from those who have “just accepted that the Web isn’t a fad” (that’s an actual quote from 2013), to businesses that have a team of in-house developers. We consider this information and price accordingly, because it directly affects the success of the entire product and partnership. If they need a lot of education but they’re not willing to pay for it, it may be smart to pass on the job.
-
-Most clients actually understand this. Those who are interested in improving their business are interested in improving themselves as well. This is the foundation for a truly fulfilling and mutually beneficial client relationship. Seek out these relationships.
-
-It’s sometimes challenging to justify a “client education” line item in your proposals, however. If you can’t, try to at least work some wiggle room into your price. More specifically, try adding a 10 percent contingency for “Support and Training” or “Onboarding.”
-
-If you can’t justify a price increase at all, but you still want the job, consider factoring in a few client education hours and their opportunity cost as part of your company’s overall marketing budget. Teaching your client to use your product is your responsibility as a digital business.
-
-This never ends (hopefully)
-What’s better than arming your clients with knowledge and tools, pumping them up, and then sending them out into the world to succeed? Venturing out with them!
-
-At Brolik, we’ve started signing clients onto digital strategy retainers once their websites are completed. Digital strategy is an overarching term that covers anything and everything to grow a business online. Specifically for us, it includes audience research, content creation, SEO, search and display advertising, website maintenance, social media, and all kinds of analysis and reporting.
-
-This allows us to continue to educate (and learn) on an ongoing basis. It keeps things interesting—and as a bonus, we usually upsell more work.
 
 - outline roles and expectations
 - communication plan
