@@ -72,7 +72,7 @@ Enthusiasm isn't just the spriteliness of your tone either, it's expressed by th
 
 ### Contracts & Agreements
 
-The very first step in any project is setting down in writing exactly what your scope of work is and what are the roles and responsibilities of each party. Without a detailed agreement, you have nothing to fall back on if something goes wrong. It holds you, your team, and your client all accountable for the project deliverables. It also goes back to building client confidence in you and your team. Not only does it look professional, but you drawing up a formal agreement lets the client know that you have fully understood their requirements. Such an agreement may be known as a Scope of Work (SoW), an example of which may be found in _Appendix C - Scope of Work_, and should at its most basic level cover the following topics:
+The very first step in any project is setting down in writing exactly what your scope of work is and what are the roles and responsibilities of each party. Without a detailed agreement, you have nothing to fall back on if something goes wrong. It holds you, your team, and your client all accountable for the project deliverables. It also goes back to building client confidence in you and your team. Not only does it look professional, but you drawing up a detailed formal agreement lets the client know that you have fully understood their requirements and care enough about their project to put the time into it. Such an agreement may be known as a Scope of Work (SoW), an example of which may be found in _Appendix C - Scope of Work_, and should at its most basic level cover the following topics:
 
 * Project Goals
 * Feature Requirements
@@ -100,13 +100,21 @@ When gathering requirements, ensure that you talk to the right people. Sometimes
 
 Requirements gathering is not limited to the project owners either. Your production team will also have their own requirements which they impose on the project based on the skills and tools they have available. What you can offer to the clients depends on what they can build.
 
-This all leads to the ideal requirements gathering solution - an initial meeting to gather the overall feature set and project goals, followed by individual meetings with each stakeholder. Information drawn from these meetings can be taken back to your team, discussed,
+This all leads to the ideal requirements gathering solution - an initial meeting to gather the overall feature set and project goals, followed by individual meetings with each stakeholder. Information drawn from these meetings can be taken back to your team, discussed, collated, and taken back to the client for another round of refinement. This sequence can continue until you and your team are fully confident in what you need to build, and your client is happy that you are going to build exactly what they want.
 
 #### Deliverables
 
+?????
+
 #### Responsibilities
 
-* comunication plan
+It's important to clearly and precisely state who will contribute what to the project, and when they will be expected to provide their contributions. Try to be as detailed as possible. For example, you yourself will be responsible for communicating progress to your client as well as feedback to your production team. Be prepared to communicate quickly or at least be clear about when you will provide communications to who. Replying fast to emails or providing regular summaries is going to be appreciated, especially if unexpected. It shows that you are serious, reliable, and sends a positive tone. If you are too busy to reply to emails quickly, at least send a sentence explaining that you're busy and will reply later. Again, this builds trust because it's a gesture that shows how important the client is to you. 
+
+Similarly you must agree with the client when they will provide feedback to you. If your team are forced to proceed with their work without having had feedback then they are at risk of producing new features based on previous ones that may be subject to change. The client must be made to understand this and commit to a regular communication schedule. If you have already done the same then it goes a longn way towards building a mutual trust relationship.
+
+Aside from you and your client, all team members should be listed along with their specific responsibilities. This makes it clear to everyone involved in the project exactly who needs to do what.
+
+In cases where there is a gap in your team's available roles and you are unable to fulfill the requirements, you may need to consider outsourcing. It's always better to be up front about this front the start. There's no shame in temporarily extending your team to meet the requirements, as long as you can assure quality control. Going back to communication, you will need to reassure your client if you need to outsource part of the project. The very word "outsource" portrays connotations of cheapness, like you are taking part of their project and sending it somewhere else without much oversight. Make sure you outsource only to people you trust who possess skills that are on a par with those of your team.
 
 #### Schedules & Deadlines
 
@@ -144,89 +152,7 @@ Indeed you're not just charging for the design and development or even the final
 
 Another budget you may want to propose is an ongoing retainer. You can provide the client with all the documentation and tools and excitement as you like before pushing them out to sea, but how about rowing out with them? You could call it a digital strategy retainer, or whatever other buzz phrase you like, and help them grow their business online. Such a service, if your team is able to offer it, may include audience research, content creation, ongoing SEO, advertising, technical maintenance, social media management, and analytics reporting. This is usually not only educating and rewarding, but may even enable you to upsell more work.
 
-#### The Measure of Success
 
-#### Ongoing support
-
-Too often, my company used to create amazing tools for clients and then send them out into the world without enough guidance. We’d watch our sites slowly become stale, and we’d see our strategic content overwritten with fluffy filler.
-
-It was no one’s fault but our own.
-
-As passionate and knowledgeable web enthusiasts, it’s literally our job to help our clients succeed in any way we can, even after launch. Every project is an opportunity to educate clients and build a mutually beneficial learning experience.
-
-Meeting in the middle
-If we want our clients to use our products to their full potential, we have to meet them in the middle. We have to balance our technical expertise with their existing processes and skills.
-
-From that experience, we learned not only to create online tools that complement our clients’ existing business processes, but also that we can be instrumental in helping clients embrace new processes. We now see it as part of our job to educate our clients and explain the technical and strategic thought behind all of our decisions.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Working collaboratively
-- pre-empt common issues
-- get to know your client
-- get to know your team
-
-## Clear & constant communication
-- be honest
-
-Even with a contract, it is inevitable one of your clients is going to ask for revisions that were not within the bounds of your original agreement. You can be flexible about these changes, but you don’t have to make them for free.
-
-Bryan Gentry
-Bryan Gentry
-
-“I used to just go along with it,” Bryan Gentry, who runs Bryan Gentry Web Design, says of the additional revision requests. “But now I explain to my customer if their requests go beyond the scope of what they are paying me to do. Really, this is what hourly rates are for. If the customer asks for more revisions, you can let them know that you are happy to make the change and add it to the bill.”
-
-Walking a client through the changes can help them understand why you need to charge what you do.
-
-“Generally, I make every effort to provide them with the solution they are looking for, but there are times when I will tell a client, ‘That can’t be done well,’ and I’ll explain why, or I’ll say, ‘Yes, that can be done, but it’s going to push the completion of the project way back,’” Fowler says.
-
-Lowrance adds, “’Yes, and…’ is a powerful tool both for conflict management and contract negotiation. Let’s say toward the end of the project, the client asks for something nuts. You can say, ‘No, that’s not possible because…,’ but it’s even better to say, ‘Yes, we could do that, and it’ll cost you this much extra because….’ This way, you either extend the project and get paid more, or you’ve made it clear to the client that their request is unfeasible but in a positive way.”
-
-You should charge your regular hourly rate for any revisions outside the scope or your original quote.
-
-- manage expectations
-- documentation
-- maintain enthusiasm
-- revision requests
-
-## Delivery
-- structuring budgets and contracts
-- gathering feedback
-
-http://boagworld.com/season/10/episode/1004/
-
-Feedback will tell you whether what you did made sense or works well, but not what to do or what the vision should be. Vision can't be crowdsourced. Having a project with a bunch of patches and hacks for every complaint usually ends up being hard to iterate on and maintain.
-
-Strong feedback = engaged enough to become emotionally invested.
-
-- support
-
-Education and support can, and usually does, take the form of setting an example. Some clients may not fully understand the benefits of a content strategy, for instance, so you have to show them results. Create relevant and well-written sample blog posts for them, and show how they can drive website traffic. Share articles and case studies that relate to the new tools you’re building for them. Show them that you’re excited, because excitement is contagious. If you’re lucky and smart enough to follow Geoff Dimasi’s advice and work with clients who align with your values, this process will be automatic, because you’ll already be invested in their success.
-
-We should be teaching our clients to use their website, app, content management system, or social media correctly and wisely. The more adept they are at putting our products to use, the better our products perform.
-
-We’ve found that by fostering collaboration post-launch, we not only help our clients use our product more effectively and grow their business, but we also alleviate a lot of the panic that kicks in right before a site goes live. They know we’ll still be there to fix, tweak, analyze, and even experiment.
-
-This ongoing digital strategy concept was so natural for our business that it’s surprising it took us so long to implement it. After 10 years making websites, we’ve only offered digital strategy for the last two, and it’s already driving 50 percent of our revenue.
-
-It pays to be along for the ride
-The extra effort required for client education is worth it. By giving our clients the tools, knowledge, and passion they need to be successful with what we’ve built for them, we help them improve their business.
 
 
 
@@ -335,52 +261,6 @@ For example, if I’m working on a complex project and the quote comes to $25,00
 
 I also explain this fee covers phone calls, discussions, reviews and any other communication during the project. You can add this on your next project as a simple line item like I mention above, or bake it into each phase of your estimate.
 
-Outsource when you’re booked
-I’ve always worked directly with most of my clients, but as things started to grow I had less time to work on every project that came my way.
-
-Outsourcing is the best way to take on more projects than you can work on personally. To do this, you need to network and find people in your industry that have similar skills and experience as you. When new projects come, you can delegate them, handle the project management and make a good profit.
-
-Of course, this only works if you hire people with comparable skills as you. For every project that you outsource, you should have the same results and quality as if you were working on it, so there is no inconsistency in your business.
-
-I also never mention the word “outsource” to a client. The word outsource makes it seem like you are taking their project and sending it somewhere very cheap without much oversight.
-
-Instead, I always explain to clients that I have a small, remote team that works with me on projects, which are contractors I’ve built a close business relationship with. This has worked out great and I’ve never had a problem using this approach.
-
-I always guarantee the same quality and manage the entire project, which makes the client comfortable and they’re usually more focused on the outcome, rather than who is doing the day-to-day work.
-
-I’ve met plenty of freelancers who turn down projects because they’re booked, which is OK, but really they should outsource these projects to bring in additional revenue. Not everyone wants to outsource or “scale”, which is fine.
-
-However, if you do want to take on more projects to make more money/scale then you should:
-
-Stop calling yourself a freelancer (as mentioned earlier).
-Position and brand yourself as a studio, collective or small agency (not just a one person shop).
-Register as an actual business, rather than working under your name (explained later).
-I found doing these three things makes it easier to outsource because you look like a “real” company to the client, rather than a solo freelancer shipping work out.
-
-Communicate quickly
-Prospective clients almost always thank me for how fast I reply to their emails. I reply within minutes (normally less than 5) and this catches their attention because it shows I’m serious, reliable and sets a positive tone moving into the exploratory phase of their project.
-
-Fast communication has helped my company make more money and is even a reason why clients choose us.
-
-Think about it from a client’s perspective: if you’re going to pay someone thousands for a project, are you going to hire the consultant that takes 4 days to reply to an initial email or is a pain to get on the phone? Or the consultant who answers in 5 minutes, can hop on a call right away, and is ready to send an estimate by the end of the week?
-
-The answer is clear and there should be no excuse for slow communication (especially if you work online!). This is something you can fix right away; just simply start answering your email faster, rather than ignoring messages for later. You’ll be amazed at how some clients react to fast email replies and it will lead to a higher project closing ratio, I guarantee it.
-
-For those of you that are often busy or out of office, send a quick, one sentence reply that you’re tied up at the moment and will reply later. This type of gesture goes a long way and shows prospective clients how important they are to you (and again builds trust).
-
-Iron out the details
-Sometimes I receive new project inquiries where the scope is loosely defined or all over the place. This can make it hard to estimate the cost, timeline and even client expectations for the project. For these types of projects, I’ll normally do a bit more hand-holding after I’ve qualified the client.
-
-I gather as much information from the client as possible for their project and then ask questions to find out what they really need and their goals. Normally, this is over back and forth email conversations, where things can get unorganized and sloppy.
-
-When this is the case, I’ll take what I know and distill it into a scope document with Google Docs. I send that document to the client and they can comment or make notes back. Usually, this is a perfect way to organize and flesh out a project with a client who doesn’t have a concrete idea of what they want or a huge budget.
-
-This process does require a bit of up-front work, but I’ve found when you put this much detail and effort into the client’s project (if they haven’t), they’ll likely hire you.
-
-Plus, this is the best possible way to minimize risk when budgeting projects because the scope, requirements, deliverables and expectations are written out and agreed upon.
-
-The next time you get a project that is unclear, create a roadmap or scope (or improve the current one), and the client will likely hire you because of the care and time you’ve invested.
-
 Get a deposit
 You should always require a deposit before beginning any work with a client. A deposit shows that a client is willing and able to pay, and tells them that you won’t work without being paid.
 
@@ -388,29 +268,72 @@ I normally require a 50% deposit for small projects and 20% (or per milestone) f
 
 If a client is reluctant to pay a deposit, then you shouldn’t work with them, plain and simple. Chances are they aren’t serious and probably won’t pay later anyway.
 
-I know plenty of freelancers who have been burned on projects because they didn’t get money up-front, so don’t let this happen to you and start requiring a deposit upon contract signing.
 
-Be a real business
-If you want to make more money, you should register as a real business. This is especially true if you want to outsource work, scale and land higher paying clients.
 
-There are a few reasons to register as a business wherever you live:
+#### The Measure of Success
 
-Ownership of your company name
-Shows clients you are serious and legitimate
-Makes it easier to scale and outsource work
-Attract and work with established businesses (no longer coming off as a single person)
-You can build a real company brand, rather than working under your personal name
-Tax benefits and liability protection (depending on your country)
-Business banking (no longer doing everything from your personal account)
-A lot of “freelancers” avoid registering as a business because it takes time and the process can be overwhelming.
+#### Ongoing support
 
-However, if you’re serious about growing your business and making more money, then you should act and looks serious by becoming a real business.
+Too often, my company used to create amazing tools for clients and then send them out into the world without enough guidance. We’d watch our sites slowly become stale, and we’d see our strategic content overwritten with fluffy filler.
 
-Closing thoughts
-These optimization tactics have worked really well to help my business grow and make more money. 2015 is right around the corner and a lot of you are looking to make a splash in the new year. If you haven’t already done so, consider implementing these now or for 2015 to level up your freelance consulting business.
+It was no one’s fault but our own.
 
-I’ve only listed a few strategies here and want to hear from you. What strategies and optimization tactics do you use to make more money and grow your business?
+As passionate and knowledgeable web enthusiasts, it’s literally our job to help our clients succeed in any way we can, even after launch. Every project is an opportunity to educate clients and build a mutually beneficial learning experience.
 
-Post in the comments and I’ll reply back.
+Meeting in the middle
+If we want our clients to use our products to their full potential, we have to meet them in the middle. We have to balance our technical expertise with their existing processes and skills.
 
-http://clientflow.io/blog/how-to-make-more-money-as-a-freelancer/
+From that experience, we learned not only to create online tools that complement our clients’ existing business processes, but also that we can be instrumental in helping clients embrace new processes. We now see it as part of our job to educate our clients and explain the technical and strategic thought behind all of our decisions.
+
+
+Education and support can, and usually does, take the form of setting an example. Some clients may not fully understand the benefits of a content strategy, for instance, so you have to show them results. Create relevant and well-written sample blog posts for them, and show how they can drive website traffic. Share articles and case studies that relate to the new tools you’re building for them. Show them that you’re excited, because excitement is contagious. If you’re lucky and smart enough to follow Geoff Dimasi’s advice and work with clients who align with your values, this process will be automatic, because you’ll already be invested in their success.
+
+We should be teaching our clients to use their website, app, content management system, or social media correctly and wisely. The more adept they are at putting our products to use, the better our products perform.
+
+We’ve found that by fostering collaboration post-launch, we not only help our clients use our product more effectively and grow their business, but we also alleviate a lot of the panic that kicks in right before a site goes live. They know we’ll still be there to fix, tweak, analyze, and even experiment.
+
+This ongoing digital strategy concept was so natural for our business that it’s surprising it took us so long to implement it. After 10 years making websites, we’ve only offered digital strategy for the last two, and it’s already driving 50 percent of our revenue.
+
+It pays to be along for the ride
+The extra effort required for client education is worth it. By giving our clients the tools, knowledge, and passion they need to be successful with what we’ve built for them, we help them improve their business.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Working collaboratively
+- pre-empt common issues
+- get to know your client
+- get to know your team
+
+## Clear & constant communication
+- be honest
+
+
+- manage expectations
+- documentation
+- maintain enthusiasm
+- revision requests
+
+## Delivery
+- structuring budgets and contracts
+- gathering feedback
+
+
+## Gathering Feedback
+http://boagworld.com/season/10/episode/1004/
+
+Feedback will tell you whether what you did made sense or works well, but not what to do or what the vision should be. Vision can't be crowdsourced. Having a project with a bunch of patches and hacks for every complaint usually ends up being hard to iterate on and maintain.
+
+Strong feedback = engaged enough to become emotionally invested.
