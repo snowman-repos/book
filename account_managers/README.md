@@ -64,6 +64,12 @@ Before presenting any ideas to clients, be sure to consult your team. Share with
 
 On occasion, you may find your clients disagreeing with your proposals. In this case, you need to be able to confidently explain the decisions and back them up with data or evidence as much as possible. This may be in the form of website analytics, public surveys, user statistics, or even well-resepected blogs and articles from industry experts. You need to make them listen to you and be sure that their disagreement doesn't stem from some arbitrary personal preference. Don't forget - this book is about making the web a better place so you've got the users to think about too. You don't want to end up building something that performs poorly from a usability perspective just because your client's spouse likes it. Similarly though, you need to listen to them. You are the expert in the web and the production of web projects but _they_ are the expert in _their_ business. They know their users/customers better than you and there's a good chance their advice may be worth taking back to your team for discussion.
 
+### Be Enthusiastic
+
+No matter how busy and tired you are, maybe you're not even interested in the project, you need to be enthusiastic. Find something about the project you can care about. This can be difficult if you're working on multiple project simultaneously but it will come across in the way you communicate if you don't care as much about the success of the project as your client does. It may be a particular audience segment that presents new challenges, a new technology, a new business challenge - the chances are you can find something that will prevent you from just going through your normal routine to see the project through to completion, be it successful or not.
+
+Enthusiasm isn't just the spriteliness of your tone either, it's expressed by the questions you raise, the frequency of your communication, and the level of understanding that you can demonstrate.
+
 ### Contracts & Agreements
 
 The very first step in any project is setting down in writing exactly what your scope of work is and what are the roles and responsibilities of each party. Without a detailed agreement, you have nothing to fall back on if something goes wrong. It holds you, your team, and your client all accountable for the project deliverables. It also goes back to building client confidence in you and your team. Not only does it look professional, but you drawing up a formal agreement lets the client know that you have fully understood their requirements. Such an agreement may be known as a Scope of Work (SoW), an example of which may be found in _Appendix C - Scope of Work_, and should at its most basic level cover the following topics:
@@ -75,52 +81,12 @@ The very first step in any project is setting down in writing exactly what your 
 * Timelines
 * Change Request Policy
 * Warranty & Legal Issues
-* Cost
+* Budgets & Cost
 * Success Measures & Performance Metrics
 
-While the contract should be as explicit as required to convey the exact requirements and production plan, it should not be so rigid as to restrict the production team's flexibility to adjust feature prioritisation as the project evolves.
+While the contract should be as explicit as required to convey the exact requirements and production plan, it should not be so rigid as to restrict the production team's flexibility to adjust feature prioritisation as the project evolves. We've already covered understanding the project goals so let's move on.
 
-#### Schedules & Deadlines
-
-The contract should be structured to offer frequent deliverables and not multi-month or longterm milestones. Milestones/deadlines must always remain flexible and so the more space between them the more unlikely it is that they will be met smoothly. Shorter, more agile iterations are both easier to achieve and offer more chances for immediate feedback and improvement on work completed. It's not just deliverables that need to be scheduled either. Meetings, especially those that produce client feedback, must also be on fixed schedules that commit all parties to working together and fulfilling their responsibilities.
-
-#### Change Requests
-
-You may spend weeks or months painstakingly working on a website, covering every feature request in detail, ensuring it's the best work your team can produce. You may be very proud of the work and eager to show the client. You excitedly send them an email and wait for the praise to pour in...
-
-“Everything is great! but...”
-
-and then more:
-
-“maybe we could just change this one thing...”
-
-“also I think this could do with a bit more work...”
-
-etc. etc.
-
-Any requested feature not clearly listed in the original scope is beyond that scope and therefore counts as a revision or change request. This must be made explicitly clear to clients. Extending the scope, also known as “scope creep” jeopardises all other features by disrupting work schedules and putting deadlines at risk. Luckily, in your written agreement with the project owner, you have established a policy for handling these change requests... right?
-
-There are various solutions. You may want to state a specific number of permitted revisions within the project budget and timeline, although in doing so you are essentially banking on the requests being very simple. What if it's actually a significant amount of work? You can't always accurately assess feature complexity before work on it has begun and surely the client isn't going to be aware of how much work is involved in each request. Another approach is to charge a special fee or increased rate per change request. This is more reliable and may even serve to discourage the project owner from making such requests, which can only work in your favour. You may also factor several "rounds" of change requests into your agreement, allowing a fixed amount of time and budget for dealing with changes and new features. Whatever your own solution is, you should structure your agreement and your budgets to support delivery.
-
-#### Budgets
-
-Don't shy away from bringing up money right at the start. Everyone knows that money is going to need to change hands so there's no point beating around the bush. Budgeting is hard. You essentially have to guess how long the project or feature set is going to take, or guess the value of the work to the client, in order to calculate how much to charge. Like with any difficult problem, it's easier to try and break it down as much as possible. Ensure that you consider time for research, planning, discovery, admin, prototyping, design, development, testing, fixes & revisions, and deployment. 
-
-Indeed you're not just charging for the design and development or even the final deliverables. You may have PDFs, training workshops, interactive guides, and other educational material to prepare as part of the course that should be charged under client education. You have more organising, writing, designing, planning, and coding than you might at first be aware. The amount of client education required may very depending on the project owner so this will need to be factored into your pricing - hours spent helping your client use your product should be billable time. Typically you might want to add 10% onto your price as a contingency for "Support & Training" or "Onboarding". If they're going to need a lot of education but are not willing to pay for it then it may be wise to pass on the job. Most clients actually understand this. Those who are interested in improving their business are interested in improving themselves as well. This is the foundation for a truly fulfilling and mutually beneficial client relationship. Seek out these relationships. Bear in mind though that whether they want to pay for it or not, it is your responsibility to teach your client to use your product, otherwise your team's work will be for nothing (well, except some money... but we're trying to make the web better, right?). In some cases, you may be able to factor client education hours and their opportunity cost as part of your company's marketing budget. A happy client and a successful product may be worth more in the long run.
-
-Another budget you may want to propose is an ongoing retainer. You can provide the client with all the documentation and tools and excitement as you like before pushing them out to sea, but how about rowing out with them? You could call it a digital strategy retainer, or whatever other buzz phrase you like, and help them grow their business online. Such a service, if your team is able to offer it, may include audience research, content creation, ongoing SEO, advertising, technical maintenance, social media management, and analytics reporting. This is usually not only educating and rewarding, but may even enable you to upsell more work.
-
-
-
-
-
-
-
-- outline roles and expectations
-- communication plan
-- be enthusiastic
-
-## Gathering requirements
+#### Gathering Requirements
 - talk to the right people
 - know the team, consult them
 - tease information out of the client
@@ -168,6 +134,68 @@ Meeting in the middle
 If we want our clients to use our products to their full potential, we have to meet them in the middle. We have to balance our technical expertise with their existing processes and skills.
 
 From that experience, we learned not only to create online tools that complement our clients’ existing business processes, but also that we can be instrumental in helping clients embrace new processes. We now see it as part of our job to educate our clients and explain the technical and strategic thought behind all of our decisions.
+
+
+
+#### Deliverables
+
+#### Responsibilities
+
+* comunication plan
+
+#### Schedules & Deadlines
+
+The contract should be structured to offer frequent deliverables and not multi-month or longterm milestones. Milestones/deadlines must always remain flexible and so the more space between them the more unlikely it is that they will be met smoothly. Shorter, more agile iterations are both easier to achieve and offer more chances for immediate feedback and improvement on work completed. It's not just deliverables that need to be scheduled either. Meetings, especially those that produce client feedback, must also be on fixed schedules that commit all parties to working together and fulfilling their responsibilities.
+
+#### Change Requests
+
+You may spend weeks or months painstakingly working on a website, covering every feature request in detail, ensuring it's the best work your team can produce. You may be very proud of the work and eager to show the client. You excitedly send them an email and wait for the praise to pour in...
+
+“Everything is great! but...”
+
+and then more:
+
+“maybe we could just change this one thing...”
+
+“also I think this could do with a bit more work...”
+
+etc. etc.
+
+Any requested feature not clearly listed in the original scope is beyond that scope and therefore counts as a revision or change request. This must be made explicitly clear to clients. Extending the scope, also known as “scope creep” jeopardises all other features by disrupting work schedules and putting deadlines at risk. Luckily, in your written agreement with the project owner, you have established a policy for handling these change requests... right?
+
+There are various solutions. You may want to state a specific number of permitted revisions within the project budget and timeline, although in doing so you are essentially banking on the requests being very simple. What if it's actually a significant amount of work? You can't always accurately assess feature complexity before work on it has begun and surely the client isn't going to be aware of how much work is involved in each request. Another approach is to charge a special fee or increased rate per change request. This is more reliable and may even serve to discourage the project owner from making such requests, which can only work in your favour. You may also factor several "rounds" of change requests into your agreement, allowing a fixed amount of time and budget for dealing with changes and new features. Whatever your own solution is, you should structure your agreement and your budgets to support delivery.
+
+#### Legal Stuff
+
+#### Budgets
+
+Don't shy away from bringing up money right at the start. Everyone knows that money is going to need to change hands so there's no point beating around the bush. Budgeting is hard. You essentially have to guess how long the project or feature set is going to take, or guess the value of the work to the client, in order to calculate how much to charge. Like with any difficult problem, it's easier to try and break it down as much as possible. Ensure that you consider time for research, planning, discovery, admin, prototyping, design, development, testing, fixes & revisions, and deployment. 
+
+Indeed you're not just charging for the design and development or even the final deliverables. You may have PDFs, training workshops, interactive guides, and other educational material to prepare as part of the course that should be charged under client education. You have more organising, writing, designing, planning, and coding than you might at first be aware. The amount of client education required may very depending on the project owner so this will need to be factored into your pricing - hours spent helping your client use your product should be billable time. Typically you might want to add 10% onto your price as a contingency for "Support & Training" or "Onboarding". If they're going to need a lot of education but are not willing to pay for it then it may be wise to pass on the job. Most clients actually understand this. Those who are interested in improving their business are interested in improving themselves as well. This is the foundation for a truly fulfilling and mutually beneficial client relationship. Seek out these relationships. Bear in mind though that whether they want to pay for it or not, it is your responsibility to teach your client to use your product, otherwise your team's work will be for nothing (well, except some money... but we're trying to make the web better, right?). In some cases, you may be able to factor client education hours and their opportunity cost as part of your company's marketing budget. A happy client and a successful product may be worth more in the long run.
+
+Another budget you may want to propose is an ongoing retainer. You can provide the client with all the documentation and tools and excitement as you like before pushing them out to sea, but how about rowing out with them? You could call it a digital strategy retainer, or whatever other buzz phrase you like, and help them grow their business online. Such a service, if your team is able to offer it, may include audience research, content creation, ongoing SEO, advertising, technical maintenance, social media management, and analytics reporting. This is usually not only educating and rewarding, but may even enable you to upsell more work.
+
+#### The Measure of Success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Working collaboratively
 - pre-empt common issues
