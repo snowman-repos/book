@@ -1,6 +1,6 @@
 # Production Directors
 
-_Reading time ~ 30 minutes_
+_Reading time ~ 45 minutes_
 
 Your role is the most important. The most valuable role a modern manager plays is that of mentor; you set the tone for your team. That means your skillset, your breadth of knowledge, and your behaviour will be held as an example. You may not be writing code yourself but you need to be aware of the latest and upcoming technologies in order to hire developers, support developers, and gain their respect. You may not have the keenest eye for design, but you need to be aware the latest techniques and best practice and be able to offer constructive feedback in order to hire and support designers and gain their respect.
 
