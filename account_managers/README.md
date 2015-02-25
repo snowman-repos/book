@@ -114,9 +114,9 @@ In cases where there is a gap in your team's available roles and you are unable 
 
 #### Schedules & Deadlines
 
-The contract should be structured to offer frequent deliverables and not multi-month or longterm milestones. Milestones/deadlines must always remain flexible and so the more space between them the more unlikely it is that they will be met smoothly. Shorter, more agile iterations are both easier to achieve and offer more chances for immediate feedback and improvement on work completed. It's not just deliverables that need to be scheduled either. Meetings, especially those that produce client feedback, must also be on fixed schedules that commit all parties to working together and fulfilling their responsibilities.
+The contract should be structured to offer frequent deliverables and not multi-month or longterm milestones. Milestones/deadlines must always remain flexible and so the more space between them the more unlikely it is that they will be met smoothly. Shorter, more agile iterations are both easier to achieve, monitor, and offer more chances for immediate feedback and improvement on work completed. It's not just deliverables that need to be scheduled either. Meetings, especially those that produce client feedback, must also be on fixed schedules that commit all parties to working together and fulfilling their responsibilities.
 
-* ask the team
+Of course before compiling schedules you need to be sure you have all the required information at hand. Also, scheduling will come under the role of project management - your job is simply to report the schedule to the project owner and keep them updated on progress. How long each sprint/iteration/phase will take will depend on your production team so consult with them first, perhaps in a kick-off meeting, and give them time to assess the scope. If you are offered a ballpark length of time or a random deadline is plucked from a developer's mind then be wary. Instead ask to see a breakdown of features and iteration periods for each. You should also be made aware of exactly what is involved in the production of each feature, whether it requires planning, design, coding, testing, etc. so that if needs be you can explain and justify your schedule to your client. In the timeline you present to your client, you may also want to add some contingency time for each iteration - it's better to deliver early rather than late and better for the team to work at their own pace rather than feel rushed to work towards unrealistic deadlines. Rushed work is poor work.
 
 #### Change Requests
 
@@ -167,7 +167,19 @@ Always get a deposit at the start of a project. A deposit shows that the client 
 
 #### The Measure of Success
 
+At the start of your proposal or agreement you are stating the business goals - what the product is expected to achieve. If you want repeat work from the client then you'll need to prove than any previous work has indeed achieved its intended goals. Therefore towards the end of the proposal you should outline what the success measures are, or how you will have determined if goals have been achieved.
+
+As with gathering any feedback, these measures should be specific and carefully considered to measure the explicitly stated goals. It's like setting up a scientific experiment - your hypothesis is that the project is successful so what test conditions can you establish to test the hypothesis.
+
+- analytics
+- sales data
+- user surveys
+
 #### Ongoing support
+
+
+
+
 
 Too often, my company used to create amazing tools for clients and then send them out into the world without enough guidance. We’d watch our sites slowly become stale, and we’d see our strategic content overwritten with fluffy filler.
 
