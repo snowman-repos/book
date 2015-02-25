@@ -54,6 +54,8 @@ Sometimes you can tell right from the start if a project is going to turn out to
 
 Of course, most clients aren't like that at all. However your relationship with them does depend a lot on your own behaviour during those initial conversations. You have to set the tone. You are the expert. They are paying your organistion for your organisation's expertise. They need to be confident that you know what you're talking about, that you're worth the money they're paying, and that you're being honest. If they are not confident in your expert advice then the project will inevitably run into potential disasters such as the client demanding changes based on their own arbitrary design decisions or design by committee. Your team will end up working on a project that's going in a direction that they dislike and disagree with, killing their motivation and causing tension between you and them that may also put other projects at risk.
 
+Part of getting to know the client is also getting to know their team, who else might be using the work that your team produces. Increasingly, many organisations have in-house development teams. This may be a cause for conflict if you cannot present your work in a way that conforms to their processes or understanding, or otherwise it may actually make life easier for you as they are more likely to be able to understand code deliverables without requiring extensive documentation. If there is already an in-house development team, then you may find yourself questioning why your team has been engaged to work on the web project. The answer is of course time. In-house teams are usually too busy with day-to-day maintenance to even consider how to improve and optimise the design, or the code, or even to learn about new industry techniques that could be used to evolve the project.
+
 ### Be an expert
 
 In order for the client to be confident in your _expert_ advice, your advice does indeed need to be _expert_.
@@ -208,6 +210,8 @@ Communication isn't just phone calls, video chats, emails, instant messenger, an
 ## Delivery
 
 So you've reached the end and it's time to hand over your team's work. It's the moment of truth. To ensure smooth delivery, give the project owner everything they need to get up and running as smoothly as possible. This may require separate delivery documentation detailing any URLS, login details, file and folder descriptions etc. that they can keep and reference. What you actually deliver, and how you deliver it, depends on the project and on the owner's requirements. For example, some organisations may have in-house development teams that just require templates that they integrate themselves. Some may just want you to deploy everything to a server for them and leave them to it. Some may require all the files along with some kind of easy installation instructions.
+
+In fact, rather than delivering everything at the end of the project you're probably actually delivering throughout. Or at least you should be. For instance designs should be provided in the form of a style guide or pattern library than can be easily referenced and re-used either by your team, the client's in-house team, or by another team the client may wish to engage in the future, ensuring ongoing consistency throughout the project. Code modules might be delivered to internal teams in stages, allowing them to learn about the style and how it can be integrated into their codebase. Speaking of code, it's important that it be modular and reusable for the same reasons as we provide style guides.
 
 ## Gathering Feedback
 
