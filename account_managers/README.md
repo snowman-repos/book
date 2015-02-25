@@ -88,58 +88,17 @@ While the contract should be as explicit as required to convey the exact require
 
 #### Gathering Requirements
 
+This is probably the most important part of your role. Ensuring you clearly understand all of the product owner's requirements exactly right from the start will allow you to correctly assign resources, determine timelines, and budget costs. If you miss something, then you're likely looking at change requests, squeezed deadlines, unnecessary or repeat work (which the production team will love!) and overtime.
 
+Given the importance of this task, it should be given due amount of time and dilligence - a couple of Skype calls, even a few email relays, simply will not do. You have lots of questions to ask and information to tease out not just about the immediate functionality requirements but also look and feel and longer-term goals. This will hopefully eliminate any surprises for you or your client.
 
+The real challenge is knowing what questions to ask. You need to tease out as much information as possible in what little time you have available. Before client meetings, plan exactly what you need to know and what you need to ask to find out. You'd best consult the production team as well, given that you will need to pass all this information on to them. So how do we approach this? The same way as with everything else of course - we take the larger problems and break them down into smaller ones. 
 
-- talk to the right people
-- know the team, consult them
-- tease information out of the client
-- required content/materials
+A good place to start is by concentrating on overarching features. What kind of content will the site or app be serving? What will it be used for? How are potential users envisaged to be engaging with it? What specific actions will need to be performed? From there you can drill down into finer details - the technology requirements, aesthetics, user demographics. Who will be maintaining it and what features will be required by them? What are the exact deliverables required? The list of questions is endless and will likely be different for each project. Answers will raise more questions and you should keep asking until you and your team are completely confident that you understand what is needed.
 
-Making sure you really understand what your client wants right from the start can help you avoid revision requests altogether.
+When gathering requirements, ensure that you talk to the right people. Sometimes known as “stakeholder interviews”, the idea is that you gather requirements from the project owner's team individually - anyone who will have a stake or claim in what the website or app should do or present to users will have their own specific requirements that they understand best. You and your team are in a much better position to gether and collate this information in order to identify the required features. If you just speak to one person, who represents all the stakeholder interests, then you risk information gaps or personal biases. Similarly if you try to gather requirements from a team of individuals at the same time you are also going to miss out on some information as well as potentially face conflicts or crossed messages, leading to the dreaded design by committee.
 
-“The goal is getting inside the client’s head at the beginning of the project. Then you will have fewer problems later in the process,” Jason Fowler, the owner of Wisely Woven Creative Media, says.
-
-Take the time to thoroughly discuss not only the client’s vision for the look of the site, but also the functionality that the client needs. This will hopefully eliminate any surprises for you or the client.
-
-Chris Lowrance, who runs Lowrance Creative, gives this example: “You agreed to a five-page site, and by the end, you’ve discovered that one of those ‘pages’ is a blog with its own main, single post (with comments), search, and category archive sub-pages.”
-
-Having the right conversations before you begin can help you avoid these types of surprises and unnecessary revisions.
-
-If you and a client are not a good fit, you may find yourself faced with multiple revision requests to the point where it is no longer worth your time. It is important to recognize when to walk away from a project.
-
-“In general, you’ll know it,” Lowrance says. “When you feel like the client isn’t negotiating in good faith, but is just trying to push you for more work for the same money. When they’re insisting on things that are clearly beyond what you agreed on or can do. When they hated your initial mockups and hated the results of their own revision requests, so it’s clear you’re just not the designer for them. Yeah, there are times to walk away, and don’t be afraid to do so when you feel you need to. Just be polite and professional, no matter if the client gets rude or insulting.”
-
-Though you may never want to have this conversation, you may have to at some point.
-
-“Stay in web design long enough and you will reach a point where you need to ‘fire a client,’” Gentry says. “Where this point is depends on where you are in your career, what relationship you have with your clients, (unfortunately) how much other work you have available, and you personal preference. In general, you need to walk away from a project when moving forward with it is more trouble than it is worth.”
-
-Every designer will define this point differently, but Gentry says that it may include a client who repeatedly breaks the terms of your contract, who makes excessive demands or who is constantly making changes.
-
-At the end of the day, how you handle revisions is all about the relationship you have with your client. The designers Treehouse spoke with noted that they are willing to go above and beyond for clients who show respect for the work and the time involved.
-
-“Web design is not just knowing code or trends or techniques,” Fowler said. “It is also knowing how to manage the project and give great customer service. The issue of revisions is an issue of client management and people skills.”
-
-What our clients do with their websites is just as important as the websites themselves. We may pride ourselves on building a great product, but it’s ultimately up to the client to see it succeed or fail. Even the best website can become neglected, underused, or messy without a little education and training.
-
-Illustration:
-Mike Pick
-Share This:
-Twitter
-Facebook
-Google+
-Too often, my company used to create amazing tools for clients and then send them out into the world without enough guidance. We’d watch our sites slowly become stale, and we’d see our strategic content overwritten with fluffy filler.
-
-It was no one’s fault but our own.
-
-As passionate and knowledgeable web enthusiasts, it’s literally our job to help our clients succeed in any way we can, even after launch. Every project is an opportunity to educate clients and build a mutually beneficial learning experience.
-
-Meeting in the middle
-If we want our clients to use our products to their full potential, we have to meet them in the middle. We have to balance our technical expertise with their existing processes and skills.
-
-From that experience, we learned not only to create online tools that complement our clients’ existing business processes, but also that we can be instrumental in helping clients embrace new processes. We now see it as part of our job to educate our clients and explain the technical and strategic thought behind all of our decisions.
-
-
+Requirements gathering is not limited to the project owners either. Your production team will also have their own requirements which they impose on the project based on the skills and tools they have available. What you can offer to the clients depends on what they can build so for each 
 
 #### Deliverables
 
@@ -171,6 +130,8 @@ Any requested feature not clearly listed in the original scope is beyond that sc
 
 There are various solutions. You may want to state a specific number of permitted revisions within the project budget and timeline, although in doing so you are essentially banking on the requests being very simple. What if it's actually a significant amount of work? You can't always accurately assess feature complexity before work on it has begun and surely the client isn't going to be aware of how much work is involved in each request. Another approach is to charge a special fee or increased rate per change request. This is more reliable and may even serve to discourage the project owner from making such requests, which can only work in your favour. You may also factor several "rounds" of change requests into your agreement, allowing a fixed amount of time and budget for dealing with changes and new features. Whatever your own solution is, you should structure your agreement and your budgets to support delivery.
 
+If of course you and a client are not a good fit, you may find yourself faced with multiple revision requests to the point where it is no longer worth your time. It is important to recognize when to walk away from a project.
+
 #### Legal Stuff
 
 #### Budgets
@@ -183,7 +144,18 @@ Another budget you may want to propose is an ongoing retainer. You can provide t
 
 #### The Measure of Success
 
+#### Ongoing support
 
+Too often, my company used to create amazing tools for clients and then send them out into the world without enough guidance. We’d watch our sites slowly become stale, and we’d see our strategic content overwritten with fluffy filler.
+
+It was no one’s fault but our own.
+
+As passionate and knowledgeable web enthusiasts, it’s literally our job to help our clients succeed in any way we can, even after launch. Every project is an opportunity to educate clients and build a mutually beneficial learning experience.
+
+Meeting in the middle
+If we want our clients to use our products to their full potential, we have to meet them in the middle. We have to balance our technical expertise with their existing processes and skills.
+
+From that experience, we learned not only to create online tools that complement our clients’ existing business processes, but also that we can be instrumental in helping clients embrace new processes. We now see it as part of our job to educate our clients and explain the technical and strategic thought behind all of our decisions.
 
 
 
