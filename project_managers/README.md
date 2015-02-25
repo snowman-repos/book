@@ -9,7 +9,7 @@ Your role is the most important.
 ### Performance Budget
 ## Daily Workflow
 
-*Agile
+* agile
 
 Continuous Integration makes dev life easier. Happier, better developers and testers. More efficient cycle. Keeps people happy.
 
