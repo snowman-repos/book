@@ -175,20 +175,14 @@ You could gather statistics about the website's usage based on its functionality
 
 #### Ongoing support
 
+This book is concerned with putting together the best websites and apps that we can so as to make the web a better place. You could build the world's greatest, sexiest, safest, most energy-efficient car but it would be no use if nobody could drive... All too often the websites we produce are handed off to clients who aren't equipped with the knowledge or guidance needed to maintain it, like a garden left to languish, overgrown and unkempt. Perhaps the product owner will have enough excitement at first to put a lot of effort into maintaining the site, especially if it's successful, but that excitement may wane or they may consider your work done and so no further work is put into updating or innovating on the website or app until it's too late or no-longer cost-effective and the whole thing has to be re-done. Our strategically crafted content gradually becomes replaced with fluffed-up filler and marketing jargon. Our well-thought out design begins to age in the face of new trends and techniques or technologies. Our code fails to perform against the latest tools employed by competitor projects. This is nobody's fault but our own.
+
+Part or your role is to help the client in any way you can, even after project handoff. The success of the project depends on the client's ongoing effort and investment and a passionate and enthusiastic web professional like yourself obviously wants each one to remain successful. See it as an opportunity to both educate and learn. Part of the challenge of guiding clients on how to make the most of their product is putting yourself in their shoes. While your expertise might be more technical - you work with web projects day in, day out - you need to be aware that their processes and skills are different. Therefore every client will need a different approach, but you'll still have to meet them halfway.
+
+Being able to explain to clients the thought process behind all of your production team's strategic decisions throughout the project goes a long way to educate them about how to achieve and maintain the project's goals and how the project has been designed specifically for their own business processes. In doing so you're learning about their business process, knowledge that may help you in dealing with other clients on future projects, so such a support process is mutually beneficial.
 
 
 
-
-Too often, my company used to create amazing tools for clients and then send them out into the world without enough guidance. We’d watch our sites slowly become stale, and we’d see our strategic content overwritten with fluffy filler.
-
-It was no one’s fault but our own.
-
-As passionate and knowledgeable web enthusiasts, it’s literally our job to help our clients succeed in any way we can, even after launch. Every project is an opportunity to educate clients and build a mutually beneficial learning experience.
-
-Meeting in the middle
-If we want our clients to use our products to their full potential, we have to meet them in the middle. We have to balance our technical expertise with their existing processes and skills.
-
-From that experience, we learned not only to create online tools that complement our clients’ existing business processes, but also that we can be instrumental in helping clients embrace new processes. We now see it as part of our job to educate our clients and explain the technical and strategic thought behind all of our decisions.
 
 
 Education and support can, and usually does, take the form of setting an example. Some clients may not fully understand the benefits of a content strategy, for instance, so you have to show them results. Create relevant and well-written sample blog posts for them, and show how they can drive website traffic. Share articles and case studies that relate to the new tools you’re building for them. Show them that you’re excited, because excitement is contagious. If you’re lucky and smart enough to follow Geoff Dimasi’s advice and work with clients who align with your values, this process will be automatic, because you’ll already be invested in their success.
@@ -205,7 +199,7 @@ The extra effort required for client education is worth it. By giving our client
 
 
 
-
+Evolution not revolution, ongoing maintanance vs. redesign overhaul.
 
 
 
