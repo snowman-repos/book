@@ -87,6 +87,10 @@ The very first step in any project is setting down in writing exactly what your 
 While the contract should be as explicit as required to convey the exact requirements and production plan, it should not be so rigid as to restrict the production team's flexibility to adjust feature prioritisation as the project evolves. We've already covered understanding the project goals so let's move on.
 
 #### Gathering Requirements
+
+
+
+
 - talk to the right people
 - know the team, consult them
 - tease information out of the client
@@ -146,6 +150,8 @@ From that experience, we learned not only to create online tools that complement
 #### Schedules & Deadlines
 
 The contract should be structured to offer frequent deliverables and not multi-month or longterm milestones. Milestones/deadlines must always remain flexible and so the more space between them the more unlikely it is that they will be met smoothly. Shorter, more agile iterations are both easier to achieve and offer more chances for immediate feedback and improvement on work completed. It's not just deliverables that need to be scheduled either. Meetings, especially those that produce client feedback, must also be on fixed schedules that commit all parties to working together and fulfilling their responsibilities.
+
+* ask the team
 
 #### Change Requests
 
