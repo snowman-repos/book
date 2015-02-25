@@ -239,7 +239,9 @@ The extra effort required for client education is worth it. By giving our client
 
 
 ## Gathering Feedback
-http://boagworld.com/season/10/episode/1004/
+
+
+
 
 Feedback will tell you whether what you did made sense or works well, but not what to do or what the vision should be. Vision can't be crowdsourced. Having a project with a bunch of patches and hacks for every complaint usually ends up being hard to iterate on and maintain.
 
