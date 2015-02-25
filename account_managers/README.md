@@ -185,21 +185,13 @@ Support usually involves setting an example. Your team puts together the initial
 
 By fostering collaboration post-handoff, you help the project owner use the product more effectively and grow their business. This also helps to alleviate the panic that naturally comes with going live because they know you'll be on hand to fix, test, and tweak. You may even find that gradually support agreements start make up a core part of your organisation's revenue and help to bring in repeat work as you are engaged to continuously update the products you build. As well as helping your clients' businesses to succeed, this makes the web a better place as a whole as those parts of it that you have put online always remain the best they can be. It's evolution, not revolution, as constant updates keep the product ahead of the curve rather than allowing it to become decrepit, forcing a difficult and expensive overhaul or redesign.
 
-
 ## Working Colaboratively
 
+As we've already stated, the success of the web project depends on the project owner's ongoing investment. A good way to make them more personally invested, having a true sense of ownership, is having them involved in the actual production work. By this we mean sitting down with them and your production team together, at least during the planning stage of each project phase. Your team have the technical expertise and are the ones putting everything together, but by having your client, the one with the business expertise, physically present you can make use of your insight while they gain a better understanding of all strategic decisions that will equip them to maintain the product going forward.
 
+Of course every client may require a different approach; some will just want you to go away and get everything done. It also depends on your team members; some may not be able to easily express their ideas to a layman. That's where you come in. You are on the fence between the product owner and the production team, with expertise from both sides. So it's up to you to find a balance where your client can feel suitably invested and involved, and your team suitably committed and recognising the value the client's insight brings. If the client makes a suggestion and a designer rejects it, offering a direct in-person explanation, the client can gain an understanding of the design process and value the designer more. Likewise if the client makes a suggestion that the designer agrees to, they gain a sense of ownership while the designer gets a new idea for free and is exposed to the client's better understanding of the target audience.
 
-
-
-
-
-
-
-## Working collaboratively
-- pre-empt common issues
-- get to know your client
-- get to know your team
+Working collaboratively may even take the form of working off-site from the client's location some or all of the time. This would allow the client to monitor progress themselves more directly (reducing your workload ;), although maybe your team might not feel so comfortable in that environment. Another way might be to conduct weekly workshop meetings to discuss a sprint or iteration. Either way, aside from giving both the client and your production team a sense of ownership and importance, this may pre-empt common issues and allow everyone to get to know eachother on a more personal basis.
 
 ## Clear & constant communication
 - be honest
