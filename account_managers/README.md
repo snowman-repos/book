@@ -98,7 +98,9 @@ A good place to start is by concentrating on overarching features. What kind of 
 
 When gathering requirements, ensure that you talk to the right people. Sometimes known as “stakeholder interviews”, the idea is that you gather requirements from the project owner's team individually - anyone who will have a stake or claim in what the website or app should do or present to users will have their own specific requirements that they understand best. You and your team are in a much better position to gether and collate this information in order to identify the required features. If you just speak to one person, who represents all the stakeholder interests, then you risk information gaps or personal biases. Similarly if you try to gather requirements from a team of individuals at the same time you are also going to miss out on some information as well as potentially face conflicts or crossed messages, leading to the dreaded design by committee.
 
-Requirements gathering is not limited to the project owners either. Your production team will also have their own requirements which they impose on the project based on the skills and tools they have available. What you can offer to the clients depends on what they can build so for each 
+Requirements gathering is not limited to the project owners either. Your production team will also have their own requirements which they impose on the project based on the skills and tools they have available. What you can offer to the clients depends on what they can build.
+
+This all leads to the ideal requirements gathering solution - an initial meeting to gather the overall feature set and project goals, followed by individual meetings with each stakeholder. Information drawn from these meetings can be taken back to your team, discussed,
 
 #### Deliverables
 
