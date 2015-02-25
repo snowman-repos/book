@@ -84,7 +84,7 @@ The very first step in any project is setting down in writing exactly what your 
 * Budgets & Cost
 * Success Measures & Performance Metrics
 
-While the contract should be as explicit as required to convey the exact requirements and production plan, it should not be so rigid as to restrict the production team's flexibility to adjust feature prioritisation as the project evolves. We've already covered understanding the project goals so let's move on.
+While the contract should be as explicit as required to convey the exact requirements and production plan, it should not be so rigid as to restrict the production team's flexibility to adjust feature prioritisation as the project evolves. Ensure that this agreement is **approved** by the client before starting work. We've already covered understanding the project goals so let's move on.
 
 #### Gathering Requirements
 
@@ -101,10 +101,6 @@ When gathering requirements, ensure that you talk to the right people. Sometimes
 Requirements gathering is not limited to the project owners either. Your production team will also have their own requirements which they impose on the project based on the skills and tools they have available. What you can offer to the clients depends on what they can build.
 
 This all leads to the ideal requirements gathering solution - an initial meeting to gather the overall feature set and project goals, followed by individual meetings with each stakeholder. Information drawn from these meetings can be taken back to your team, discussed, collated, and taken back to the client for another round of refinement. This sequence can continue until you and your team are fully confident in what you need to build, and your client is happy that you are going to build exactly what they want.
-
-#### Deliverables
-
-?????
 
 #### Responsibilities
 
@@ -142,133 +138,32 @@ There are various solutions. You may want to state a specific number of permitte
 
 If of course you and a client are not a good fit, you may find yourself faced with multiple revision requests to the point where it is no longer worth your time. It is important to recognize when to walk away from a project.
 
-#### Legal Stuff
-
 #### Budgets
 
-Don't shy away from bringing up money right at the start. Everyone knows that money is going to need to change hands so there's no point beating around the bush. Budgeting is hard. You essentially have to guess how long the project or feature set is going to take, or guess the value of the work to the client, in order to calculate how much to charge. Like with any difficult problem, it's easier to try and break it down as much as possible. Ensure that you consider time for research, planning, discovery, admin, prototyping, design, development, testing, fixes & revisions, and deployment. 
+Don't shy away from bringing up money right at the start. Everyone knows that money is going to need to change hands so there's no point beating around the bush. Budgeting is hard. You essentially have to guess how long the project or feature set is going to take, or guess the value of the work to the client, in order to calculate how much to charge. Like with any difficult problem, it's easier to try and break it down as much as possible. Ensure that you consider time for research, planning, discovery, admin, prototyping, design, development, testing, fixes & revisions, and deployment. Typically 10% might be added for project management, but consider anything that might require more time or commitment - dealing with multiple stakeholders for instance, increasing the management time, might encourage you to increase your fee as well.
 
 Indeed you're not just charging for the design and development or even the final deliverables. You may have PDFs, training workshops, interactive guides, and other educational material to prepare as part of the course that should be charged under client education. You have more organising, writing, designing, planning, and coding than you might at first be aware. The amount of client education required may very depending on the project owner so this will need to be factored into your pricing - hours spent helping your client use your product should be billable time. Typically you might want to add 10% onto your price as a contingency for "Support & Training" or "Onboarding". If they're going to need a lot of education but are not willing to pay for it then it may be wise to pass on the job. Most clients actually understand this. Those who are interested in improving their business are interested in improving themselves as well. This is the foundation for a truly fulfilling and mutually beneficial client relationship. Seek out these relationships. Bear in mind though that whether they want to pay for it or not, it is your responsibility to teach your client to use your product, otherwise your team's work will be for nothing (well, except some money... but we're trying to make the web better, right?). In some cases, you may be able to factor client education hours and their opportunity cost as part of your company's marketing budget. A happy client and a successful product may be worth more in the long run.
 
 Another budget you may want to propose is an ongoing retainer. You can provide the client with all the documentation and tools and excitement as you like before pushing them out to sea, but how about rowing out with them? You could call it a digital strategy retainer, or whatever other buzz phrase you like, and help them grow their business online. Such a service, if your team is able to offer it, may include audience research, content creation, ongoing SEO, advertising, technical maintenance, social media management, and analytics reporting. This is usually not only educating and rewarding, but may even enable you to upsell more work.
 
+When it comes to presenting your cost estimate to your client, sending it as a plain number in an email is unprofessional and disorganised. It should be laid it out in your proposal or agreement where it can be fully justified. The more emails back and forth between you and your client discussing the cost, the more the value of the project is reduced as you spend more time haggling. By all means quote a final ballpark figure, but clearly state that the cost is variable depending on a number of factors such as eventual scope and the level of post-delivery support required.
 
+You might want to break down the cost into design & development phases, costs for 3rd party tools and sofware, and admin costs like client-servicing and project-management. This will provide an overall cost that is helpful for project owners as they are usually shopping around for different service vendors so it helps them to compare. However, it's almost impossible for you to esimate accurately.
 
+So how can you accurately assess how much to charge the client? Whatever you do, don't charge hourly rates. This limits your potential revenue and presents plenty of other problems:
+* hourly rates have a ceiling - you can only charge so much until the client pushes back, regardless of whether the work is finished or not
+* hourly rates are limited by the fact that there are only so many billable hours in a year
+* hourly rates are too easy to compare but offer no reflection of the quality of services offered (e.g. you might charge $100 / hour compared with someone else who charges $95 / hour - on paper $95 seems more tempting, even though the production team may vary wildly.) - this may lead to clients trying to low ball you
+* hourly rates mean you're selling time, not results, and it's results that clients care about
+* clients may become stressed as they worry about every single hour you and your team are working
 
+A better way would be to charge on a weekly or monthly basis, as long as the focus is on the outcome or the project deliverables and not the time spent. Monthly billing is more appropriate for ongoing maintenance retainers.
 
+Better still is a way that's also perhaps easier to estimate and is known as value-based pricing. Essentially you determine a number based around what the project is worth to the client. In order to be able to determine this, you need to obviously understand the project requirements in detail (_see above!_). For example, if the goal is to increase revenue of an online store by $1,000,000 per year, why not charge a one-off cost of $100,000? The client gets a good return on their investment and your organisation gets paid enough to cover costs and turn a profit yourselves.
 
+At the very least, you should offer a fixed price on a per-project basis. The client knows the cost up-front, which also makes it easier for them to compare you with other vendors. Meanwhile you can focus your offering around the return on invesment so that the client focuses on the result and not on the time or cost.
 
-The answer to making more money is not always getting more clients or charging more.
-
-You can have dozens of requests from prospective clients, charge more, but make no money.
-
-I’m talking about the clients who passed on hiring you and went with a competitor, weren’t interested or you couldn’t close the deal with. These are all missed opportunities.
-
-For these situations, just “getting more clients” or “charging more”, isn’t the solution. Instead, you have to optimize your business to yield better results.
-
-In this post, I’ll cover ways you can effectively optimize your business to close more projects and make more money.
-
-The first thing you’re going to do is…
-
-Stop Calling Yourself A “Freelancer”
-I’ll admit it…I used to call myself a freelancer. However, I learned this was a mistake and quickly corrected it. To make more money, you have to stop calling yourself a freelancer and instead call yourself a consultant, strategist, professional, or something else that fits your expertise.
-
-Whenever I hear the word “freelancer”, I think of a 17-year-old boy on summer vacation who’s looking to make extra money on the side. Or someone who’s doing it as a hobby, while backpacking around Europe. Do you want to be perceived as someone who is just doing things on the side? Of course not.
-
-When you call yourself a freelancer, you devalue your skills and expertise. The client sees you as someone who is cheaper, less serious and potentially unreliable (will he/she be around in a few months?). These aren’t the types of people that serious and high paying clients want to trust with their business.
-
-From now on, whenever you’re speaking to or working with a prospective client, avoid using the word freelancer. Avoid saying, “My name is John, and I’m a freelance designer.” Or, “My name is Janet and I’m a freelance writer.” Instead, you’re a design consultant, a strategic writer or marketing professional.
-
-Your task is to pick a new word that will make you look more professional in the eyes of current and prospective clients. This won’t create a magical difference overnight, but will help you over time as you try to land larger and higher paying clients.
-
-Create winning estimates
-There was a point in time when I would send my project estimate to a client as a plain number, after a lengthy email conversation. My last reply to the email thread would be something like “OK, I can do all of this for $X.”
-
-Sending a price through email is unprofessional, unorganized and the value you’re hoping to bring the client is lost between dozens of email exchanges.
-
-For any project, no matter how big or small, always create an estimate (or proposal). When I started creating estimates and sending them to my clients as .PDF documents or a link to view on the web, I immediately began to win more business.
-
-I use Ballpark, which allows me to create beautiful estimates with templates and my branding. For most of the web work my company does, estimates usually cover the following:
-
-Phases of the project and deliverables
-Pricing for each phase
-A link to a scope of work document that is pre-approved by the client. The price covers the work, requirements and expectations agreed upon in the scope. Anything outside this scope is extra and to be billed later.
-Rough timeline
-Fine print including out of scope charges and what’s not included
-Deposit/payment terms to get started
-Estimate expiration date (this estimate will expire if it is not signed within 15 days of being issued)
-The estimate structure above works well because:
-
-Clients are usually shopping around with a few vendors at a time. The estimate helps the client understand what your process looks like and exactly what they’re paying for/getting against others.
-You take most of the guesswork out by providing what you’ll do for each phase, the pricing, a timeline, the outcome and other project details.
-It makes you look professional and builds up trust with the client.
-There are probably more benefits to writing up a good estimate, but I’ve found those 3 to be key when pitching prospective clients.
-
-I also combine each estimate with a short letter reiterating why they should hire us, how we’ll achieve their goals and how the price is an investment that will yield them a return (the return being whatever the goal of the project is).
-
-If you aren’t doing so, I would highly recommend creating a written estimate or proposal for your next project. If you want to close larger projects and charge more, you need to come off as professional and make it easy for the client to understand what they’re paying for.
-
-There are plenty of others apps to create estimates/proposals like Harvest and Bidsketch (more here too), so find one that works for you and start using it right away.
-
-Don’t charge hourly
-Charging hourly limits your revenue potential and comes with a myriad of other problems:
-
-Hourly rates have a ceiling; you can only charge so much per hour until a client pushes back
-There are only so many billable hours in a year, which caps your revenue
-An hourly rate is easy to negotiate/compare (“your rate is $100/hr? I can pay someone for $20/hr on oDesk for the same thing”).
-You’re selling yourself short if you work fast
-You’re selling time, rather than results or an outcome, which is what really matters to clients
-Billing by the hour limits your growth potential and puts unnecessary focus on hours worked, rather than client’s business and outcome.
-
-Instead, try billing your next project with one of the methods mentioned below. These methods will allow you to charge more because they focus on the outcome or deliverable of the project, rather than hours spent.
-
-It’s also important to find out from each client what the goal of the project is. It could be making more money, increasing signups, or even getting more downloads. You should focus your efforts on how you plan to achieve that goal, which will make it easier to justify your pricing.
-
-Charging per project
-When you charge per project, you provide the client with a fixed price to do all of the work. Normally, you’ll need to have an in-depth discussion with the client to understand the full project scope, requirements and their expectations.
-
-Charging per project is one of my favorite ways to bill, because the client knows the total investment up-front. With hourly, the client usually hears something like, “I charge $120 an hour and it will take anywhere from 80-100 hours.”
-
-That can worry a lot of clients and they’ll stress over every single hour. They’ll also compare your hourly rate to their own or others in your field and try to lowball you. This is not the type of back and forth game you want to play.
-
-Instead, charging per project makes it easier to bill a higher rate because there is no indication of an hourly breakdown or rate in the estimate. Plus, if you focus on the result or ROI you’re going to bring the client, they won’t look at the quote as an expense, but rather a valuable investment.
-
-Charging weekly
-When you charge weekly, a client pays you a flat rate to work on their stuff for the week. The focus again should be on the deliverable or outcome, and not how many hours it takes to get there.
-
-Patrick McKenzie wrote a great article on weekly billing and it goes in-depth on why you should consider charging weekly and how to begin doing so (he explains it better than I can here).
-
-Charging monthly
-Charging by the month is as simple as billing a flat, month to month rate for the client to hire you.
-
-I know a design consultant who charges $15,000 a month to work on client projects. The client gets a minimum number of hours per month (but normally this isn’t the focus) and the consultant dedicates time to the client’s business. This makes scheduling easy and provides predictable cash flow.
-
-Charging monthly can also work great for retainers, where clients will need some type of maintenance, upkeep, 1-on-1 consulting, additional work, etc.
-
-Pick one
-These are some common alternatives to billing by the hour on projects and I highly recommend you try one of these methods on your next project (if you haven’t already).
-
-You can raise your rate and make more money, because the client won’t be looking at a column of hours and an hourly rate anymore (and trying to lower it). Instead, the focus turns to something along the lines of “this is the total cost for your project to achieve the result or goal that your business needs.”
-
-Charge for project management
-You should be charging for project management on every single project. All of those emails, phone calls, skype chats, Basecamp discussions and general communication with your client should come at an additional cost.
-
-I add a 10% or 15% project management fee to the total of an estimate, which covers project management for the entire duration of the project.
-
-I use a 10% fee when there is less than 2 stakeholders and the project scope is straightforward. For projects where I have to work with more than 2 stakeholders and/or the project is complex, I use a 15% fee, since those types of projects generally have longer “management” cycles.
-
-For example, if I’m working on a complex project and the quote comes to $25,000, I’ll add “project management” as my last line item at $3,750, which would cover all project management for the project.
-
-I also explain this fee covers phone calls, discussions, reviews and any other communication during the project. You can add this on your next project as a simple line item like I mention above, or bake it into each phase of your estimate.
-
-Get a deposit
-You should always require a deposit before beginning any work with a client. A deposit shows that a client is willing and able to pay, and tells them that you won’t work without being paid.
-
-I normally require a 50% deposit for small projects and 20% (or per milestone) for larger projects. Deposits are non-refundable for work completed. I note this as early as possible to clients (in my estimates), so they know up-front what the billing schedule and expectations are.
-
-If a client is reluctant to pay a deposit, then you shouldn’t work with them, plain and simple. Chances are they aren’t serious and probably won’t pay later anyway.
-
-
+Always get a deposit at the start of a project. A deposit shows that the client is willing and able to pay, and tells them that you won't work without being paid. The size of deposit you ask for depends on the size of the project. Very big or lengthly projects may require ongoing payment installments. If a client is reluctant to pay a deposit, then you shouldn’t work with them, plain and simple. Chances are they aren’t serious and probably won’t pay later anyway.
 
 #### The Measure of Success
 
