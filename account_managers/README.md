@@ -186,6 +186,7 @@ Support usually involves setting an example. Your team puts together the initial
 By fostering collaboration post-handoff, you help the project owner use the product more effectively and grow their business. This also helps to alleviate the panic that naturally comes with going live because they know you'll be on hand to fix, test, and tweak. You may even find that gradually support agreements start make up a core part of your organisation's revenue and help to bring in repeat work as you are engaged to continuously update the products you build. As well as helping your clients' businesses to succeed, this makes the web a better place as a whole as those parts of it that you have put online always remain the best they can be. It's evolution, not revolution, as constant updates keep the product ahead of the curve rather than allowing it to become decrepit, forcing a difficult and expensive overhaul or redesign.
 
 
+## Working Colaboratively
 
 
 
