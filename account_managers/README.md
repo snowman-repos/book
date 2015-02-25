@@ -181,23 +181,9 @@ Part or your role is to help the client in any way you can, even after project h
 
 Being able to explain to clients the thought process behind all of your production team's strategic decisions throughout the project goes a long way to educate them about how to achieve and maintain the project's goals and how the project has been designed specifically for their own business processes. In doing so you're learning about their business process, knowledge that may help you in dealing with other clients on future projects, so such a support process is mutually beneficial.
 
+Support usually involves setting an example. Your team puts together the initial content strategy, maybe even writes some sample blog posts, so you can show the client the direct benefits in terms of increased traffic. Another way of setting an example and sharing your expertise is by sharing relevant tools and articles than you and your team have used or referenced.
 
-
-
-
-Education and support can, and usually does, take the form of setting an example. Some clients may not fully understand the benefits of a content strategy, for instance, so you have to show them results. Create relevant and well-written sample blog posts for them, and show how they can drive website traffic. Share articles and case studies that relate to the new tools you’re building for them. Show them that you’re excited, because excitement is contagious. If you’re lucky and smart enough to follow Geoff Dimasi’s advice and work with clients who align with your values, this process will be automatic, because you’ll already be invested in their success.
-
-We’ve found that by fostering collaboration post-launch, we not only help our clients use our product more effectively and grow their business, but we also alleviate a lot of the panic that kicks in right before a site goes live. They know we’ll still be there to fix, tweak, analyze, and even experiment.
-
-This ongoing digital strategy concept was so natural for our business that it’s surprising it took us so long to implement it. After 10 years making websites, we’ve only offered digital strategy for the last two, and it’s already driving 50 percent of our revenue.
-
-It pays to be along for the ride
-The extra effort required for client education is worth it. By giving our clients the tools, knowledge, and passion they need to be successful with what we’ve built for them, we help them improve their business.
-
-
-
-
-Evolution not revolution, ongoing maintanance vs. redesign overhaul.
+By fostering collaboration post-handoff, you help the project owner use the product more effectively and grow their business. This also helps to alleviate the panic that naturally comes with going live because they know you'll be on hand to fix, test, and tweak. You may even find that gradually support agreements start make up a core part of your organisation's revenue and help to bring in repeat work as you are engaged to continuously update the products you build. As well as helping your clients' businesses to succeed, this makes the web a better place as a whole as those parts of it that you have put online always remain the best they can be. It's evolution, not revolution, as constant updates keep the product ahead of the curve rather than allowing it to become decrepit, forcing a difficult and expensive overhaul or redesign.
 
 
 
