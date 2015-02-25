@@ -2,6 +2,8 @@
 
 Your role is the most important. You are responsible for making sure the rest of the production team can do their jobs smoothly, for making sure the project actually gets produced, and produced to the best of your team's abilities. You are the enabler. You control chaos with a strong determined smile and a tenacious attitude that means stuff can get done. You're also squeezed in the middle of various departments and levels of seniority, being pulled in different directions, into different environments, despite everyone working towards the same goal - the project being delivered successfully. So yeah... it's stressful... but it can also reward you with the greatest sense of accomplishment as you know more than anyone how much work has gone into putting the project together. Many people fail to apprecuate just how many hats you have to wear or what skill it takes to accomplish your role.
 
+
+
 As a web project manager both the client and your team will look to you to be the fountain of knowledge, give them direction, help resolve problems and make sure everything runs smoothly by being the dependable rock when everyone else is cracking around you.
 
 In my experience, by consistently displaying a high degree of honesty, trust and integrity to everyone throughout the web project’s entire lifecycle helps improve your chances of success, cements your position as a solid leader and earns you respect from both client and project team alike.
