@@ -46,151 +46,16 @@ Remember that as the project manager you have the widest field of view over the 
 
 But you're still at risk of coming across as a negative nancy. If you really disagree with something then it's not worth wasting time complaining about it unless you're willing to try and fix it or offer a reasonable solution. Part of your role is to solve problems just as much as it is the designer and developers'. Always follow up your dream-crushing facts with either a proposed solution or a forum where a solution can be derived, such as a meeting. Maybe you can find a spare resource, adopt some clever workarounds, get more money, or reframe the problem. Find a way to get positive about it again.
 
-## Getting things done
+### Avoiding Common Pitfalls
 
-> This is your last chance. After this, there is no turning back. You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland, and I show you how deep the rabbit hole goes. Remember: all I'm offering is the truth. Nothing more.
 
-> -_Morpheus_
 
-You arrive at the office at 0930 with your day fully planned out. You finish your caffeinated beverage, catch up on a few articles, and prepare to start work. It's 0950 and you've already received 10 e-mails, the client manager has been lingering around your desk, and you have a team of designers and developers waiting for your briefing before you can start work, all of which demands presidence over your scheduled work. Should have taken the blue pill.
 
-One of the biggest challenges of project management is learning how to deal with several trillion things each day, approximately. Gone are the days of sitting down with a code editor and spending a day quietly tapping out some new algorithms, or playing around with typefaces on a blank canvas until you have that smug feeling of visual satisfaction. Every project is different. Every team is different. Yet somehow you have to stay on top of everything and maintain the steady pace of progress, like the burly drummer at the front of a dragon boat struggling through choppy waters.
 
-One approach to this daunting challenge was conceived by David Allen and is accompanied by the tagline “The Art of Stress Free Productivity”. It probably won't leave you stress free - you're still a project manager and stress is par for the course - but you will certainly be more organised and equipped to deal with your gargantuan task list after adopting this system. While we're not going to cover the system in detail here - you may want to go get the book for that - we can at least go into a few points that are useful for web project managers specifically.
 
-The main idea is to break down tasks into their smallest possible units, then organise and categorise them as “next actions” or “waiting for” items. This will help ensure you never forget to complete a task no matter how many other things you have to action, how long it's been since you last thought about it, or how small it is to other issues at hand. Everyone will want to spend time getting used to implementing this system and tweak it to their own ends. You'll need a tool like Gmail, Things, Evernote, or something capable of recording and categorising notes and tasks - devise your own system to do the following:
 
-* Scan through all your emails at the start of the day. Anything that requires you to do something, mark it as a TODO (i.e. “next action”) and drag it to a TODO folder. 
-* Anything that does not require an action should be read and archived into a project folder.
-* If an e-mail contains something that requires you to wait for something from someone else before you can action it then categorise it as “waiting” and drag it to a WAITING folder.
-* If an email contains something that you were waiting for, then immediately edit the corresponding item in the WAITING folder and then move it to the TODO folder.
-* If an email can be replied to quickly and easily and will help someone else out or help move the project forward, then it's minimal effort from you so just reply immediately and instinctively, then archive it into the appropriate project folder, or if you need to wait for a reply then move it to the WAITING folder.
 
 
-After doing this, you should have reached the fabled "inbox zero". Having an empty e-mail box does wonders for your stress levels, offering releif and a very real sense of accomplishment. Go get yourself another caffeinated beverage as a reward.
-
-Now what?
-
-Now you should go through your TODO list and prioritise them. The first item on your list each day should be the team briefing or daily standup meeting. We'll get to that later. Next thing is to go through your WAITING list to see if you need to send any reminders to anyone that they may be able to work on during the course of the day, allowing you to move the action to your TODO list as soon as possible. All that's left for the day is to go through your TODO list. If you get so many emails every day that you can't deal with them as they come in, or such that it would take too long to organise all your tasks within the first half hour of your day, then you may want to regroup in the afternoon and spend some more time going through your lists. List-making is the project manager's forté.
-
-### Dealing with Interruptions
-
-The client may call out of the blue, the client manager may still be lingering around your desk or bouldering over every 10 minutes. Your production team may be throwing questions at you left right and centre. Meanwhile, your eye keeps flicking towards your enormous TODO list. Stay calm.
-
-There are two things to do here. First is to have your handy lists on handy. Make a mental note of where you're at in what you're doing, stop, and give your time and full concentration to whoever is requesting it. Not only is it your job, but everyone will like you for it and be more understanding when you make demands on their precious time. With your lists at the ready, any actions that come up during your conversation can be put straight on the TODO list. At the end of the conversation why not take advantage of the situation and check through your WAITING list to see if there's anything this person can help you with? Maybe you can close off some issues that can help the project move forward. This will also clearly demonstrate to whoever you're dealing with that you are on top of the situation, giving them confidence in your project management capabilities.
-
-### What You Need
-
-#### Clear & Realistic Specifications
-
-You've received the project specifications from the client or the client manager and you're starting to break it down into tasks and phases. It'll inevitably start to dawn on you that the deliverables are too ambiguous or that there doesn't seem to be enough time or budget or available skills to deliver the project successfully. Right now you're the only one that knows this and you get a lump in your throat. You're going to have to let the client know. Your immediate instinct is to push back or try to redefine the project scope. This is going to lose you some valuable trust points and give the client a negative impression of you right from the start.
-
-You're going to need to try and resolve the situation and establish a project scope that you can confidently deliver. In other words, don't bitch and moan about it, but rather try one of the following to ensure you always get specifications that you can work with:
-
-* Ensure that you are always involved in the pre-sales process
-* Explain clearly and honestly the difficulty that the current scope puts you and your team in
-* Meticulously track time spent on each project phase that the sales team or client manager can use as a reference in future
-* Involve the client manager throughout the project lifecycle to help them gain an understanding of what's involved
-
-If you have any problems with the project specifications, raise it with the relevant people early and in a professional manner, and try to suggest solutions. A really great specification should allow you and your team to under sell and over deliver.
-
-#### Adequate Time
-
-Aside from how long the project itself will take is how long it will take you to manage it. Unfortunately, this is almost impossible to estimate and only gets easier with experience. Ideally you'll only be managing one project at a time but it may be the case that you have to handle multiple projects. This may be achieveable as long as your multiple projects are all staggered at different phases. Don't start more than one project at the same time.
-
-Most importantly, if at any stage you feel you don't have enough time to adequately manage your workload, raise it immediately. You are at risk of losing control of the project, which will only serve to increase your workload and stress levels, and you will inevitably take the brunt of the blame if the project fails to be a success.
-
-As with web designers and developers, if we have enough time to do our jobs properly web project managers feel more confident of delivering high quality projects and that’s what makes us happy.
-
-#### Trust and Confidence
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Trust is important to every Web Project Manager out there and is a key component in web project management. Trust from your client and your production team, or lack of, can seriously affect the result of any web project.
-
-I talked about how to gain trust from all of the above in a previous article called Web Project Management: Honesty, Trust & Integrity and it mainly revolves around conducting yourself at all time in a manner that is clearly seen as being full of honesty and integrity no matter what temptations arise.
-
-But, to a Web Project Manager, more valuable than any salary is having the trust of your superiors, because as we all know, when managing a web project you are the person right on the front line at all times, making critical decisions on a daily basis and are ultimately responsible for success or failure, and when this depends on more internal and external factors than you can shake a stick at, well… this is a very precarious position to be in!
-
-I mean let’s face it, when things go well you look like a superhero, a master of your trade and an example to everyone, but, when things don’t go so well, oh my, that is when any Web Project Manager needs, and needs to see, absolute trust from their boss and for him or her not to go all Alan Sugar on them.
-
-A spoof image showing Alan Sugar questioning a Web Project Manager about project status, the Web PM has a nervous laugh look on his faceSometimes you wish you’d just stuck to coding
-When your boss hears a web project is coming in over budget or late and you know for certain why, and that the reasons are mostly due to factors outside of your control, for them to listen to your reasons and say “I don’t think you did anything that wrong, web projects contain too many elements for you to be in full control of at all times.”, this, my Pedigree Chums, is music to our ears.
-
-Web Project Manager Tip of the Day… Get your boss to read Good Project Management Doesn’t Guarantee Project Success
-
-Of course this reaction is only possible if you have demonstrated in the past that you can effectively control web projects under the right circumstances and if it is a cast iron known fact that you always take full responsibility and admit fault if that happens to be the case, without that honesty and integrity you will never have trust from anyone.
-
-For a Web Project Manager no amount of money in the world is a substitute for feeling trusted.
-
-#### A Capable Production Team
-
-
-4. RELIABLE SUPPORT STAFF
-As a Web Project Manager you simply do not have the time to perform every task yourself during the lifecycle of a web project, this is when support staff can seem like a gift from the Gods, but there is a massive difference between support staff and reliable support staff.
-
-This kind of person is actually rare to find, but if you’re lucky enough to find one they can provide you with the vital breathing space you need in order to keep on top of all your web projects.
-
-In short, a reliable web project management support member is one who you can delegate tasks too safe in the knowledge they will be completed, and to a quality level you are happy with – sounds simple, right?
-
-Noooooo, how many times have you had to chase someone on a tasks several times, only to find that when it’s eventually finished it’s of poor quality and you mutter the immortal words under your breath “I should’ve done it my bloody self!”
-
-An image of a lego Star Wars Stormtropper from behind who is knitting with needles and a red ball of wool“WTF, I asked you to gather content from the client an hour ago!”
-DON’T JUST EXPECT SUPPORT, PROVIDE IT TOO
-Of course, finding reliable web project management support is gold dust and most Web Project Managers would take this over any financial bribe, but I believe it is crucial to not only use the support you have, but to also provide reliable support too!
-
-Offering your support to other stressed and overworked Web Project Managers (and any team members for that matter) is vitally important because it:
-
-Encourages others to support you, and each other
-Shows humility in that you don’t think you’re ‘above’ web project management support tasks
-Keeps you humble by reminding you what it’s like on the other side of things
-Just remember one thing… the golden rule of delegating tasks to others, is to always be on hand to support them while they’re completing them. There’s nothing worse than dumping a load of work on someone and not being around to answer questions or provide encouragement.
-
-Always fully appreciate a person that can provide reliable web project management support, they’re often are the unsung heroes of digital agencies!
-
-Special thank you: This is an apt point to thank my bestest pal in the world, Deb, for all the support she gives me on this blog by way of superhuman proof reading skills, thank you!!! :-)
-
-Effectively managing digital production teams of web designers and web developers is one of the black arts of web project management. If you get a great production team on a web project it will invariably be a resounding success, but if you encounter difficult production teams, then get ready for the pain!
-
-But before I get into the kind of digital production team a Web Project Manager wants more than money, it’s important to understand things from their perspective, and never has it been summarised better than in the quote below… a short must read for any Web Project Manager.
-
-“Developers often treat PM as The Source of All Evil. And to some point they’re right. It’s a project manager who brings more work. It’s a project manager who bugs everyone asking when they’re going to be done.”
-Pawel Brodzinski, What Can Project Manager Do For Developers?
-
-Having worked for a few years as a front-end developer, and been ‘affectionately’ referred to as a Code Monkey I can definitely remember and understand what it’s like on the production side of a web agency.
-
-
-
-But it’s funny how life has a way of holding a mirror up to your past behaviour as time goes by…
-
-As people who know me will testify to, when I hear digital production teams commenting about how web projects are being run, how standards are the most important thing and that more budget is needed for proper testing, I’ll often have a little ‘old wise man giggle’ to myself and think back to the time I was saying (shouting) exactly the same things to previous bosses when on the digital production team.
-
-But of course, once you cross over to the dark side of web project management everything changes.
-
-
-
-
-
-
-
-- sins
 
 WE’VE ALL BEEN TEMPTED, WE’VE ALL BEEN THERE…
 Tiresome web projects without end, endless discussions with the client, never ending resourcing problems, budget cuts, technical systems not working and changing scopes all over the place – everything turning upside down faster than you can spell change request!
@@ -480,6 +345,146 @@ We are heading towards an age of post heroic management, for which two aspects s
 The Web project Manager’s ability to let his personal motivations, goals and rewards fade into the background, and…
 Each team member’s ability to re-think their own contribution beyond a structure of assessment, delivery and hierarchy
 This concludes the Web Project Management: Seven Deadly Sins series. A big thank you to Michael for writing this incredibly extensive and enlightening article which has certainly taught me a thing a thing or two and I hope you feel the same too.
+
+
+## Getting things done
+
+> This is your last chance. After this, there is no turning back. You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland, and I show you how deep the rabbit hole goes. Remember: all I'm offering is the truth. Nothing more.
+
+> -_Morpheus_
+
+You arrive at the office at 0930 with your day fully planned out. You finish your caffeinated beverage, catch up on a few articles, and prepare to start work. It's 0950 and you've already received 10 e-mails, the client manager has been lingering around your desk, and you have a team of designers and developers waiting for your briefing before you can start work, all of which demands presidence over your scheduled work. Should have taken the blue pill.
+
+One of the biggest challenges of project management is learning how to deal with several trillion things each day, approximately. Gone are the days of sitting down with a code editor and spending a day quietly tapping out some new algorithms, or playing around with typefaces on a blank canvas until you have that smug feeling of visual satisfaction. Every project is different. Every team is different. Yet somehow you have to stay on top of everything and maintain the steady pace of progress, like the burly drummer at the front of a dragon boat struggling through choppy waters.
+
+One approach to this daunting challenge was conceived by David Allen and is accompanied by the tagline “The Art of Stress Free Productivity”. It probably won't leave you stress free - you're still a project manager and stress is par for the course - but you will certainly be more organised and equipped to deal with your gargantuan task list after adopting this system. While we're not going to cover the system in detail here - you may want to go get the book for that - we can at least go into a few points that are useful for web project managers specifically.
+
+The main idea is to break down tasks into their smallest possible units, then organise and categorise them as “next actions” or “waiting for” items. This will help ensure you never forget to complete a task no matter how many other things you have to action, how long it's been since you last thought about it, or how small it is to other issues at hand. Everyone will want to spend time getting used to implementing this system and tweak it to their own ends. You'll need a tool like Gmail, Things, Evernote, or something capable of recording and categorising notes and tasks - devise your own system to do the following:
+
+* Scan through all your emails at the start of the day. Anything that requires you to do something, mark it as a TODO (i.e. “next action”) and drag it to a TODO folder. 
+* Anything that does not require an action should be read and archived into a project folder.
+* If an e-mail contains something that requires you to wait for something from someone else before you can action it then categorise it as “waiting” and drag it to a WAITING folder.
+* If an email contains something that you were waiting for, then immediately edit the corresponding item in the WAITING folder and then move it to the TODO folder.
+* If an email can be replied to quickly and easily and will help someone else out or help move the project forward, then it's minimal effort from you so just reply immediately and instinctively, then archive it into the appropriate project folder, or if you need to wait for a reply then move it to the WAITING folder.
+
+
+After doing this, you should have reached the fabled "inbox zero". Having an empty e-mail box does wonders for your stress levels, offering releif and a very real sense of accomplishment. Go get yourself another caffeinated beverage as a reward.
+
+Now what?
+
+Now you should go through your TODO list and prioritise them. The first item on your list each day should be the team briefing or daily standup meeting. We'll get to that later. Next thing is to go through your WAITING list to see if you need to send any reminders to anyone that they may be able to work on during the course of the day, allowing you to move the action to your TODO list as soon as possible. All that's left for the day is to go through your TODO list. If you get so many emails every day that you can't deal with them as they come in, or such that it would take too long to organise all your tasks within the first half hour of your day, then you may want to regroup in the afternoon and spend some more time going through your lists. List-making is the project manager's forté.
+
+### Dealing with Interruptions
+
+The client may call out of the blue, the client manager may still be lingering around your desk or bouldering over every 10 minutes. Your production team may be throwing questions at you left right and centre. Meanwhile, your eye keeps flicking towards your enormous TODO list. Stay calm.
+
+There are two things to do here. First is to have your handy lists on handy. Make a mental note of where you're at in what you're doing, stop, and give your time and full concentration to whoever is requesting it. Not only is it your job, but everyone will like you for it and be more understanding when you make demands on their precious time. With your lists at the ready, any actions that come up during your conversation can be put straight on the TODO list. At the end of the conversation why not take advantage of the situation and check through your WAITING list to see if there's anything this person can help you with? Maybe you can close off some issues that can help the project move forward. This will also clearly demonstrate to whoever you're dealing with that you are on top of the situation, giving them confidence in your project management capabilities.
+
+### What You Need
+
+#### Clear & Realistic Specifications
+
+You've received the project specifications from the client or the client manager and you're starting to break it down into tasks and phases. It'll inevitably start to dawn on you that the deliverables are too ambiguous or that there doesn't seem to be enough time or budget or available skills to deliver the project successfully. Right now you're the only one that knows this and you get a lump in your throat. You're going to have to let the client know. Your immediate instinct is to push back or try to redefine the project scope. This is going to lose you some valuable trust points and give the client a negative impression of you right from the start.
+
+You're going to need to try and resolve the situation and establish a project scope that you can confidently deliver. In other words, don't bitch and moan about it, but rather try one of the following to ensure you always get specifications that you can work with:
+
+* Ensure that you are always involved in the pre-sales process
+* Explain clearly and honestly the difficulty that the current scope puts you and your team in
+* Meticulously track time spent on each project phase that the sales team or client manager can use as a reference in future
+* Involve the client manager throughout the project lifecycle to help them gain an understanding of what's involved
+
+If you have any problems with the project specifications, raise it with the relevant people early and in a professional manner, and try to suggest solutions. A really great specification should allow you and your team to under sell and over deliver.
+
+#### Adequate Time
+
+Aside from how long the project itself will take is how long it will take you to manage it. Unfortunately, this is almost impossible to estimate and only gets easier with experience. Ideally you'll only be managing one project at a time but it may be the case that you have to handle multiple projects. This may be achieveable as long as your multiple projects are all staggered at different phases. Don't start more than one project at the same time.
+
+Most importantly, if at any stage you feel you don't have enough time to adequately manage your workload, raise it immediately. You are at risk of losing control of the project, which will only serve to increase your workload and stress levels, and you will inevitably take the brunt of the blame if the project fails to be a success.
+
+As with web designers and developers, if we have enough time to do our jobs properly web project managers feel more confident of delivering high quality projects and that’s what makes us happy.
+
+#### Trust and Confidence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trust is important to every Web Project Manager out there and is a key component in web project management. Trust from your client and your production team, or lack of, can seriously affect the result of any web project.
+
+I talked about how to gain trust from all of the above in a previous article called Web Project Management: Honesty, Trust & Integrity and it mainly revolves around conducting yourself at all time in a manner that is clearly seen as being full of honesty and integrity no matter what temptations arise.
+
+But, to a Web Project Manager, more valuable than any salary is having the trust of your superiors, because as we all know, when managing a web project you are the person right on the front line at all times, making critical decisions on a daily basis and are ultimately responsible for success or failure, and when this depends on more internal and external factors than you can shake a stick at, well… this is a very precarious position to be in!
+
+I mean let’s face it, when things go well you look like a superhero, a master of your trade and an example to everyone, but, when things don’t go so well, oh my, that is when any Web Project Manager needs, and needs to see, absolute trust from their boss and for him or her not to go all Alan Sugar on them.
+
+A spoof image showing Alan Sugar questioning a Web Project Manager about project status, the Web PM has a nervous laugh look on his faceSometimes you wish you’d just stuck to coding
+When your boss hears a web project is coming in over budget or late and you know for certain why, and that the reasons are mostly due to factors outside of your control, for them to listen to your reasons and say “I don’t think you did anything that wrong, web projects contain too many elements for you to be in full control of at all times.”, this, my Pedigree Chums, is music to our ears.
+
+Web Project Manager Tip of the Day… Get your boss to read Good Project Management Doesn’t Guarantee Project Success
+
+Of course this reaction is only possible if you have demonstrated in the past that you can effectively control web projects under the right circumstances and if it is a cast iron known fact that you always take full responsibility and admit fault if that happens to be the case, without that honesty and integrity you will never have trust from anyone.
+
+For a Web Project Manager no amount of money in the world is a substitute for feeling trusted.
+
+#### A Capable Production Team
+
+
+4. RELIABLE SUPPORT STAFF
+As a Web Project Manager you simply do not have the time to perform every task yourself during the lifecycle of a web project, this is when support staff can seem like a gift from the Gods, but there is a massive difference between support staff and reliable support staff.
+
+This kind of person is actually rare to find, but if you’re lucky enough to find one they can provide you with the vital breathing space you need in order to keep on top of all your web projects.
+
+In short, a reliable web project management support member is one who you can delegate tasks too safe in the knowledge they will be completed, and to a quality level you are happy with – sounds simple, right?
+
+Noooooo, how many times have you had to chase someone on a tasks several times, only to find that when it’s eventually finished it’s of poor quality and you mutter the immortal words under your breath “I should’ve done it my bloody self!”
+
+An image of a lego Star Wars Stormtropper from behind who is knitting with needles and a red ball of wool“WTF, I asked you to gather content from the client an hour ago!”
+DON’T JUST EXPECT SUPPORT, PROVIDE IT TOO
+Of course, finding reliable web project management support is gold dust and most Web Project Managers would take this over any financial bribe, but I believe it is crucial to not only use the support you have, but to also provide reliable support too!
+
+Offering your support to other stressed and overworked Web Project Managers (and any team members for that matter) is vitally important because it:
+
+Encourages others to support you, and each other
+Shows humility in that you don’t think you’re ‘above’ web project management support tasks
+Keeps you humble by reminding you what it’s like on the other side of things
+Just remember one thing… the golden rule of delegating tasks to others, is to always be on hand to support them while they’re completing them. There’s nothing worse than dumping a load of work on someone and not being around to answer questions or provide encouragement.
+
+Always fully appreciate a person that can provide reliable web project management support, they’re often are the unsung heroes of digital agencies!
+
+Special thank you: This is an apt point to thank my bestest pal in the world, Deb, for all the support she gives me on this blog by way of superhuman proof reading skills, thank you!!! :-)
+
+Effectively managing digital production teams of web designers and web developers is one of the black arts of web project management. If you get a great production team on a web project it will invariably be a resounding success, but if you encounter difficult production teams, then get ready for the pain!
+
+But before I get into the kind of digital production team a Web Project Manager wants more than money, it’s important to understand things from their perspective, and never has it been summarised better than in the quote below… a short must read for any Web Project Manager.
+
+“Developers often treat PM as The Source of All Evil. And to some point they’re right. It’s a project manager who brings more work. It’s a project manager who bugs everyone asking when they’re going to be done.”
+Pawel Brodzinski, What Can Project Manager Do For Developers?
+
+Having worked for a few years as a front-end developer, and been ‘affectionately’ referred to as a Code Monkey I can definitely remember and understand what it’s like on the production side of a web agency.
+
+
+
+But it’s funny how life has a way of holding a mirror up to your past behaviour as time goes by…
+
+As people who know me will testify to, when I hear digital production teams commenting about how web projects are being run, how standards are the most important thing and that more budget is needed for proper testing, I’ll often have a little ‘old wise man giggle’ to myself and think back to the time I was saying (shouting) exactly the same things to previous bosses when on the digital production team.
+
+But of course, once you cross over to the dark side of web project management everything changes.
+
 
 
 ## Facilitating Others
