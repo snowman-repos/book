@@ -106,7 +106,23 @@ As with web designers and developers, if we have enough time to do our jobs prop
 
 
 
-3. TRUST FROM YOUR BOSS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Trust is important to every Web Project Manager out there and is a key component in web project management. Trust from your client and your production team, or lack of, can seriously affect the result of any web project.
 
 I talked about how to gain trust from all of the above in a previous article called Web Project Management: Honesty, Trust & Integrity and it mainly revolves around conducting yourself at all time in a manner that is clearly seen as being full of honesty and integrity no matter what temptations arise.
