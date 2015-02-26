@@ -1,188 +1,54 @@
 # Project Managers
 
-Your role is the most important. You are responsible for making sure the rest of the production team can do their jobs smoothly, for making sure the project actually gets produced, and produced to the best of your team's abilities. You are the enabler. You control chaos with a strong determined smile and a tenacious attitude that means stuff can get done. You're also squeezed in the middle of various departments and levels of seniority, being pulled in different directions, into different environments, despite everyone working towards the same goal - the project being delivered successfully. So yeah... it's stressful... but it can also reward you with the greatest sense of accomplishment as you know more than anyone how much work has gone into putting the project together. Many people fail to apprecuate just how many hats you have to wear or what skill it takes to accomplish your role.
+_Reading time ~ 45 minutes_
 
+Your role is the most important. Not everyone can handle this role, but given that it touches on every part of the project, it's something that every web professional should try at some point and indeed many have, with Project Managers usually having previously been designers and developers. You are responsible for making sure the rest of the production team can do their jobs smoothly, for making sure the project actually gets produced, and produced to the best of your team's abilities. You are the enabler. You control chaos with a strong determined smile and a tenacious attitude that means stuff can get done. You're also squeezed in the middle of various departments and levels of seniority, being pulled in different directions, into different environments, despite everyone working towards the same goal - the project being delivered successfully. So yeah... it's stressful... but it can also reward you with the greatest sense of accomplishment as you know more than anyone how much work has gone into putting the project together. Many people fail to appreciate just how many hats you have to wear or what skill it takes to accomplish your role, yet they all look to you to be the fountain of knowledge, to give them direction, help resolve problems, and be the steady rock while everyone else crumbles.
 
+So how are you supposed you cope? It begins with honesty, trust, and integrity. No matter what you must stay calm and give everyone the cold hard facts throughout the lifecycle of each project. This will cement your position as a leader and will earn you respect from both the client or client manager as well as the rest of the production team. An environment of mutual respect is one that is much more condusive to a productive team and a truly excellent end product. There are many points in a project when you feel you may have to withhold or sugarcoat the truth. For example, explaining why a deliverable is late, telling a team member their work isn't up to scratch, or admitting that you yourself made a mistake. This will only serve to damage your relationships in the long-run, and your role is nothing if not dependent on solid relationships. It's always obvious when people are being false or obfuscatory. Telling the truth may hurt in the short term but it will help you build stronger relationships in the longterm. Once the client gets over their anger about the late delivery, they will at least know you have the courage to tell them bad news and will be more likely to trust what you tell them going forward. This is especially valuable for long-running projects.
 
-As a web project manager both the client and your team will look to you to be the fountain of knowledge, give them direction, help resolve problems and make sure everything runs smoothly by being the dependable rock when everyone else is cracking around you.
+Similarly integrity can be displayed by admitting responsibility for a mistake that you or a team member made, openly defending a client or team member, or insisting on maintaining quality standards, despite the pressure of looming deadlines. Having the fortitude to take the flak from angry clients isn't easy, adding an unneeded and undeserved surplus to your existing stress levels, but it will earn you reputation points. If on the other hand you fail to act with honesty and integrity as a project manager then eventually those you work with will wise up and start to treat you with mistrust, which will be incredibly damaging to all your projects.
 
-In my experience, by consistently displaying a high degree of honesty, trust and integrity to everyone throughout the web project’s entire lifecycle helps improve your chances of success, cements your position as a solid leader and earns you respect from both client and project team alike.
+Project managers all too often get the blame. Designers and developers may think they always agree to any and all client requests, no matter how preposterous, and just filter them down to those doing the real work, by which point it's too late to say no. Unfortunately, this blame is sometimes deserved. A big part of your job, and part of being honest and having integrity is standing up to the clients or client managers and rejecting requests if they are going to be too difficult, out of scope, or jeopardise other parts of the project delivery. They are paying you to advise them, to tell them the cold hard facts, to protect them from poor decisions, even if it's not what they were hoping to hear. Situations when project managers might yield to such requests are when they don't have enough knowledge, experience, or confidence to challenge the request and suggest an alternative, or when they are simply feeling lazy. As a project manager you need to ensure you equip yourself with knowledge, experience, confidence, and motivation, exactly for situations like this. If you don't have the knowledge, admit this to your team; it's ok to not know about something as long as you're willing to learn, and maybe another team member could step in and fill your knowledge gap. If on the other hand it's a courage or confidence issue then fear not, for this is completely normal. To overcome that fear, practice your reasoning with other team members first to reinforce your decisions. Remember that part of your role is to provide expert consultation to the client while showing loyalty and dedication to your team. 
 
-A relationship that is based on honesty and trust with staff should create an environment of mutual respect. This environment should produce a more efficient production environment where staff are willing to go the extra mile to deliver a truly excellent product.
-Ed Richardson, Honesty is the best policy.
+Sometimes, you will fail. There will be times when, perhaps due to circumstances beyond your control, you will have to accept bad requests and deliver them to your team. As with any other team-based role, one of the most important skills is empathy. First understand the request is going to piss people off; they are going to be resentful when they work on it. Also understand that this anger and resentment is a strong emotional reaction that means they actually care about what they do, which is a very good sign - they're not just being difficult. It's better to have a designer or developer angry about something with good cause than completely indifferent to everything, delivering as much or as little as required like a mindless automaton, incapable of innovation and passion, creating lacklustre project work. Recognise your team's frustration as passion and embrace it.
 
-HONESTY AND TRUST IN WEB PROJECTS
-Of the many things you can be sure of when running any web project, one of them is that at some point you will have the choice to be honest or not so honest with either the client or your team. This choice is only ever one that takes more than a minute to debate in your Web Project Manager brain when the truth is likely to upset someone.
+Earlier we mentioned mutual respect. When delivering work requests to your team, whether deemed good or bad, you need to offer an explanation along with it. Why we need to carry out this request, why you're assigning them, what your expectations are. No explanation and it's as if you're implying they don't care, can't understand, or that their opinions on the matter are not worth anything. Web designers and developers are highly skilled and intelligent people that will definitely understand, and want to understand, the background behind each request. If a request might at first appear a trifle waste of their time, then taking the time to explain your decision on why you've accepted the request may work to turn an atmosphere of resistance and frustration into one of acceptance and motivation. If you explain the history of the decision along with the rationale, then the same clever people you're asking to execute the request will hopefully realise that they too would make the same decision in your shoes.
 
-These choices come in all sorts of shapes and sizes but invariably include:
+Honesty, integrity, trust, empathy - the character traits of a great web project manager. Now we've got that covered, let's move onto what you need to actually do in your role.
 
-Explaining to the client why a deliverable is late
-Telling a team member their work isn’t up to scratch
-Admitting you made a mistake yourself
-In each instance the temptation for most Web Project Managers, in fact all human beings, is to at least consider taking the easy route and delivering a distorted version of the truth, or in non-corporate buzzword bingo professional terms – lying.
+## Getting things done
 
-The fact of the matter is, often not being honest is the easiest option and will immediately make everyone feel great, however it’s pretty rare for this short-term easy option not to come back and bite you right on the backside and this is far more damaging to a relationship with the client or project team in the long run.
+> This is your last chance. After this, there is no turning back. You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland, and I show you how deep the rabbit hole goes. Remember: all I'm offering is the truth. Nothing more.
 
-As a Web Project Manager, by cultivating a reputation as an honest straight talking person who will always tell you the truth, no matter how bad the truth is, eventually results in most trusting you when you speak – in business no one wants to have the wool pulled over their eyes and most can spot it a mile off.
+> -_Morpheus_
 
-So the next time a client demands to know why the deliverable is late when the reason will make you or your agency look less than great, tell them the truth… It will hurt, it will sting and it will be an awkward conversation that you’ll want to end, but, in most cases once the anger has faded away the client will almost always respect you for having the balls to be honest when other weaker web project managers would’ve lied.
+You arrive at the office at 0930 with your day fully planned out. You finish your caffeinated beverage, catch up on a few articles, and prepare to start work. It's 0950 and you've already received 10 e-mails, the client manager has been lingering around your desk, and you have a team of designers and developers waiting for your briefing before you can start work, all of which demands presidence over your scheduled work. Should have taken the blue pill.
 
-The key lesson is that once a client knows you have the courage to be honest with them when it’s really bad news, they’ll completely trust you to always be honest from that point on and trust pretty much everything you say which, over the course of a project lasting months or years, is an invaluable position to be in as opposed to the oh so common vague feeling of mistrust that often exists between client and web agency.
+One of the biggest challenges of project management is learning how to deal with several trillion things each day, approximately. Gone are the days of sitting down with a code editor and spending a day quietly tapping out some new algorithms, or playing around with typefaces on a blank canvas until you have that smug feeling of visual satisfaction. Every project is different. Every team is different. Yet somehow you have to stay on top of everything and maintain the steady pace of progress, like the burly drummer at the front of a dragon boat struggling through choppy waters.
 
-INTEGRITY IN WEB PROJECT MANAGEMENT
-Defined by the English dictionary as “Steadfast adherence to a strict moral or ethical code”, integrity is something a Web Project Manager needs time to develop and demonstrate, but once you have established yourself to the client and your web team as a leader with a great deal of integrity you will find all your working relationships improve dramatically.
+One approach to this daunting challenge was conceived by David Allen and is accompanied by the tagline “The Art of Stress Free Productivity”. It probably won't leave you stress free - you're still a project manager and stress is par for the course - but you will certainly be more organised and equipped to deal with your gargantuan task list after adopting this system. While we're not going to cover the system in detail here - you may want to go get the book for that - we can at least go into a few points that are useful for web project managers specifically.
 
-Although inextricably linked with honesty and trust, integrity in web projects is all about acting in the most professional manner possible in front of your client or web team when faced with situations that require you to choose between standing by your principles, or, forgetting you have any for fear of appearing to be going against the grain.
+The main idea is to break down tasks into their smallest possible units, then organise and categorise them as “next actions” or “waiting for” items. This will help ensure you never forget to complete a task no matter how many other things you have to action, how long it's been since you last thought about it, or how small it is to other issues at hand. Everyone will want to spend time getting used to implementing this system and tweak it to their own ends. You'll need a tool like Gmail, Things, Evernote, or something capable of recording and categorising notes and tasks - devise your own system to do the following:
 
-Sometimes telling the truth will not make people happy, or make you the winner of a popularity contest. In some cases you may suffer from “loss of grace” for telling the truth or for standing up for what is right.
-Thomas M. Cunningham, US Naval Academy Fire Department, Leadership 101: Integrity.
+* Scan through all your emails at the start of the day. Anything that requires you to do something, mark it as a TODO (i.e. “next action”) and drag it to a TODO folder. 
+* Anything that does not require an action should be read and archived into a project folder.
+* If an e-mail contains something that requires you to wait for something from someone else before you can action it then categorise it as “waiting” and drag it to a WAITING folder.
+* If an email contains something that you were waiting for, then immediately edit the corresponding item in the WAITING folder and then move it to the TODO folder.
+* If an email can be replied to quickly and easily and will help someone else out or help move the project forward, then it's minimal effort from you so just reply immediately and instinctively, then archive it into the appropriate project folder, or if you need to wait for a reply then move it to the WAITING folder.
 
-Examples of displaying integrity in a web project management role include:
 
-Accepting responsibility for a mistake that you or one of your project team made
-Openly defending a project team member or client when the temptation is to keep quiet
-Insisting quality standards remain despite the temptation to cut corners
-Preceding each of the above examples comes a situation where as a Web Project Manager you will have a choice between staying quiet and letting someone else take the fall or, as Thomas Cunningham puts it, standing up for what is right.
+After doing this, you should have reached the fabled "inbox zero". Having an empty e-mail box does wonders for your stress levels, offering releif and a very real sense of accomplishment. Go get yourself another caffeinated beverage as a reward.
 
-In these instances it is you that may be hurt and stung by the response, but as with honesty, over time your team and client will respect you for choosing to take this position as your default one.
+Now what?
 
-As a Web Project Manager, failure to act with honesty and integrity will undoubtedly be your undoing. Both clients and your web project team will at some point become very wise to the fact you are keeping quiet, blaming others and treat you accordingly – with mistrust – and there is nothing more damaging to a project.
+Now you should go through your TODO list and prioritise them. The first item on your list each day should be the team briefing or daily standup meeting. We'll get to that later. Next thing is to go through your WAITING list to see if you need to send any reminders to anyone that they may be able to work on during the course of the day, allowing you to move the action to your TODO list as soon as possible. All that's left for the day is to go through your TODO list. If you get so many emails every day that you can't deal with them as they come in, or such that it would take too long to organise all your tasks within the first half hour of your day, then you may want to regroup in the afternoon and spend some more time going through your lists. List-making is the project manager's forté.
 
-Having the strength to take a few hits for your web project team or from angry clients on the phone is not easy. It will often feel like you’re getting a load of flak and stress that you really don’t need and know full well you don’t deserve, but, the trust and respect you win from the people that matter is infinitely more valuable to your projects when compared to the reputation you pick up from acting inappropriately.
+### Dealing with Interruptions
 
-If you are in a web project management position, or any other leadership or management position for that matter, I cannot recommend reading the Leadership 101: Integrity article enough – it has absolutely nothing to do with web projects but everything to do with what it means to be a great leader. If you can manage to apply even one part of it in your day job, you will be a better leader and manager for it!
+The client may call out of the blue, the client manager may still be lingering around your desk or bouldering over every 10 minutes. Your production team may be throwing questions at you left right and centre. Meanwhile, your eye keeps flicking towards your enormous TODO list. Stay calm.
 
-peaking to a web designer friend recently, the conversation naturally turned to work and I heard something for what must be the gazillionth time from so many web designers and developers…
+There are two things to do here. First is to have your handy lists on handy. Make a mental note of where you're at in what you're doing, stop, and give your time and full concentration to whoever is requesting it. Not only is it your job, but everyone will like you for it and be more understanding when you make demands on their precious time. With your lists at the ready, any actions that come up during your conversation can be put straight on the TODO list. At the end of the conversation why not take advantage of the situation and check through your WAITING list to see if there's anything this person can help you with? Maybe you can close off some issues that can help the project move forward. This will also clearly demonstrate to whoever you're dealing with that you are on top of the situation, giving them confidence in your project management capabilities.
 
-The Web Project Managers and Digital Account Managers at my place are so shit!
-
-Of course I enquire why and invariably end up hearing the same reason – that they seem to just say yes to all client requests and push them downhill to the teams doing the work, by which point it’s usually too late to say no.
-
-As much as I want to defend all Web Project Managers out there and the tough job you do, the truth is I’ve seen this myself and it seriously pissed me off too.
-
-STOP SAYING YES TO EVERYTHING DOUCHE
-Newsflash – you’re allowed to say no to clients. Maybe you can’t say it as directly as that, but you don’t have to do everything they ask, even when they ask hard.
-
-A photo of a staged interrogation scene with one man holding a box to the face of a man while another holds the head of the man who looks distressedYou WILL launch on Friday at 5pm or your conkers will end up in here!
-If you know what a client is asking you to do is silly, in my opinion, they’re paying you to tell them that, even when they don’t want to be told and even if after you tell them they get a little annoyed. It’s your job to protect the client from being silly and sometimes that means saying no when it’s going to mean pain for you.
-
-I’m not so naive that I don’t fully appreciate the times when you have to give in, I’ll come onto that later, but there are so many instances where I’ve seen a Web Project Manager or Account Manager agree to a silly client request when I’m sure it’s only because of one of the following reasons:
-
-They don’t have enough knowledge to have enough confidence to challenge the request and suggest an alternative.
-They don’t have the courage to challenge the client.
-They’re selfish, don’t care about the project or team and just want an easy life.
-Just no.
-
-Please, if this is you, I know it’s unlikely you’ll ever admit it to anyone, but that’s ok. All I ask is that you do something about it because chances are you’re providing a shoddy service to your client and causing your own colleagues a lot of pain and stress.
-
-If you don’t have enough digital knowledge to recognise a silly request and thus the confidence to challenge it and provide an alternative, start admitting this to your team. It’s absolutely fine to ‘not know’ as long as you’re willing to learn. I’ve seen rookie Junior Web Project Managers transform into kick ass fully fledged PMs simply by asking questions and having the hunger to learn. If you don’t want to or can’t be bothered to learn, please leave our profession.
-
-If you’re able to recognise a silly request but are just flat out scared to challenge the client, fear not, this is normal. However you have to overcome that fear, remember that your job is to provide expert consultation to the client and loyalty and dedication to your agency and team. It’s ok to be scared, but push through it for the client, your team and yourself.
-
-If you’re that kind of selfish Web Project Manager or Account Manager that just doesn’t care about anything but your pay check and home time while ensuring you appear brilliant to your boss, just piss off, I can’t help you, but be aware that 90% of the people around you see through you completely and think you’re shit.
-
-EMPATHISE WITH YOUR TEAM
-As a non-shit Web Project Manager you’ll know that sometimes, no matter how hard you try, the client wins and you have to swallow your pride and say yes to a silly request, and boy is that a long depressing walk to your team’s desk to give them the news.
-
-
-
-One of the most valuable skills in a Web Project Manager’s set is empathy. Without it you can’t understand clients, what they want, why they want it, your boss, your colleagues – nothing – and when you have to tell your team to execute a silly request – empathy is vital.
-
-Thus, when you have to give that awful news to your team, first understand that it’s a horrid request that’s likely to piss them off. Then appreciate that being pissed off is actually a pretty strong emotional reaction that means they actually care about what they do, a lot.
-
-Think about it, on the surface it sounds like every Web Project Manager’s dream that a team would just accept all of their decisions without fuss and do the work requested, but that would actually be horrible.
-
-That would mean you have soulless robots working for you and who on earth wants that? Not me. What innovation are robots like that going to produce? None. Will these robots ever do work that blows yours and your client’s socks off? I very much doubt it.
-
-Recognise your team’s frustration as passion, embrace it and use it.
-
-(Unless they’re being a bit of a dick of course. This happens sometimes too.)
-
-RESPECT YOUR TEAM
-An attitude I often see in shit Web Project Managers and Account Managers is potentially the most damaging one and that is when they don’t respect their teams.
-
-It sounds bizarre, but if you’ve been around long enough I’m sure you will have encountered this awful attitude. In the context of this article, this disrespectful attitude manifests itself as giving teams silly requests to do with next to no explanation whatsoever in the belief that ‘they wouldn’t care’ or much worse ‘wouldn’t understand’ ARRRRRRRGH!!!! I hate this so much I want to kill!
-
-A phot of a cat hissing in anger.Screw you shit Web Project Manager. See my hiss!
-Guess what shitty Web PMs and AMs, web designers and developers are very smart people and will definitely understand, IF you bother to respect them enough to take the time and explain it.
-
-Seriously, I’ve lost count of the amount of times I’ve had to give what appears to be a silly request to a team and been met with resistance and frustration, but each time I’m fully aware that it appears shit, but also take the time to explain why I’ve accepted the decision and am thus passing the request on – this always seems appreciated by the team and leaves things with a nice vibe rather than a crappy one.
-
-The fact of the matter is, if I’m passing on a silly request then there is probably some very good underlying commercial reason behind it that I believe makes it the right decision. If I explain the the history of that decision along with that commercial rationale, then the same smart people I’m asking to execute the request will hopefully realise that they too would make the same decision in my shoes – job done.
-
-Shit Web Project Managers, please stop being so shit. Cheers.
-
-
-
-### Getting things done
-
-16 MINUTES AS A WEB PROJECT MANAGER
-You arrive at the office at 9am with your day mapped out; you finish your coffee, catch up on a few RSS feeds and prepare to start your scheduled work feeling at one with the world. It’s now 9.16am. If you’ve received ten e-mails, two client phone calls, a good new business lead and have before you a design and development team that need briefing in order to start work – all that demand immediate attention that supersede your scheduled work…
-
-Chances are you’re a Web Project Manager and it’s a normal day at the office.
-
-WHY DIDN’T I TAKE THE BLUE PILL?
-Right about now you wonder why you ever made the switch from web developer to project manager…
-
-Moving from web development to web project management is a long and difficult journey. One of the biggest challenges along the way is learning how to deal with approximately one trillion things each day, very approximately.
-
-No two web agencies are the same and no two projects the same, but somehow you have to find a way to stay on top of things before you fall down in a crumpled heap begging for mercy. Getting Things Done, or GTD as it’s known to fellow cult members, is what personally saved me, and can save you, from becoming this broken down sorry excuse for a web project manager.
-
-GETTING THINGS DONE (GTD)
-Founded by David Allen and introduced to me by a good friend, and web guru, Branden Faulls, GTD is a system that is accompanied by the tagline “The Art of Stress Free Productivity” and while I can’t proclaim to now be stress free, I am certainly less stressed, a lot more organised and am able to deal with a great deal more than I could before adopting this system.
-
-I won’t attempt to describe in detail what GTD is as it’s a huge topic, if you want to read more your best bet is to buy the book from Amazon or download the audio book from Audible, my personal preference. What I want to discuss here is the parts of GTD I use on a daily basis that enable me to do my day-to-day web project management job.
-
-NEXT ACTIONS, WAITING FOR AND INBOX ZERO
-The primary concepts I use from GTD are ‘Next Actions’ and ‘Waiting For’ items. By using just these two GTD principles, of which there are many more, I am able to make sure I never forget to complete a task no matter how many other actions I have, how long it has been since it last entered my head or how small it is when compared to the larger issues at hand. Best of all it results in regularly achieving, on a daily basis, having no e-mails in my inbox, known in GTD circles as ‘Inbox Zero’ – this alone is guaranteed to reduce your stress levels! To learn more about Inbox Zero check out Merlin Mann’s excellent talk at Google in 2007.
-
-
-
-So, how exactly to apply these principles to my working day, it’s pretty simple really, however don’t let the simplicity lure you into thinking this happened overnight without many different attempts and approaches to implement it. It really is about trial and error, what took months to devise and get working for me at my last company completely fell over when I joined my current company Rawnet, but the overriding principles are always the same.
-
-Using the very real scenario in the opening paragraph let me explain how GTD enables me to capture and action everything…
-
-PROCESSING E-MAIL TO INBOX ZERO
-I will quickly scan all ten e-mails, looking to identify if any of them require me to do something or not, or if it was a piece of information I was waiting for:
-
-If it contains something I have to do, I will open up my Backpack list and under the Next Actions list I will prefix the ‘to do’ with a project identifier and add the action (you’d be surprised how often a huge e-mail can be digested with and result in a one line action item). I’ll then drag this e-mail to the project folder in my e-mail client and move onto the next
-If an e-mail contains no next action and no waiting for I will simply digest and drag to the project’s folder
-If an e-mail contains something I was waiting for from someone, I will locate this in my Waiting For list in Backpack and edit the item specifying the Next Action that I can now complete having got the information I needed and drag the item from the Waiting For list into the Next Actions list
-If a Waiting For item means I can quickly send off another e-mail in response that will move the project forward in two minutes, I will do so, regardless of the other high-priority things I need to do. If you can move a project forward with one quick e-mail that will no doubt take someone a while to reply to, just do it rather than capture the fact you need to! Once sent, I’ll add a new Waiting For that will remind me that I need an answer in order to progress the project
-If the Waiting For signals the end of a task and requires no Next Action I will just tick the item forever banishing it to the completed list
-The end result is all e-mails are moved out of my inbox and to the relevant project folder with all Next Actions and Waiting For items captured in my centralised master Backpack list – I then await the inevitable wave of euphoria at seeing the “No messages in your inbox” message, ahhhhh.
-
-But wait, a client’s on the phone wanting to talk about their project, now what!?
-
-UNEXPECTED CLIENT PHONE CALLS
-Out of nowhere, and before you know it, the handset is pressed to your ear and you await the unknown that is the unexpected client phone call. With baited breath you await the first question, is it a huge content delay, a 180° shift in design brief or a new piece of functionality needed? Hoorah, it’s not a big one, the client is simply asking you what dimensions the hero banner will be on the homepage and if you could possibly give their technical lead a call to discuss the required hosting configuration.
-
-What the client doesn’t know however is that the minute the phone rang, I had clicked my magic Backpack shortcut and opened my master list – while the client talks I am immediately adding Next Actions to my list, but wait, why not take advantage of this unexpected call to close off some vital issues needed to move the project forward! With a quick scan of all Waiting For items I spot three things I need from this client in order to move other phases forward, I proceed to enquire after all three and manage to get answers on two, perfect! I tick them off or change them to Next Actions and hey presto, project moved forward.
-
-This technique, and world-class Backpack quick draw speeds, allows me to:
-
-Fully concentrate on the call and the client (a client knows and doesn’t like when you’re distant or sound unsure of all of your Next Actions or Waiting For items for their project)
-Instantly and digitally capture all that the client wants without having to scribble notes I realise later I can’t read before deciphering and re-typing into a digital format, taking twice the time
-Close off outstanding issues on the spot without having to flip through a notebook looking for more illegible notes I made three weeks ago
-Being able to quickly and accurately, take client requests on board, get key information from them at the drop of the hat while being able to recite all of the Next Actions you have planned for their project makes you a more efficient web project manager and the client feel confident that you are on top of their project which equals client love, and let’s face it, that’s the love we crave isn’t it!?
-
-Although all of this sounds like a complete pain to implement, after a few days it really becomes second nature and takes just a few minutes out of your day, but boy are they minutes well spent.
-
-HOWEVER, THE IDEAL SOLUTION ELUDES ME
-Although my personal GTD inspired processes have helped me a great deal, they are by no means perfect. For instance Backpack has no way of allowing you to add deadline dates to Next Actions or Waiting For items, you can’t prioritise items in any more a sophisticated way than order by most important, not ideal.
-
-EDIT: In the sequel to this article, GTD for Web Project Management Revisted – Tracks and GTDify, I take you through my current GTD weapon of choice that is far better than Backpack and has kept me in GTD heaven for the last few months; Tracks and GTDify!
-
-FREE GTD TOOLS I RECOMMEND
-Trust me I’ve tried most of them! The following tools are the ones that stand out as having a good balance of portability and ease of use when trying to implement the GTD basics:
-
-GTD For Web Project Managament – Revisited: The sequel to this article
-Things: Mac/iPhone only, but very highly regarded
-Tracks: Ruby and web-based tool, initial testing is very positive indeed!
-Backpack: 37Signals web-based tool, excellent for more than just basic GTD
-GTD Gmail: Great tool for those who process work e-mail using Gmail
-DEVELOP YOUR OWN GTD-BASED PROCESSES
-As anyone who knows about GTD will tell you, the processes I use only make up about 5% of the entire GTD blueprint and even then don’t really follow the teachings to the letter, but they work for me at this time and at this company. I would urge all of you to try and develop your own processes based on the Next Actions and Waiting For items principles and see for yourself how organised you suddenly feel.
 
 - stress sponge
 
