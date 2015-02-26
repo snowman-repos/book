@@ -53,6 +53,7 @@ There are two things to do here. First is to have your handy lists on handy. Mak
 
 This is good general life advice. If you stay positive during a challenging time then it's more likely to yield a positive result. Conversely if you take a negative viewpoint then the chances of failure are maximised. This lesson is often misunderstood or abused in the workplace, resulting in short-term failure. Imagine a situation where a client makes a huge change request or imposes on you an unreasonable deadline, or where your production team entirely fail to deliver something promised. If you don't offer unconditional agreement, positive feedback or calm reassurance, then you may be labelled as being negative.
 
+But maybe you are being negative. Maybe what's being asked of you and your team is actually feasible? Maybe you're dooming the challenge to failure before you've even tried?
 
 
 
