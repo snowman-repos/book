@@ -49,24 +49,17 @@ The client may call out of the blue, the client manager may still be lingering a
 
 There are two things to do here. First is to have your handy lists on handy. Make a mental note of where you're at in what you're doing, stop, and give your time and full concentration to whoever is requesting it. Not only is it your job, but everyone will like you for it and be more understanding when you make demands on their precious time. With your lists at the ready, any actions that come up during your conversation can be put straight on the TODO list. At the end of the conversation why not take advantage of the situation and check through your WAITING list to see if there's anything this person can help you with? Maybe you can close off some issues that can help the project move forward. This will also clearly demonstrate to whoever you're dealing with that you are on top of the situation, giving them confidence in your project management capabilities.
 
+### Staying Positive
+
+This is good general life advice. If you stay positive during a challenging time then it's more likely to yield a positive result. Conversely if you take a negative viewpoint then the chances of failure are maximised. This lesson is often misunderstood or abused in the workplace, resulting in short-term failure. Imagine a situation where a client makes a huge change request or imposes on you an unreasonable deadline, or where your production team entirely fail to deliver something promised. If you don't offer unconditional agreement, positive feedback or calm reassurance, then you may be labelled as being negative.
+
+
+
+
 
 - stress sponge
 
-- stay positive
 
-ime and time again I read about the importance and power of being positive when it comes to not only work, but life as well. They essentially preach that if you stay positive during a challenging time then it’s more likely to yield a positive result, and conversely, if you take a negative viewpoint the chances of failure are maximised.
-
-A photograph of a vast American desert landscape with huge mountains and boulders with super imposed words reading Big Possibilities Await YouWhat’s more annoying, the crap cliché or font style and position?
-While I’m not going to dispute this, I do feel this life lesson is often misunderstood and even abused in the workplace with the result being failure in the short-term, and in the long-term a very damaging self-perpetuating culture that actually hinders businesses everywhere by scaring employees into silence and creating a delusional mindset – or as described in the fascinating article by Jason Yip.
-
-…a systemic inability to confront brutal reality.
-Why does problem-hiding occur? Jason Yip
-
-To bring it back to a web project management level, I’m talking about a situation where a client or your colleagues give you what looks like an impossible web project-based mountain to climb and when you begin to raise anything other than positive sugar coated comments you’re labelled as being negative.
-
-
-
-I’ll say it now – I think this is utter BULLSHIT.
 
 But hang on a minute, how do you know you’re not being negative? How do you know what’s being asked of you and your team is not feasible? How do you know by immediately taking this approach isn’t dooming the challenge to failure before you’ve even tried?
 
@@ -76,11 +69,6 @@ The dictionary describes ‘negativity’ as:
 Expressing, containing, or consisting of a negation, refusal, or denial – indicating opposition or resistance. Lacking positive or constructive features, unpleasant, disagreeable, gloomy, pessimistic.
 The Free Dictionary
 
-Pretty depressing huh, kind of makes you feel like the below made me feel as a child, FIGHT AGAINST THE SADNESS!
-
-
-
-Horrific! If you want to take a few minutes to recover at this point I completely understand.
 
 However when it comes to web project management I sincerely believe it is a Web Project Manager’s job to execute most of the actions listed in the first sentence of the dictionary’s definition when necessary, and absolutely at all costs never any of those in the second – thus throwing the very essence of ‘what is negativity’ in web projects into a spin.
 
