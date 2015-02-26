@@ -4,11 +4,13 @@ _Reading time ~ 45 minutes_
 
 Your role is the most important. Not everyone can handle this role, but given that it touches on every part of the project, it's something that every web professional should try at some point and indeed many have, with Project Managers usually having previously been designers and developers. You are responsible for making sure the rest of the production team can do their jobs smoothly, for making sure the project actually gets produced, and produced to the best of your team's abilities. You are the enabler. 
 
+Most people fall into web project management having previously worked in other roles, most commonly design or development. In some organisations roles are interchanged or rotated so that everyone gets a chance to be a project manager, thus giving everyone a greater commercial and logistical insight into the realities of running web projects, even businesses themselves. I like this idea. Some people will be weaker than others but they can garner support from everbody's shared experience. At the same time, being a project manager, even if only temporarily, adds value from new skills and knowledge, and generates confidence.
+
+Project management is a careful balance of priorities weighted more towards clients, budgets, and schedules, but also concerned with product content, aesthetics, technologies, and performance. Rather than having a small number of things to work on at any one time, there are seemingly countless issues to deal with and numerous key decisions to make on a daily, even hourly, basis.
+
 ---
 
-When you transfer from the digital production side of things and become a Web Project Manager your whole world is changed forever. Even if at some stage you decide to venture back into production, you will be doing so with new commercial knowledge about the realities of running web projects and in some cases businesses themselves.
 
-Suddenly your priority balance shifts slightly away from code standards and is weighted more towards clients, budgets and schedules. Rather than having one or two things to work on at a time for solid periods, you have a million things to deal with and numerous key decisions to make on a daily, and sometimes even hourly, basis.
 
 As a Web Project Manager you are constantly being pulled in three directions by the client, your boss and your production team, and each of them want different things from you at all times – somehow you have to find a way to keep everyone reasonably happy at all times – this is where a Web Project Manager would sacrifice any pay rise in the world to have an understanding production team ploughing through the work!
 
