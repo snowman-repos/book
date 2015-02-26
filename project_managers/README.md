@@ -53,78 +53,22 @@ There are two things to do here. First is to have your handy lists on handy. Mak
 
 This is good general life advice. If you stay positive during a challenging time then it's more likely to yield a positive result. Conversely if you take a negative viewpoint then the chances of failure are maximised. This lesson is often misunderstood or abused in the workplace, resulting in short-term failure. Imagine a situation where a client makes a huge change request or imposes on you an unreasonable deadline, or where your production team entirely fail to deliver something promised. If you don't offer unconditional agreement, positive feedback or calm reassurance, then you may be labelled as being negative.
 
-But maybe you are being negative. Maybe what's being asked of you and your team is actually feasible? Maybe you're dooming the challenge to failure before you've even tried? Part of your job is sometimes to provide negation, refusal, or denial, but always to avoid lacking positivity, lacking constructive criticism, or being miserable, gloomy, and unpleasant. We've all encountered negative people in this industry. There are those who are never positive about any project or strategy, and there are those who often come across as negative but are just being realistic and bravely speaking up while still pushing forward with the work. We're aiming to be the second type, of course. It's actually better to point out problems with ideas rather than always just trying to be blindly positive about everything, like some hipster valley entrpreneur who's already adopted the mentality that simply being positive means they will surely prevail.
+But maybe you are being negative. Maybe what's being asked of you and your team is actually feasible? Maybe you're dooming the challenge to failure before you've even tried? Part of your job is sometimes to provide negation, refusal, or denial, but always to avoid lacking positivity, lacking constructive criticism, or being miserable, gloomy, and unpleasant. We've all encountered negative people in this industry. There are those who are never positive about any project or strategy, and there are those who often come across as negative but are just being realistic and bravely speaking up while still pushing forward with the work. We're aiming to be the second type, of course. It's actually better to point out problems with ideas rather than always just trying to be blindly positive about everything, like some hipster valley entrpreneur who's already adopted the mentality that simply being positive means they will surely prevail. Sure, this mentality is infectious and makes for a much nicer, more motivational work environment. But being positive about everything can be dellusional - if everything is great then nothing needs to be fixed or improved. Sometimes you're just going to have to shit on people's _positive_ suggestions and requests with cold hard facts. There's not enough time, or money, or what they're asking can't be done, or it's really not a good idea because... etc. So by all means try and stay generally positive, but be prepared to be negative. How you handle your negativity situations will make or break you as a project manager though - either people will gradually resent you or come to respect your judgement. You can only learn through your mistakes so just keep making them and move forward.
+
+### Being Nicely Negative
+
+> A negative person is rarely positive, a realistic person is sometimes positive and sometimes not, but when not, always tries to get things into a state where they can feel positive about it as opposed to constantly ‘thinking positive’ and screwing up time and time again. Being realistic does not mean limiting your dreams; it simply means you make sensible steps to reaching them.
+
+> -_Sam Barnes_
+
+When it comes to disagreeing with people or expressing your concerns, never assume that they have the same level of understanding as you do. A client's request may seem so phenominally unreasonable to you that you may want to simply spontaneously combust and be done with it all. It's obviously not that unreasonable to them otherwise they wouldn't have asked, would they?
+
+Remember that as the project manager you have the widest field of view over the entire project. You know your team and their capabilities. You know what they're working on, what they need to be productive, what their limits are. You know the project, what features it entails, when everything has to be completed by and what's needed to bring each part to completion. It comes back to empathy - you need to put yourself in their shoes and understand where their request or comment is coming from. Then you need to take some time out to think before you respond. Collect your thoughts, your knowledge, and experience, and determine whether the request is actually reasonable or the comment justified. Maybe your instincts are wrong on this one. You have the facts to hand so approach the problem calmy and logically and use them to justify your response. Take the problem, break it down into smaller chunks, and assess the time, money, and people situation to determine the path of least resistance. If you still can't find a way to make it work, after sincerely trying, then you have good reasoning to go back with. Once you have these cold hard facts then even those of the sunniest disposition won't be able to refute them.
+
+But you're still at risk of coming across as a negative nancy. If you really disagree with something then it's not worth wasting time complaining about it unless you're willing to try and fix it or offer a reasonable solution. Part of your role is to solve problems just as much as it is the designer and developers'. Always follow up your dream-crushing facts with either a proposed solution or a forum where a solution can be derived, such as a meeting. Maybe you can find a spare resource, adopt some clever workarounds, get more money, or reframe the problem. Find a way to get positive about it again.
 
 
 
-
-
-
-There is absolutely no doubt in my mind that adopting this mindset will see both you and teams working for you through tough times. It is infinitely nicer to work in an environment where everyone is positive rather than negative, it motivates people, it encourages people to excel beyond their previously self-imposed limits and, just like negativity it’s highly infectious.
-
-But, and it’s a big but, at what point does positivity drift into the delusional? I’ll tell you when, it’s at the point where no amount of positive thinking in the whole wide world will revert a doomed situation into a successful one.
-
-To focus 100% on positivity, to try to trick your brain into thinking everything is great, is to prevent yourself from making an impact in your life and in the world. When you turn a blind eye to what’s wrong in the world and what’s wrong in your life, you’ll never be able to do anything to fix it.
-Joey Weber, The Case for Being Negative
-
-Positive thinking will not fill your tank with gas when you’ve run out, nor will it get your £100k web project complete for £10k – in steps the realist – or in the context of this article, the Web Project Manager.
-
-A cartoon style illustration of a man in a homemade superhero cape running towards a cliff shouting I am thinking SUPER-POSITIVELY with a footnote narrative saying Moments before tragedy struckWeeeeeee… donk!
-There will be points in a Web Project Manager’s career where they have to be the ones to put a total shitter on everyone’s ‘positive’ plans by getting annoying logical on their ass, some will call this being negative, but it isn’t, it’s just fact.
-
-Sometimes you have to ram home the dangers of blind positive thinking and stop people making huge mistakes on web projects, but the method you choose to do this can seriously make or break your reputation as a Web Project Manager – play it wrong and you’ll be labelled as negative and future sceptical stands will be ignored, play it right and over time your judgment will be trusted.
-
-THE CONFESSION
-As with any lesson in web project management I’ve ever learnt, I learnt it the hard way, by making mistake after mistake. For example, when being given completely unrealistic budgets or deadlines I’ve made a ‘you must be mental‘ face and pretty much said that.
-
-I was told to stop being so negative and to get on running the web project. I ran it to the best of my ability and of course it ran massively over schedule and budget. Was I right 99% of the time? You bet your sweet ass I was, but had I played this situation well? Hell no.
-
-What I had done was de-motivate my boss, my team, myself and spent the whole project uttering bad things and occasionally getting accused of actually causing the overrun due to my negativity – total nonsense but also a total fail on my part.
-
-A photograph of a Stormtrooper toy writing lines on a blackboard saying I will find the Droids over and over as if in detention at schoolNaughty Web Project Manager
-So what exactly did these painful lessons teach me… they taught me how to communicate realism.
-
-HOW TO BE NEGATIVE (REALISTIC)
-Below are the lessons I’ve learnt when it comes to expressing huge concerns about web projects. If only one or two Web Project Managers out there can put these into practice and save themselves from some pain, I’ll be a happy little Englishman.
-
-IT’S NOT OBVIOUS TO EVERYONE
-First of all, when I was pulling my ‘you must be mental’ face I was making the mistake of assuming that the ‘mission impossible demand’ was so obviously unachievable only a fool could think otherwise.
-
-Later I realised this is not the case and that was actually my experience managing web projects that meant I could see it immediately from a proposal, an estimate or proposed timeline, where others could not.
-
-Think Before You Speak
-
-Before you pull your version of ‘the face’ take a few minutes to consider the very real possibility that it’s not common sense but actually your skill, your expertise and the very reason they hired you that make it so clear to see – even if you’re completely right, holding back from reacting quickly will save you oodles of pain.
-
-An image of a Tweet by TheBlessMess saying Being right isn't nearly as important as knowing when to shut the hell up.Her Twitter profile says “CEO of my vagina” – genius
-IGNORE YOUR INSTINCT, MAYBE IT’S POSSIBLE
-Instead of immediately going toe-to-toe with a positive smiley person and ruin their mood and your reputation, start by being humble and consider the fact that your instincts may be wrong.
-
-Approach the problem logically i.e. take all of the requirements, break them down into smaller chunks and assign money, time or people to it on the absolute happy path where there is zero resistance and see if in fact you’re right.
-
-Try your damndest to make it work on paper, and only when you’ve sincerely tried every trick in the web project management book and still you find gaping holes can you start to take the next steps.
-
-DON’T USE YOUR OPINION, USE COLD HARD NUMBERS
-Once you’ve done all the calculations for the happy path, save it and format it in such a way that it cannot be disputed by anyone regardless of their sunny disposition. Although taking longer, this is the maths equivalent of the ‘are you mental’ face and is much more powerful, unless you’re Chuck Norris.
-
-A spoof image of Chuck Norris with the fact that Outer Space exists because it's afraid to be on the same planet with Chuck NorrisChuck Norris can use Comic Sans
-OFFER A REAL SOLUTION, AND GET POSITIVE!
-This is one of the most important lessons in web project management, if not life… if you flat out disagree with something, don’t waste the limited time you have on this planet whining about it unless you’re willing to try and fix it.
-
-As a Web Project Manager it’s your job to solve problems just as much as it is a designer’s or developer’s job.
-
-Always follow the unveiling of your dream crushing numbers with either a proposed solution or a forum where a solution can be derived. Be it by adding more resource to a web project, using clever workarounds to achieve the same goals, getting more money or phasing the solution.
-
-But don’t stop there, do the numbers on this too. Get the web project into a position where, even if it’s still going to be a mission, everyone, including you is able to get genuinely positive about it again!
-
-THE CRUX OF THE MATTER
-Anyone who hides behind the mask of eternal and permanent positivity claiming that anyone who protests are all negative, aside from getting right on my tits, need a swift kick up the behind.
-
-There is a very real difference between being negative and being realistic.
-
-A negative person is rarely positive, a realistic person is sometimes positive and sometimes not, but when not, always tries to get things into a state where they can feel positive about it as opposed to constantly ‘thinking positive’ and screwing up time and time again.
-
-Being realistic does not mean limiting your dreams; it simply means you make sensible steps to reaching them.
 
 - what you'll need and work towards
 
