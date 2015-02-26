@@ -8,31 +8,9 @@ Most people fall into web project management having previously worked in other r
 
 Project management is a careful balance of priorities weighted more towards clients, budgets, and schedules, but also concerned with product content, aesthetics, technologies, and performance. Rather than having a small number of things to work on at any one time, there are seemingly countless issues to deal with and numerous key decisions to make on a daily, even hourly, basis.
 
----
+You're stuck there in the middle of everything, with demands made on you by the client or client manager, your boss, as well as the rest of the production team. They all want different things from you at all times and you have to try and keep them all happy. Of course, you are also making constant demands from all of them, the only difference being that they're probably less understanding as dealing with interruptions isn't as much a part of their job as it is yours. In most cases, when you can be nice and organised any and all interruptions can be scheduled to reduce their impact, but when it's inevitable it helps to share an understanding of the combined pressures of budgeting, scheduling, request handling, and project planning. Thus the rest of the team learn that you have the best overview of the project and gain confidence that your decisions and interruptions are ultimately what's best for the project's success. Afterall, you must be doing something right if you keep delivering successful projects and work keeps coming in.
 
-
-
-As a Web Project Manager you are constantly being pulled in three directions by the client, your boss and your production team, and each of them want different things from you at all times – somehow you have to find a way to keep everyone reasonably happy at all times – this is where a Web Project Manager would sacrifice any pay rise in the world to have an understanding production team ploughing through the work!
-
-This means that when you’re pulling a developer off the work they’re on, breaking their flow, to fix a bug raised by a client, or you ask a designer to stick to a certain level of design so you can hit budget and schedule, the dream is to have production team members who fully appreciate the pressure you’re under and happily oblige.
-
-In most cases Web Project Managers completely understand the production team’s point of view and try to accommodate it where possible. We’ll try and organise their work into solid blocks, create task lists and test their work, but all these things have to be combined with our new pressure filled priorities, and sometimes it’s a bad mix.
-
-More than anything, Web Project Managers out there would just like a certain amount of understanding of this fact from production teams. For them to appreciate that as well as having pressures like cash flow, budgets, schedules and clients on their mind, they’re also are the one person who has the complete overview of the web project at all times and are making decisions based on that overview knowledge that’s ultimately best for the business and project.
-
-Sometimes these decisions can appear stupid, rash, akin to demanding low quality work, short sighted or naive, and in some cases they are! But as I’ve learnt over time, if a Web Project Manager seems to be a reasonably intelligent person who understands what the production teams are saying, the decision they make is probably the right one for the web project or agency overall, and if the production team continues to have a job and steady flow of web projects to work on, you can be sure the decisions made weren’t too bad at all.
-
-To all digital production teams out there, I’m pretty confident if you could spend just six months as a Web Project Manager your perspective of things would change too. You would find that when you’re pulled in lots of different directions on lots of different web projects you’re sometimes just too busy to provide the perfect brief, create all tasks as nice lists, insist on world-class quality code every time and have time to create accurate detailed functional specifications that leave not a single detail in the land of un-scoped or ambiguity…
-
-How do I know this? Because I really was once one of you, fighting for all things good and right in the world!!
-
-All we ask is you trust us. Our hearts are in the right place, we want the same things as you, but our priorities are weighted differently to yours. Surely there’s some happy place in the middle we can meet, and over time get to that place together by keeping our business healthy, steadily growing and profitable through a utopian mix of design masterpieces, technical wizardry and commercial realities…
-
-In the last two articles I’ve given just a few of the things Web Project Managers want more than money, but there are many more. However, the painful truth is getting all of these things is extremely unlikely and a little la la land given the real commercial world we live in.
-
-But, by being able to identify what these things are is the first step on the path to improving how you run web projects, how to interact and conduct yourself with your team members and superiors, and if you can improve things even slightly in all those areas, you’ll be well on your way to being a happier Web Project Manager!
-
----
+Unfortunately, as a natural consequence of your large and scattered workload, you can't be expected to always provide perfectly detailed, scoped, and unambiguous briefs and specifications, perfectly accurate costs and timelines, or tease out world-class design work and code. You can't be expected to please everyone all the time. But that of course is the goal and all you can ask for is trust that you're doing your best to work towards it. It's not easy, but hopefully by following some of the advice in this chapter you can be a happier, more productive, and more successful web project manager.
 
 ## The Right Mindset
 
