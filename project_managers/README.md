@@ -67,38 +67,27 @@ Remember that as the project manager you have the widest field of view over the 
 
 But you're still at risk of coming across as a negative nancy. If you really disagree with something then it's not worth wasting time complaining about it unless you're willing to try and fix it or offer a reasonable solution. Part of your role is to solve problems just as much as it is the designer and developers'. Always follow up your dream-crushing facts with either a proposed solution or a forum where a solution can be derived, such as a meeting. Maybe you can find a spare resource, adopt some clever workarounds, get more money, or reframe the problem. Find a way to get positive about it again.
 
-### What You Need
+### What You Need to Get the Job Done
+
+#### Clear & Realistic Specifications
+
+You've received the project specifications from the client or the client manager and you're starting to break it down into tasks and phases. It'll inevitably start to dawn on you that the deliverables are too ambiguous or that there doesn't seem to be enough time or budget or available skills to deliver the project successfully. Right now you're the only one that knows this and you get a lump in your throat. You're going to have to let the client know. Your immediate instinct is to push back or try to redefine the project scope. This is going to lose you some valuable trust points and give the client a negative impression of you right from the start.
+
+You're going to need to try and resolve the situation and establish a project scope that you can confidently deliver. In other words, don't bitch and moan about it, but rather try one of the following to ensure you always get specifications that you can work with:
+
+* Ensure that you are always involved in the pre-sales process
+* Explain clearly and honestly the difficulty that the current scope puts you and your team in
+* Meticulously track time spent on each project phase that the sales team or client manager can use as a reference in future
+* Involve the client manager throughout the project lifecycle to help them gain an understanding of what's involved
+
+If you have any problems with the project specifications, raise it with the relevant people early and in a professional manner, and try to suggest solutions. A really great specification should allow you and your team to under sell and over deliver.
+
+#### Adequate Time
 
 
 
 
 
-
-
-
-1. A SOLID PRE-SALES PROCESS
-So a brand new web project is heading your way, it sounds awesome; you’re excited and can’t wait to get your teeth into it. You begin to the review all of the pre-sales documentation with the intention of beginning to plan the web project.
-
-As you start to break down the project into tasks and allocate time, your web project management instinct and experience kicks in as the horrid reality dawns on you that the deliverables are ambiguous and what’s been sold looks unrealistic for the time and budget, and at this finite moment in time, you’re the only one that realises it – you bow your head and weep like a little girl.
-
-An image of a web project manager fallen face first off his chair onto the floor.Web Project Managers are masters at subtle body language
-Inheriting a web project with these kinds of issues puts the Web Project Manager in a very tricky situation from the start where one of the first actions is to start to push the client back on things and re-define project scope. This immediately affects how the client feels about you and makes trust that much harder to gain – trust from a client being one of the most important factors in web project success and is always formed most strongly at the beginning of a business relationship.
-
-When I hear of this situation arising it reminds me of an article by Rob Borley called Under Sell and Over Deliver. The article title pretty much says it all and I’m sure it’s the dream of all the Web Project Managers out there, much more so than a pay rise.
-
-HAVE A WHINGE, THEN TRY TO FIX THE PROBLEM
-However, if you’re finding yourself in this position more and more, rather than bitch and moan (well, at least after bitching and moaning) I would suggest you try doing something to help resolve the situation, for example:
-
-Speak to the people selling web projects and explain what the problem is and the position it puts you and the agency in
-Try to get involved in the pre-sales process so you can identify potential issues early on
-Track all project actual vs. actual times so you can give average percentages for project phases (handy when sales people know the budget they have to work with)
-Involve the sales people in parts of projects so they can understand what they’re selling a little more
-Have a major hissy fit at whoever sold the project until they burst into tears
-Too often do I hear of people complaining about elements of their job yet they consistently choose to do nothing constructive to try and resolve the situation – to me this is just gutless whining and I have no time for it.
-
-If you have a problem, raise it with the relevant people in a professional manner and try to suggest solutions, in most cases the recipient will be understanding and take your comments on board for next time – and if they don’t, proceed to Step 5.
-
-2. ADEQUATE TIME TO MANAGE PROJECTS
 Web project management takes time and there is nothing worse than being forced to manage web projects without enough time to perform even the basic project management necessities e.g. regular monitoring of budgets, schedules and tasks all the way through the lifecycle – but, how much time should a web project manager need per project? 10%, 15%, 20% of the project?
 
 How much time a web project manager needs is very much a ‘how long is a piece of string’ question given how different web projects can be, some are simple and take little time, some are little but have a difficult client and thus take a long time, and others are tantamount to delivering the Death Star project before the Ewoks have a chance to help destroy it.
