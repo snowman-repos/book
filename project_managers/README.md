@@ -53,35 +53,12 @@ There are two things to do here. First is to have your handy lists on handy. Mak
 
 This is good general life advice. If you stay positive during a challenging time then it's more likely to yield a positive result. Conversely if you take a negative viewpoint then the chances of failure are maximised. This lesson is often misunderstood or abused in the workplace, resulting in short-term failure. Imagine a situation where a client makes a huge change request or imposes on you an unreasonable deadline, or where your production team entirely fail to deliver something promised. If you don't offer unconditional agreement, positive feedback or calm reassurance, then you may be labelled as being negative.
 
-But maybe you are being negative. Maybe what's being asked of you and your team is actually feasible? Maybe you're dooming the challenge to failure before you've even tried?
+But maybe you are being negative. Maybe what's being asked of you and your team is actually feasible? Maybe you're dooming the challenge to failure before you've even tried? Part of your job is sometimes to provide negation, refusal, or denial, but always to avoid lacking positivity, lacking constructive criticism, or being miserable, gloomy, and unpleasant. We've all encountered negative people in this industry. There are those who are never positive about any project or strategy, and there are those who often come across as negative but are just being realistic and bravely speaking up while still pushing forward with the work. We're aiming to be the second type, of course. It's actually better to point out problems with ideas rather than always just trying to be blindly positive about everything, like some hipster valley entrpreneur who's already adopted the mentality that simply being positive means they will surely prevail.
 
 
 
 
-- stress sponge
 
-
-
-But hang on a minute, how do you know you’re not being negative? How do you know what’s being asked of you and your team is not feasible? How do you know by immediately taking this approach isn’t dooming the challenge to failure before you’ve even tried?
-
-NEGATIVITY EXPLORED
-The dictionary describes ‘negativity’ as:
-
-Expressing, containing, or consisting of a negation, refusal, or denial – indicating opposition or resistance. Lacking positive or constructive features, unpleasant, disagreeable, gloomy, pessimistic.
-The Free Dictionary
-
-
-However when it comes to web project management I sincerely believe it is a Web Project Manager’s job to execute most of the actions listed in the first sentence of the dictionary’s definition when necessary, and absolutely at all costs never any of those in the second – thus throwing the very essence of ‘what is negativity’ in web projects into a spin.
-
-It’s my belief that there are two types of people labelled as negative in digital agencies:
-
-A person who’s never positive about any web project or agency strategies
-A person who’s realistic and isn’t afraid to speak up while others are afraid
-A photograph of a ginger coloured cat sat down looking extremely grumpyA feline representation of a Type 1
-For the purposes of this article I’m going to ignore the Type 1 people and leave them with their dehumanised droid-esque title but want to emphasis just how different these two types are.
-
-THE DANGERS OF BLIND POSITIVE THINKING
-Before I get into why negativity isn’t always bad, let’s look at the benefits of blind positive thinking. I use this term to refer to the mentality adopted by some whereby no matter what the challenge they believe simply by being positive means they will prevail – an attitude commonly associated with entrepreneurs.
 
 There is absolutely no doubt in my mind that adopting this mindset will see both you and teams working for you through tough times. It is infinitely nicer to work in an environment where everyone is positive rather than negative, it motivates people, it encourages people to excel beyond their previously self-imposed limits and, just like negativity it’s highly infectious.
 
