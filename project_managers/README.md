@@ -50,53 +50,12 @@ But you're still at risk of coming across as a negative nancy. If you really dis
 
 Preparing for the worst should put you in a good position to deal with problems when they inevitably arise. Some projects seem endless, you often don't have enough resources, technical systems and tools break down, people get sick, clients or bosses try to micromanage, and sooner or later everything turns into a disaster. Web projects are confusing. The most common pitfall lies in miscommunication that serves to add to that confusion.
 
+Never assume that you know better than the client or that you understand the pressures that they too are under. They may have superiors to report to or a team of stakeholders to juggle. Add to that they probably don't have as much experience as you with working on the web. While some of their requests may seem ridiculous to you, they are entirely serious. You have to resist the temptation to be condescending or patronising in any way but rather remain polite and helpful. Frame your replies to such a request in terms of previously agreed steps in the process, highlighting the tasks that you and your team are currently working on and how you will aim towards achieving the underlying goal behind the request. Coming back with useful and reassuring information not only satisfies the client but also provides them with something to go back to their own team with. 
+
+Avoid using jargon.
 
 
 
-
-
-1. VANITY – “WE KNOW BETTER THAN THE CLIENT!”
-Let’s assume you work for an agency which has a certain experience in the field and has been running web projects for several years now, think how many projects have you and your team been involved in? 20? 50? Maybe even 100…
-
-An average client has run only a few and often has only one primary goal; he or she needs to satisfy the expectations that have been set by their superiors.
-
-While it has become commonplace in web agencies to internally share the most outrageous briefings and the insane functionality requests for a good laugh with the project team, it should always be coupled with attempting to help your client by communicating with them better.
-
-Of course you know more about web projects and web project management – so why don’t you start educating your clients accordingly? Take the following example of client feedback we’ve all heard and laughed at:
-
-“Thank you for the screenshot of the HTML newsletter you sent. The layout looks ok, and the copy looks good. But not a single link works in the .jpg file you’ve sent me. You are going to fix that before sending the campaign, right?”
-
-There is a wrong and a right response to this request. If you’re pressed for time, simply reply:
-
-“Yep, we’ll take care of everything before we send it out.”
-
-Don’t reply with:
-
-“This is a screen shot, you stupid butthole! Of course the links don’t work in it!”
-
-If you’re a patient person with nerves of steel, you could say:
-
-“Hey, thanks for your feedback. We’ll take this as approval for the newsletter layout and content, and will make sure that all the links in the final version are functional and being tracked. Our technicians cannot yet exactly predict how long it takes to complete the newsletter batch delivery for all 3428 addresses, but we have scheduled to send the first campaign blast with 500 addresses at 2am tonight.
-
-The file you’ve reviewed represents just an image version (jpg) of the final newsletter file (HTML) and thus doesn’t include any active link functionality. This is to ensure we do not inflate the click-through numbers during testing…”
-
-See the difference? Embedding your sharp reply inside a plethora of “this will happen next in the process” information is serving two purposes:
-
-It gives the client more information that they can hand over to their respective superiors
-It educates the client about some tiny details in web technology
-A colleague of mine once labelled this approach as “killing with kindness”.
-
-Admittedly it takes time to write such lengthy replies. But by tying your reply to the next steps in the agreed process you do yourself and your client several favours:
-
-You’re re-assuring your own understanding of the tasks that need completing
-You give them the correct language to frame the project status and next steps to their superiors
-This makes it easier to deal with upcoming requests from the client’s organisation as you easily can prove how deeply intertwined the single tasks are.
-
-Also, at all times you are depending on your client’s political position within their own organisation and are literally casting silver bullets for them that they can fire from their corporate rifle. They may use the additional and contextual information that you give them to brag, fight back unreasonable requests or to claim as their own, but in all cases you can assist in making your client appear in a brighter light by filling them with web project specific information and terminology.
-
-Remember, as a Web Project Manager one of your many roles is to make the client look fantastic to their superiors, do this and you’ll only improve your chances of repeat business.
-
-But wait, isn’t that the job of the Account Manager?
 
 2. ENVY – “ACCOUNT MANAGEMENT… I COULD DO A BETTER JOB MYSELF!”
 Many times I’ve witnessed Account Managers leave the office, much to the envy of the web project team and Web Project Manager as they are still clocking the hours up long into the night. As the leader of a web project team you are of course, more often than not, sharing cold pizza with your project team rather than seeing your friends and family in the evening.
