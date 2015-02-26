@@ -48,23 +48,12 @@ But you're still at risk of coming across as a negative nancy. If you really dis
 
 ### Avoiding Common Pitfalls
 
+Preparing for the worst should put you in a good position to deal with problems when they inevitably arise. Some projects seem endless, you often don't have enough resources, technical systems and tools break down, people get sick, clients or bosses try to micromanage, and sooner or later everything turns into a disaster. Web projects are confusing. The most common pitfall lies in miscommunication that serves to add to that confusion.
 
 
 
 
 
-
-
-
-
-WE’VE ALL BEEN TEMPTED, WE’VE ALL BEEN THERE…
-Tiresome web projects without end, endless discussions with the client, never ending resourcing problems, budget cuts, technical systems not working and changing scopes all over the place – everything turning upside down faster than you can spell change request!
-
-No doubt about it, Web Project Management is not an easy job.
-
-However, during my own involvement with web projects I’ve had to witness particular things which were said by team members, in front of the client, and within the team itself, and these things did nothing else but add to the confusion and difficulties that all web projects already have too much of even at the best of times, making the job of the Web Project Manager that much more challenging.
-
-I tend to call these things the “Seven Deadly Sins of Web Project Management” and within this series of four articles I will describe and illustrate them, with examples – along with my best practice advice on how to deal with the temptations we all face.
 
 1. VANITY – “WE KNOW BETTER THAN THE CLIENT!”
 Let’s assume you work for an agency which has a certain experience in the field and has been running web projects for several years now, think how many projects have you and your team been involved in? 20? 50? Maybe even 100…
