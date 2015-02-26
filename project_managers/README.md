@@ -67,10 +67,14 @@ Remember that as the project manager you have the widest field of view over the 
 
 But you're still at risk of coming across as a negative nancy. If you really disagree with something then it's not worth wasting time complaining about it unless you're willing to try and fix it or offer a reasonable solution. Part of your role is to solve problems just as much as it is the designer and developers'. Always follow up your dream-crushing facts with either a proposed solution or a forum where a solution can be derived, such as a meeting. Maybe you can find a spare resource, adopt some clever workarounds, get more money, or reframe the problem. Find a way to get positive about it again.
 
+### What You Need
 
 
 
-- what you'll need and work towards
+
+
+
+
 
 1. A SOLID PRE-SALES PROCESS
 So a brand new web project is heading your way, it sounds awesome; you’re excited and can’t wait to get your teeth into it. You begin to the review all of the pre-sales documentation with the intention of beginning to plan the web project.
