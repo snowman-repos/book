@@ -2,7 +2,39 @@
 
 _Reading time ~ 45 minutes_
 
-Your role is the most important. Not everyone can handle this role, but given that it touches on every part of the project, it's something that every web professional should try at some point and indeed many have, with Project Managers usually having previously been designers and developers. You are responsible for making sure the rest of the production team can do their jobs smoothly, for making sure the project actually gets produced, and produced to the best of your team's abilities. You are the enabler. You control chaos with a strong determined smile and a tenacious attitude that means stuff can get done. You're also squeezed in the middle of various departments and levels of seniority, being pulled in different directions, into different environments, despite everyone working towards the same goal - the project being delivered successfully. So yeah... it's stressful... but it can also reward you with the greatest sense of accomplishment as you know more than anyone how much work has gone into putting the project together. Many people fail to appreciate just how many hats you have to wear or what skill it takes to accomplish your role, yet they all look to you to be the fountain of knowledge, to give them direction, help resolve problems, and be the steady rock while everyone else crumbles.
+Your role is the most important. Not everyone can handle this role, but given that it touches on every part of the project, it's something that every web professional should try at some point and indeed many have, with Project Managers usually having previously been designers and developers. You are responsible for making sure the rest of the production team can do their jobs smoothly, for making sure the project actually gets produced, and produced to the best of your team's abilities. You are the enabler. 
+
+---
+
+When you transfer from the digital production side of things and become a Web Project Manager your whole world is changed forever. Even if at some stage you decide to venture back into production, you will be doing so with new commercial knowledge about the realities of running web projects and in some cases businesses themselves.
+
+Suddenly your priority balance shifts slightly away from code standards and is weighted more towards clients, budgets and schedules. Rather than having one or two things to work on at a time for solid periods, you have a million things to deal with and numerous key decisions to make on a daily, and sometimes even hourly, basis.
+
+As a Web Project Manager you are constantly being pulled in three directions by the client, your boss and your production team, and each of them want different things from you at all times – somehow you have to find a way to keep everyone reasonably happy at all times – this is where a Web Project Manager would sacrifice any pay rise in the world to have an understanding production team ploughing through the work!
+
+This means that when you’re pulling a developer off the work they’re on, breaking their flow, to fix a bug raised by a client, or you ask a designer to stick to a certain level of design so you can hit budget and schedule, the dream is to have production team members who fully appreciate the pressure you’re under and happily oblige.
+
+In most cases Web Project Managers completely understand the production team’s point of view and try to accommodate it where possible. We’ll try and organise their work into solid blocks, create task lists and test their work, but all these things have to be combined with our new pressure filled priorities, and sometimes it’s a bad mix.
+
+More than anything, Web Project Managers out there would just like a certain amount of understanding of this fact from production teams. For them to appreciate that as well as having pressures like cash flow, budgets, schedules and clients on their mind, they’re also are the one person who has the complete overview of the web project at all times and are making decisions based on that overview knowledge that’s ultimately best for the business and project.
+
+Sometimes these decisions can appear stupid, rash, akin to demanding low quality work, short sighted or naive, and in some cases they are! But as I’ve learnt over time, if a Web Project Manager seems to be a reasonably intelligent person who understands what the production teams are saying, the decision they make is probably the right one for the web project or agency overall, and if the production team continues to have a job and steady flow of web projects to work on, you can be sure the decisions made weren’t too bad at all.
+
+To all digital production teams out there, I’m pretty confident if you could spend just six months as a Web Project Manager your perspective of things would change too. You would find that when you’re pulled in lots of different directions on lots of different web projects you’re sometimes just too busy to provide the perfect brief, create all tasks as nice lists, insist on world-class quality code every time and have time to create accurate detailed functional specifications that leave not a single detail in the land of un-scoped or ambiguity…
+
+How do I know this? Because I really was once one of you, fighting for all things good and right in the world!!
+
+All we ask is you trust us. Our hearts are in the right place, we want the same things as you, but our priorities are weighted differently to yours. Surely there’s some happy place in the middle we can meet, and over time get to that place together by keeping our business healthy, steadily growing and profitable through a utopian mix of design masterpieces, technical wizardry and commercial realities…
+
+In the last two articles I’ve given just a few of the things Web Project Managers want more than money, but there are many more. However, the painful truth is getting all of these things is extremely unlikely and a little la la land given the real commercial world we live in.
+
+But, by being able to identify what these things are is the first step on the path to improving how you run web projects, how to interact and conduct yourself with your team members and superiors, and if you can improve things even slightly in all those areas, you’ll be well on your way to being a happier Web Project Manager!
+
+---
+
+## The Right Mindset
+
+You control chaos with a strong determined smile and a tenacious attitude that means stuff can get done. You're also squeezed in the middle of various departments and levels of seniority, being pulled in different directions, into different environments, despite everyone working towards the same goal - the project being delivered successfully. So yeah... it's stressful... but it can also reward you with the greatest sense of accomplishment as you know more than anyone how much work has gone into putting the project together. Many people fail to appreciate just how many hats you have to wear or what skill it takes to accomplish your role, yet they all look to you to be the fountain of knowledge, to give them direction, help resolve problems, and be the steady rock while everyone else crumbles.
 
 So how are you supposed you cope? It begins with honesty, trust, and integrity. No matter what you must stay calm and give everyone the cold hard facts throughout the lifecycle of each project. This will cement your position as a leader and will earn you respect from both the client or client manager as well as the rest of the production team. An environment of mutual respect is one that is much more condusive to a productive team and a truly excellent end product. There are many points in a project when you feel you may have to withhold or sugarcoat the truth. For example, explaining why a deliverable is late, telling a team member their work isn't up to scratch, or admitting that you yourself made a mistake. This will only serve to damage your relationships in the long-run, and your role is nothing if not dependent on solid relationships. It's always obvious when people are being false or obfuscatory. Telling the truth may hurt in the short term but it will help you build stronger relationships in the longterm. Once the client gets over their anger about the late delivery, they will at least know you have the courage to tell them bad news and will be more likely to trust what you tell them going forward. This is especially valuable for long-running projects.
 
@@ -14,7 +46,25 @@ Sometimes, you will fail. There will be times when, perhaps due to circumstances
 
 Earlier we mentioned mutual respect. When delivering work requests to your team, whether deemed good or bad, you need to offer an explanation along with it. Why we need to carry out this request, why you're assigning them, what your expectations are. No explanation and it's as if you're implying they don't care, can't understand, or that their opinions on the matter are not worth anything. Web designers and developers are highly skilled and intelligent people that will definitely understand, and want to understand, the background behind each request. If a request might at first appear a trifle waste of their time, then taking the time to explain your decision on why you've accepted the request may work to turn an atmosphere of resistance and frustration into one of acceptance and motivation. If you explain the history of the decision along with the rationale, then the same clever people you're asking to execute the request will hopefully realise that they too would make the same decision in your shoes.
 
-Honesty, integrity, trust, empathy - the character traits of a great web project manager. Now we've got that covered, let's move onto what you need to actually do in your role.
+Honesty, integrity, trust, empathy - the character traits of a great web project manager.
+
+### Staying Positive
+
+This is good general life advice. If you stay positive during a challenging time then it's more likely to yield a positive result. Conversely if you take a negative viewpoint then the chances of failure are maximised. This lesson is often misunderstood or abused in the workplace, resulting in short-term failure. Imagine a situation where a client makes a huge change request or imposes on you an unreasonable deadline, or where your production team entirely fail to deliver something promised. If you don't offer unconditional agreement, positive feedback or calm reassurance, then you may be labelled as being negative.
+
+But maybe you are being negative. Maybe what's being asked of you and your team is actually feasible? Maybe you're dooming the challenge to failure before you've even tried? Part of your job is sometimes to provide negation, refusal, or denial, but always to avoid lacking positivity, lacking constructive criticism, or being miserable, gloomy, and unpleasant. We've all encountered negative people in this industry. There are those who are never positive about any project or strategy, and there are those who often come across as negative but are just being realistic and bravely speaking up while still pushing forward with the work. We're aiming to be the second type, of course. It's actually better to point out problems with ideas rather than always just trying to be blindly positive about everything, like some hipster valley entrpreneur who's already adopted the mentality that simply being positive means they will surely prevail. Sure, this mentality is infectious and makes for a much nicer, more motivational work environment. But being positive about everything can be dellusional - if everything is great then nothing needs to be fixed or improved. Sometimes you're just going to have to shit on people's _positive_ suggestions and requests with cold hard facts. There's not enough time, or money, or what they're asking can't be done, or it's really not a good idea because... etc. So by all means try and stay generally positive, but be prepared to be negative. How you handle your negativity situations will make or break you as a project manager though - either people will gradually resent you or come to respect your judgement. You can only learn through your mistakes so just keep making them and move forward.
+
+### Being Nicely Negative
+
+> A negative person is rarely positive, a realistic person is sometimes positive and sometimes not, but when not, always tries to get things into a state where they can feel positive about it as opposed to constantly ‘thinking positive’ and screwing up time and time again. Being realistic does not mean limiting your dreams; it simply means you make sensible steps to reaching them.
+
+> -_Sam Barnes_
+
+When it comes to disagreeing with people or expressing your concerns, never assume that they have the same level of understanding as you do. A client's request may seem so phenominally unreasonable to you that you may want to simply spontaneously combust and be done with it all. It's obviously not that unreasonable to them otherwise they wouldn't have asked, would they?
+
+Remember that as the project manager you have the widest field of view over the entire project. You know your team and their capabilities. You know what they're working on, what they need to be productive, what their limits are. You know the project, what features it entails, when everything has to be completed by and what's needed to bring each part to completion. It comes back to empathy - you need to put yourself in their shoes and understand where their request or comment is coming from. Then you need to take some time out to think before you respond. Collect your thoughts, your knowledge, and experience, and determine whether the request is actually reasonable or the comment justified. Maybe your instincts are wrong on this one. You have the facts to hand so approach the problem calmy and logically and use them to justify your response. Take the problem, break it down into smaller chunks, and assess the time, money, and people situation to determine the path of least resistance. If you still can't find a way to make it work, after sincerely trying, then you have good reasoning to go back with. Once you have these cold hard facts then even those of the sunniest disposition won't be able to refute them.
+
+But you're still at risk of coming across as a negative nancy. If you really disagree with something then it's not worth wasting time complaining about it unless you're willing to try and fix it or offer a reasonable solution. Part of your role is to solve problems just as much as it is the designer and developers'. Always follow up your dream-crushing facts with either a proposed solution or a forum where a solution can be derived, such as a meeting. Maybe you can find a spare resource, adopt some clever workarounds, get more money, or reframe the problem. Find a way to get positive about it again.
 
 ## Getting things done
 
@@ -49,25 +99,7 @@ The client may call out of the blue, the client manager may still be lingering a
 
 There are two things to do here. First is to have your handy lists on handy. Make a mental note of where you're at in what you're doing, stop, and give your time and full concentration to whoever is requesting it. Not only is it your job, but everyone will like you for it and be more understanding when you make demands on their precious time. With your lists at the ready, any actions that come up during your conversation can be put straight on the TODO list. At the end of the conversation why not take advantage of the situation and check through your WAITING list to see if there's anything this person can help you with? Maybe you can close off some issues that can help the project move forward. This will also clearly demonstrate to whoever you're dealing with that you are on top of the situation, giving them confidence in your project management capabilities.
 
-### Staying Positive
-
-This is good general life advice. If you stay positive during a challenging time then it's more likely to yield a positive result. Conversely if you take a negative viewpoint then the chances of failure are maximised. This lesson is often misunderstood or abused in the workplace, resulting in short-term failure. Imagine a situation where a client makes a huge change request or imposes on you an unreasonable deadline, or where your production team entirely fail to deliver something promised. If you don't offer unconditional agreement, positive feedback or calm reassurance, then you may be labelled as being negative.
-
-But maybe you are being negative. Maybe what's being asked of you and your team is actually feasible? Maybe you're dooming the challenge to failure before you've even tried? Part of your job is sometimes to provide negation, refusal, or denial, but always to avoid lacking positivity, lacking constructive criticism, or being miserable, gloomy, and unpleasant. We've all encountered negative people in this industry. There are those who are never positive about any project or strategy, and there are those who often come across as negative but are just being realistic and bravely speaking up while still pushing forward with the work. We're aiming to be the second type, of course. It's actually better to point out problems with ideas rather than always just trying to be blindly positive about everything, like some hipster valley entrpreneur who's already adopted the mentality that simply being positive means they will surely prevail. Sure, this mentality is infectious and makes for a much nicer, more motivational work environment. But being positive about everything can be dellusional - if everything is great then nothing needs to be fixed or improved. Sometimes you're just going to have to shit on people's _positive_ suggestions and requests with cold hard facts. There's not enough time, or money, or what they're asking can't be done, or it's really not a good idea because... etc. So by all means try and stay generally positive, but be prepared to be negative. How you handle your negativity situations will make or break you as a project manager though - either people will gradually resent you or come to respect your judgement. You can only learn through your mistakes so just keep making them and move forward.
-
-### Being Nicely Negative
-
-> A negative person is rarely positive, a realistic person is sometimes positive and sometimes not, but when not, always tries to get things into a state where they can feel positive about it as opposed to constantly ‘thinking positive’ and screwing up time and time again. Being realistic does not mean limiting your dreams; it simply means you make sensible steps to reaching them.
-
-> -_Sam Barnes_
-
-When it comes to disagreeing with people or expressing your concerns, never assume that they have the same level of understanding as you do. A client's request may seem so phenominally unreasonable to you that you may want to simply spontaneously combust and be done with it all. It's obviously not that unreasonable to them otherwise they wouldn't have asked, would they?
-
-Remember that as the project manager you have the widest field of view over the entire project. You know your team and their capabilities. You know what they're working on, what they need to be productive, what their limits are. You know the project, what features it entails, when everything has to be completed by and what's needed to bring each part to completion. It comes back to empathy - you need to put yourself in their shoes and understand where their request or comment is coming from. Then you need to take some time out to think before you respond. Collect your thoughts, your knowledge, and experience, and determine whether the request is actually reasonable or the comment justified. Maybe your instincts are wrong on this one. You have the facts to hand so approach the problem calmy and logically and use them to justify your response. Take the problem, break it down into smaller chunks, and assess the time, money, and people situation to determine the path of least resistance. If you still can't find a way to make it work, after sincerely trying, then you have good reasoning to go back with. Once you have these cold hard facts then even those of the sunniest disposition won't be able to refute them.
-
-But you're still at risk of coming across as a negative nancy. If you really disagree with something then it's not worth wasting time complaining about it unless you're willing to try and fix it or offer a reasonable solution. Part of your role is to solve problems just as much as it is the designer and developers'. Always follow up your dream-crushing facts with either a proposed solution or a forum where a solution can be derived, such as a meeting. Maybe you can find a spare resource, adopt some clever workarounds, get more money, or reframe the problem. Find a way to get positive about it again.
-
-### What You Need to Get the Job Done
+### What You Need
 
 #### Clear & Realistic Specifications
 
@@ -84,32 +116,15 @@ If you have any problems with the project specifications, raise it with the rele
 
 #### Adequate Time
 
+Aside from how long the project itself will take is how long it will take you to manage it. Unfortunately, this is almost impossible to estimate and only gets easier with experience. Ideally you'll only be managing one project at a time but it may be the case that you have to handle multiple projects. This may be achieveable as long as your multiple projects are all staggered at different phases. Don't start more than one project at the same time.
+
+Most importantly, if at any stage you feel you don't have enough time to adequately manage your workload, raise it immediately. You are at risk of losing control of the project, which will only serve to increase your workload and stress levels, and you will inevitably take the brunt of the blame if the project fails to be a success.
+
+As with web designers and developers, if we have enough time to do our jobs properly web project managers feel more confident of delivering high quality projects and that’s what makes us happy.
+
+#### Trust and Confidence
 
 
-
-
-Web project management takes time and there is nothing worse than being forced to manage web projects without enough time to perform even the basic project management necessities e.g. regular monitoring of budgets, schedules and tasks all the way through the lifecycle – but, how much time should a web project manager need per project? 10%, 15%, 20% of the project?
-
-How much time a web project manager needs is very much a ‘how long is a piece of string’ question given how different web projects can be, some are simple and take little time, some are little but have a difficult client and thus take a long time, and others are tantamount to delivering the Death Star project before the Ewoks have a chance to help destroy it.
-
-An image of a toy Star Wars Ewok placing the heads of other Star Wars figures in a toy oven cookerWicket PMP dealt with people questioning his time in his own way
-I read a blog post a while back (but typically can’t find it now) that stated because there is no way to determine how much time should be spent managing web projects, the only real way to know is to analyse your own time and if you’re finding you don’t have enough time to do the following on a daily basis then you are not being given enough time to effectively manage web projects:
-
-Review all budgets
-Review all progress against schedules
-Redefine all tasks completed and left outstanding
-Revise all budgets and schedules accordingly
-Update the client
-A common cause for project management overload isn’t in fact that you have too many projects on the go, but you have too many at a similar phase at the same time. As Brad Egeland puts it…
-
-Having your project life cycles staggered is definitely one key to sanity and greatly increases your chances of success. One cannot sanely go through life managing 5 projects that are at the same point in their project life cycles at the same time. The demands on the project manager vary by phase.
-Brad Egeland, Managing Multiple Projects – Stagger the Lifecycles
-
-However, it could be argued that you’re not finding the time to do these things because you’re working inefficiently, but if you know you’re a competent web project manager and have the trust of your boss, this workload analysis holds true and you should raise it with them and hope for understanding and support.
-
-If you don’t raise it as soon as you feel you’re not getting enough time to manage a web project, the likelihood is that you will probably lose control of the project and the risk of it being over budget, late or of low quality is increased significantly. It will often also result in you getting a smacked bum when perhaps it isn’t fully deserved, and that sucks donkey balls.
-
-A happy web project manager is one that feels they have enough time to manage all the projects on their list in the right way. As with web designers and developers, if we have enough time to do our jobs properly we feel more confident of delivering high quality projects and that’s what makes us happy much more than money.
 
 3. TRUST FROM YOUR BOSS
 Trust is important to every Web Project Manager out there and is a key component in web project management. Trust from your client and your production team, or lack of, can seriously affect the result of any web project.
@@ -128,6 +143,9 @@ Web Project Manager Tip of the Day… Get your boss to read Good Project Managem
 Of course this reaction is only possible if you have demonstrated in the past that you can effectively control web projects under the right circumstances and if it is a cast iron known fact that you always take full responsibility and admit fault if that happens to be the case, without that honesty and integrity you will never have trust from anyone.
 
 For a Web Project Manager no amount of money in the world is a substitute for feeling trusted.
+
+#### A Capable Production Team
+
 
 4. RELIABLE SUPPORT STAFF
 As a Web Project Manager you simply do not have the time to perform every task yourself during the lifecycle of a web project, this is when support staff can seem like a gift from the Gods, but there is a massive difference between support staff and reliable support staff.
@@ -153,7 +171,6 @@ Always fully appreciate a person that can provide reliable web project managemen
 
 Special thank you: This is an apt point to thank my bestest pal in the world, Deb, for all the support she gives me on this blog by way of superhuman proof reading skills, thank you!!! :-)
 
-5. UNDERSTANDING PRODUCTION TEAMS
 Effectively managing digital production teams of web designers and web developers is one of the black arts of web project management. If you get a great production team on a web project it will invariably be a resounding success, but if you encounter difficult production teams, then get ready for the pain!
 
 But before I get into the kind of digital production team a Web Project Manager wants more than money, it’s important to understand things from their perspective, and never has it been summarised better than in the quote below… a short must read for any Web Project Manager.
@@ -171,34 +188,11 @@ As people who know me will testify to, when I hear digital production teams comm
 
 But of course, once you cross over to the dark side of web project management everything changes.
 
-WEB PROJECT MANAGEMENT, A NEW REALITY
-When you transfer from the digital production side of things and become a Web Project Manager your whole world is changed forever. Even if at some stage you decide to venture back into production, you will be doing so with new commercial knowledge about the realities of running web projects and in some cases businesses themselves.
 
-Suddenly your priority balance shifts slightly away from code standards and is weighted more towards clients, budgets and schedules. Rather than having one or two things to work on at a time for solid periods, you have a million things to deal with and numerous key decisions to make on a daily, and sometimes even hourly, basis.
 
-As a Web Project Manager you are constantly being pulled in three directions by the client, your boss and your production team, and each of them want different things from you at all times – somehow you have to find a way to keep everyone reasonably happy at all times – this is where a Web Project Manager would sacrifice any pay rise in the world to have an understanding production team ploughing through the work!
 
-This means that when you’re pulling a developer off the work they’re on, breaking their flow, to fix a bug raised by a client, or you ask a designer to stick to a certain level of design so you can hit budget and schedule, the dream is to have production team members who fully appreciate the pressure you’re under and happily oblige.
 
-In most cases Web Project Managers completely understand the production team’s point of view and try to accommodate it where possible. We’ll try and organise their work into solid blocks, create task lists and test their work, but all these things have to be combined with our new pressure filled priorities, and sometimes it’s a bad mix.
 
-An image of several lego Star Wars characters beating up a lone oneThe devs didn’t react how the Web PM had hoped to the decision
-More than anything, Web Project Managers out there would just like a certain amount of understanding of this fact from production teams. For them to appreciate that as well as having pressures like cash flow, budgets, schedules and clients on their mind, they’re also are the one person who has the complete overview of the web project at all times and are making decisions based on that overview knowledge that’s ultimately best for the business and project.
-
-Sometimes these decisions can appear stupid, rash, akin to demanding low quality work, short sighted or naive, and in some cases they are! But as I’ve learnt over time, if a Web Project Manager seems to be a reasonably intelligent person who understands what the production teams are saying, the decision they make is probably the right one for the web project or agency overall, and if the production team continues to have a job and steady flow of web projects to work on, you can be sure the decisions made weren’t too bad at all.
-
-To all digital production teams out there, I’m pretty confident if you could spend just six months as a Web Project Manager your perspective of things would change too. You would find that when you’re pulled in lots of different directions on lots of different web projects you’re sometimes just too busy to provide the perfect brief, create all tasks as nice lists, insist on world-class quality code every time and have time to create accurate detailed functional specifications that leave not a single detail in the land of un-scoped or ambiguity…
-
-How do I know this? Because I really was once one of you, fighting for all things good and right in the world!!
-
-All we ask is you trust us. Our hearts are in the right place, we want the same things as you, but our priorities are weighted differently to yours. Surely there’s some happy place in the middle we can meet, and over time get to that place together by keeping our business healthy, steadily growing and profitable through a utopian mix of design masterpieces, technical wizardry and commercial realities…
-
-THE REAL WEB PROJECT MANAGER REALITY
-In the last two articles I’ve given just a few of the things Web Project Managers want more than money, but there are many more. However, the painful truth is getting all of these things is extremely unlikely and a little la la land given the real commercial world we live in.
-
-But, by being able to identify what these things are is the first step on the path to improving how you run web projects, how to interact and conduct yourself with your team members and superiors, and if you can improve things even slightly in all those areas, you’ll be well on your way to being a happier Web Project Manager!
-
-But enough from me… as someone managing digital accounts or projects, what things do YOU want more than money in your web project management job?
 
 - sins
 
