@@ -77,39 +77,14 @@ There are various tools and methods for dealing with this challenge. Primarily a
 
 > Scotty: Oh, laddie. You've got a lot to learn if you want people to think of you as a miracle worker.
 
+Alternatively you can work to lower budgets than you actually have in order to cater in advance for the inevitable overrun. The best case is you deliver under budget and attain some internal process skills, and the worst case is that you deliver on budget. Either way, the project owner is going to be very happy and think you're a miracle worker. You may find pushback from your team, however, so you'll need to convince them of the Pareto Principle - that 80% of the project outcome is realised by only 20% of the work put in. If they can work more efficiently, making that 20% great, then maybe the rest isn't as important, so long as the client is satisfied. Much of that 80% is made up of review cycles and unplanned iterations.
+
+However you decide to plan your project, make sure you involve your team from the start. Decide together how to share out laborious tasks, who can help who with what. You'll also need to keep your hands dirty throughout the project lifecycle. Get your hands dirty in the code, the copy, the images. Familiarise yourself with the strain of the boring and repetitive tasks. Understand the work and what you're asking of your team. Encourage everyone to divide their labour and share what they've learned. They should focus on high-concentration tasks for only an hour at a time, and review each other's work. Equip every project with tools and techniques than can be re-used along the way. Do your best to make it a team effort.
 
 
 
 
-SHADOW BUDGETING
-Shadow budgeting is the art of working to lower budgets than you actually have in order to cater for the inevitable overrun – best case is you deliver under budget and achieve some internal process or skills development while being paid, worst case is you deliver on budget – not a bad worst case scenario, I think you’ll agree.
 
-You start by taking the budget which you have for a given project phase or deliverable and you simply reduce this budget by 20% and consider the remaining 80 per cent from now on your available budget for this phase or deliverable.
-
-Your team may mourn, but here’s how you can explain it so that they are more likely to follow your approach…
-
-Most project deliverables follow Pareto’s 80/20 rule – 80% of the outcome of a project deliverable is realised with only 20% of the effort put in. It usually swallows all remaining budget to complete a deliverable – particularly due to long review cycles and more iterations than planned.
-
-Plus, your client may indeed be happy with a preliminary 20% deliverable to collect instant feedback from within their own organisation even before your agency has put in all the efforts in to complete the whole stage.
-
-In the end the client’s organisation may scrap it all anyway because your deliverable may not meet their high expectations – so why not give them sneak previews instead?
-
-My best advice is to involve your team in this from the start! Let your team decide how to share the most laborious tasks. As a Web Project Manager, get your hands dirty in the practical preparations. Touch code, review copy texts, cut images – simply suck in as many practical issues as you can and familiarise yourself with the strains of fatigue and boring repetitive tasks.
-
-Encourage your team to divide labour, to share what they learn and discover along the way, to focus on tasks which require a lot of concentration only for an hour at a time and to review and question each other’s work.
-
-Allocate half of the shadowed budget for this stage (10%) to scrutinise and streamline the team efforts for getting the original deliverable out with more nifty tools, better material preparation, machine-based data enhancements and a smarter repository structure.
-
-Make it a team effort to elaborate on solutions for the never ending need for further streamlining! Equip every piece of material with hooks and handles so that you can re-process and re-use it along the way.
-
-As plenty of the original budget for phase conclusion is usually spent on implementing what was originally agreed in the first place, you need to free the team from the inability to revoke their original ideas, and because some of these efforts are spent on repetitive tasks, you may be lucky enough to pocket the famous learning curve effect which usually come along with repetitive tasks and may account for as much as 30% of the original 80% phase budget.
-
-Any Euro, Pound, Dollar or Zloty spent on thinking about how to solve a problem can lead to totally new, and unpredicted, ways to get things done, and with considerably less effort and thus more cost effectively for future projects – think long-term.
-
-With the other 10% of your shadowed budget – spend it on thinking through the consequences of the chosen setup. You may find that with only a relatively small additional effort, you can put time into those mythical documentation and show cases!
-
-4. LUST – “NON SERVIAM!”
-I can’t help but notice the occasional unwillingness among Web Project Managers to serve.
 
 By this, I don’t mean the feeling that one would have to stoop when the customer lets the proverbial soap slip – I mean the ability to let your own Web Project Manager personality evaporate into the background in favour of something else more honourable and geared towards getting things done together for the team.
 
