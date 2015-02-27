@@ -186,7 +186,7 @@ Your role basically covers the following:
 * documentation
 * training
 
-Let's pigeonhole your production team into content managers, designers, developers, and testers. They are all highly skilled experts with very specific remits. You need to keep them focused on what they are there do, which is hopefully also what they do best and what they enjoy most. Nothing will destroy their passion, productivity, and morale quicker than having them involved in other parts of the project beyond those remits. For example, asking a developer to do content population, or asking a designer
+Let's pigeonhole your production team into content managers, designers, developers, and testers. They are all highly skilled experts with very specific remits. You need to keep them focused on what they are there do, which is hopefully also what they do best and what they enjoy most. Nothing will destroy their passion, productivity, and morale quicker than having them involved in other parts of the project beyond those remits. For example, asking a developer to do content population, or asking a designer to write headlines, or indeed asking anyone to fill out timesheets...
 
 
 
