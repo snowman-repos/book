@@ -329,7 +329,9 @@ Put yourself in their shoes and make sure they get the files and documents they 
 Never ever see yourself as above them
 Have you got any anti-dickhead tips for keeping web production teams focussed and stress free? Let me know in the comments.
 
-
+- what copywriters need
+- what designers need
+- what developers need
 
 
 
