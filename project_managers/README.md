@@ -95,19 +95,11 @@ The most common pitfall is fear, and as Yoda said, it does indeed lead to anger 
 
 Try and avoid any and all assumptions as much as possible. Using a particular tool or framework will not necessarily alleviate problems or reduce the time required, you can't rely on the developer to fix all reported bugs in a fixed time period before you know exactly what the bugs are. Try and identify all the likely points of failure well in advance. Most importantly, when things do go wrong, stay calm, stay polite, don't throw blame around, just find the best way to resolve the situation.
 
+Going back to pre-emptively anticipating fear-inducing situations, one you'll surely have for at least one project during your time as a web project manager, if not every project, is resourcing issues. The client will expect you to be flexible enough to accommodate their delays in delivering materials or feedback without impacting final deadlines. You will be expected to allocate people to project work despite not having a clear grasp of the scope, and in the face of a slipping deadline and a shrinking budget. You must, however, never admit or even complain to anyone about not having enough resources.
 
 
 
 
-
-
-
-As Sam Barnes comprehensively covered in his recent article “Web Projects: How to keep the peace when making decisions”, one of the saddest facts in a Web Project Manager’s life is indeed the multitude of expectations they to deal with, for example:
-
-The client expects your organisation to be flexible enough to catch up with a five day delays in material preparation without any effect on the deadline
-Your Accounting department expects that they can issue this phase’s invoice as planned before to ensure the cash flow
-Your HR people are expecting you to make precise resource allocations for projects with an unknown scope, with a slipping deadline, and with a shrinking budget
-But no matter what pressure you are under, please don’t ever give this article’s headline quote of “We don’t have the resources!” out to any of your clients! If you do, you will literally destroy the agency’s reputation that your Account Manager has built up over the years with his bare hands.
 
 Here are two reasons why you should refrain from saying it:
 
