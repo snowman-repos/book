@@ -54,7 +54,7 @@ Never assume that you know better than the client or that you understand the pre
 
 Avoid using jargon. Always consider who you're speaking to and how best to communicate your message to them in their terms, without being patronising of course.
 
-Don't submit to envy when you see others leaving work earlier than you or arriving later.
+Don't submit to envy when you see others leaving work earlier than you or arriving later. There will inevtiably be times when they are busier than you. You have the benefit of seeing an end to every project which perhaps others don't.
 
 
 
