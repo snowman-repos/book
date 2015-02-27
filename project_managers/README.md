@@ -97,27 +97,7 @@ Try and avoid any and all assumptions as much as possible. Using a particular to
 
 Going back to pre-emptively anticipating fear-inducing situations, one you'll surely have for at least one project during your time as a web project manager, if not every project, is resourcing issues. The client will expect you to be flexible enough to accommodate their delays in delivering materials or feedback without impacting final deadlines. You will be expected to allocate people to project work despite not having a clear grasp of the scope, and in the face of a slipping deadline and a shrinking budget. You must, however, **never** admit or even complain to anyone about not having enough resources. It will only serve to annoy your team, your client manager, your boss, the client, damaging relationships that you rely on. Furthermore, it's probably not entirely true even if you don't realise it. Unfortunately, it's usually your concern and nobody else's. The client certainly doesn't need to hear it - you don't expect to go into a restaurant as a customer, place your order, and then be told the chef can't cook your meal because they don't have the time or the ingredients. Instead you might be told that something is off the menu or that it will take time to prepare. You might change your order, you might go to another restaurant, or you might wait patiently and enjoy the meal that you are served.
 
-There are some techniques you can employ to deal with resourcing issues when your team is stretched beyond its capability. Essentially though what they come down to is just buying time and accurately prioritising individual tasks. Luckily, as a project manager that's what you're best at. Never confirm or commit to anything until you've thoroughly checked it against budget and schedules. When new requests come in, they may actually improve on the agreed functionality or feature set to the point that they're really worth trying for the sake of the project's success, no matter the strain it will put you under. On the other hand if you can put a case for the increased time and money required the project owner may reconsider and deem it not worth it before withdrawing the request. 
-
-
-
-
-
-
-
-
-First, you could squeeze the task into the existing schedules, ordering your team to work overtime. You can promise compensation or certain gratifications for those who are volunteering for the extra work. Or simply assign the task to someone whom you consider fit for the job. This principle can be referred to as heroic management e.g. “It’s a shitty job – but somebody has to do it!”
-
-Secondly, you could count on the advice and ingenuity of your project team. Make the task description as clear as you can and involve your project team in solving the matter. Discuss openly what other tasks can be shuffled around, postponed or distributed to more shoulders?
-
-Is the new task truly a specialist’s task – or could anybody work on it? How would the team rate the chances to get the additional work equally distributed with only a couple of additional hours for everybody? This principle can be referred to as post-heroic management e.g. “It’s an inconvenience which forces us to re-shuffle already allocated tasks in a smart way!”
-
-Last but not least, it largely depends on what kind of personality you are. If you are not able to contribute hands-on to the project (as you may not know how to operate a text editor, Adobe Photoshop, or a Content Management System) – you can always try to learn these things from your project team members and do the job yourself.
-
-If you are not willing to contribute hands-on to the project because you do not consider this being a part of your responsibility – you can always try to get another job. The choice is yours.
-
-
-
+There are some techniques you can employ to deal with resourcing issues when your team is stretched beyond its capability. Essentially though what they come down to is just buying time and accurately prioritising individual tasks. Luckily, as a project manager that's what you're best at. Never confirm or commit to anything until you've thoroughly checked it against budget and schedules. When new requests come in, they may actually improve on the agreed functionality or feature set to the point that they're really worth trying for the sake of the project's success, no matter the strain it will put you under. On the other hand if you can put a case for the increased time and money required the project owner may reconsider and deem it not worth it before withdrawing the request. You could try squeezing the requested work into the existing schedule, which would mean asking your team to work overtime in return for some promised compensation. Or you could just assign it to one person who you deem fit for the job, the hero who has to “take one for the team”. Alternatively you could rely on the advice and ingenuity of your team of experts. Make the task description as clear as possible and involve them in resolving the matter. Maybe there are other tasks that can be shuffled around, postponed, or better distributed. It's also important to consider what the task involves and therefore who would be capable of taking it on. Is it a specialist job or might you yourself be able to dip your hands in? Even if you're not entirely up to the task you may be able to seek help from a team member, learning something along the way and impressing them with your altruism. Or otherwise maybe everybody can chip in a little of their time so that everyone shares the load.
 
 ## Getting things done
 
