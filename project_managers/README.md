@@ -52,21 +52,11 @@ Preparing for the worst should put you in a good position to deal with problems 
 
 Never assume that you know better than the client or that you understand the pressures that they too are under. They may have superiors to report to or a team of stakeholders to juggle. Add to that they probably don't have as much experience as you with working on the web. While some of their requests may seem ridiculous to you, they are entirely serious. You have to resist the temptation to be condescending or patronising in any way but rather remain polite and helpful. Frame your replies to such a request in terms of previously agreed steps in the process, highlighting the tasks that you and your team are currently working on and how you will aim towards achieving the underlying goal behind the request. Coming back with useful and reassuring information not only satisfies the client but also provides them with something to go back to their own team with. 
 
-Avoid using jargon.
+Avoid using jargon. Always consider who you're speaking to and how best to communicate your message to them in their terms, without being patronising of course.
+
+Don't submit to envy when you see others leaving work earlier than you or arriving later.
 
 
-
-
-2. ENVY – “ACCOUNT MANAGEMENT… I COULD DO A BETTER JOB MYSELF!”
-Many times I’ve witnessed Account Managers leave the office, much to the envy of the web project team and Web Project Manager as they are still clocking the hours up long into the night. As the leader of a web project team you are of course, more often than not, sharing cold pizza with your project team rather than seeing your friends and family in the evening.
-
-But remember this distinct advantage of being a Web Project Manager over an Account Manager… by definition – A web project is a temporary endeavour with a fixed start and end date and so sooner or later it will be over – Account Management is never over.
-
-Nothing prevents any client from calling up your fellow Account Manager at 10pm to discuss an article about how the latest web trends in viral marketing will influence the company’s performance on social media perception within the next twelve months from now on.
-
-What looks so easy during daytime often proves to require an “always on” mentality for Account Managers, and trust me, wining and dining with clients is not as much fun as it sounds (although the food and drinks are on the house, mostly).
-
-The only currency that an Account Manager has is trust. However, gaining, and keeping, the client’s trust is essential for both Web Project Managers and Account Managers.
 
 But while Web Project Managers have very clear boundaries – delivering web projects – Account Manager’s success criteria are a little more blurry. While Web Project Managers may get adulation and praise for their constant supportive role (aka pulling rabbits out of hats – aka saving the client’s butt), Account Managers often find it more difficult to get famous for their deeds.
 
