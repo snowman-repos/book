@@ -162,7 +162,12 @@ As we discussed above, trust from the client, the client manager, your boss, and
 #### A Capable Production Team
 
 
-4. RELIABLE SUPPORT STAFF
+
+
+
+
+
+
 As a Web Project Manager you simply do not have the time to perform every task yourself during the lifecycle of a web project, this is when support staff can seem like a gift from the Gods, but there is a massive difference between support staff and reliable support staff.
 
 This kind of person is actually rare to find, but if you’re lucky enough to find one they can provide you with the vital breathing space you need in order to keep on top of all your web projects.
