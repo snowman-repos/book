@@ -161,6 +161,16 @@ As we discussed above, trust from the client, the client manager, your boss, and
 
 #### A Capable Production Team
 
+In your role you simply don't have the time to do everything yourself, or even to help out with content, design, development and testing, on top of everthing else. You need to be able to confidently delegate tasks and know that they will be completed to your standards of quality, and also resist the temptation to even think that something would have been done better if you'd just done it yourself. Relying on the skills of your team is essential and so that means not just hiring well but also maintaining and developing skills - the better your team gets the easier your job becomes and the better your products are.
+
+> Developers often treat PM as The Source of All Evil. And to some point they’re right. It’s a project manager who brings more work. It’s a project manager who bugs everyone asking when they’re going to be done.
+
+> _- Pawel Brodzinski_
+
+ You have to expect a lot of support from your team, but that means you have to provide it as well. An atmosphere of mutual support is what you're going for here - if you scratch their backs they'll scratch yours. The support you provide may come in many forms. After you delegate tasks, always make yourself available to answer questions and provide encouragement. Never just dump a load of work on someone and disappear. Sometimes, get them started yourself if you can. A few lines of code, some basic wireframes, or some lines of copy may go a long way to show humility, that you're not above the work of others. In doing so you're setting an example and might even learn something if they can provide feedback on your work, leading to a better mutual understanding. As with clients or directors who like to micromanage, my advise is to leave it to the experts and those whose role is there specifically for completing such tasks. You need to respect and actively seek their skills, knowledge, and advice.
+
+- thanks and recognition
+- 
 
 
 
@@ -168,35 +178,6 @@ As we discussed above, trust from the client, the client manager, your boss, and
 
 
 
-As a Web Project Manager you simply do not have the time to perform every task yourself during the lifecycle of a web project, this is when support staff can seem like a gift from the Gods, but there is a massive difference between support staff and reliable support staff.
-
-This kind of person is actually rare to find, but if you’re lucky enough to find one they can provide you with the vital breathing space you need in order to keep on top of all your web projects.
-
-In short, a reliable web project management support member is one who you can delegate tasks too safe in the knowledge they will be completed, and to a quality level you are happy with – sounds simple, right?
-
-Noooooo, how many times have you had to chase someone on a tasks several times, only to find that when it’s eventually finished it’s of poor quality and you mutter the immortal words under your breath “I should’ve done it my bloody self!”
-
-An image of a lego Star Wars Stormtropper from behind who is knitting with needles and a red ball of wool“WTF, I asked you to gather content from the client an hour ago!”
-DON’T JUST EXPECT SUPPORT, PROVIDE IT TOO
-Of course, finding reliable web project management support is gold dust and most Web Project Managers would take this over any financial bribe, but I believe it is crucial to not only use the support you have, but to also provide reliable support too!
-
-Offering your support to other stressed and overworked Web Project Managers (and any team members for that matter) is vitally important because it:
-
-Encourages others to support you, and each other
-Shows humility in that you don’t think you’re ‘above’ web project management support tasks
-Keeps you humble by reminding you what it’s like on the other side of things
-Just remember one thing… the golden rule of delegating tasks to others, is to always be on hand to support them while they’re completing them. There’s nothing worse than dumping a load of work on someone and not being around to answer questions or provide encouragement.
-
-Always fully appreciate a person that can provide reliable web project management support, they’re often are the unsung heroes of digital agencies!
-
-Special thank you: This is an apt point to thank my bestest pal in the world, Deb, for all the support she gives me on this blog by way of superhuman proof reading skills, thank you!!! :-)
-
-Effectively managing digital production teams of web designers and web developers is one of the black arts of web project management. If you get a great production team on a web project it will invariably be a resounding success, but if you encounter difficult production teams, then get ready for the pain!
-
-But before I get into the kind of digital production team a Web Project Manager wants more than money, it’s important to understand things from their perspective, and never has it been summarised better than in the quote below… a short must read for any Web Project Manager.
-
-“Developers often treat PM as The Source of All Evil. And to some point they’re right. It’s a project manager who brings more work. It’s a project manager who bugs everyone asking when they’re going to be done.”
-Pawel Brodzinski, What Can Project Manager Do For Developers?
 
 Having worked for a few years as a front-end developer, and been ‘affectionately’ referred to as a Code Monkey I can definitely remember and understand what it’s like on the production side of a web agency.
 
