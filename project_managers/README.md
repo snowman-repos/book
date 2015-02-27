@@ -161,9 +161,9 @@ As we discussed above, trust from the client, the client manager, your boss, and
 
 #### A Capable Production Team
 
-In your role you simply don't have the time to do everything yourself, or even to help out with content, design, development and testing, on top of everthing else. You need to be able to confidently delegate tasks and know that they will be completed to your standards of quality, and also resist the temptation to even think that something would have been done better if you'd just done it yourself. Relying on the skills of your team is essential and so that means not just hiring well but also maintaining and developing skills - the better your team gets the easier your job becomes and the better your products are.
+In your role you simply don't have the time to do everything yourself, or even to help out with content, design, development and testing, on top of everything else. You need to be able to confidently delegate tasks and know that they will be completed to your standards of quality, and also resist the temptation to even think that something would have been done better if you'd just done it yourself. Relying on the skills of your team is essential and so that means not just hiring well but also maintaining and developing skills - the better your team gets the easier your job becomes and the better your products are.
 
-- get involved in hiring
+You should absolutely be involved in the hiring process. If you're not, start kicking and screaming until you are. Nobody knows better than you what skillsets your team may be lacking and what are in surplus, nor is anyone else in a better position to assess how well a candidate will fit into your team. You can find more useful advice about hiring & firing in _Chapter 3 - Production Directors_. Remember though, as we talked about previously, not to be resource greedy. Perhaps you don't need to hire someone new if an existing team member can be trained up.
 
 > Developers often treat PM as The Source of All Evil. And to some point they’re right. It’s a project manager who brings more work. It’s a project manager who bugs everyone asking when they’re going to be done.
 
@@ -171,7 +171,7 @@ In your role you simply don't have the time to do everything yourself, or even t
 
 You have to expect a lot of support from your team, but that means you have to provide it as well. An atmosphere of mutual support is what you're going for here - if you scratch their backs they'll scratch yours. The support you provide may come in many forms. After you delegate tasks, always make yourself available to answer questions and provide encouragement. Never just dump a load of work on someone and disappear. Sometimes, get them started yourself if you can. A few lines of code, some basic wireframes, or some lines of copy may go a long way to show humility, that you're not above the work of others. In doing so you're setting an example and might even learn something if they can provide feedback on your work, leading to a better mutual understanding. As with clients or directors who like to micromanage, my advise is to leave it to the experts and those whose role is there specifically for completing such tasks. You need to respect and actively seek their skills, knowledge, and advice.
  
-Thank them and recognise their efforts publicly, but always offer your own criticism and advice privately. Even if they are performing well, it's your job to push them to always be better. Encourage them to learn new tools and techniques, give them the time
+Thank them and recognise their efforts publicly, but always offer your own criticism and advice privately. Even if they are performing well, it's your job to push them to always be better. Constantly encourage them to learn new tools and techniques, give them the time for training to practice what they've learned. Of course, you need to take this into account when formulating schedules and conjuring deadlines. It will pay off in the long run as they learn to work more efficiently and can accommodate a greater variety of requests. That means fewer bottlenecks for you.
 
 
 
