@@ -91,8 +91,7 @@ It's all too easy to fall into narcism as a web project manager. We have so much
 
 > _- Master Yoda_
 
-The most common pitfall is fear, and as Yoda said, it does indeed lead to anger and suffering. At the start of every project you know that things will go wrong. You'll struggle to meat a deadline, you'll have to deal with difficult client requests, even an unresponsive client, or your best developer may fall ill or go on holiday. Knowing this inevitability and still being unprepared for it is the web project manager's cardinal sin. You need to stay calm and anticipate how you're going to handle the situation. A good start is planning and documentation. Documenting everything, including communication, and having written contingencies in place will put everyone at ease when the time comes. An unreasonable demand doesn’t get any better, regardless of how often you repeat it. If the client or client manager is adamant about a particular request or feature that is beyond the agreed scope, then you must comprehensively document the interdependencies involved:
-
+The most common pitfall is fear, and as Yoda said, it does indeed lead to anger and suffering. At the start of every project you know that things will go wrong. You'll struggle to meat a deadline, you'll have to deal with difficult client requests, even an unresponsive client, or your best developer may fall ill or go on holiday. Knowing this inevitability and still being unprepared for it is the web project manager's cardinal sin. You need to stay calm and anticipate how you're going to handle the situation. A good start is planning and documentation. Documenting everything, including communication, and having written contingencies in place will put everyone at ease when the time comes. An unreasonable demand doesn’t get any better, regardless of how often you repeat it. If the client or client manager is adamant about a particular request or feature that is beyond the agreed scope, then you must comprehensively document the interdependencies involved. Break the problem down into individual tasks. What is required for each task? Who will do the work? What will that require of other team members? What will the deliverables be? How long will it take? etc. This documentation will not only make implementation easier and put everyone on the same page, but will also be good to take back to the client to justify a spending increase or deadline delays.
 
 Try and avoid any and all assumptions as much as possible. Using a particular tool or framework will not necessarily alleviate problems or reduce the time required, you can't rely on the developer to fix all reported bugs in a fixed time period before you know exactly what the bugs are. Try and identify all the likely points of failure well in advance. Most importantly, when things do go wrong, stay calm, stay polite, don't throw blame around, just find the best way to resolve the situation.
 
@@ -101,25 +100,6 @@ Try and avoid any and all assumptions as much as possible. Using a particular to
 
 
 
-
-
-Transfer the different high-level stages of the project to pieces of paper – one phase goes on one piece of paper – or put it in an Excel file, if you want
-Think about the competency contributions you will need for each of the phases and how they relate e.g. What do you need to get done by Web Designers in each phase? Is there anything that Software Architects or Web Developers can contribute, prepare, or review in a particular early phase of the project?
-Add according lines to your paper, or add empty lines to your Excel. If the phases are in column A, put the tasks to be performed by particular competencies to column B. In both cases add marks to who is contributing in a separate column
-Put all deliverables that you need as input for any of the phases in the upper left corner of every sheet. Making sure to note down which competency is contributing to which item in a separate column in the same place
-Finally, try to envisage how the different contributions fall together into separate tasks. A Web Designer surely has to:
-Select the images for the web site
-Manipulate the images
-Finish them for web usage with sharpening, compression and naming them according to the defined naming conventions
-Think about who uploads these images to the web site repository: the Web Developer? A Content Editor? The Project Manager? The Holy Ghost?
-You will find both new tasks which are not covered in the basic project agreement new assignments which haven’t been thought of yet
-What you will end up with, is complete knowledge you can present to your team, superiors and client on what action sequences need to happen in order to deliver e.g. There no point in uploading images which haven’t been selected and/or made ready for web usage, right? The dependency is created.
-
-In the end, add the outcome of this examination to your sheets (preferably with a different colour).
-
-Deliverables are marked with a right arrow (deliverable_X -> phase_Y), inputs to further phases are marked with a similar arrow on their left (phase_Y->input_X). Make sure every deliverable of one phase matches an input to another phase. Assign numbers with high-level phases get a single digit number “1”, subsequent packages get “1.1”; particular competence contributions get “1.1.1” and so on…
-
-And there you have it, a WBS document, matching both the output dimension of phase X and the input dimension for phase Y. Split by competencies, bound to web project phases and reflecting the actual deeds and work packages for everyone to see and track throughout the project’s lifecycle. Splendid!
 
 
 
