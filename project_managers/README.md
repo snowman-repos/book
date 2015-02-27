@@ -163,7 +163,7 @@ As we discussed above, trust from the client, the client manager, your boss, and
 
 In your role you simply don't have the time to do everything yourself, or even to help out with content, design, development and testing, on top of everything else. You need to be able to confidently delegate tasks and know that they will be completed to your standards of quality, and also resist the temptation to even think that something would have been done better if you'd just done it yourself. Relying on the skills of your team is essential and so that means not just hiring well but also maintaining and developing skills - the better your team gets the easier your job becomes and the better your products are.
 
-You should absolutely be involved in the hiring process. If you're not, start kicking and screaming until you are. Nobody knows better than you what skillsets your team may be lacking and what are in surplus, nor is anyone else in a better position to assess how well a candidate will fit into your team. You can find more useful advice about hiring & firing in _Chapter 3 - Production Directors_. Remember though, as we talked about previously, not to be resource greedy. Perhaps you don't need to hire someone new if an existing team member can be trained up.
+You should absolutely be involved in the hiring process. If you're not, start kicking and screaming until you are. Nobody knows better than you what skillsets your team may be lacking and what are in surplus, nor is anyone else in a better position to assess how well a candidate will fit into your team. Chances are you've done design or development work previously so you can accurately assess candidates' breadth and depth of knowledge. You can find more useful advice about hiring & firing in _Chapter 3 - Production Directors_. Remember though, as we talked about previously, not to be resource greedy. Perhaps you don't need to hire someone new if an existing team member can be trained up.
 
 > Developers often treat PM as The Source of All Evil. And to some point they’re right. It’s a project manager who brings more work. It’s a project manager who bugs everyone asking when they’re going to be done.
 
@@ -173,17 +173,21 @@ You have to expect a lot of support from your team, but that means you have to p
  
 Thank them and recognise their efforts publicly, but always offer your own criticism and advice privately. Even if they are performing well, it's your job to push them to always be better. Constantly encourage them to learn new tools and techniques, give them the time for training to practice what they've learned. Of course, you need to take this into account when formulating schedules and conjuring deadlines. It will pay off in the long run as they learn to work more efficiently and can accommodate a greater variety of requests. That means fewer bottlenecks for you.
 
-
-
+Ultimately, no matter whether you always manage to hire industry wizards or not, your team will only ever be as productive are you enable them to be, which leads us nicely onto the next section.
 
 ## Facilitating Others
 
-My role as Web Project Manager is to make everyone’s job as productive and stress free as possible.
+Your role basically covers the following:
+* requirements analysis
+* scheduling
+* budgeting
+* task delegation
+* monitoring & reviews
+* documentation
+* training
 
-With focus on web designers and developers, but true for the whole project team, let me explain…
+Let's pigeonhole your production team into content managers, designers, developers, and testers. They are all highly skilled experts with very specific remits. You need to keep them focused on what they are there do, which is hopefully also what they do best and what they enjoy most. Nothing will destroy their passion, productivity, and morale quicker than having them involved in other parts of the project beyond those remits. For example, asking a developer to do content population, or asking a designer
 
-WEB TEAM EXPERTISE FOCUS
-Over the years I’ve seen digital agencies making big mistakes when it comes to effective web project management. One of the most common mistakes was having production team members e.g. web designers and developers performing web project management tasks rather than keeping them focussed on what they do best, designing and developing.
 
 
 
