@@ -91,7 +91,7 @@ It's all too easy to fall into narcism as a web project manager. We have so much
 
 > _- Master Yoda_
 
-The most common pitfall is fear, and as Yoda said, it does indeed lead to anger and suffering. At the start of every project you know that things will go wrong. You'll struggle to meat a deadline, you'll have to deal with difficult client requests, even an unresponsive client, or your best developer may fall ill or go on holiday. Knowing this inevitability and still being unprepared for it is the web project manager's cardinal sin. You need to stay calm and anticipate how you're going to handle the situation. A good start is planning and documentation. Documenting everything, including communication, and having written contingencies in place will put everyone at ease when the time comes. Try and avoid any and all assumptions as much as possible. Using a particular tool or framework will not necessarily alleviate problems or reduce the time required, you can't rely on the developer to fix all reported bugs in a fixed time period before you know exactly what the bugs are.
+The most common pitfall is fear, and as Yoda said, it does indeed lead to anger and suffering. At the start of every project you know that things will go wrong. You'll struggle to meat a deadline, you'll have to deal with difficult client requests, even an unresponsive client, or your best developer may fall ill or go on holiday. Knowing this inevitability and still being unprepared for it is the web project manager's cardinal sin. You need to stay calm and anticipate how you're going to handle the situation. A good start is planning and documentation. Documenting everything, including communication, and having written contingencies in place will put everyone at ease when the time comes. Try and avoid any and all assumptions as much as possible. Using a particular tool or framework will not necessarily alleviate problems or reduce the time required, you can't rely on the developer to fix all reported bugs in a fixed time period before you know exactly what the bugs are. Try and identify all the likely points of failure well in advance. Most importantly, when things do go wrong, stay calm, stay polite, don't throw blame around, just find the best way to resolve the situation.
 
 
 
@@ -99,21 +99,6 @@ The most common pitfall is fear, and as Yoda said, it does indeed lead to anger 
 
 
 
-I re-negotiate the prerequisites of delivery. Any web project which I have ever seen is based on assumptions e.g. “if we use framework XYZ, we’ll be fine” and “we’ll get all the materials in time”, and not forgetting the assumptions formulated out of pure madness like “we can do last changes on the materials in the two hours before we go live with it”
-Whenever I read a web project briefing, or an RFP, I take a piece of paper and note down under which circumstances the stuff I read makes a reasonable request. And particularly, what are the likely points of failure?
-As a result, my latest web projects had quite impressive sections in the Management Summary part of the web project agreement document.
-
-One is labelled Assumptions and the other is labelled Prerequisites and they match the headlines on my auxiliary notes. One listing general delivery-related things and the other is listing items with regard to the project delivery schedule.
-
-The first section states “Tool access is granted by the client” and the second states the deadline associated with it “Tool access is granted until 16.09.” which is exactly the start date for a project phase relying on the availability of certain things.
-
-You’ll get the point here, I’m sure.
-
-Needless to say that I, in some cases, failed to hand in the web project agreement document on time due to the extensive additions to the project agreement which was originally drafted. For times such as these it always becomes handy to formulate the essential “Three sentences why this document is late” for yourself, and for your Account Manager who will no doubt steal the formulated and re-usable excuse.
-
-In one case the client went as far as to verbally convey their suspicion that I might be “not quite up to the task, maybe ‘incompetent’, or just a little inexperienced?” Thanks to the preparation, my Account Manager was prepared to extinguish this fire with a smile despite the fact they had asked for a simple task equivalent to order the following from your favourite bartender:
-
-“One beer, but the foam on the bottom of the glass please!” – They got it and we got paid for it.
 
 6. COVETOUSNESS – “SURE. THIS FEATURE WILL COST YOU €10K”
 As you may have guessed from what you’ve read before in this series or from experience, an unreasonable demand doesn’t get any better, regardless of how often you repeat it.
