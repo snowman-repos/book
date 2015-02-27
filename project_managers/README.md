@@ -54,27 +54,13 @@ Never assume that you know better than the client or that you understand the pre
 
 Avoid using jargon. Always consider who you're speaking to and how best to communicate your message to them in their terms, without being patronising of course.
 
-Don't submit to envy when you see others leaving work earlier than you or arriving later. There will inevtiably be times when they are busier than you. You have the benefit of seeing an end to every project which perhaps others don't.
+Don't submit to envy when you see others leaving work earlier than you or arriving later. There will inevitably be times when they are busier than you. You have the benefit of seeing an end to every project, you get recognition for successful deliveries, and you have clear success criteria, known targets, which perhaps others don't. It may seem like the client manager's job is to promise clients that which you have to deliver without even a clear idea if it's even possible, but in fact part of their job is to convince the client to go with your team, and at your costs, no matter what. Your plan is fixed and certain, based on specific tasks and goals, while those of others may not be. Always consider the situation others are in and try to cut them a little slack now and again. Never criticise unduly and when you do, make it constructive by offering helpful advice and trying to find a common ground.
 
 
 
-But while Web Project Managers have very clear boundaries – delivering web projects – Account Manager’s success criteria are a little more blurry. While Web Project Managers may get adulation and praise for their constant supportive role (aka pulling rabbits out of hats – aka saving the client’s butt), Account Managers often find it more difficult to get famous for their deeds.
 
-Maybe that is the reason why Account Managers are so often interfering and messing around with web projects, and the people involved in them, when it is not necessary – because it seems so much easier and more instantly rewarding when compared with what they normally do.
 
-It occasionally seems to me that it’s the Account Manager’s secret job to promise what others have to deliver with no real clear idea if it is even possible, but the reality is a usually more brittle than that – thus putting the Account Manager in a difficult position.
 
-While Web Project Managers have to deliver within a defined scope, Account Managers have to account for future scopes. At any time, a current client can approach a direct competitor of yours to begin talks about receiving the same service with improved quality and lower costs.
-
-The Account Manager’s job is precisely this – to decrease the likelihood of this happening.
-
-Operational, tactical and strategic are the names of the fictional stages of the continuum that both types of Web Managers have to tackle on a daily basis. While the operational side deals more with things that have already been agreed (projects and deliverables), the strategic level deals more with the ‘yet unknown things to come’, involving, for example, planned co-operations with institutions nobody has yet heard of and the instant need for ramping up your agency’s workforce by 385% within the next eight months.
-
-The really tricky thing is that the Account Manager is held responsible for is the substantial monetary growth of the account through targets based on many unknowns.
-
-So as a Web Project Manager, while continuing to attempt to keep the Account Manager away from the day to day running of your project, understand why Account Managers may insist on doing this before berating them.
-
-In Part 2 Michael discusses his next two Deadly Sins of Web Project Management. How to keep web projects on budget without having to ask the client for an additional 2 million, and how the Web Project Manager should be willing to serve the project first and themselves second – Gluttony and Lust.
 
 3. GLUTTONY – “WE NEED TO INCREASE THE PROJECT BUDGET BY 2 MILLION”
 Gone are the days when clients seemed to have endless budgets allocated to an emerging digital medium and where they hoped to mark their claims on the Western frontier.
