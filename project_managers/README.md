@@ -163,31 +163,16 @@ As we discussed above, trust from the client, the client manager, your boss, and
 
 In your role you simply don't have the time to do everything yourself, or even to help out with content, design, development and testing, on top of everthing else. You need to be able to confidently delegate tasks and know that they will be completed to your standards of quality, and also resist the temptation to even think that something would have been done better if you'd just done it yourself. Relying on the skills of your team is essential and so that means not just hiring well but also maintaining and developing skills - the better your team gets the easier your job becomes and the better your products are.
 
+- get involved in hiring
+
 > Developers often treat PM as The Source of All Evil. And to some point they’re right. It’s a project manager who brings more work. It’s a project manager who bugs everyone asking when they’re going to be done.
 
 > _- Pawel Brodzinski_
 
- You have to expect a lot of support from your team, but that means you have to provide it as well. An atmosphere of mutual support is what you're going for here - if you scratch their backs they'll scratch yours. The support you provide may come in many forms. After you delegate tasks, always make yourself available to answer questions and provide encouragement. Never just dump a load of work on someone and disappear. Sometimes, get them started yourself if you can. A few lines of code, some basic wireframes, or some lines of copy may go a long way to show humility, that you're not above the work of others. In doing so you're setting an example and might even learn something if they can provide feedback on your work, leading to a better mutual understanding. As with clients or directors who like to micromanage, my advise is to leave it to the experts and those whose role is there specifically for completing such tasks. You need to respect and actively seek their skills, knowledge, and advice.
+You have to expect a lot of support from your team, but that means you have to provide it as well. An atmosphere of mutual support is what you're going for here - if you scratch their backs they'll scratch yours. The support you provide may come in many forms. After you delegate tasks, always make yourself available to answer questions and provide encouragement. Never just dump a load of work on someone and disappear. Sometimes, get them started yourself if you can. A few lines of code, some basic wireframes, or some lines of copy may go a long way to show humility, that you're not above the work of others. In doing so you're setting an example and might even learn something if they can provide feedback on your work, leading to a better mutual understanding. As with clients or directors who like to micromanage, my advise is to leave it to the experts and those whose role is there specifically for completing such tasks. You need to respect and actively seek their skills, knowledge, and advice.
+ 
+Thank them and recognise their efforts publicly, but always offer your own criticism and advice privately. Even if they are performing well, it's your job to push them to always be better. Encourage them to learn new tools and techniques, give them the time
 
-- thanks and recognition
-- 
-
-
-
-
-
-
-
-
-Having worked for a few years as a front-end developer, and been ‘affectionately’ referred to as a Code Monkey I can definitely remember and understand what it’s like on the production side of a web agency.
-
-
-
-But it’s funny how life has a way of holding a mirror up to your past behaviour as time goes by…
-
-As people who know me will testify to, when I hear digital production teams commenting about how web projects are being run, how standards are the most important thing and that more budget is needed for proper testing, I’ll often have a little ‘old wise man giggle’ to myself and think back to the time I was saying (shouting) exactly the same things to previous bosses when on the digital production team.
-
-But of course, once you cross over to the dark side of web project management everything changes.
 
 
 
