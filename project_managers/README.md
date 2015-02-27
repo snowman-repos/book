@@ -79,62 +79,25 @@ There are various tools and methods for dealing with this challenge. Primarily a
 
 Alternatively you can work to lower budgets than you actually have in order to cater in advance for the inevitable overrun. The best case is you deliver under budget and attain some internal process skills, and the worst case is that you deliver on budget. Either way, the project owner is going to be very happy and think you're a miracle worker. You may find pushback from your team, however, so you'll need to convince them of the Pareto Principle - that 80% of the project outcome is realised by only 20% of the work put in. If they can work more efficiently, making that 20% great, then maybe the rest isn't as important, so long as the client is satisfied. Much of that 80% is made up of review cycles and unplanned iterations.
 
-However you decide to plan your project, make sure you involve your team from the start. Decide together how to share out laborious tasks, who can help who with what. You'll also need to keep your hands dirty throughout the project lifecycle. Get your hands dirty in the code, the copy, the images. Familiarise yourself with the strain of the boring and repetitive tasks. Understand the work and what you're asking of your team. Encourage everyone to divide their labour and share what they've learned. They should focus on high-concentration tasks for only an hour at a time, and review each other's work. Equip every project with tools and techniques than can be re-used along the way. Do your best to make it a team effort.
+However you decide to plan your project, make sure you involve your team from the start with open communication. Decide together how to share out laborious tasks, who can help who with what. You'll also need to keep your hands dirty throughout the project lifecycle. Get your hands dirty in the code, the copy, the images. Familiarise yourself with the strain of the boring and repetitive tasks. Understand the work and what you're asking of your team. Encourage everyone to divide their labour and share what they've learned. They should focus on high-concentration tasks for only an hour at a time, and review each other's work. Equip every project with tools and techniques than can be re-used along the way. Do your best to make it a team effort.
 
 > It is a platitude that any kind of management only has two ways to get anything done – action and communication. Communication without action is simply pretending, and action without communication will never lead anywhere. Big gestures, speeches, or any other kind of ‘pep talk’ are not really well suited for motivating people’s participation without follow through.
 
 > _- Michael Dlugosch_
 
-It's all too easy to fall into narcism as a web project manager.
+It's all too easy to fall into narcism as a web project manager. We have so much to do. Our work is so important - without what we do everything else falls apart. We don't have time to keep people happy, we just need to get our work done and keep everything running as smoothly as possible both for the sake of the project... and, let's face it, our own comfort. We crave the reputation, the recognition, the status in the team. However if that's our primary concern then it will negatively impact the team's motivation for go the extra mile for us. A project manager must manage, and that means to lead, and to lead is to take action.
+
+> Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.
+
+> _- Master Yoda_
+
+The most common pitfall is fear, and as Yoda said, it does indeed lead to anger and suffering. At the start of every project you know that things will go wrong. You'll struggle to meat a deadline, you'll have to deal with difficult client requests, even an unresponsive client, or your best developer may fall ill or go on holiday. Knowing this inevitability and still being unprepared for it is the web project manager's cardinal sin. You need to stay calm and anticipate how you're going to handle the situation. A good start is planning and documentation. Documenting everything, including communication, and having written contingencies in place will put everyone at ease when the time comes. Try and avoid any and all assumptions as much as possible. Using a particular tool or framework will not necessarily alleviate problems or reduce the time required, you can't rely on the developer to fix all reported bugs in a fixed time period before you know exactly what the bugs are.
 
 
 
 
 
-The inability or unwillingness to serve can be easily attributed to what psychologists call: narcism. However, it may lead further to take another angle and approach this topic through the back door.
 
-We have, thanks to the genius of the sociologist Max Weber, a term for coining what might make the essential difference here – it’s called work ethics. At its core it can be surmised as “working hard will please…later”.
-
-The distinction between hard work in the present and a gratification in the future is the core personality attribute that distinguishes an average Web Project Manager from an excellent Web Project Manager.
-
-Contrasting this approach with the mentioned distinction between “action” (from Latin “agere” – to do) and “communication” (from Latin “communicare” – to share, to make common) indicates the direction of the reference inherent in both terms – towards oneself vs. towards something beyond oneself.
-
-I believe the trouble with the stated “unwillingness to serve” is the coherence between one’s actual deeds and the expected or well deserved gratification structure behind the deeds. Or from the opposite perspective, it is the inability to classify one’s own deeds into coherence beyond the benefit for oneself.
-
-If a Web Project Manager is primarily concerned about their own reputation (their lust for praise from others), status or comfort, it will undoubtedly have a negative effect on the team’s motivation to walk the extra mile with them.
-
-Who has ever met a Web Project Manager that leaves the office during a laborious end phase of a website production on the evening before go-live with the reasoning “I have to attend my dance class”? If you have you have every right to scorn at their own perceived right to call themselves a Manger of any description.
-
-To manage means to lead, and leading is located in the action domain, not in the communication domain.
-
-In Part 3 of the series, Michael discusses how to resist getting angry with clients when the temptation is overwhelming, and how to control the scope of web projects by defining clear specifications and project scope from the outset – Anger and Covetousness
-
-5. ANGER – “DEAR CLIENT, AS YOU FAILED TO RESPOND TO MY EARLIER EMAILS…”
-I come across many Web Project Managers who seem to personally suffer from the client’s inability to give feedback in good time. Though this is an annoying fact, in some situations it has to be attributed to a Web Project Manager’s inability to cater for this situation – beforehand, or as it emerges.
-
-Trust me, even if you happen to inherit a web project where you are dealing with non-responsive client, not all is lost, yet. Countless intelligent people have devised Web Project Management documentation frameworks which would anticipate this situation, and prevent the worst case from happening.
-
-However, I haven’t seen many web projects where all of this ideal world project documentation was in a grade A condition from the start (not even the ones I have started from scratch!), but then again, I’ve never worked with clients who wouldn’t have accepted a mode shift along the way, either.
-
-But, if you have ever been forced to wait for client approval beyond the launch deadline you surely were caught between a rock and a hard place. As soon as this happens once, you are fully entitled to ask for a change in the mode of operation. In my experience, web projects tend to suffer from bottlenecks which are related to the allocation of time within the client’s organisation rather than your own.
-
-BENEFITS OF PROJECT COMMUNICATION LOGGING
-I had a client once who was managing a time-critical launch bound to an event where he had to participate in person and where he couldn’t be reached by email or phone for the whole afternoon while material was missing from God-knows-where.
-
-We decided to go live with non-approved interim content. The client cried “Betrayal!” and refused to pay the bill.
-
-I said “OK!” and stated I would simply send the project log (where all web project communication was recorded) via my boss to his boss to document the issue on behalf of our project team.
-
-“You’re keeping a project log?” he said, with an amount of fear.
-
-I replied, “Listen – do you really think that we, as a web project delivery organisation, wouldn’t organise and document our own web project delivery process? This is what we do for a living!”
-
-Whether this project log exists or not is up for debate, but my advice is only ever be bitchy if you have evidence!
-
-However, it is somewhat ironic how rarely the principles of Web Project Management are applied to the Web Project Management process itself. Managing the Web Project Management process is one of the most worthwhile tasks – and one of the most essential for complete confidence and stability on-going.
-
-WEB PROJECT DELIVERY DEFINITION
-In order to minimise situations like the above from ever happening, what I try to do from the start with any web project I am involved in, and if I fail, do as soon as I find the time or as the need emerges is:
 
 I re-negotiate the prerequisites of delivery. Any web project which I have ever seen is based on assumptions e.g. “if we use framework XYZ, we’ll be fine” and “we’ll get all the materials in time”, and not forgetting the assumptions formulated out of pure madness like “we can do last changes on the materials in the two hours before we go live with it”
 Whenever I read a web project briefing, or an RFP, I take a piece of paper and note down under which circumstances the stuff I read makes a reasonable request. And particularly, what are the likely points of failure?
@@ -230,22 +193,7 @@ Last but not least, it largely depends on what kind of personality you are. If y
 
 If you are not willing to contribute hands-on to the project because you do not consider this being a part of your responsibility – you can always try to get another job. The choice is yours.
 
-IN SUMMARY
-Web Project Management, for which I sketched its shortcomings in the previous articles, will undoubtedly flop if it is carried out with the wrong focus and if it is aiming at the wrong goals.
 
-The postulated deadly sins can, and shall be of course, all interpreted as examples of individual failure. In Web Projects, I have seen otherwise reasonable Web Project Managers being caught in selfish traps because they pig-headedly insisted on having the exclusively correct situation assessment and response for a particular question, issue, or project stage.
-
-In the current economic climate it can prove deadly for a whole web agency if the management doesn’t see the wood for the trees – and each of the postulated deadly sins can easily obstruct the view on more important issues.
-
-Web Project Management is far more a continuous business re-engineering strategy than simply the completion of pre-defined and well formulated task lists with known time, money, and competence allocations.
-
-It requires, following one thought from the German sociologist Dirk Baecker, a type of management which sees its heroism no longer at the disposal of resources and the willingness to fight offending or unreasonable customer demands, but which requires serendipity for the factual and social dimensions of the organisation of work and the distribution of shared responsibility which comes along with that.
-
-We are heading towards an age of post heroic management, for which two aspects seem essential to me:
-
-The Web project Manager’s ability to let his personal motivations, goals and rewards fade into the background, and…
-Each team member’s ability to re-think their own contribution beyond a structure of assessment, delivery and hierarchy
-This concludes the Web Project Management: Seven Deadly Sins series. A big thank you to Michael for writing this incredibly extensive and enlightening article which has certainly taught me a thing a thing or two and I hope you feel the same too.
 
 
 ## Getting things done
