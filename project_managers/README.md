@@ -95,29 +95,15 @@ The most common pitfall is fear, and as Yoda said, it does indeed lead to anger 
 
 Try and avoid any and all assumptions as much as possible. Using a particular tool or framework will not necessarily alleviate problems or reduce the time required, you can't rely on the developer to fix all reported bugs in a fixed time period before you know exactly what the bugs are. Try and identify all the likely points of failure well in advance. Most importantly, when things do go wrong, stay calm, stay polite, don't throw blame around, just find the best way to resolve the situation.
 
-Going back to pre-emptively anticipating fear-inducing situations, one you'll surely have for at least one project during your time as a web project manager, if not every project, is resourcing issues. The client will expect you to be flexible enough to accommodate their delays in delivering materials or feedback without impacting final deadlines. You will be expected to allocate people to project work despite not having a clear grasp of the scope, and in the face of a slipping deadline and a shrinking budget. You must, however, **never** admit or even complain to anyone about not having enough resources. It will only serve to annoy your team, your client manager, your boss, the client, and, actually, it's probably not entirely true even if you don't realise it.
+Going back to pre-emptively anticipating fear-inducing situations, one you'll surely have for at least one project during your time as a web project manager, if not every project, is resourcing issues. The client will expect you to be flexible enough to accommodate their delays in delivering materials or feedback without impacting final deadlines. You will be expected to allocate people to project work despite not having a clear grasp of the scope, and in the face of a slipping deadline and a shrinking budget. You must, however, **never** admit or even complain to anyone about not having enough resources. It will only serve to annoy your team, your client manager, your boss, the client, damaging relationships that you rely on. Furthermore, it's probably not entirely true even if you don't realise it. Unfortunately, it's usually your concern and nobody else's. The client certainly doesn't need to hear it - you don't expect to go into a restaurant as a customer, place your order, and then be told the chef can't cook your meal because they don't have the time or the ingredients. Instead you might be told that something is off the menu or that it will take time to prepare. You might change your order, you might go to another restaurant, or you might wait patiently and enjoy the meal that you are served.
+
+There are some techniques you can employ to deal with resourcing issues when your team is stretched beyond its capability. Essentially though what they come down to is just buying time and accurately prioritising individual tasks. Luckily, as a project manager that's what you're best at. Never confirm or commit to anything until you've thoroughly checked it against budget and schedules. When new requests come in, they may actually improve on the agreed functionality or feature set to the point that they're really worth trying for the sake of the project's success, no matter the strain it will put you under. On the other hand if you can put a case for the increased time and money required the project owner may reconsider and deem it not worth it before withdrawing the request.
 
 
 
 
 
 
-If you bring your car to a car repair shop – you don’t really expect the clerk to tell you intimate details about the workload of his staff, right? All you want to get is your car repaired. And thus you may accept the clerk saying: “Sorry. For this week we are already full. But you could bring in your car next Tuesday at 8 in the morning!” You really don’t expect any more information on the matter why you can’t get you car fixed before that.
-
-The struggle for resources is one of the biggest challenges a Web Project Manager will face. It is however not the client’s concern how your web project staffing is addressed.
-
-DEALING WITH RESOURCING ISSUES
-There are however a couple of techniques and replies which you can apply to situations where you are asked to stretch your project organisation beyond capability. They all boil down to the fact that it is essential for you to buy time, and to sequence the requests in a reasonable manner by constantly re-applying the distinction between urgent and important throughout a project.
-
-If you have followed the advice assembled in this article so far you already have some good replies at hand to answer client requests about additional deliverables.
-
-Several more re-usable Web Project Management snippets you may want to consider for any future resourcing situation include:
-
-“I would need to look into the implications on schedule and budget before I can give you confirmation on this matter.”
-Remember, all the tasks and phases are deeply intertwined!
-“Upon initial thought it seems as if this request is enhancing the agreed functionality requirements. I’ll have this analysed by our technical experts first and get back to you.”
-Remember, a significant scope enhancement will ruin one or more of the Assumptions and/or Prerequisites under which the Web Project Agreement has been issued originally and may result in filing a Change Request. Once clients see the price tag implied by their request, they may consider it “not that urgent / important”
-“I can only think of two people in my organisation that would have an instant answer to whether this is possible with the given system. Let me quickly see if I can contact any of them.”
 Grab your phone while saying that. Remember, you are representing a team of experts, giving everything to satisfy client’s needs as they emerge!
 “The team for this week is completely allocated with coping for the unpredicted delay in the provision of material. We can have a look at this request next Tuesday at 8 in the morning!”
 Remember to know where you and your team are with the tasks agreed and what is the most urgent thing, as opposed to important, to take care of is essential
