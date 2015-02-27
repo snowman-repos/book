@@ -81,16 +81,15 @@ Alternatively you can work to lower budgets than you actually have in order to c
 
 However you decide to plan your project, make sure you involve your team from the start. Decide together how to share out laborious tasks, who can help who with what. You'll also need to keep your hands dirty throughout the project lifecycle. Get your hands dirty in the code, the copy, the images. Familiarise yourself with the strain of the boring and repetitive tasks. Understand the work and what you're asking of your team. Encourage everyone to divide their labour and share what they've learned. They should focus on high-concentration tasks for only an hour at a time, and review each other's work. Equip every project with tools and techniques than can be re-used along the way. Do your best to make it a team effort.
 
+> It is a platitude that any kind of management only has two ways to get anything done – action and communication. Communication without action is simply pretending, and action without communication will never lead anywhere. Big gestures, speeches, or any other kind of ‘pep talk’ are not really well suited for motivating people’s participation without follow through.
+
+> _- Michael Dlugosch_
+
+It's all too easy to fall into narcism as a web project manager.
 
 
 
 
-
-By this, I don’t mean the feeling that one would have to stoop when the customer lets the proverbial soap slip – I mean the ability to let your own Web Project Manager personality evaporate into the background in favour of something else more honourable and geared towards getting things done together for the team.
-
-It is a platitude that any kind of management only has two ways to get anything done – action and communication.
-
-Communication without action is simply pretending, and action without communication will never lead anywhere. Big gestures, speeches, or any other kind of ‘pep talk’ are not really well suited for motivating people’s participation without follow through.
 
 The inability or unwillingness to serve can be easily attributed to what psychologists call: narcism. However, it may lead further to take another angle and approach this topic through the back door.
 
