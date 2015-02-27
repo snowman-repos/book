@@ -56,27 +56,30 @@ Avoid using jargon. Always consider who you're speaking to and how best to commu
 
 Don't submit to envy when you see others leaving work earlier than you or arriving later. There will inevitably be times when they are busier than you. You have the benefit of seeing an end to every project, you get recognition for successful deliveries, and you have clear success criteria, known targets, which perhaps others don't. It may seem like the client manager's job is to promise clients that which you have to deliver without even a clear idea if it's even possible, but in fact part of their job is to convince the client to go with your team, and at your costs, no matter what. Your plan is fixed and certain, based on specific tasks and goals, while those of others may not be. Always consider the situation others are in and try to cut them a little slack now and again. Never criticise unduly and when you do, make it constructive by offering helpful advice and trying to find a common ground. The alternative is to jeopardise relationships that you rely on and ultimately contribute to your already towering mountain of stress.
 
+Resign yourself to the fact that there is a fixed, maybe even reduced budget. 
+Also resign yourself to the fact that scope likely isn't fixed and is sooner to be expanded than reduced. Great! Unfortunately, this is just something you'll have to accept and move on. No point crying over spilt milk, as the saying goes. A truly great project manager will find a way to maximise the resources at hand to produce the optimum result, and that is the quintessential challenge of your role.
+
+There are various tools and methods for dealing with this challenge. Primarily among them is by building a great team and cultivating relationships such that everyone helps eachother and works efficiently. Easy right? pfft. An easy way to give yourself some leeway is to always overestimate the time and money required. Overspend the budget, place deadlines beyond a date by which you know delivery is achievable. You may need to justify this on the basis that future projects for the same project owner will allow them to reclaim the overspend for the current one.
+
+> Lt. Commander Geordi La Forge: Look, Mr. Scott, I'd love to explain everything to you, but the Captain wants this spectrographic analysis done by 1300 hours.
+
+> Scotty: Do you mind a little advice? Starfleet captains are like children. They want everything right now and they want it their way. But the secret is to give them only what they need, not what they want.
+
+> Lt. Commander Geordi La Forge: Yeah, well, I told the Captain I'd have this analysis done in an hour.
+
+> Scotty: How long will it really take?
+
+> Lt. Commander Geordi La Forge: An hour!
+
+> Scotty: Oh, you didn't tell him how long it would *really* take, did ya?
+
+> Lt. Commander Geordi La Forge: Well, of course I did.
+
+> Scotty: Oh, laddie. You've got a lot to learn if you want people to think of you as a miracle worker.
 
 
 
 
-
-
-3. GLUTTONY – “WE NEED TO INCREASE THE PROJECT BUDGET BY 2 MILLION”
-Gone are the days when clients seemed to have endless budgets allocated to an emerging digital medium and where they hoped to mark their claims on the Western frontier.
-
-Today, more and more payments are tied to specific milestones, preliminary approvals by the steering group and successfully conducted functionality tests that are based on the use case descriptions, which may postpone a web project phase’s payment for six weeks.
-
-It all depends on what kind of organisation you are working in and whether you’re paid by the efforts your team has put in, for meeting certain functionality criteria or for something else judged by some obscure stakeholders somewhere else in the world – big money spends on web projects have become scarce over the last few years, and you had better be fully aware that there is no more budget for your project – even if the customer has changed the scope countless times at will.
-
-Either way, in these difficult times for the digital industry a Web Project Manager needs to find ways to keep delivering with reduced budgets and less margin for error that ultimately hit your already financially fragile web agency.
-
-Here are two ways to deal with the constant problem of web project budget overrun:
-
-Overspending
-Shadow budgeting
-OVERSPENDING
-This is always a calculated bet on the future. It is the technique whereby a Web Project Manager or Account Manager justifies web project overspend by assuming that future projects for the same client will allow them to claw back the project overspend for the current one.
 
 SHADOW BUDGETING
 Shadow budgeting is the art of working to lower budgets than you actually have in order to cater for the inevitable overrun – best case is you deliver under budget and achieve some internal process or skills development while being paid, worst case is you deliver on budget – not a bad worst case scenario, I think you’ll agree.
