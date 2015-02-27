@@ -102,8 +102,6 @@ Try and avoid any and all assumptions as much as possible. Using a particular to
 
 
 
-
-7. SLOTH – “WE DON’T HAVE MORE RESOURCES!”
 As Sam Barnes comprehensively covered in his recent article “Web Projects: How to keep the peace when making decisions”, one of the saddest facts in a Web Project Manager’s life is indeed the multitude of expectations they to deal with, for example:
 
 The client expects your organisation to be flexible enough to catch up with a five day delays in material preparation without any effect on the deadline
