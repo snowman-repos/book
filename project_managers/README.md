@@ -91,7 +91,10 @@ It's all too easy to fall into narcism as a web project manager. We have so much
 
 > _- Master Yoda_
 
-The most common pitfall is fear, and as Yoda said, it does indeed lead to anger and suffering. At the start of every project you know that things will go wrong. You'll struggle to meat a deadline, you'll have to deal with difficult client requests, even an unresponsive client, or your best developer may fall ill or go on holiday. Knowing this inevitability and still being unprepared for it is the web project manager's cardinal sin. You need to stay calm and anticipate how you're going to handle the situation. A good start is planning and documentation. Documenting everything, including communication, and having written contingencies in place will put everyone at ease when the time comes. Try and avoid any and all assumptions as much as possible. Using a particular tool or framework will not necessarily alleviate problems or reduce the time required, you can't rely on the developer to fix all reported bugs in a fixed time period before you know exactly what the bugs are. Try and identify all the likely points of failure well in advance. Most importantly, when things do go wrong, stay calm, stay polite, don't throw blame around, just find the best way to resolve the situation.
+The most common pitfall is fear, and as Yoda said, it does indeed lead to anger and suffering. At the start of every project you know that things will go wrong. You'll struggle to meat a deadline, you'll have to deal with difficult client requests, even an unresponsive client, or your best developer may fall ill or go on holiday. Knowing this inevitability and still being unprepared for it is the web project manager's cardinal sin. You need to stay calm and anticipate how you're going to handle the situation. A good start is planning and documentation. Documenting everything, including communication, and having written contingencies in place will put everyone at ease when the time comes. An unreasonable demand doesn’t get any better, regardless of how often you repeat it. If the client or client manager is adamant about a particular request or feature that is beyond the agreed scope, then you must comprehensively document the interdependencies involved:
+
+
+Try and avoid any and all assumptions as much as possible. Using a particular tool or framework will not necessarily alleviate problems or reduce the time required, you can't rely on the developer to fix all reported bugs in a fixed time period before you know exactly what the bugs are. Try and identify all the likely points of failure well in advance. Most importantly, when things do go wrong, stay calm, stay polite, don't throw blame around, just find the best way to resolve the situation.
 
 
 
@@ -99,15 +102,6 @@ The most common pitfall is fear, and as Yoda said, it does indeed lead to anger 
 
 
 
-
-6. COVETOUSNESS – “SURE. THIS FEATURE WILL COST YOU €10K”
-As you may have guessed from what you’ve read before in this series or from experience, an unreasonable demand doesn’t get any better, regardless of how often you repeat it.
-
-The key to make people pay for the things they are desperately asking for, which is beyond the agreed scope, is to comprehensively document the interdependencies between the parts of the puzzle for all to see from day one.
-
-Working with a detailed Work Breakdown Structure (WBS) document makes this a much easier task. Everyone will have their own take on creating a WBS, but this is mine step-by-step:
-
-Download WBS Template »
 
 Transfer the different high-level stages of the project to pieces of paper – one phase goes on one piece of paper – or put it in an Excel file, if you want
 Think about the competency contributions you will need for each of the phases and how they relate e.g. What do you need to get done by Web Designers in each phase? Is there anything that Software Architects or Web Developers can contribute, prepare, or review in a particular early phase of the project?
@@ -127,9 +121,7 @@ Deliverables are marked with a right arrow (deliverable_X -> phase_Y), inputs to
 
 And there you have it, a WBS document, matching both the output dimension of phase X and the input dimension for phase Y. Split by competencies, bound to web project phases and reflecting the actual deeds and work packages for everyone to see and track throughout the project’s lifecycle. Splendid!
 
-Download WBS Template »
 
-In the final part of this brilliant series, Part 4, Michael talks about Sloth, the last of the Web Project Management deadly sins. It deals specifically with the constant struggle Web Project Managers have when trying to allocate resource to their projects only to discover there is none available.
 
 7. SLOTH – “WE DON’T HAVE MORE RESOURCES!”
 As Sam Barnes comprehensively covered in his recent article “Web Projects: How to keep the peace when making decisions”, one of the saddest facts in a Web Project Manager’s life is indeed the multitude of expectations they to deal with, for example:
