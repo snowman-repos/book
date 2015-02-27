@@ -157,41 +157,7 @@ As with web designers and developers, if we have enough time to do our jobs prop
 
 #### Trust and Confidence
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Trust is important to every Web Project Manager out there and is a key component in web project management. Trust from your client and your production team, or lack of, can seriously affect the result of any web project.
-
-I talked about how to gain trust from all of the above in a previous article called Web Project Management: Honesty, Trust & Integrity and it mainly revolves around conducting yourself at all time in a manner that is clearly seen as being full of honesty and integrity no matter what temptations arise.
-
-But, to a Web Project Manager, more valuable than any salary is having the trust of your superiors, because as we all know, when managing a web project you are the person right on the front line at all times, making critical decisions on a daily basis and are ultimately responsible for success or failure, and when this depends on more internal and external factors than you can shake a stick at, well… this is a very precarious position to be in!
-
-I mean let’s face it, when things go well you look like a superhero, a master of your trade and an example to everyone, but, when things don’t go so well, oh my, that is when any Web Project Manager needs, and needs to see, absolute trust from their boss and for him or her not to go all Alan Sugar on them.
-
-A spoof image showing Alan Sugar questioning a Web Project Manager about project status, the Web PM has a nervous laugh look on his faceSometimes you wish you’d just stuck to coding
-When your boss hears a web project is coming in over budget or late and you know for certain why, and that the reasons are mostly due to factors outside of your control, for them to listen to your reasons and say “I don’t think you did anything that wrong, web projects contain too many elements for you to be in full control of at all times.”, this, my Pedigree Chums, is music to our ears.
-
-Web Project Manager Tip of the Day… Get your boss to read Good Project Management Doesn’t Guarantee Project Success
-
-Of course this reaction is only possible if you have demonstrated in the past that you can effectively control web projects under the right circumstances and if it is a cast iron known fact that you always take full responsibility and admit fault if that happens to be the case, without that honesty and integrity you will never have trust from anyone.
-
-For a Web Project Manager no amount of money in the world is a substitute for feeling trusted.
+As we discussed above, trust from the client, the client manager, your boss, and every member of the production team is crucial. You are on the front-lines, making critical decisions on a daily basis. The success or failure of the entire project largely falls on your shoulders and yet your job relies on so many uncontrollable factors. Good project management doesn't necessarily lead to project success, but bad project management always leads to project failure. Trust can only be gained and isn't given blindly. You gain it by demonstrating that you can do your job effectively, take control, and always, always accept responsibility.
 
 #### A Capable Production Team
 
