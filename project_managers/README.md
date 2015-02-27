@@ -95,19 +95,12 @@ The most common pitfall is fear, and as Yoda said, it does indeed lead to anger 
 
 Try and avoid any and all assumptions as much as possible. Using a particular tool or framework will not necessarily alleviate problems or reduce the time required, you can't rely on the developer to fix all reported bugs in a fixed time period before you know exactly what the bugs are. Try and identify all the likely points of failure well in advance. Most importantly, when things do go wrong, stay calm, stay polite, don't throw blame around, just find the best way to resolve the situation.
 
-Going back to pre-emptively anticipating fear-inducing situations, one you'll surely have for at least one project during your time as a web project manager, if not every project, is resourcing issues. The client will expect you to be flexible enough to accommodate their delays in delivering materials or feedback without impacting final deadlines. You will be expected to allocate people to project work despite not having a clear grasp of the scope, and in the face of a slipping deadline and a shrinking budget. You must, however, never admit or even complain to anyone about not having enough resources.
+Going back to pre-emptively anticipating fear-inducing situations, one you'll surely have for at least one project during your time as a web project manager, if not every project, is resourcing issues. The client will expect you to be flexible enough to accommodate their delays in delivering materials or feedback without impacting final deadlines. You will be expected to allocate people to project work despite not having a clear grasp of the scope, and in the face of a slipping deadline and a shrinking budget. You must, however, **never** admit or even complain to anyone about not having enough resources. It will only serve to annoy your team, your client manager, your boss, the client, and, actually, it's probably not entirely true even if you don't realise it.
 
 
 
 
 
-Here are two reasons why you should refrain from saying it:
-
-You will ruin your reputation as you’re probably lying without even realising it!
-One of your most important tasks is to keep your business away from the client
-Of course your company has more resources! It will almost certainly be just a fraction of your agency’s workforce that you have allocated for your web project so far. As soon as more than one web project is handled at your company at one time there are more resources. The sad and brutal truth is that you probably do have the resource in-house, but just can’t access them or allocate them to your tasks – your organisation simply wouldn’t allow that to happen! So, admitting that you can’t get any more resources other than the ones you have assembled as workforce on their project is a bad thing to do. Just ask yourself the following question:
-
-As for keeping your business away from the client, consider this example.
 
 If you bring your car to a car repair shop – you don’t really expect the clerk to tell you intimate details about the workload of his staff, right? All you want to get is your car repaired. And thus you may accept the clerk saying: “Sorry. For this week we are already full. But you could bring in your car next Tuesday at 8 in the morning!” You really don’t expect any more information on the matter why you can’t get you car fixed before that.
 
