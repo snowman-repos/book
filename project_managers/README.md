@@ -16,7 +16,23 @@ Unfortunately, as a natural consequence of your large and scattered workload, yo
 
 In order to perform this role well you'll need experience. In order to gain experience, you'll need to peform this role. However, maybe some other experience can help get you started. More often than not, web project managers have worked previously as designers, developers, account managers, testers, or IT technicians. All web projects are eventually delivered, but whether or not every part of the project is delivered in the best state highlights the value of the web project manager. If the project manager does indeed have a background in another role, it's often the case that that area, be it design or development or whatever, receives more than its fair share of attention. A designer may produce the most stunning UX features, at the expense of blowing the budget on laborious front-end development work. This is where the experience comes in. The longer people cover this role the more accustomed they become to balancing resources while maintaining scope, bugget, timelines, and overall quality. To be truly effective, you need to be able to understand each role; you should embark on your own learning quest to ensure that you yourself can create content matrices, wireframes, UI style guides, JavaScript functions, Test scripts etc.  If you can't then you will be relying on others to make your decisions for you or, worse, representing false expertise to those to whom you're accountable. So, if you're relatively new to this role, then don't worry - it will get easier, and you'll get better, even if you're great already. The way to stay monitor and constantly work on your performance is by being aware of your success measures, or Key Performance Indicators (KPIs). Your success measures may not be as obvious or easy to assess as those of, for example, a designer - analytics data - or developer - bug reports, analytics data - so we'll cover some ideas here.
 
-A truly great project manager 
+The main idea behind KPIs is that they must be measurable metrics. Individual projects may have, indeed should have, their own KPIs to assess the extent to which the post-launch project has achieved it's initial pre-launch goals. The metrics recorded must be specific and consistent in order to allow for objective comparison.
+
+Examples of good project KPIs might be:
+
+* increase conversions by 5%
+* reduce time spent by customer service responding to inquiries
+* increase subsciptions
+* generate 10% more traffic
+* improve Google search results position for X keyword
+
+Conversely bad KPIs are vague or difficult, if not impossible, to measure:
+
+* increase brand awareness
+* improve usability
+* incrase time spent on the website
+
+### Why KPIs
 
 - project performance budget
 - project goals
@@ -24,54 +40,11 @@ A truly great project manager
 - bugs
 - team happiness
 
+Your ultimate goal in this role is that you'll be able to easily look at a web project and envisage the whole solution in its entirety right rom the start. You'll be able to see clearly what will be involved, be able to easily avoid or mitigate risks, and maintain momentum, until finally seeing through to a successful delivery. You'll understand the precise creative and technical requirements almost as well as any designer or developer. You'll be able to communicate with everyone in a clear and tailored way, speaking in their language such that they are left in no doubt as to the expectations and objectives. You'll keep the team motivated and focused on producing quality work, while shielding them from stress. You'll have no problems producing product plans, schedules, sitemaps, wireframes, and functional specifications that your production team can work from with ease.
 
 
 
 
-
-
-
-
-IN SUMMARY
-I believe what separates a great Web Project Manager from an average one is the ability to look at a web project and be able to envisage the whole solution in its entirety from an early stage and with few gaps, thus being able to manage the project’s risks and maintain momentum.
-
-They’ll be able to understand the creative requirements almost as well as a designer, the technical requirements almost as well as a developer and communicate both in a way that results in clear tasks that need to be completed and the perfect solution being delivered, all while not being sniggered at for pretending to play at being knowledgeable in these areas but instead gaining respect.
-
-Perhaps some of the technology requirements are out of the Web Project Manager’s comfort zone; well the great ones will go home, dig in and do a bit of research until they feel comfortable they have grasped the basics.
-
-A great Web Project Manager should be able to produce good project plans, schedules, sitemaps, wireframes and functional specifications that production teams can work from with ease, rather than loose, fuzzy, vague and ambiguous documents that are recipes for disaster and all too commonly produced by people just wanting to pass the work onto someone else.
-
-They’ll also be able to keep production teams motivated and focussed on producing quality work while taking all of the crap and stress from all directions in an attempt to shield them and let them work their magic unimpeded by project politics.
-
-And finally a great Web Project Manager will be able to talk to everyone involved on their level and in their language which leaves everyone in no doubt of the expectations and objectives of the project.
-
-Am I a great Web Project Manager? No, but I strive to be and so should you. Is the above a complete list of everything that separates great Web Project Managers from the not so great? No, but it’s a bloody good start.
-
-
-
-
-
-WHAT ON EARTH IS A KPI?
-A KPI, or Key Performance Indicator, is simply a measurable metric by which a project can be judged as a success or not in accordance with the client’s primary aims for the project. For each KPI a pre-launch metric is recorded and post-launch the same metric is recorded, thus providing the data for an objective comparison.
-
-KPIs can be defined as financial or non-financial targets, examples of typical KPIs for web projects are as follows:
-
-Increase the amount of leads via the website by 10%
-Increase online conversions by 5%
-Reduce the time Customer Services team spend dealing with telephone queries
-Increase newsletter subscriptions
-Generate 10% more traffic
-Get higher competitive key phrase search engine rankings
-Often KPIs that are more difficult to measure will often be put forward by a client, such as:
-
-Increase brand awareness
-Improve usability
-Increase time spent on the website
-Although more difficult to measure, it is possible to use some KPIs like those above as long as the necessary metrics can be collected but the time required to do so should be made clear to the client upfront. For example, usability could be measured on the current site, and then measured again on the new site, but it would require the same controlled conditions and user groups for both – possible, but possibly time consuming and difficult to replicate.
-
-The key ingredients to a KPI are the ‘before and after’ metrics that allow for an equal comparison of numbers to determine success levels.
-
-But wait, so if I define some KPIs with the client it means at the end it could be proven the project wasn’t a fantastic success? Correct, but KPIs are good for both client and web agency.
 
 WHY KPIS ARE GOOD FOR WEB AGENCIES
 Aside from the obvious client benefits of being able to set, and hopefully achieve, their desired business aims with the web project, KPIs also keep web agencies focussed on what they’re really being hired to do – add value to the client’s business. After all, if a web agency delivers a website or web application that looks beautiful, is coded beautifully and accessible to all but fails to satisfy the aims of the client’s business and facilitate growth, quite simply, the web agency has not done their job.
