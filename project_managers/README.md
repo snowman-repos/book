@@ -4,7 +4,7 @@ _Reading time ~ 45 minutes_
 
 Your role is the most important. Not everyone can handle this role, but given that it touches on every part of the project, it's something that every web professional should try at some point and indeed many have, with Project Managers usually having previously been designers and developers. You are responsible for making sure the rest of the production team can do their jobs smoothly, for making sure the project actually gets produced, and produced to the best of your team's abilities. You are the enabler. 
 
-Most people fall into web project management having previously worked in other roles, most commonly design or development. In some organisations roles are interchanged or rotated so that everyone gets a chance to be a project manager, thus giving everyone a greater commercial and logistical insight into the realities of running web projects, even businesses themselves. I like this idea. Some people will be weaker than others but they can garner support from everbody's shared experience. At the same time, being a project manager, even if only temporarily, adds value from new skills and knowledge, and generates confidence.
+Most people fall into web project management having previously worked in other roles, most commonly design or development. In some organisations roles are interchanged or rotated so that everyone gets a chance to be a project manager, thus giving everyone a greater commercial and logistical insight into the realities of running web projects, even businesses themselves. I like this idea. Some people will be weaker than others but they can garner support from everybody's shared experience. At the same time, being a project manager, even if only temporarily, adds value from new skills and knowledge, and generates confidence.
 
 Project management is a careful balance of priorities weighted more towards clients, budgets, and schedules, but also concerned with product content, aesthetics, technologies, and performance. Rather than having a small number of things to work on at any one time, there are seemingly countless issues to deal with and numerous key decisions to make on a daily, even hourly, basis.
 
@@ -32,7 +32,13 @@ Conversely bad KPIs are vague or difficult, if not impossible, to measure:
 * improve usability
 * incrase time spent on the website
 
-### Why KPIs
+We'll go further into establishing per-project KPIs later.
+
+### Why KPIs are good
+
+At the most basic level, having specific success measures, goals that you are working towards, help to maintain focus on what's important. You may pass on the requirements, make a timeline, meet your deadline, and deliver your project. But that doesn't count as a success if your production team are tired, angry, and resentful and your project of poor quality. This is only going to make your job harder on future projects. Aside from focus, KPIs are valuable in analysing mistakes or failures, allowing you to put measures in place to avoid them in future. If you know exactly what went wrong, you can fix it.
+
+### Your KPIs
 
 - project performance budget
 - project goals
@@ -41,56 +47,6 @@ Conversely bad KPIs are vague or difficult, if not impossible, to measure:
 - team happiness
 
 Your ultimate goal in this role is that you'll be able to easily look at a web project and envisage the whole solution in its entirety right rom the start. You'll be able to see clearly what will be involved, be able to easily avoid or mitigate risks, and maintain momentum, until finally seeing through to a successful delivery. You'll understand the precise creative and technical requirements almost as well as any designer or developer. You'll be able to communicate with everyone in a clear and tailored way, speaking in their language such that they are left in no doubt as to the expectations and objectives. You'll keep the team motivated and focused on producing quality work, while shielding them from stress. You'll have no problems producing product plans, schedules, sitemaps, wireframes, and functional specifications that your production team can work from with ease.
-
-
-
-
-
-WHY KPIS ARE GOOD FOR WEB AGENCIES
-Aside from the obvious client benefits of being able to set, and hopefully achieve, their desired business aims with the web project, KPIs also keep web agencies focussed on what they’re really being hired to do – add value to the client’s business. After all, if a web agency delivers a website or web application that looks beautiful, is coded beautifully and accessible to all but fails to satisfy the aims of the client’s business and facilitate growth, quite simply, the web agency has not done their job.
-
-Not only will the web agency have not done their job, but the client will inevitably be unhappy with the results and this damages the chance of possible repeat business, testimonials, case studies and referrals, and as a web agency, sales as a result of these are the true keys to stability and expansion.
-
-But sales aside, KPIs are good for web agencies because they ensure all teams remain focussed on the business problems that need solving as opposed to the latest techniques or technologies. Yes a web agency must keep up to date with all of the latest trends to remain competitive, but cultivating an entire team to become primarily business focussed is by far more valuable to an agency in the long-run than any use of cutting edge technologies as that team will consistently be delivering business value to clients and this only ever increases agency team morale.
-
-KPIs can also serve as a boundary to client requests for features that are out of scope. In this instance, with KPIs defined, a web project manager can, with all sincerity, ask which KPI this relates too. More often than not, the answer will be none and in one swift move you have not only protected the project’s scope but kept the client focussed on their business’s primary aims and saved them money.
-
-WHEN FAILING IS VALUABLE
-Even failing to deliver on one or all KPIs is extremely valuable to a web agency because it allows the team to fully analyse why this was the case and take the appropriate steps to improve on the next project. In some instances, by being completely transparent with a client about the KPIs and failure to reach them results in a relationship based on respect and trust and this puts an agency in a great position to propose further work in order to turn the failure into success based on statistics captured post-launch – if you can identify what the project failed to achieve but also why, you can fix it rapidly.
-
-WHO SHOULD DEFINE KPIS
-It is important to specify who should create the web project’s KPIs? Usually the client will give you the KPIs but it is the web agency’s role to analyse and challenge these where necessary to ensure they are realistic, measurable and placed in the correct context e.g. if a KPI is given to as “appear on page one of Google” without the context of which keywords to appear on page one for, the KPI could be achieved by getting the client to number one for their domain name, brilliant.
-
-Obviously this is not brilliant, but illustrates the importance of defining the right kind of KPIs.
-
-FACTORS TO CONSIDER WHEN CAPTURING AND MEASURING KPIS
-Another factor to take into consideration when defining and capturing KPIs is what the client’s business activity is that time that could impact any of the metrics collected both before and after launch.
-
-For example, if a KPI was to increase traffic by 5%, a ‘before’ figure would be collected that gave the current traffic over a defined period, let’s say three months. Post-launch, the ‘after’ figure would be collected for the same time duration and the comparison made. But using just this one example could possibly result in skewed results if any of the following are true:
-
-When the ‘before’ metric was taken the client had just implemented a print marketing campaign
-PPC/SEM was being conducted and now is not
-The ‘after’ metric is taken over a period of time when several national holidays occur
-A new competitor arises on the scene before project completion
-There are many factors that should be taken into considering when capturing and measuring web project KPIs. It is impossible to predict the future, but by conducting research into any external factors increases the chance of being able to produce the most equally weighted comparative metrics and thus the purest measurement for a KPI and the project’s success.
-
-STAYING FOCUSSED ON KPIS
-Once defined with the client at the start of the project, the KPIs should be documented and circulated amongst all parties that will be involved throughout the project’s lifecycle. In doing so you are immediately focussing everyone on the aims of the project. Too often in web projects the aims of the project are specified in finite detail by the client in the tender document, backed up by agency proposals and then swiftly forgotten by both sides. While this seems a little crazy, in reality, the pace and complexity of most projects, both large and small, make it difficult to focus on anything other than completion – it’s the job of the web project manager to ensure these aims are at the forefront of everyone’s mind at all times.
-
-The most effective ways to keep KPI focus throughout a project are to:
-
-Document them at the start of the project
-Present back to the client, and any stakeholders, in a face to face meeting
-Present to your team at the kick-off meeting
-Include them at the top of all project documentation e.g. sitemaps, functional specifications and creative briefs
-Re-iterate them verbally at the start of any new project phase e.g. site IA, development and design
-Remind everyone of the KPIs when reviewing any revisions of work and citing them as reasons for your feedback and suggestions
-Defining realistic and measurable web project KPIs, and keeping them at the forefront of everyone’s mind throughout a project, is not only one of the most crucial parts of a web project manager’s role, but also takes comparatively less effort than most other project tasks you will perform for what is a huge benefit to all. It keeps everyone focussed on why the project exists in the first place, acts a guide to all decision making from beginning to end and serves as a project success indicator that benefits both client and web agency.
-
-
-
-
-
 
 ## The Right Mindset
 
@@ -659,6 +615,42 @@ Make sure to resolve each conflict with education. This education could take man
 
 
 ## Make a Plan
+
+WHO SHOULD DEFINE KPIS
+It is important to specify who should create the web project’s KPIs? Usually the client will give you the KPIs but it is the web agency’s role to analyse and challenge these where necessary to ensure they are realistic, measurable and placed in the correct context e.g. if a KPI is given to as “appear on page one of Google” without the context of which keywords to appear on page one for, the KPI could be achieved by getting the client to number one for their domain name, brilliant.
+
+Obviously this is not brilliant, but illustrates the importance of defining the right kind of KPIs.
+
+FACTORS TO CONSIDER WHEN CAPTURING AND MEASURING KPIS
+Another factor to take into consideration when defining and capturing KPIs is what the client’s business activity is that time that could impact any of the metrics collected both before and after launch.
+
+For example, if a KPI was to increase traffic by 5%, a ‘before’ figure would be collected that gave the current traffic over a defined period, let’s say three months. Post-launch, the ‘after’ figure would be collected for the same time duration and the comparison made. But using just this one example could possibly result in skewed results if any of the following are true:
+
+When the ‘before’ metric was taken the client had just implemented a print marketing campaign
+PPC/SEM was being conducted and now is not
+The ‘after’ metric is taken over a period of time when several national holidays occur
+A new competitor arises on the scene before project completion
+There are many factors that should be taken into considering when capturing and measuring web project KPIs. It is impossible to predict the future, but by conducting research into any external factors increases the chance of being able to produce the most equally weighted comparative metrics and thus the purest measurement for a KPI and the project’s success.
+
+STAYING FOCUSSED ON KPIS
+Once defined with the client at the start of the project, the KPIs should be documented and circulated amongst all parties that will be involved throughout the project’s lifecycle. In doing so you are immediately focussing everyone on the aims of the project. Too often in web projects the aims of the project are specified in finite detail by the client in the tender document, backed up by agency proposals and then swiftly forgotten by both sides. While this seems a little crazy, in reality, the pace and complexity of most projects, both large and small, make it difficult to focus on anything other than completion – it’s the job of the web project manager to ensure these aims are at the forefront of everyone’s mind at all times.
+
+The most effective ways to keep KPI focus throughout a project are to:
+
+Document them at the start of the project
+Present back to the client, and any stakeholders, in a face to face meeting
+Present to your team at the kick-off meeting
+Include them at the top of all project documentation e.g. sitemaps, functional specifications and creative briefs
+Re-iterate them verbally at the start of any new project phase e.g. site IA, development and design
+Remind everyone of the KPIs when reviewing any revisions of work and citing them as reasons for your feedback and suggestions
+Defining realistic and measurable web project KPIs, and keeping them at the forefront of everyone’s mind throughout a project, is not only one of the most crucial parts of a web project manager’s role, but also takes comparatively less effort than most other project tasks you will perform for what is a huge benefit to all. It keeps everyone focussed on why the project exists in the first place, acts a guide to all decision making from beginning to end and serves as a project success indicator that benefits both client and web agency.
+
+But sales aside, KPIs are good for web agencies because they ensure all teams remain focussed on the business problems that need solving as opposed to the latest techniques or technologies. Yes a web agency must keep up to date with all of the latest trends to remain competitive, but cultivating an entire team to become primarily business focussed is by far more valuable to an agency in the long-run than any use of cutting edge technologies as that team will consistently be delivering business value to clients and this only ever increases agency team morale.
+
+KPIs can also serve as a boundary to client requests for features that are out of scope. In this instance, with KPIs defined, a web project manager can, with all sincerity, ask which KPI this relates too. More often than not, the answer will be none and in one swift move you have not only protected the project’s scope but kept the client focussed on their business’s primary aims and saved them money.
+
+
+
 
 PROJECT MANAGEMENT IS FOR CORPORATES!
 You have all no doubt read countless articles on how best to plan a web project. They all go into varying amounts of detail about the steps you should take and how if you don’t follow them the whole world will fall from underneath your feet. I happen to agree with this general philosophy and can often be found preaching the same in my day job.
