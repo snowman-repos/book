@@ -192,11 +192,11 @@ Of course there are times when everyone is going to have to do minor tasks in su
 
 So how can you help? Be a stress sponge. Back to the e-mail example, ensure you are copied in on all project-related e-mails. Yep, all of them. That way you have an eye on to whom issues are being directed and can step in if needs be. By reducing their stress, they work better, which means that eventually you have less to be stressed about. So the stress dividends pay off later.
 
-> It should be assumed that part of the role is to basically take crap on behalf of your team in such a way that they don’t even get a whiff of it, even if they’re the cause of it.
+> It should be assumed that part of the role is to basically take crap on behalf of your team in such a way that they don’t even get a whiff of it, even if they’re the cause of it. Your job is to keep your team positive, motivated and focussed on their job – and if this means taking some crap you know you don’t deserve then so be it.
 
 > _- Sam Barnes_
 
-You also need to shield your team from information that they personally don't need to worry about. In the same way, your boss isn't troubling you with the organisation's overall financial situation, the office space rent, employee health cover, taxes etc. Anything client-related, for instance, can stay between you and the client manager. Anything code-related can filter down to the developer.
+You also need to shield your team from information that they personally don't need to worry about. In the same way, your boss isn't troubling you with the organisation's overall financial situation, the office space rent, employee health cover, taxes etc. Anything client-related, for instance, can stay between you and the client manager. Anything code-related can filter down to the developer. Sam Barnes' crap analogy is an excellent one. He goes on to note that if you can't take the crap then you have no place in any management role.
 
 
 
@@ -205,13 +205,6 @@ You also need to shield your team from information that they personally don't ne
 
 
 
-There is a reason for this, it’s because it would serve no purpose other than to make everyone worry, and what happens when people are worried? They start to feel negative and this will only result in negative impact across the entire company.
-
-Although a rather elaborate example, the theory is the same as to why you as a Web Project Manager should take all the crap you can and shield your web project team from it – because your job is to keep your team positive, motivated and focussed on their job – and if this means taking some crap you know you don’t deserve then so be it.
-
-If you don’t like the sound of this then you have no business being a Web Project Manager, or a manager of any kind for that matter.
-
-WEB PROJECT MANAGERS PLAY RHYTHM GUITAR
 If you want to be a good Web Project Manager you should try to aim to be a rhythm guitarist rather than play lead guitar or sing lead vocals.
 
 By this I mean you should understand that your job is to sit behind the boys and girls that get all the attention for finished products and make sure everything runs smoothly without expecting any glory – for example, in the video below I’m not the pretty boy on lead, but his much wiser looking band mate on the left… cool eh!
