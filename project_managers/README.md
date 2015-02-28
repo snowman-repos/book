@@ -12,9 +12,11 @@ You're stuck there in the middle of everything, with demands made on you by the 
 
 Unfortunately, as a natural consequence of your large and scattered workload, you can't be expected to always provide perfectly detailed, scoped, and unambiguous briefs and specifications, perfectly accurate costs and timelines, or tease out world-class design work and code. You can't be expected to please everyone all the time. But that of course is the goal and all you can ask for is trust that you're doing your best to work towards it. It's not easy, but hopefully by following some of the advice in this chapter you can be a happier, more productive, and more successful web project manager.
 
-
-
 ## Success Criteria
+
+In order to perform this role well you'll need experience. In order to gain experience, you'll need to peform this role. However, maybe some other experience can help get you started. More often than not, web project managers have worked previously as designers, developers, account managers, testers, or IT technicians. All web projects are eventually delivered, but whether or not every part of the project is delivered in the best state highlights the value of the web project manager. If the project manager does indeed have a background in another role, it's often the case that that area, be it design or development or whatever, receives more than its fair share of attention. A designer may produce the most stunning UX features, at the expense of blowing the budget on laborious front-end development work. This is where the experience comes in. The longer people cover this role the more accustomed they become to balancing resources while maintaining scope, bugget, timelines, and overall quality. To be truly effective, you need to be able to understand each role; you should embark on your own learning quest to ensure that you yourself can create content matrices, wireframes, UI style guides, JavaScript functions, Test scripts etc.  If you can't then you will be relying on others to make your decisions for you or, worse, representing false expertise to those to whom you're accountable. So, if you're relatively new to this role, then don't worry - it will get easier, and you'll get better, even if you're great already. The way to stay monitor and constantly work on your performance is by being aware of your success measures, or Key Performance Indicators (KPIs). Your success measures may not be as obvious or easy to assess as those of, for example, a designer - analytics data - or developer - bug reports, analytics data - so we'll cover some ideas here.
+
+A truly great project manager 
 
 - project performance budget
 - project goals
@@ -22,94 +24,13 @@ Unfortunately, as a natural consequence of your large and scattered workload, yo
 - bugs
 - team happiness
 
-‘m writing this article in response to a common question I get asked… what exactly does make a great Web Project Manager?
 
-I believe the reasons I get asked this so often is because the existing articles out there that define what makes a great project manager don’t include the “web” part and either focus on I.T. project management or just project management in general.
 
-A yellow with age photograph of a young man in a suit at his office desk in the 1950sCorporate project management has a sexy reputation
-However it should be noted that many of the points made in these articles are very relevant to web project management, for example, The 12 Attributes of an Effective Project Manager.
 
-For those who are just too damn busy (lazy) to click the link and read, it lists a few attributes that a good project manager should ideally have, e.g.:
 
-Skill in negotiating win-win solutions between stakeholders and the project team
-Staying calm particularly during turbulent times
-Desire to hold the team accountable for deliverables
-Ability to earn the respect of the team regardless of reporting relationships
-It should go without saying that these attributes are as applicable to someone managing the construction of a carbon freezing unit as a web project, or put another way, GreatWebProjectManager extends GreatProjectManager.
 
-Here are a few more similar articles that are worth a read:
 
-Characteristics of Great Project Managers
-How to Be a Good Project Manager
-The Best Project Manager in the World
-But here lies the problem; we are awash with articles explaining what makes a great project manager, but what makes a great WEB Project Manager?
 
-Is it the unique ability to be able to annoy clients, their Managing Directors, design and development teams in one day? Hadouken!!!! K.O.
-
-A group of nerdy looking kids dressed up in Street Fighter costumesI definitely wouldn’t mess with any of these killers
-Or perhaps it’s their powerful skills in having chronic OCD but somehow avoiding medical diagnosis for their entire life?
-
-A photograph showing a young boy who has lined up all of his sweets in perfect orderOne day all my minion resources will line up like this before me!
-Ok ok, while these are things all Web Project Managers are proud of; be it secretly or openly, let’s get serious on what really makes a great Web Project Manager…
-
-WEB PROJECT MANAGEMENT EXPERIENCE
-Of course “experience” is something, that if you have it, makes you a more wise and skilled person in anything and web project management is no different. But the key distinction here is between web project management experience and experience working on web projects.
-
-Often you’ll find all sorts of different people from different backgrounds running web projects, from designers and developers to digital account managers and I.T. managers, but while all of these people will no doubt manage to deliver the website or web application, more often than not, there are noticeable lapses in certain areas that cause web project difficulties and these lapses are where an experienced web project manager really shows their value.
-
-Often the lapses will be in the areas that are the weaker area of the person managing, for example, often a digital account manager will be great at building a rapport with the client, but will commit to unrealistic deadlines or miss functionality out of the scoping stage.
-
-A designer will often ensure the design looks world class but fail to realise that by delivering a world class design with a zillion overlays and cool UI features, the entire project budget will be blown on front-end development.
-
-An experienced Web Project Manager will be aware of these common “gotchas” and direct the project accordingly, making sure all aspects of the project have balanced attention and are aligned with the scope, budget and timelines while maintaining a level of quality both agency and client are happy with.
-
-HANDS-ON DIGITAL EXPERIENCE
-As with most project management positions, although definitely not always the case, it’s often a huge advantage if you have hands-on experience of the disciplines involved in the project – the same is true for web projects.
-
-I’m always in awe of web project managers who deliver great solutions having never used paths to cut something out in Photoshop, turned a PSD into a HTML template or created a Hello World script in a server side language.
-
-The fact of the matter is these Web Project Managers are out there and doing a fine job but I genuinely believe a Web Project Manager with hands-on practical experience in the disciplines required in web projects is a valuable aid for the reasons Luc Richard gives:
-
-To be an effective project manager, you must be capable of designing and developing the solution yourself. Otherwise, you have two options. You can either (a) ask others to make decisions for you, or (b) simply pretend you know what you’re talking about. In the first case, you’re a project co-ordinator. In the second case, you’re a project mangler.
-Must Project Managers Be Technically Savvy?
-
-However while I don’t agree that to be a great Web Project Manager you need to be capable of delivering the solution alone, I do agree that without a good grounding in all the web project’s disciplines you really are at the mercy of your team when it comes to estimating effort, scheduling tasks, assessing risks and generally making sure everything goes smoothly by being able to anticipate and avoid problems.
-
-Plus, the harsh truth is, having hands-on experience allows you to spot when any of the production team are just flat out slacking or spinning a yarn about why problems are occurring…
-
-Come on, I dare any Web Project Manager out there to deny that they get a sense of smug joy when they teach someone on the production team something about Photoshop or code, or laugh at the ridiculously long estimate you’re given to change a banner – oh their little faces, they look like startled little Ewoks :-)
-
-A photograph of three toy Ewoks lined up saying they're amazed a project manager just explained how to fix a CSS bugProduction teams are so cute n fuzzy awww
-But, in the defence of all production teams out there, they do a really hard job and having to design or code under pressure really is a tough thing. This is another reason why a great Web Project Manager will have spent their time on the production side of things and really be understanding and empathetic with their team in times of stress and woe, and in some cases even fight the corner of the production team to management and clients when unrealistic schedules are being proposed.
-
-But it should be said, if you’ve found yourself running web projects having come from a position of little hands-on experience, such as account management, don’t remain ignorant to what these guys do, I believe it’s your duty to open up Photoshop, HTML editor and get Apache, MySQL and PHP running and just start learning the absolute basics.
-
-I’m not talking about designing a website or developing the operating system for the Death Star (I can here the Apple and Linux groupies shouting it would be a Windows-based system of course, tut), but just learn enough so that you can talk to your team on their level and also explain to clients how things work, trust me, it will benefit you massively in the long run and it honestly isn’t that hard, you just need the drive and motivation to want to better yourself.
-
-ABILITY TO COMMUNICATE WITH EVERYONE
-With any project management role, a key skill is the ability to be able to effectively communicate with everyone involved in the web project knowledgably and on their level.
-
-While hands-on experience will arm you with the knowledge to talk to designers and developers with confidence, communicating with suppliers, your superiors and clients is a whole different ball game – a great Web Project Manager has to be a chameleon!
-
-A photo of a toy chameleon perched on top of a computer monitor in an officeI’m literally not moving until you finish that login form
-As most seasoned Web Project Managers out there know, when talking to designers or developers you often have to adapt your tone in order to communicate effectively.
-
-Warning! Obscene stereotyping commencing
-Please recall all the comments you’ve made about PMs in general and then continue reading, humbled and ashamed
-For example, when talking to designers you have to appreciate that most are extremely territorial about their work and so you have to respect that and frame your questions and feedback accordingly, because the last thing you want on your web project team is a designer who doesn’t feel trusted by you and has been reduced to a pixel pusher.
-
-With developers it’s slightly different; these guys tend to want things explained in logical straightforward steps. If you start to try and tell them how to code or insist they “code something quick and dirty” they will immediately hate you and fantasise about watching you in a fight to the death with the Rancor monster (probably while a naked Princess Lea sits by their side)
-
-However, these personality traits are not negatives, everyone is different and these traits are actually part of the magical formula that makes a great designer or developer. Part of working a team is learning how to work with other people that are very different to you.
-
-But while speaking to designers and developers you can have little geeky laughs about Comic Sans and drop shadows, or how bad that code is due to all its embedded CSS and JavaScript, but when you hit the meeting room with your bosses or clients a Web Project Manager has to change their skin again.
-
-Your boss generally just wants to hear how things are going and if there are any barriers they can help remove for you. Although they have a genuine interest in the quality of design or code being produced, they are busy people and tend to want to be told about results and the impact on the business.
-
-Likewise with clients you have to shift again and focus on what the project, and each decision made during its lifecycle, brings to the table in terms of achieving the business aims and ROI rather than hearing how the CSS3 you’ve used is ground breaking stuff.
-
-An office worker asleep while on the phoneUh huh, CSS3… uh huh HTML5 uh huh… zzzz
-Being able to adapt to, and blend into, each very different environment at the flick of a switch is something a great Web Project Manager can do and often where average ones tend to fall a little short.
 
 IN SUMMARY
 I believe what separates a great Web Project Manager from an average one is the ability to look at a web project and be able to envisage the whole solution in its entirety from an early stage and with few gaps, thus being able to manage the project’s risks and maintain momentum.
@@ -126,7 +47,9 @@ And finally a great Web Project Manager will be able to talk to everyone involve
 
 Am I a great Web Project Manager? No, but I strive to be and so should you. Is the above a complete list of everything that separates great Web Project Managers from the not so great? No, but it’s a bloody good start.
 
-What do you think separates a great Web Project Manager from an average one?
+
+
+
 
 WHAT ON EARTH IS A KPI?
 A KPI, or Key Performance Indicator, is simply a measurable metric by which a project can be judged as a success or not in accordance with the client’s primary aims for the project. For each KPI a pre-launch metric is recorded and post-launch the same metric is recorded, thus providing the data for an objective comparison.
@@ -449,10 +372,34 @@ You'll note that of the requirements listed above, the content managers will nee
 
 What we've covered so far in this section is by no means exhaustive and indeed every team or web professional may have their own individual requirements. What's important is that you take the information you have, identify and investigate any gaps, and tease out specifically what you need to share with who. Even after you've reviewed the details of a new project yourself, approach each team member or team lead individually and find out what else they might need. There will be items on which you will need their feedback in order to formulate your budgets and schedules. Only once everyone has all the required information at hand, or at least as much as can possibly be provided, are you ready to kick off and deliver your plan.
 
+#### Appropriate communication
 
 
 
 
+With any project management role, a key skill is the ability to be able to effectively communicate with everyone involved in the web project knowledgably and on their level.
+
+While hands-on experience will arm you with the knowledge to talk to designers and developers with confidence, communicating with suppliers, your superiors and clients is a whole different ball game – a great Web Project Manager has to be a chameleon!
+
+A photo of a toy chameleon perched on top of a computer monitor in an officeI’m literally not moving until you finish that login form
+As most seasoned Web Project Managers out there know, when talking to designers or developers you often have to adapt your tone in order to communicate effectively.
+
+Warning! Obscene stereotyping commencing
+Please recall all the comments you’ve made about PMs in general and then continue reading, humbled and ashamed
+For example, when talking to designers you have to appreciate that most are extremely territorial about their work and so you have to respect that and frame your questions and feedback accordingly, because the last thing you want on your web project team is a designer who doesn’t feel trusted by you and has been reduced to a pixel pusher.
+
+With developers it’s slightly different; these guys tend to want things explained in logical straightforward steps. If you start to try and tell them how to code or insist they “code something quick and dirty” they will immediately hate you and fantasise about watching you in a fight to the death with the Rancor monster (probably while a naked Princess Lea sits by their side)
+
+However, these personality traits are not negatives, everyone is different and these traits are actually part of the magical formula that makes a great designer or developer. Part of working a team is learning how to work with other people that are very different to you.
+
+But while speaking to designers and developers you can have little geeky laughs about Comic Sans and drop shadows, or how bad that code is due to all its embedded CSS and JavaScript, but when you hit the meeting room with your bosses or clients a Web Project Manager has to change their skin again.
+
+Your boss generally just wants to hear how things are going and if there are any barriers they can help remove for you. Although they have a genuine interest in the quality of design or code being produced, they are busy people and tend to want to be told about results and the impact on the business.
+
+Likewise with clients you have to shift again and focus on what the project, and each decision made during its lifecycle, brings to the table in terms of achieving the business aims and ROI rather than hearing how the CSS3 you’ve used is ground breaking stuff.
+
+An office worker asleep while on the phoneUh huh, CSS3… uh huh HTML5 uh huh… zzzz
+Being able to adapt to, and blend into, each very different environment at the flick of a switch is something a great Web Project Manager can do and often where average ones tend to fall a little short.
 
 
 
