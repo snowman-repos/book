@@ -314,12 +314,19 @@ Exactly what they need. Nothing more, nothing less. At the start of each project
 
 * What's the deadline?!?
 
-
 You'll note that of the requirements listed above, the content managers will need the most up-front, because their work will be the bulk of the beginning phase of the project. Content first, remember. Following that is the designers' requirements, followed by the developers' and testers'. That is because design is to some extent dependent on content, and development is similarly dependent on design, while testing is of course dependent on everything. That is not to say though they they are not all interdependent, nor that they should be executed independently in a waterfall model, but we'll get to that later.
 
 What we've covered so far in this section is by no means exhaustive and indeed every team or web professional may have their own individual requirements. What's important is that you take the information you have, identify and investigate any gaps, and tease out specifically what you need to share with who. Even after you've reviewed the details of a new project yourself, approach each team member or team lead individually and find out what else they might need. There will be items on which you will need their feedback in order to formulate your budgets and schedules. Only once everyone has all the required information at hand, or at least as much as can possibly be provided, are you ready to kick off and deliver your plan.
 
 #### Appropriate communication
+
+
+
+
+
+
+---
+
 
 
 
