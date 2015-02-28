@@ -70,3 +70,7 @@ This book is merely a collection of my thoughts and experiences from the past se
 * **Lowe-Profero**
 
   Where I cut my chops as a project manager working on a wide variety of web projects with all kinds of clients and colleagues.
+  
+* **Apple**
+
+
