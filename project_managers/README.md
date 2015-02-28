@@ -213,11 +213,11 @@ Put yourself on the same level, and never consider yourself in charge or in any 
 
 Be humble, and willing to forgo the glory and recognition for your efforts. Johnny Ive may get the credit for Apple's impeccable product design, but he has a team of 80,000 people working behind the scenes at California all focused on making Apple products the best they can be. Let the star designers and devlopers and developers have their glory, let praise be adorned over the beauty and the functionality, but remain smug in the knowledge that if you weren't there everything would completely fall apart. If you have a team of 10 people, then feel those 10 pats on your back. 
 
-
-- stand up for them, push back on clients and others when more time is needed
-- always defend your team to your bosses, never blame them. if there is an issue then resolve it yourself
+Stand up for your team members. Be willing to push back on clients, your boss, or other teams if more time is needed or if requests simply can't be met. And always defend them to your bosses, even if they have made mistakes; never blame them for anything. Any mistakes or failures are always those of the team and it's your job to find a mitigating solution.
 
 ### Give them what they need
+
+Exactly what they need. Nothing more, nothing less.
 
 - content
 - design
