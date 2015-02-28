@@ -198,6 +198,7 @@ So how can you help? Be a stress sponge. Back to the e-mail example, ensure you 
 
 You also need to shield your team from information that they personally don't need to worry about. In the same way, your boss isn't troubling you with the organisation's overall financial situation, the office space rent, employee health cover, taxes etc. Anything client-related, for instance, can stay between you and the client manager. Anything code-related can filter down to the developer. Sam Barnes' crap analogy is an excellent one. He goes on to note that if you can't take the crap then you have no place in any management role.
 
+Let the star designers and devlopers and developers have their glory, smug in the knowledge that if you weren't there everything would fall apart. Johnny Ive may get the credit for Apple's impecable product design, but he has a team of 80,000 people working behind the scenes at California all focused on making Apple products the best they can be.
 
 
 
@@ -205,13 +206,6 @@ You also need to shield your team from information that they personally don't ne
 
 
 
-If you want to be a good Web Project Manager you should try to aim to be a rhythm guitarist rather than play lead guitar or sing lead vocals.
-
-By this I mean you should understand that your job is to sit behind the boys and girls that get all the attention for finished products and make sure everything runs smoothly without expecting any glory – for example, in the video below I’m not the pretty boy on lead, but his much wiser looking band mate on the left… cool eh!
-
-
-
-Or as my Dad once told me, a good rhythm guitarist keeps the song going in such a way that when they’re playing you tend not to notice, but if they were taken away you immediately notice and the song falls flat on its face.
 
 I’ve worked on many web projects in the past where the final website or application was delivered and all the praise was focussed around how beautiful the end product looked or how amazing this or that piece of functionality was – and the point here is that despite no one saying how great the web project management was, I didn’t mind one bit – I took an enormous amount of silent pleasure at the smiles on the faces of the designers and developers as they were patted on the back.
 
