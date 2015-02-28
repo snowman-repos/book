@@ -401,38 +401,65 @@ Stand up for your team members. Be willing to push back on clients, your boss, o
 
 ### Give them what they need
 
-Exactly what they need. Nothing more, nothing less. At the start of each project spend as much time as you need pouring through the specs and requirements, filtering, summarising, and categorising.
+Exactly what they need. Nothing more, nothing less. At the start of each project spend as much time as you need pouring through the specs and requirements, filtering, summarising, and categorising:
 
-- content
+#### Content Managers
 
-tone of organisation
-know about the target audience / consumers / users
-copy requirements, how it will be presented, scale & scope
-languages
-accessibility
-format requirements
-CMS details
-client-side content manager, maintenance plan
+* What is or should be the tone of the organisation? What should their voice sound like if they were a person? What is their industry and who are their competitors?
+* Who will be providing the copy? Us? Them? Who will be maintaining it going forward and what tools might they need to do so?
+* What is the content breakdown? Blog posts? Product listings? etc. Are there any potential rich data models?
+* What is the rough scale of the content? How many posts or product listings? etc.
+* Who is the target demographic?
+* How/when/where will the content be consumed? What is the nature of the web project?
+* What languages will be supported?
+* What are the accessibility requirements?
+* What are the target keywords?
+* What format should copy be supplied in?
+* Is a CMS required? What content types should be static and which dynamic?
 
-- design
+#### Designers
 
-images / imagery guidelines
-supported devices
-organisation theme
-client preferences
-tone
+* What is the theme of the organisation? Brand colours, typefaces, brand style guide etc.
+* Who is the target demographic?
+* What are the supported platforms for the web project? What are the performance considerations?
+* What are the client's personal style preferences?
+* What is the tone of the content being presented?
+* Who will provide imagery or what are the guidelines around imagery?
 
-- developers
+#### Developers
 
-hosting/platform requirements
-functionality requirements
-content management requirements
+* What are the supported platforms and devices?
+* What is the required functionality?
+* What is the performance budget?
+* Is a content management system required? How much dynamic content will there be?
+* Will any data be drawn from external sources?
+
+#### Testers
+
+* What are the supported platforms for the web project?
+* What is the performance budget?
+* What is the UI style guide?
+
+#### Everyone
+
+* What's the deadline?!?
+
+
+You'll note that of the requirements listed above, the content managers will need the most up-front, because their work will be the bulk of the beginning phase of the project. Content first, remember. Following that is the designers' requirements, followed by the developers' and testers'. That is because design is to some extent dependent on content, and development is similarly dependent on design, while testing is of course dependent on everything. That is not to say though they they are not all interdependent, nor that they should be executed independently in a waterfall model, but we'll get to that later.
+
+What we've covered so far in this section is by no means exhaustive and indeed every team or web professional may have their own individual requirements. What's important is that you take the information you have, identify and investigate any gaps, and tease out specifically what you need to share with who. Even after you've reviewed the details of a new project yourself, approach each team member or team lead individually and find out what else they might need. There will be items on which you will need their feedback in order to formulate your budgets and schedules. Only once everyone has all the required information at hand, or at least as much as can possibly be provided, are you ready to kick off and deliver your plan.
 
 
 
-You'll note that of the requirements listed above, the content managers will need the most up-front, because their work will be the bulk of the beginning phase of the project. Content first, remember. Following that is the designers' requirements, followed by the developers'. That is because design is to some extent dependent on content, and development is similarly dependent on design. That is not to say though they they are not all interdependent, nor that they should be executed independently in a waterfall model, but we'll get to that later.
 
-What we've covered so far in this section is by no mean exhaustive and indeed every team or web professional may have their own individual requirements. Even after you've reviewed the details of a new project yourself, approach each team member or team lead individually and find out what else they might need. There will be items on which you will need their feedback in order to formulate your budgets and schedules. Only once everyone has all the required information at hand are you ready to kick off and deliver your plan.
+
+
+
+
+
+
+
+
 
 
 
