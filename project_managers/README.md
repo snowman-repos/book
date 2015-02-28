@@ -196,15 +196,15 @@ So how can you help? Be a stress sponge. Back to the e-mail example, ensure you 
 
 > _- Sam Barnes_
 
+You also need to shield your team from information that they personally don't need to worry about. In the same way, your boss isn't troubling you with the organisation's overall financial situation, the office space rent, employee health cover, taxes etc. Anything client-related, for instance, can stay between you and the client manager. Anything code-related can filter down to the developer.
 
 
 
 
 
 
-Think about it, your boss right now, do you think he or she is completely open with all members of their company about all the issues that exist right now? Of course not. While they may be transparent with many about certain workflow or revenue concerns they don’t bother the design or development teams with tax or buildings insurance issues.
 
-A photograph of a large ginger cat standing inside a glass jar with the caption I has a Force FieldWeb Project Managers must shield their teams
+
 There is a reason for this, it’s because it would serve no purpose other than to make everyone worry, and what happens when people are worried? They start to feel negative and this will only result in negative impact across the entire company.
 
 Although a rather elaborate example, the theory is the same as to why you as a Web Project Manager should take all the crap you can and shield your web project team from it – because your job is to keep your team positive, motivated and focussed on their job – and if this means taking some crap you know you don’t deserve then so be it.
