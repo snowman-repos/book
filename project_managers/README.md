@@ -205,15 +205,15 @@ Never mislabel an issue as urgent unless it really, really is. Again, you should
 
 Consider when it's appropriate to disturb people. Get to know your team, when they are most productive and when they might be able to handle short interruptions. Limit scheduling meetings to the start of the day and never drag someone into a meeting where they are not required for the entire duration. Arranging group meetings, such as daily standups, can be a great way for every to quickly provide everyone else with an update on their status. If in part of a meeting you find there are one or two small things you need someone for, take a note and get back to whoever's asking once you have the answer later. Again, if it's something small then wait until that person is on a break or clearly available to talk.
 
-Lastly, if it looks like someone is approaching burnout or is doing too much overtime, give them a break. Even in the face of looming deadlines and everyone is under pressure,
-
-- don't let them burnout, if a deadline is going to be missed and they're underpressure, leave it and take the crap yourself
+Lastly, if it looks like someone is approaching burnout or is doing too much overtime, give them a break. Even in the face of looming deadlines and everyone is under pressure, it's better that you take the flak yourself from your client or boss. Tired and stressed team members do not produce their best work, which will in the end be detrimental to the product. Reaching actual burnout will just mean a longer recovery time before they can be productive again, further impacting the project. As Sam Barnes said, you just have to take the crap yourself.
 
 ### Be a team player
 
-Johnny Ive may get the credit for Apple's impeccable product design, but he has a team of 80,000 people working behind the scenes at California all focused on making Apple products the best they can be. Let the star designers and devlopers and developers have their glory, let praise be adorned over the beauty and the functionality, but remain smug in the knowledge that if you weren't there everything would fall apart. If you have a team of 10 people, then feel those 10 pats on your back. 
+Put yourself on the same level, and never consider yourself in charge or in any way perched on a pedestal somewhere above the other team members.
 
-- put yourself on the same level
+Be humble, and willing to forgo the glory and recognition for your efforts. Johnny Ive may get the credit for Apple's impeccable product design, but he has a team of 80,000 people working behind the scenes at California all focused on making Apple products the best they can be. Let the star designers and devlopers and developers have their glory, let praise be adorned over the beauty and the functionality, but remain smug in the knowledge that if you weren't there everything would completely fall apart. If you have a team of 10 people, then feel those 10 pats on your back. 
+
+
 - stand up for them, push back on clients and others when more time is needed
 - always defend your team to your bosses, never blame them. if there is an issue then resolve it yourself
 
