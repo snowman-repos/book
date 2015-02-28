@@ -178,6 +178,7 @@ Ultimately, no matter whether you always manage to hire industry wizards or not,
 ## Facilitating Others
 
 Your role basically covers the following:
+
 * requirements analysis
 * scheduling
 * budgeting
@@ -187,6 +188,8 @@ Your role basically covers the following:
 * training
 
 Let's pigeonhole your production team into content managers, designers, developers, and testers. They are all highly skilled experts with very specific remits. You need to keep them focused on what they are there do, which is hopefully also what they do best and what they enjoy most. Nothing will destroy their passion, productivity, and morale quicker than having them involved in other parts of the project beyond those remits. For example, asking a developer to do content population, or asking a designer to write headlines, or indeed asking anyone to fill out timesheets...
+
+### Keeping them focused
 
 Of course there are times when everyone is going to have to do minor tasks in support of project management. Yes, timesheets, but also planning meetings, their own internal schedules, answering phone calls and emails etc. You have to do everything you can to minimise the impact of such tasks so that they don't cause people to get sidetracked such that quality is reduced and the project momentum is dampened. Even if just one person is suffering more than others under the weight of unread emails, the effectiveness of the entire team is affected.
 
@@ -198,58 +201,27 @@ So how can you help? Be a stress sponge. Back to the e-mail example, ensure you 
 
 You also need to shield your team from information that they personally don't need to worry about. In the same way, your boss isn't troubling you with the organisation's overall financial situation, the office space rent, employee health cover, taxes etc. Anything client-related, for instance, can stay between you and the client manager. Anything code-related can filter down to the developer. Sam Barnes' crap analogy is an excellent one. He goes on to note that if you can't take the crap then you have no place in any management role.
 
-Let the star designers and devlopers and developers have their glory, smug in the knowledge that if you weren't there everything would fall apart. Johnny Ive may get the credit for Apple's impecable product design, but he has a team of 80,000 people working behind the scenes at California all focused on making Apple products the best they can be.
+- when to disturb people, don't drag them into unecessary meetings. if there's only one or two small things you need them for, take a note and get back to whoever's asking once you have the answer
+- identify tasks/problems yourself and explain, don't just forward emails or specs, it may just take 5 minutes, look for bugs yourself - you may learn something
+- not mislabel things as urgent, don't transfer your pressure onto them
+- don't let them burnout, if a deadline is going to be missed and they're underpressure, leave it and take the crap yourself
+
+### Be a team player
+
+Johnny Ive may get the credit for Apple's impeccable product design, but he has a team of 80,000 people working behind the scenes at California all focused on making Apple products the best they can be. Let the star designers and devlopers and developers have their glory, let praise be adorned over the beauty and the functionality, but remain smug in the knowledge that if you weren't there everything would fall apart. If you have a team of 10 people, then feel those 10 pats on your back. 
+
+- put yourself on the same level
+- stand up for them, push back on clients and others when more time is needed
+- always defend your team to your bosses, never blame them. if there is an issue then resolve it yourself
+
+### Give them what they need
+
+- content
+- design
+- developers
 
 
 
-
-
-
-
-
-I’ve worked on many web projects in the past where the final website or application was delivered and all the praise was focussed around how beautiful the end product looked or how amazing this or that piece of functionality was – and the point here is that despite no one saying how great the web project management was, I didn’t mind one bit – I took an enormous amount of silent pleasure at the smiles on the faces of the designers and developers as they were patted on the back.
-
-In many cases only I knew what stresses there was along the way and how much crap I’d taken on behalf of the team, and on occasion how I’d opted to make myself look at fault rather than make sure blame was assigned to who it should’ve been, but I kept it quiet and sat there smiling to myself because I had done my job.
-
-And while this may all sound like some kind of self-proclaimed nobility and humility, it really isn’t. I just adamantly believe that a Web Project Manager’s greatest success should come in the form of being able to sit back and watch others be praised knowing that behind it all was you – I get more pleasure and satisfaction from that then receiving praise myself and have noticed this is a common trait among Web Project Managers the more I meet.
-
-But I deserve some credit surely!?
-
-PEOPLE AREN’T STUPID, RESPECT WILL COME
-Of course Web Project Managers deserve credit for successful web projects, but I personally find that this comes over time, but if you’re like me it’s not so much credit that you want, it’s respect, and respect from not only management by the production team too.
-
-A photo of a young boy dressed up as a little gangster rap artistRespect lil man!
-In the heat of the moment when you’re taking the crap from someone or for someone it can often make you question why you’re bothering, after all Web Project Managers are just human too. Every part of you wants to shout out that actually it’s not your fault and it’s his or hers, and why should you be suffering all the stress when you’re not at fault.
-
-But if you continually stay strong and show strength of character your manager and production teams will start to notice just what part you play in the success and appreciate it.
-
-This not only means you can look yourself in the mirror at night knowing you’ve retained your dignity when others would’ve play the blame game, but you also gain an awful lot of respect that in the long term will actually reduce your own stress levels as people want to work for you more and more.
-
-It’s kind of a strange philosophy but it seems to work – make your mission to make everyone else look good without ever expecting reward or credit, and somehow you end up looking good and receiving reward and credit.
-
-Anyone who sets out on a mission to make themselves look good and receive reward or credit above their team – always seem to end up looking like dickheads.
-
-A photograph of a man on a bus holding cash with big hair, headband and big glassesWeb Project Managers – don’t be a dickhead
-So what can you do to minimise getting a ‘dickhead’ label?
-
-WEB PROJECT MANAGER ANTI-DICKHEAD TIPS
-Below are my top ten tips of how to make web designer’s and developer’s jobs as easy and stress free as possible by keeping them focussed on what they do best, which of course makes your web projects run smoother – if you get some respect along the way then consider it a bonus, not a birth right.
-
-Try to pick the right moments to disturb them with questions e.g. be observant enough to realise when they’re in ‘the zone’
-Don’t just forward website or application issues to them, try to identify the problem yourself so they can easily replicate the issue and get to work on the solution rather than investigation
-Don’t drag them into meetings they don’t need to be in. If questions come up that they’re best to answer, take a note and get back to whoever once you have the answer
-Be willing to push back clients or other teams if they need more time
-Never say something is urgent when the truth is it’s easier for you to pressure them than to have an awkward conversation with someone else
-Don’t let them work too much overtime to hit a target, if burn out is looking possible, send them home and take crap from the boss yourself
-Have the balls to defend your team to management when it would be easier to blame them
-Don’t gossip with them about web project politics, keep that to yourself
-Put yourself in their shoes and make sure they get the files and documents they need in an organised manner
-Never ever see yourself as above them
-Have you got any anti-dickhead tips for keeping web production teams focussed and stress free? Let me know in the comments.
-
-- what copywriters need
-- what designers need
-- what developers need
 
 
 
