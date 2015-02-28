@@ -62,7 +62,7 @@ This may not be a reliably comparable metric as each tester will have their own 
 
 #### Team Happiness & Productivity
 
-This is exactly the kind of bad KPI mentioned above, being unspecific and seemingly impossible to measure. A major part of your role, however, is keeping your team happy and productive so it would be a good idea to try and find a way to measure the extent of your success (or failure) in this area. Some kind of survey is probably in order, certainly project review meetings.
+This is exactly the kind of bad KPI mentioned above, being unspecific and seemingly impossible to measure. A major part of your role, however, is keeping your team happy and productive so it would be a good idea to try and find a way to measure the extent of your success (or failure) in this area. Some kind of survey is probably in order, certainly project review meetings, or “post mortems”.
 
 Your ultimate goal in this role is that you'll be able to easily look at a web project and envisage the whole solution in its entirety right rom the start. You'll be able to see clearly what will be involved, be able to easily avoid or mitigate risks, and maintain momentum, until finally seeing through to a successful delivery. You'll understand the precise creative and technical requirements almost as well as any designer or developer. You'll be able to communicate with everyone in a clear and tailored way, speaking in their language such that they are left in no doubt as to the expectations and objectives. You'll keep the team motivated and focused on producing quality work, while shielding them from stress. You'll have no problems producing product plans, schedules, sitemaps, wireframes, and functional specifications that your production team can work from with ease.
 
