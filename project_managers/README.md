@@ -36,15 +36,31 @@ We'll go further into establishing per-project KPIs later.
 
 ### Why KPIs are good
 
-At the most basic level, having specific success measures, goals that you are working towards, help to maintain focus on what's important. You may pass on the requirements, make a timeline, meet your deadline, and deliver your project. But that doesn't count as a success if your production team are tired, angry, and resentful and your project of poor quality. This is only going to make your job harder on future projects. Aside from focus, KPIs are valuable in analysing mistakes or failures, allowing you to put measures in place to avoid them in future. If you know exactly what went wrong, you can fix it.
+At the most basic level, having specific success measures, goals that you are working towards, help to maintain focus on what's important. You may pass on the requirements, make a timeline, meet your deadline, and deliver your project. But that doesn't count as a success if your production team are tired, angry, and resentful and your project of poor quality. This is only going to make your job harder on future projects. Aside from focus, KPIs are valuable in analysing mistakes or failures, allowing you to put measures in place to avoid them in future. If you know exactly what went wrong, you can fix it. 
 
 ### Your KPIs
 
-- project performance budget
-- project goals
-- timelines
-- bugs
-- team happiness
+#### Project KPIs
+
+We've cover this more later, but having a set of consistent KPIs for each project, such as a performance budget or analytics targets, allows you to measure and compare on a per-project basis the success of your work. Doing increasingly better at meeting or exceeding project targets shows that you're doing something right. You might want to state an explicit target for each project, e.g. _Meet 100% of project KPIs_
+
+#### Project Goals
+
+Each project proposal should start with some explicit business goals. To what extent these goals have been met can be more difficult to measure and may rely on client feedback. You will certainly want to gather feedback from your client, so liaise with them directly or with your client manager. This KPI is about determining the happiness of the client or project owner. The happier they are, the better you and your team have performed. A concrete example might be: _“Achieve each and every primary and secondary objective”_, or _“Achieve a client satisfaction rating of 90%”_.
+
+#### Timelines & Deadlines
+
+This one is quite straightforward. Did you meet your deadlines? Did everything stay on schedule? E.g.
+
+* _“Meet every deadline”_
+* _“Provide agreed deliverables at the end of each week”_
+* _“Extend final deadline by no more than 3 days”_
+
+#### Bug Reports
+
+This may not be a reliably comparable metric as each tester will have their own reporting methods, groups of testers may report duplicate issues, .
+
+#### Team Happiness & Productivity
 
 Your ultimate goal in this role is that you'll be able to easily look at a web project and envisage the whole solution in its entirety right rom the start. You'll be able to see clearly what will be involved, be able to easily avoid or mitigate risks, and maintain momentum, until finally seeing through to a successful delivery. You'll understand the precise creative and technical requirements almost as well as any designer or developer. You'll be able to communicate with everyone in a clear and tailored way, speaking in their language such that they are left in no doubt as to the expectations and objectives. You'll keep the team motivated and focused on producing quality work, while shielding them from stress. You'll have no problems producing product plans, schedules, sitemaps, wireframes, and functional specifications that your production team can work from with ease.
 
