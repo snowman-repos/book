@@ -188,29 +188,19 @@ Your role basically covers the following:
 
 Let's pigeonhole your production team into content managers, designers, developers, and testers. They are all highly skilled experts with very specific remits. You need to keep them focused on what they are there do, which is hopefully also what they do best and what they enjoy most. Nothing will destroy their passion, productivity, and morale quicker than having them involved in other parts of the project beyond those remits. For example, asking a developer to do content population, or asking a designer to write headlines, or indeed asking anyone to fill out timesheets...
 
+Of course there are times when everyone is going to have to do minor tasks in support of project management. Yes, timesheets, but also planning meetings, their own internal schedules, answering phone calls and emails etc. You have to do everything you can to minimise the impact of such tasks so that they don't cause people to get sidetracked such that quality is reduced and the project momentum is dampened. Even if just one person is suffering more than others under the weight of unread emails, the effectiveness of the entire team is affected.
+
+So how can you help? Be a stress sponge. Back to the e-mail example, ensure you are copied in on all project-related e-mails. Yep, all of them. That way you have an eye on to whom issues are being directed and can step in if needs be. By reducing their stress, they work better, which means that eventually you have less to be stressed about. So the stress dividends pay off later.
+
+> It should be assumed that part of the role is to basically take crap on behalf of your team in such a way that they don’t even get a whiff of it, even if they’re the cause of it.
+
+> _- Sam Barnes_
 
 
 
-Web designers and web developers are highly skilled people and nothing will destroy their passion, productivity and morale quicker than having them involved in areas of a web project that stop them from doing what they love and do best, designing and developing.
 
-The range of tasks that can stop these experts from doing what they’re hired to do are endless, but what is finite is that when it comes to web project team management, one primary goal of a Web Project Manager is to do everything within their power to ensure these guys and gals don’t get sidetracked or bogged down in things that will reduce the quality of their work.
 
-The minute this happens the effectiveness of the team is diluted, momentum is reduced and Web Project Managers need to understand this.
 
-Whether you used to be a web designer or developer or not, you have to appreciate that when these guys are in the zone and working hard to meet deadlines you probably set out for them, stopping to answer the phone, an e-mail or an ad hoc question can seriously break their flow and it takes time to get back into it.
-
-WEB PROJECT MANAGERS ARE STRESS SPONGES
-Another key aspect to being a good Web Project Manager is keep the production teams as stress free as possible by absorbing as much stress for them as you can.
-
-A picture of a funny sign on a door that has a circle with the instructions Bang Head HereThis should be included in Web Project Manager induction packs
-Although never on any Web Project Manager Job description, it should be assumed that part of the role is to basically take crap on behalf of your team in such a way that they don’t even get a whiff of it, even if they’re the cause of it.
-
-During a web project there are a zillion things that will happen that will cause stress, but a test of your team management leadership skills is to see how much of this stress you can personally absorb in such a way that your production team don’t feel the heat, why?
-
-Simply because a stressed web designer or developer will not work as well as a happy one.
-
-WHY SHOULD I TAKE ALL THE CRAP!?
-Many Web Project Managers out there have asked this question and it’s a valid one, but the answer is because it’s your job.
 
 Think about it, your boss right now, do you think he or she is completely open with all members of their company about all the issues that exist right now? Of course not. While they may be transparent with many about certain workflow or revenue concerns they don’t bother the design or development teams with tax or buildings insurance issues.
 
