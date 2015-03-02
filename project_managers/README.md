@@ -334,51 +334,18 @@ You are inevitably going to annoy people as a project manager. You have to balan
 
 We've already covered the importance of empathy and honesty, the understanding of people's motives and perspectives when making decisions. The best way to pre-emptively avoid conflicts in a team is to prepare in advance and consider what would make each team member happy and what would annoy them; how can you make them happy and what can you do when they're likely to be annoyed?
 
-Your boss or agency director wants revenue, a well-managed cash-flow, and happy clients that will refer more business. For this they need the project completed on time, on budget, and to a level of quality they personally deem satisfactory. You need to make a solid plan, stay on top of things, and identify and work towards meeting or exceeding that particular level of quality. Clients want a project that's future proof, easy enough to maintain, and facilitates their organisation's goals. It just has to look great and work perfectly. Designers want to push the boundaries, make something that stands out, something that they can be proud to show off. Developers want to play with the latest technologies and implement efficient, cutting edge solutions. You hopefully want all of the above and other project managers that you may work with just want your projects to be on schedule so as not to impact theirs.
+Your boss or agency director wants revenue, a well-managed cash-flow, and happy clients that will refer more business. For this they need the project completed on time, on budget, and to a level of quality they personally deem satisfactory. You need to make a solid plan, stay on top of things, and identify and work towards meeting or exceeding that particular level of quality. Clients want a project that's future proof, easy enough to maintain, and facilitates their organisation's goals. It just has to look great and work perfectly. Designers want to push the boundaries, make something that stands out, something that they can be proud to show off. Developers want to play with the latest technologies and implement efficient, cutting edge solutions. You hopefully want all of the above and other project managers that you may work with just want your projects to be on schedule so as not to impact theirs. Keep in mind that you're very unlikely to be able to keep everyone happy all the time but that ultimately everyone wants want they think is best for the project so you can focus on that shared goal.
 
 - what to do if you can't make it?
 - intra-team conflicts?
 - inter-team conflicts?
 
 
+Let's take a common example of a difficult decision you might face that has the potential for causing conflict: the developer suggesting a new technology. First consider why they are suggesting it. Does it bring potential performance benefits? Will it improve efficiency, allowing for less repetition in future projects? Or maybe they just want to play around with it and learn about it on the company's dime. You need to have the aptitude and willingness to research that technology quickly and assess its potential risks and benefits in the context of the project, the client's aims, and your organisational workflow. Being ultimately responsible for the project, you'll need a full understanding before you can make a decision, and you'll need to have absolute trust in the developers' ability to make good use of the technology. Whatever you decide, you'll need to communicate clearly and justify your decision to everyone.
+
+If you choose to go with it, you should highlight the potential benefits to your boss and the project owner, with the caveat of the added risk to project timelines. They may try to overrule your decision, in which case you'll have to convince them. If you reject the developer's suggestion then you'll need to give them more than just a “no”.
 
 
-It is vitally important to understand that, in most cases, everyone’s intentions are good! They are always geared towards delivering a great project and growing their companies!
-
-Understanding this first fact is crucial when you’re being pulled in every direction trying to keep people happy. Failure to understand this results in a very defensive posture when challenged and that usually leads to bad things.
-
-When you have to make a web project decision the key is to always:
-
-Consider everyone’s perspective, goals and motives
-Analyse and make a decision
-Communicate why you made the decision
-This sounds simple and thus you would think it easy to articulate in a paragraph, but after trying to do just that and failing quite dramatically, in much the same way as Greedo tried to apprehend Han Solo, it seems best to illustrate the point using a few scenarios Web Project Managers face every day.
-
-Toy figures re-creation of the Han Solo and Greedo scene from Star WarsGreedo apprehending Han Solo #fail
-DEVELOPER: “LET’S USE A NEW TECHNOLOGY”
-You have the client requirements, you communicate this to the development team and you hear the phrase you know both excites and scares you…
-
-“We could use [insert_new_web_technology_here] for that feature.” – It’s time to and make a decision.
-
-The first step is to consider why the developer is suggesting to use a new technology as opposed to the one the agency has experience using – it will generally be for one of the following reasons:
-
-The new technology has the potential to be far more performance efficient than the current one
-Using the new technology will mean less repetitive work in the future
-The developer fancies trying out (playing with) the new technology
-Next a Web Project Manager should analyse if using the new technology is a decision that will improve the project, web agency and/or client’s chances of meeting their business aims.
-
-To do this it is important to make sure you fully understand the technology in question so you can assess the potential benefits and risks.
-
-In order to make a decision a Web Project Manager needs one or all of the following because ultimately you are 100% responsible for the project’s outcome:
-
-Experience in the technology being put forward as a possible solution
-The aptitude and willingness to research the proposed solution
-Absolute trust in team members to make the right decision
-Once you understand the technology, assess it against the project and decide if the long-term benefits justify going for it and then communicate your decision and reasons why to your team.
-
-If you choose to go for it then you should communicate the possible benefits of using it to your boss and add the caveat that it is adding a certain risk to the project and thus could cause some overrun. Of course you may be overruled, but if you think it’s worth it, put your case forward and do everything you can to make sure the benefits are clearly visible.
-
-If you choose to reject the idea you should do more than just say “no” to the development team, instead communicate to them the reasons why you are making this decision, which could include:
 
 Using the new technology brings too much risk to what is already a fragile client relationship that needs complete stability right now
 You feel the advantages of the new technology are not strong enough when compared to the current stable one you use
