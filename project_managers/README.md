@@ -351,57 +351,18 @@ Say a client wants to add a new feature that's out of scope. I know, this **neve
 
 There are of course many other situations where you will face being the cause of conflict but these three examples demonstrate a common theme. Analyse the situation, make a decision, communicate the decision, and find a solution. Easy right? 
 
+What about situations when you're not the cause of the conflict, such as conflicts within the team or between teams? Digital families can be fairly disfunctional. You're no doubt aware of the age-old (well, say 20 year old) conflict between web designers and developers, like squabbling children. And you're surely all too aware that the children complain about their parents - the project managers...
+
+The underlying cause of these conflicts is clashing priorities, arrogance, incompetence, and lack of awareness. Unfortunately, you're always going to have to deal with these in your role as a web project manager.
+
+Dealing with each team member and having an overall view of the project, you're in the best position to deal with these problems. We've already talked briefly about the different priorities of each role. By having an understanding of these priorities and being able to empathise, you have to find a way to champion the notion that everyone is working toward the same goal - project success - and that nobody is deliberately trying to screw anyone else over so that all team members are more willing to compromise.
+
+Arrogance is something we've all encountered in this industry, and probably something we've all been guilty of once or twice. It's natural for highly skilled experts to have confidence in their skills and knowledge and react defensively when challenged. They dig their heels and seem to want to deliberately obstruct the progress of a web project until they get their way. All you can do here is try to remove barriers. If someone is seemingly being difficult, recognise that it's probably just pride in the work and find a way to turn that to something positive. Take them aside for a private conversation and listen to their concerns, make them realise that their concerns are at least being acknowledged. Make sure you understand their reasoning and then respectfully explain how you need to move things forward. Perhaps explain with a personal annecdote or offer an example of similar issues another person or team is facing. Help them to appreciate that it's not just them facing this situation, give them an overall picture of the project and how this issue is impacting it, then end the conversation with a deal aimed at removing the barrier.
+
+Incompetence is 
 
 
 
-
-
-
-DYSFUNCTIONAL DIGITAL FAMILIES
-Web designers hate developers, developers whine about designers and both bitch about the Web Project Managers – this is the stereotypical view of the relationship between these three parts of a web project team that resembles what social workers would undoubtedly call a dysfunctional digital family.
-
-The reasons for these notoriously frosty relationships have been well documented over time in articles such as:
-
-Two Cats in a Sack: Designer-Developer Discord
-Why Project Managers are a Barrier for Designers
-However, as my comments in the latter article suggests, I believe the reasons for issues all boil down to four things:
-
-Conflicting priorities
-Arrogance
-Lack of competence
-Low awareness of the bigger picture
-Guess what, these four things are here to stay and as well as having to manage multiple web projects, several clients, a handful of suppliers and even your boss to some extent – I sincerely believe it’s down to the Web Project Manager to also manage these aspects of a digital team dynamics.
-
-As some of you may be thinking right now “Why me!?”, well here’s why…
-
-WEB PROJECT MANAGERS: IT’S YOUR JOB
-The simple answer to why it should be you, is because as a Web Project Manager you are responsible for the successful delivery of the web project and failure to manage the four issues will almost certainly result in either web project failure or a lower quality result than it could’ve been.
-
-Not only are you responsible, but you’re often the only person with the full overview of the situation and thus are best placed to start resolution and below are some approaches to each.
-
-CONFLICTING PRIORITIES
-As a Web Project Manager you are smack bang in the middle of web projects. Your boss just wants the project to go well, the client wants what they paid for, designers want to produce something they can be proud of and developers want to create elegant efficient code that solves the problem.
-
-A photograph of a cute little dog pulling on a bright pink toy while looking directly into the cameraYou have to manage bitches like this and their priorities
-Unfortunately these priorities often clash and this is where the problems start, but the resolution approach is generally the same…
-
-First you must understand the priorities of each party, then empathise completely, and finally educate all on everyone else’s priorities and feelings – and you have to do so in a way that leaves each party empathetic to all sides of the equation and willing to compromise.
-
-To effectively achieve this you have to believe and champion the notion that no one is looking to screw anyone else over and all parties are just looking to produce the best thing they can – and you know what, this isn’t fantasy land, this is pretty much always the case but for some reason it’s rarely communicated.
-
-ARROGANCE
-We’ve all met them, the arrogant designer, developer and even the occasional arrogant Web Project Manager :)
-
-They think they know it all and when challenged they see it as almost an insult, dig their heels in and seemingly set out on a mission to be as obstructive as possible to a smooth web project process.
-
-A photograph of a bird's head as he looks all superiorLook at him, he so thinks he’s it!
-However the truth is, pride and a high level of skill mixed with confidence is often mistaken for just arrogance. But whether these people are good or not is irrelevant really when it comes to eliminating this as a cause of web project problems.
-
-Your mission is to remove barriers to momentum and get things going again and so, when faced with an arrogant team member just take them to one side and talk to them with respect about what their issues are – and when I say talk to them, really talk and more importantly listen first, and then once you’ve fully understood their issues make sure they know you’ve understood and then proceed to explain how all you want to do is move things forward.
-
-Try offering up parallel issues that another team has with the project, try to make them appreciate it’s not just them in a bit of a situation and then finally make sure to leave the room with a deal that removes the barrier.
-
-LACK OF COMPETENCE
 Sometimes a designer will hate a developer for putting the brakes on a design element that would require certain rocket science functionality, or a developer will get annoyed with a designer because a PSD has been poorly organised – while these situations can arise due to poor communication or squeezed time, it can also be a simple case of a lack of competence.
 
 A photograph of a white furry-faced toy with a gormless look on his face“Seriously guys, I swear I did it right this time, ya feel me?”
