@@ -348,10 +348,11 @@ If you choose to go with it, you should highlight the potential benefits to your
 
 
 
-ALWAYS PLAYING SAFE
-As a little side note however, making the ‘safest’ decision is not always the best move, sometimes it’s best to just go for it even if you think the chances of success are smaller than you’d like…
 
-This is how web agencies move forward, by occasionally throwing caution to the wind, taking risks and pushing the boundaries! If it works, you and your team are great, if it doesn’t, blame will be laid squarely with you – but hey, as a Web Project Manager you should be used to this situation right ;-) and better to have given it a go than always play safe!
+
+
+
+
 
 MD: “WHY ARE WE GOING OVER BUDGET?”
 Oh the words any Web Project Manager fears… it inherently is coupled with the assumption the project has been managed poorly and thus you should be hung, drawn and quartered. On some occasions this is exactly the case and it’s best to just admit it, learn from it and try to make sure the same mistakes aren’t made again – it happens to us all, its how we become better.
