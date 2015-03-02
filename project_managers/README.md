@@ -345,74 +345,15 @@ Let's take a common example of a difficult decision you might face that has the 
 
 If you choose to go with it, you should highlight the potential benefits to your boss and the project owner, with the caveat of the added risk to project timelines. They may try to overrule your decision, in which case you'll have to convince them. If you reject the developer's suggestion then you'll need to give them more than just a “no”. Perhaps you've determined that the new technology risks and already fragile client relationship, or that the risks outweigh the benefits compared to your current stable solutions. Maybe the new technology is not mature or battle-tested enough. Perhaps there are browser or platform considerations or not enough budget to risk overruns. There are plenty of reasons, and after explaining them the chances are your developers are still going to be unhappy. You might be labelled as the PM with your head stuck in the sand, holding the company back. But have conviction in your decisions. While the developer is wholly focused on the technical solutions, you're the only one with a complete overview of the project and it's you who are ultimately responsible for it. Hopefully regularly communicating this to the team will raise their awareness and make them more considerate of the business, not just technical, decisions.
 
+What about your boss when you go over budget? You will be burdened with the assumption that the project has been badly managed. When this is the case, and you know it's the case, simply admit it, learn from it, and take those learnings to the next project. We can but learn from our mistakes. On occasion though you might want to deliberately make decisions that will cause the project to go overbudget or some other such dicision that will displease your boss. For example you might have a team member focused on training, you might be experimenting with new project management processes, you might be supporting a side a project that benefits the agency, or you might be doing extra work to please an important client. If you've analysed the situation and you are in the position of making such a decision then you should communicate it to your boss before announcing it to the team. If you can mitigate upsetting news with something that adds value or provides return on investment then you should get approval and respect for your decision.
+
+Say a client wants to add a new feature that's out of scope. I know, this **never** happens, right? You can't just say “no” and damage the client relationship, but then you can't screw up all your budgets and timelines and resource allocations by outright agreeing to it. Consider for a moment that perhaps the client has additional budget available or may be willing to extend the project's timeline? Are any parts of the project running ahead of schedule or under budget? Maybe you might be able to accommodate the new request? The client may be willing to sacrifice another feature for this one one, or maybe there's a quick and easy way to implement a similar feature that could be upgraded later. There's also a chance that building this feature might benefit your team or agency, giving them new skills or a new offering to sell to other clients. Only ever say “no” to a client when there's absolutely nothing in the universe that can be done. The client probably isn't just being cheeky, trying to squeeze as much out of your agency as possible, nor frivolously expecting your team's work on new features to be easy. The request probably comes from a reaction to something in their industry that they understand better than you. There is probably a good reason why they're asking for it so even if you have to reject the request, understanding the reasoning behind it and offering a good alternative will reduce the chance of conflict. As at the start of the project, talk the client through this new feature, the business reason, and the expected KPI. As always, assess the situation thoroughly and then make your decision. If you agree, you'll have a happy client. If you reject, then, as with the developer, as with your boss, take them through the decision process step by step; explain the risks, explain the situation, and discuss the alternatives. The more transparent you are, the more understanding the client will be.
 
 
 
 
 
 
-
-
-
-MD: “WHY ARE WE GOING OVER BUDGET?”
-Oh the words any Web Project Manager fears… it inherently is coupled with the assumption the project has been managed poorly and thus you should be hung, drawn and quartered. On some occasions this is exactly the case and it’s best to just admit it, learn from it and try to make sure the same mistakes aren’t made again – it happens to us all, its how we become better.
-
-However, on the odd occasion a Web Project Manager has consciously made decisions that they knew would cause the project to overrun, but in doing so have achieved, or gone part way to achieve, a web agency’s business goal that aligns with the long-term strategy.
-
-Examples of this include using web project tasks or phases to:
-
-Train a team member in a new skill and/or give them experience
-Develop new web project management processes
-Create a stunning agency portfolio site
-Develop a new re-usable plug-in for a CMS
-Make a very important client very happy
-Of course an agency would ideally be able to satisfy all of these requirements on a regular basis within project timelines and budgets, but let’s face it this isn’t always possible so you have to grab any opportunity you can and go for it – remember, over budget doesn’t always mean zero profit.
-
-The important things are to consider if this is the right task, project, client account or time in the business’s life to go over budget by using your knowledge of all four to analyse the best course of action.
-
-If your analysis leads you to the conclusion it is worth it, then communicate to the big boss man (or lady), preferably before you announce the decision to the team, that this is why you went, or are heading, over budget on this particular project, but, the agency now has a:
-
-Trained up team member who has a new skill that can be utilised on future projects
-Happy team member who feels they are growing in experience and skill
-More refined and efficient web project management process
-Website or web application that will ‘wow’ potential clients and makes the whole agency proud
-New, or vastly improved, CMS feature plug-in that can be deployed in minutes rather than hours
-Great chance for repeat account business and glowing referrals
-If you can communicate the reasons you made a decision that meant your project overran and demonstrate that it will provide a potential viable amount of return on investment, more than the over budget time spent, you should get the thumbs up and it’s full steam ahead.
-
-Stormtrooper toy figures holding U.S. dollar notes and coinsEven Stormtroopers had to demonstrate ROI
-CLIENT: “I WANT TO ADD A NEW FEATURE”
-Words from a web project client you could almost bet your life savings on hearing at least once per project and after all functionality has been agreed upon and budgeted for in terms of money and resource allocation.
-
-However, in order to shy slightly away from the traditional Waterfall project management methodology, a Web Project Manager’s response to requests like these should never be an instant “no” because a specification has been signed off for several reasons:
-
-They could have additional budget and be willing to extend the project’s timeline in order to fit the new feature in
-Other parts of the project may be ahead of schedule and under budget, leaving room for additional work
-They may be willing to sacrifice a previously agreed feature to get the new one in
-There may be an alternative and quick to implement solution that will see the same aims achieved
-The feature in question may be one your web agency have been thinking about developing before to sell to other clients
-“No” should only ever be the words you use if after analysing the request it is deemed in no way possible
-Before making any decisions a Web Project Manager should first consider why the client is asking for this feature and why now.
-
-The common response to these requests is to huff and puff about how typical of a client this is, assume they are being cheeky and trying to squeeze the web agency as much as possible etc. But, for the most part, clients are savvy business people who know their industry, market and target audience better than you and thus the late feature request could well be a reaction to something happening in their field that makes a seemingly daft request quite a sensible one.
-
-Start by having a discussion with the client about why they want this new feature, more importantly what business reason or web project KPI they feel it will help to satisfy.
-
-Once you have fully considered why the client has made the request, the next step should be to analyse if the new feature:
-
-Will help the client’s business or project aims
-Can be completed under the current budget, timelines and required resources are available
-Would require additional budget or timeline extension
-Could be re-sold to other clients
-Once you have analysed the information and made a decision, you should then communicate it to the client.
-
-If you decide to allow the feature in the client will be over the moon and they’ll love you to bits, sweet.
-
-If you decide that the feature should/will not be allowed in, then you will get a mixed bag of reactions depending on the client, but how you communicate this decision can influence the reaction immensely!
-
-Take the client through your decision making process step by step, explain to them the hours you estimate the new feature would take just cannot be accommodated unless they agree to provide further funding or sacrifice another project deliverable, or how the feature would probably not in fact achieve what they would hope it too – the more transparent you are about your decision making process when communicating the decision, the more understanding you’ll generally find the client to be.
-
-Learning how to say “no” to a client is an art form for most Web Project Managers.
 
 GUARANTEED HAPPINESS FOR ONE AND ALL?
 Web Project Managers are constantly pulled in every direction by everyone – they are always in the middle of everyone and their priorities. It requires a great deal of strength, understanding and negotiation skills to be able to deal with these pressures and end the project with all parties feeling positive – remember Web Project Managers’ motives are also always focussed on delivering value, not only for the client, but their web agency as well.
@@ -433,10 +374,11 @@ My next series of articles will focus more on the internal aspects of web projec
 
 This article focuses on why and how a Web Project Manager should resolve common issues that cause internal team conflicts that ultimately stall web projects and lower team morale.
 
+
+
 DYSFUNCTIONAL DIGITAL FAMILIES
 Web designers hate developers, developers whine about designers and both bitch about the Web Project Managers – this is the stereotypical view of the relationship between these three parts of a web project team that resembles what social workers would undoubtedly call a dysfunctional digital family.
 
-An old sepia picture of a man and two women in hysterics with laughterWhy can’t we just all get along like this?
 The reasons for these notoriously frosty relationships have been well documented over time in articles such as:
 
 Two Cats in a Sack: Designer-Developer Discord
