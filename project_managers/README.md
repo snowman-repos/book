@@ -343,20 +343,10 @@ Your boss or agency director wants revenue, a well-managed cash-flow, and happy 
 
 Let's take a common example of a difficult decision you might face that has the potential for causing conflict: the developer suggesting a new technology. First consider why they are suggesting it. Does it bring potential performance benefits? Will it improve efficiency, allowing for less repetition in future projects? Or maybe they just want to play around with it and learn about it on the company's dime. You need to have the aptitude and willingness to research that technology quickly and assess its potential risks and benefits in the context of the project, the client's aims, and your organisational workflow. Being ultimately responsible for the project, you'll need a full understanding before you can make a decision, and you'll need to have absolute trust in the developers' ability to make good use of the technology. Whatever you decide, you'll need to communicate clearly and justify your decision to everyone.
 
-If you choose to go with it, you should highlight the potential benefits to your boss and the project owner, with the caveat of the added risk to project timelines. They may try to overrule your decision, in which case you'll have to convince them. If you reject the developer's suggestion then you'll need to give them more than just a “no”.
+If you choose to go with it, you should highlight the potential benefits to your boss and the project owner, with the caveat of the added risk to project timelines. They may try to overrule your decision, in which case you'll have to convince them. If you reject the developer's suggestion then you'll need to give them more than just a “no”. Perhaps you've determined that the new technology risks and already fragile client relationship, or that the risks outweigh the benefits compared to your current stable solutions. Maybe the new technology is not mature or battle-tested enough. Perhaps there are browser or platform considerations or not enough budget to risk overruns. There are plenty of reasons, and after explaining them the chances are your developers are still going to be unhappy. You might be labelled as the PM with your head stuck in the sand, holding the company back. But have conviction in your decisions. While the developer is wholly focused on the technical solutions, you're the only one with a complete overview of the project and it's you who are ultimately responsible for it. Hopefully regularly communicating this to the team will raise their awareness and make them more considerate of the business, not just technical, decisions.
 
 
 
-Using the new technology brings too much risk to what is already a fragile client relationship that needs complete stability right now
-You feel the advantages of the new technology are not strong enough when compared to the current stable one you use
-The new technology is not mature enough to be used on a high-profile site
-The cross browser compatibility is not broad enough to warrant use
-The project budget is already extremely tight
-It’s quite possible that, even after explaining your reasons, team members will still be unhappy and you will get the shaking heads and sighs that translate as “This Web Project Manager is really stuck in his ways and is holding this agency back technically!” It’s at times like this you just need to have a thick skin and have absolute conviction in your decision.
-
-As I’ve said before, as a Web Project Manager you are responsible for the entire outcome of the project and thus the client satisfaction, deadlines, budgets, agency cash flow, reputation and whole host of other business critical factors – the technical solutions provided are the complete focus of the developers, but in the grand scheme of things only one part of many and you are the one with the complete overview.
-
-Communicating this to the development team regularly will hopefully raise their awareness to this fact and make them more commercially aware, and that can only be a good thing for any web agency.
 
 ALWAYS PLAYING SAFE
 As a little side note however, making the ‘safest’ decision is not always the best move, sometimes it’s best to just go for it even if you think the chances of success are smaller than you’d like…
