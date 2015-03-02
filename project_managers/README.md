@@ -349,30 +349,11 @@ What about your boss when you go over budget? You will be burdened with the assu
 
 Say a client wants to add a new feature that's out of scope. I know, this **never** happens, right? You can't just say “no” and damage the client relationship, but then you can't screw up all your budgets and timelines and resource allocations by outright agreeing to it. Consider for a moment that perhaps the client has additional budget available or may be willing to extend the project's timeline? Are any parts of the project running ahead of schedule or under budget? Maybe you might be able to accommodate the new request? The client may be willing to sacrifice another feature for this one one, or maybe there's a quick and easy way to implement a similar feature that could be upgraded later. There's also a chance that building this feature might benefit your team or agency, giving them new skills or a new offering to sell to other clients. Only ever say “no” to a client when there's absolutely nothing in the universe that can be done. The client probably isn't just being cheeky, trying to squeeze as much out of your agency as possible, nor frivolously expecting your team's work on new features to be easy. The request probably comes from a reaction to something in their industry that they understand better than you. There is probably a good reason why they're asking for it so even if you have to reject the request, understanding the reasoning behind it and offering a good alternative will reduce the chance of conflict. As at the start of the project, talk the client through this new feature, the business reason, and the expected KPI. As always, assess the situation thoroughly and then make your decision. If you agree, you'll have a happy client. If you reject, then, as with the developer, as with your boss, take them through the decision process step by step; explain the risks, explain the situation, and discuss the alternatives. The more transparent you are, the more understanding the client will be.
 
-There are of course many other situations where you will face being the cause of conflict but these three examples demonstrate a common theme. Analyse the situation, make a decision, communicate the decision, and find a solution. Easy right?
+There are of course many other situations where you will face being the cause of conflict but these three examples demonstrate a common theme. Analyse the situation, make a decision, communicate the decision, and find a solution. Easy right? 
 
 
 
 
-
-GUARANTEED HAPPINESS FOR ONE AND ALL?
-Web Project Managers are constantly pulled in every direction by everyone – they are always in the middle of everyone and their priorities. It requires a great deal of strength, understanding and negotiation skills to be able to deal with these pressures and end the project with all parties feeling positive – remember Web Project Managers’ motives are also always focussed on delivering value, not only for the client, but their web agency as well.
-
-By following the consider, analyse and communicate decision making process during web projects will not always result in happiness for everyone involved, but being honest and transparent about how you reached the decision and why you believe it is the right one for the project, web agency and client should go some way to reducing any friction that could be caused otherwise.
-
-o whenever I’m sitting down to play a little game of FIFA with a good friend of mine and I tell him I’m currently drafting an article, he replies with sarcasm:
-
-Is it about how to manage clients? Or maybe how to spot bad clients? Or what about how to handle client meetings? You could do an article that was more client-focussed.
-@ioptics, Every single bloody night, 2010 – 2011
-
-I then let him beat me at FIFA so he doesn’t go to bed crying. However, as much as it pains me to say it, he does make a good point.
-
-A picture of the old Game Genie loading screen popular in the 1980'sThe Game Genie is the only way @ioptics can win
-There are an awful lot of web project management articles out there that are focussed on client management, as well as estimating, scope creep and budgets etc. but one area that is often overlooked is what part a Web Project Manager can play in team management.
-
-My next series of articles will focus more on the internal aspects of web project management.
-
-This article focuses on why and how a Web Project Manager should resolve common issues that cause internal team conflicts that ultimately stall web projects and lower team morale.
 
 
 
