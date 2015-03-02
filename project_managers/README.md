@@ -330,55 +330,19 @@ While with designers you might want to use inspecific language, allowing their c
 
 ### Resolving Conflicts
 
+You are inevitably going to annoy people as a project manager. You have to balance budgets, timelines, and constantly make decisions that will always leave some people less than satisfied. You can't please everyone all the time. For example, in such a fast-paced industry new tools, technologies, and techniques are emerging every day and designers or developers probably often suggest jumping on one bandwagon or another. If you disagree with them then they're going to get annoyed (in this situation you might want to suggest a suitable side-project?). Just as inevitably, others are going to annoy you, and each other. It's simply the nature of working in a busy team. The best you can expect as a project manager is to earn reputation points and respect for getting the job done well. Reputation, however, is a fragile thing.
+
+We've already covered the importance of empathy and honesty, the understanding of people's motives and perspectives when making decisions. The best way to pre-emptively avoid conflicts in a team is to prepare in advance and consider what would make each team member happy and what would annoy them; how can you make them happy and what can you do when they're likely to be annoyed?
+
+Your boss or agency director wants revenue, a well-managed cash-flow, and happy clients that will refer more business. For this they need the project completed on time, on budget, and to a level of quality they personally deem satisfactory. You need to make a solid plan, stay on top of things, and identify and work towards meeting or exceeding that particular level of quality. Clients want a project that's future proof, easy enough to maintain, and facilitates their organisation's goals. It just has to look great and work perfectly. Designers want to push the boundaries, make something that stands out, something that they can be proud to show off. Developers want to play with the latest technologies and implement efficient, cutting edge solutions. You hopefully want all of the above and other project managers that you may work with just want your projects to be on schedule so as not to impact theirs.
+
+- what to do if you can't make it?
+- intra-team conflicts?
+- inter-team conflicts?
 
 
 
 
-
-
-Web Project Managers work in one of the fastest moving industries out there. As soon as one technology is launched and stable another new alternative is released. Web design and development trends are in constant flux, what was a cool and effective solution one day is inefficient and out-dated the next, and I bet I’m not alone when I say that each time a new project starts someone on your team will suggest using a new design trend or technology.
-
-Add to that the nature of running a business where cash flow is critical, other projects can knock your carefully thought out plan sideways or a key client ring up with urgent requests that require resource you booked months in advance, and you have a delicate situation indeed.
-
-While web trends and technologies evolve around us at a rapid rate and business requirements can often change on a week by week basis, a Web Project Manger will have to make constant decisions on what solutions to ultimately deliver to the client and often these decisions will not please everyone involved in the agency or project.
-
-So who are these people and why may they not be happy bunnies?
-
-WHO YOU MAY ANNOY AS A WEB PM
-In short, as a Web Project Manager, making final decisions about which solutions to implement, the chances are at some point you will annoy absolutely everyone who is involved in projects… not an appealing part of the job, but sometimes a necessary and unavoidable one.
-
-The Project Manager can’t ensure that they’ll be loved by everyone – nor do they want to be. They aspire to be well respected by the customer, but even that can’t always be guaranteed no matter how well they perform and manage the project. But, the Project Manager can ensure that everything that is expected of them is being performed well and if that doesn’t always do it for the customer at least it should be noticed by the delivery organization.
-Brad Egeland, Reputation is a Fragile Thing
-
-But before you get scared and begin to re-think that career move into web project management, let’s look briefly at what each team member generally wants from all projects.
-
-EMPATHISE AND UNDERSTANDING
-Empathy and an understanding of the business forces driving different people’s motives are key skills required by any Web Project Manager as it enables you to appreciate other perspectives when making project decisions.
-
-Let’s take a look at the usual suspects, who they are and what they want from web projects and your web project management. *Stereotype disclaimer included afterwards.
-
-WEB AGENCY DIRECTORS
-A web agency director wants the project completed on time, on budget, to a quality level that is fitting to the web agency and with the client feeling happy, wanting more work and willing to give referrals to potential clients.
-
-FINANCE DIRECTORS
-A finance director wants the project milestones split up in such a way that cash flow/collection is maintained for the business and thus that the project is completed to schedule, on time and on budget.
-
-WEB DESIGNERS
-Web designers want to push the boundaries with each design, creating designs that make the client happy, are worthy of the web agency’s portfolio and any web design showcase site.
-
-WEB DEVELOPERS
-Web Developers want to use the latest technologies in order to implement the most efficient solution possible and keep the web agency on the cutting edge of the industry.
-
-WEB PROJECT CLIENTS
-Clients want to receive a website that is as future proof as possible and facilitates them being able to achieve their short and long-term business aims. Unless otherwise informed, they will assume the website has been built to excellent standards but probably won’t care what doctype has been used so long as it looks and works perfectly for their users.
-
-WEB PROJECT MANAGERS
-In the middle of everyone is the Web Project Manager, and he or she will want, and often be expected, to meet ALL of the expectations above. But if you work with other Web Project Managers they will want your project to run on time so that their own projects can also be on schedule.
-
-A Web Project Manager who's face is covered in post-it notesWeb Project Managers: In the middle of everyone
-Cool, that’s everyone nice and neatly packaged and stereotyped, so why is it not always possible to please everyone, and as a Web Project Manager, how can you try to make sure everyone’s as happy as possible?
-
-CONSIDER, ANALYSE AND COMMUNICATE
 It is vitally important to understand that, in most cases, everyone’s intentions are good! They are always geared towards delivering a great project and growing their companies!
 
 Understanding this first fact is crucial when you’re being pulled in every direction trying to keep people happy. Failure to understand this results in a very defensive posture when challenged and that usually leads to bad things.
