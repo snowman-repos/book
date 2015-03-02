@@ -227,6 +227,8 @@ You have to expect a lot of support from your team, but that means you have to p
  
 Thank them and recognise their efforts publicly, but always offer your own criticism and advice privately. Even if they are performing well, it's your job to push them to always be better. Constantly encourage them to learn new tools and techniques, give them the time for training to practice what they've learned. Of course, you need to take this into account when formulating schedules and conjuring deadlines. It will pay off in the long run as they learn to work more efficiently and can accommodate a greater variety of requests. That means fewer bottlenecks for you.
 
+
+
 Ultimately, no matter whether you always manage to hire industry wizards or not, your team will only ever be as productive are you enable them to be, which leads us nicely onto the next section.
 
 ## Facilitating Others
@@ -326,16 +328,13 @@ Designers and developers especially might be quite territorial and defensive of 
 
 While with designers you might want to use inspecific language, allowing their creativity to flourish, developers will want logical and straightforward speak. Similarly, while you can jest with the designers about certain “comic” typefaces, or with developers about the web browser that always gives them problems (you know the one I'm talking about!), your clients, client managers, and bosses on the other hand are no interested in the implementation details, no matter how proud you are of them, and just want to hear about decisions, progress, results, and impact. Remember that no personality trait is negative in all circumstances, save say predilection to constant outrage, and as part of your role as the linchpin holding the team together you must be able to adapt to and bring together each individual.
 
+### Resolving Conflicts
 
 
 
 
 
 
-## Assemble the Team
-### Roles & Responsibilities
-
-### Team Cohesion
 
 Web Project Managers work in one of the fastest moving industries out there. As soon as one technology is launched and stable another new alternative is released. Web design and development trends are in constant flux, what was a cool and effective solution one day is inefficient and out-dated the next, and I bet I’m not alone when I say that each time a new project starts someone on your team will suggest using a new design trend or technology.
 
