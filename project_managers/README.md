@@ -363,16 +363,13 @@ Incompetence is
 
 
 
-Sometimes a designer will hate a developer for putting the brakes on a design element that would require certain rocket science functionality, or a developer will get annoyed with a designer because a PSD has been poorly organised – while these situations can arise due to poor communication or squeezed time, it can also be a simple case of a lack of competence.
-
-A photograph of a white furry-faced toy with a gormless look on his face“Seriously guys, I swear I did it right this time, ya feel me?”
-In either case there is one sure fire way to make matters worse and that’s to bitch and whine with either party about the other. Instead of enflaming the issue look at positive ways to solve it.
-
-Immediately quell any slating of anyone and start to guide the conversation to a vibe of “Ok, how are we going to fix this now and make sure it doesn’t happen again”. Again, by default take the position that the person who has caused issues with low competence probably meant well and what’s needed is education not crucifixion.
-
-Get the two parties together and facilitate a little informal session on why this element causes issues and what approach can be taken in the future to reduce them.
+Sometimes a designer will hate a developer for putting the brakes on a design element that would require certain rocket science functionality, or a developer will get annoyed with a designer because a PSD has been poorly organised – while these situations can arise due to poor communication or squeezed time, it can also be a simple case of a lack of competence. In either case there is one sure fire way to make matters worse and that’s to bitch and whine with either party about the other. Instead of enflaming the issue look at positive ways to solve it. Immediately quell any slating of anyone and start to guide the conversation to a vibe of “Ok, how are we going to fix this now and make sure it doesn’t happen again”. Again, by default take the position that the person who has caused issues with low competence probably meant well and what’s needed is education not crucifixion. Get the two parties together and facilitate a little informal session on why this element causes issues and what approach can be taken in the future to reduce them.
 
 You’d be surprised how quickly the tone turns from spiteful and toxic to something a little more positive and constructive when a Web Project Manager gets two people together and facilitates a little education session, that leaves both parties feeling a little bit more empathetic towards the other.
+
+
+
+
 
 LOW AWARENESS OF THE BIGGER PICTURE
 Aside from conflicting priorities this is probably the most common reason for internal squabbling on digital teams and having been on the production side myself I can think back to when I was the biggest culprit.
