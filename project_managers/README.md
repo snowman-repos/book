@@ -318,50 +318,13 @@ You'll note that of the requirements listed above, the content managers will nee
 
 What we've covered so far in this section is by no means exhaustive and indeed every team or web professional may have their own individual requirements. What's important is that you take the information you have, identify and investigate any gaps, and tease out specifically what you need to share with who. Even after you've reviewed the details of a new project yourself, approach each team member or team lead individually and find out what else they might need. There will be items on which you will need their feedback in order to formulate your budgets and schedules. Only once everyone has all the required information at hand, or at least as much as can possibly be provided, are you ready to kick off and deliver your plan.
 
-#### Appropriate communication
+### Appropriate communication
 
+You need to be able to communicate with everyone involved in the project **on their level**. Perhaps your hands-on experience will equip you with the ability to talk details with designers or developers, but you need to be able to speak a different language when taking the same conversation to someone else, like a client for instance. Not just your use of jargon, you'll also need to carefully consider your overall approach, your language, your tone.
 
+Designers and developers especially might be quite territorial and defensive of their work and so any comments, feedback, or requests must be framed delicately so that you convey trust in their skills and abilities. If you say anything, even accidentally, that makes them feel belittled or reduced to the status of pixel pusher or code monkey then motivation is instantly crushed and the project will suffer. This takes practice and it pays off to be open about your approach to conversation, especially with people you haven't worked with much before, by asking directly if what you're saying seems totally reasonable or if they have their own comments or suggestions.
 
-
-
-
----
-
-
-
-
-
-With any project management role, a key skill is the ability to be able to effectively communicate with everyone involved in the web project knowledgably and on their level.
-
-While hands-on experience will arm you with the knowledge to talk to designers and developers with confidence, communicating with suppliers, your superiors and clients is a whole different ball game – a great Web Project Manager has to be a chameleon!
-
-A photo of a toy chameleon perched on top of a computer monitor in an officeI’m literally not moving until you finish that login form
-As most seasoned Web Project Managers out there know, when talking to designers or developers you often have to adapt your tone in order to communicate effectively.
-
-Warning! Obscene stereotyping commencing
-Please recall all the comments you’ve made about PMs in general and then continue reading, humbled and ashamed
-For example, when talking to designers you have to appreciate that most are extremely territorial about their work and so you have to respect that and frame your questions and feedback accordingly, because the last thing you want on your web project team is a designer who doesn’t feel trusted by you and has been reduced to a pixel pusher.
-
-With developers it’s slightly different; these guys tend to want things explained in logical straightforward steps. If you start to try and tell them how to code or insist they “code something quick and dirty” they will immediately hate you and fantasise about watching you in a fight to the death with the Rancor monster (probably while a naked Princess Lea sits by their side)
-
-However, these personality traits are not negatives, everyone is different and these traits are actually part of the magical formula that makes a great designer or developer. Part of working a team is learning how to work with other people that are very different to you.
-
-But while speaking to designers and developers you can have little geeky laughs about Comic Sans and drop shadows, or how bad that code is due to all its embedded CSS and JavaScript, but when you hit the meeting room with your bosses or clients a Web Project Manager has to change their skin again.
-
-Your boss generally just wants to hear how things are going and if there are any barriers they can help remove for you. Although they have a genuine interest in the quality of design or code being produced, they are busy people and tend to want to be told about results and the impact on the business.
-
-Likewise with clients you have to shift again and focus on what the project, and each decision made during its lifecycle, brings to the table in terms of achieving the business aims and ROI rather than hearing how the CSS3 you’ve used is ground breaking stuff.
-
-An office worker asleep while on the phoneUh huh, CSS3… uh huh HTML5 uh huh… zzzz
-Being able to adapt to, and blend into, each very different environment at the flick of a switch is something a great Web Project Manager can do and often where average ones tend to fall a little short.
-
-
-
-
-
-
-
-
+While with designers you might want to use inspecific language, allowing their creativity to flourish, developers will want logical and straightforward speak. Similarly, while you can jest with the designers about comic sans, or with developers about internet explorer, your clients, client managers, and bosses on the other hand are no interested in the implementation details, no matter how proud you are of them, and just want to hear about decisions, progress, results, and impact. Remember that no personality trait is negative in all circumstances, save say predilection to constant outrage, and as part of your role as the linchpin holding the team together you must be able to adapt to and bring together each individual.
 
 
 
