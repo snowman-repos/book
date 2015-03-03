@@ -380,11 +380,9 @@ As the old saying goes, time is money. When quoting the cost for a new project y
 
 Not everyone can put together good plans. Effective planning is an acquired skill. Being at the point of starting any plan is a daunting feeling no matter how experienced you are or how many books and articles you've read. Experience is always the most valuable commodity when refining any skill. Lack of it, however, is never an excuse to dismiss planning as a waste of time or not worth the effort. You may still manage to keep your boss and your clients happy with the work you deliver despite not putting together detailed plans; you'll still get paid. It's like cooking. You could buy a packet that you just add to the pan and heat up or you could buy all the ingredients and make the dish from scratch. You've been told making it from scratch will yield much better results. You may even believe this. But it's a lot of extra effort, probably costs more, and will only yield better results than the convenient packet if you know what you're doing and have cooking experience. Eventually though, after you've cooked the dish many times, you will be able to put it together quickly, easily, and will enjoy it much more. If you invite people to try it, they will notice the difference between the packet and the home-cooked version, and they will be impressed with your efforts.
 
-Sometimes planning might actually just over-complicate things. Plans that are long, boring, filled with waffle or unnecessary detail may be ignored or not fully absorbed. Overly detailed plans that demand updating GANTT charts every few hours or wireframing nearly empty pages may be unrealstic to stick to at best, or at worst just a waste of time. Sometimes you just need to get stuck in and start doing rather than just planning. You have to assess for each project the level of detail required and the when you should update the schedule to perform crucial tasks. Remember that the goal is to maintain control over the project, so you'll need to be flexible enough to know when to plan and when to do.
+Sometimes, a plan just fails entirely. Nothing goes as planned and you end up pulling your hair out. This can only put down to bad planning so you'll have to adjust your planning techniques. Other times planning might actually just over-complicate things. Plans that are long, boring, filled with waffle or unnecessary detail may be ignored or not fully absorbed. Overly detailed plans that demand updating GANTT charts every few hours or wireframing nearly empty pages may be unrealstic to stick to at best, or at worst just a waste of time. Sometimes you just need to get stuck in and start doing rather than just planning. You have to assess for each project the level of detail required and the when you should update the schedule to perform crucial tasks. Remember that the goal is to maintain control over the project, so you'll need to be flexible enough to know when to plan and when to do.
 
 Another reason why planning is often lacklustre or skipped entirely is the sad fact that planning isn't always fun. Some people like it, while others hate it. Sometimes you might just not be in the mood. If you really don't feel like it then there's no really good advice other than to try and change the way you plan to make it more enjoyable and rewarding. If you come out on the other side of a project knowing that your plan helped and made your life easier, if everything “went to plan”, then you'll surely be rewarded with the smug feeling of success. If you really can't find a way to make planning enjoyable, even tolerable, then sorry... it's just something you're going to have to do. You might want to try hacking your brain to associate it with something positive, some other reward? On days you allocate to planning, ignore all your emails, cancel your meetings, setup an isolated room, make it comfy, and play your favourite music, and get your favourite snacks. Soon you'll start looking forward to planning days.
-
-
 
 
 
@@ -465,20 +463,14 @@ KPIs can also serve as a boundary to client requests for features that are out o
 
 
 
-PLANNING PERSONALITIES
-I often come across both web agencies and freelancers who consistently do not plan their web projects, and no matter how many times the same mistakes are made, they continue to push ahead using the same techniques. Once upon a time I put this down to sheer naivety, but I’ve come to realise it’s not naivety at all, it’s just that people responsible for running web projects and web project management are very different (not sure it should have taken me so long to realise this!)
+you get two types of people when it comes to planning:
 
-A really good, if somewhat angry, article, posted by Karine, entitled “Project management and fire fighting” on Ace Project helped inspire this part of the article in the series. It summarises the two different types of web project planning personalities I talk about here; Fire Fighters and Forest Rangers.
+Someone who doesn’t enjoy planning and just dives straight into production. These people will get started quickly and will reach the finishing line after solving many challenges as and when they arise in an ad hoc fashion 
 
-FIRE FIGHTERS AND FOREST RANGERS
-To further back up Karine’s summary I also heard a quote the other day that I found fascinating, it stated you get two types of people when it comes to planning:
+Someone who will start slowly, meticulously planning every step from start to finish and although will gain momentum more slowly, will usually complete the task correctly first time round
 
-Someone who doesn’t enjoy planning and just dives straight into production. These people will get started quickly and will reach the finishing line after solving many challenges as and when they arise in an ad hoc fashion (The Fire Fighter)
-Someone who will start slowly, meticulously planning every step from start to finish and although will gain momentum more slowly, will usually complete the task correctly first time round (The Forest Ranger)
-The extreme sportsman and the robot; the two web project planning personalities.Two planning personalities; Fire Fighters & Forest Rangers
-(Ok, I realise these images show neither a Fire Fighter or Forest Ranger, but you get the meaning behind them no?)
 
-THE TWO WEB PROJECT PLANNING PERSONALITIES
+
 This planning personality quote fascinated me so much because my initial reaction was that the person who just dives in is clearly a little mental if they think they can successfully bring a project in on time, on budget and to a high quality by taking this approach.
 
 But soon after hearing this quote it dawned on me that, web project management ideals aside, and speaking from the reality of running web projects in a small web agency or as a freelancer, I’ve seen it done, and not just once but on several projects at several companies.
