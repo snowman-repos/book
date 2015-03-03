@@ -372,20 +372,21 @@ Why do we even bother planning? We have a team of experts to hand. Sit a designe
 
 This all sounds totally obvious to you now, right? But as you're surely aware, detailed and effective planning that covers all of these bases is not always done, for varying reasons.
 
-As much as you want to create and maintain a great plan, you may simply not have time. A good plan may take more than a day. It may take a week, or more. Massive projects demand massive planning. Perhaps you're juggling multiple projects at the same time and you can't devote all your time every day to this master plan. It will seem like your planning time is stalling everything else; your content person or designer might be idly waiting. More time = more cost. Ideally, you might argue that a good plan always saves time and money in the long run, but depending on the project this might not always be the case. You may need to break down the planning itself into smaller, more manageable chunks, just enough to give you a detailed and immediate overview of the tasks at hand.
+As much as you want to create and maintain a great plan, you may simply not have time. A good plan may take more than a day. It may take a week, or more. Massive projects demand massive planning. Perhaps you're juggling multiple projects at the same time and you can't devote all your time every day to this master plan. It will seem like your planning time is stalling everything else; your content person or designer might be idly waiting. More time = more cost. Ideally, you might argue that a good plan always saves time and money in the long run, but depending on the project this might not always be the case. You may need to break down the planning itself into smaller, more manageable chunks, just enough to give you a detailed and immediate overview of the tasks at hand. Unfortunately, effective planning does demand your full attention. If you're going to be handling other projects then you'll need to allocate time in the plans for those projects so that you have time to plan this one. Try and isolate yourself from meetings and emails and phone calls, for at least a day, so that you can sit down and deep dive into this particular project. Consider it the same as taking a sick day, which is beyond your control, and may also impact other projects. You always manage to catch up afterwards and the situation you'll be in afterwards, equipped with a good plan, is akin to being well-rested and raring to go.
 
-Not everyone can put together good plans. Effective planning is an acquired skill. Being at the point of starting any plan is a daunting feeling no matter how experienced you are or how many books and articles you've read. Experience is always the most valuable commodity when refining any skill. Lack of it, however, is never an excuse to dismiss planning as a waste of time.
+As the old saying goes, time is money. When quoting the cost for a new project you may have to put in more effort justifying the time needed for planning because it doesn't directly produce deliverables that the client or projects owner values. They want a website or app, not a 50 page PDF document; the plan is for your team's internal use, so why should they be paying for it? Project management likely takes between 10-20% of the total time that it takes to put the project together, much of it planning. You'll need to ensure that budget is available for this before starting. Lack of budget is no excuse for lack of planning. If no budget is available for planning, then you'll probably have to recouperate it from design or development time.
+
+Not everyone can put together good plans. Effective planning is an acquired skill. Being at the point of starting any plan is a daunting feeling no matter how experienced you are or how many books and articles you've read. Experience is always the most valuable commodity when refining any skill. Lack of it, however, is never an excuse to dismiss planning as a waste of time or not worth the effort. You may still manage to keep your boss and your clients happy with the work you deliver despite not putting together detailed plans; you'll still get paid. It's like cooking. You could buy a packet that you just add to the pan and heat up or you could buy all the ingredients and make the dish from scratch. You've been told making it from scratch will yield much better results. You may even believe this. But it's a lot of extra effort, probably costs more, and will only yield better results than the convenient packet if you know what you're doing and have cooking experience. Eventually though, after you've cooked the dish many times, you will be able to put it together quickly, easily, and will enjoy it much more. If you invite people to try it, they will notice the difference between the packet and the home-cooked version, and they will be impressed with your efforts.
+
+Sometimes planning might actually just over-complicate things. Plans that are long, boring, filled with waffle or unnecessary detail may be ignored or not fully absorbed. Overly detailed plans that demand updating GANTT charts every few hours or wireframing nearly empty pages may be unrealstic to stick to at best, or at worst just a waste of time. Sometimes you just need to get stuck in and start doing rather than just planning. You have to assess for each project the level of detail required and the when you should update the schedule to perform crucial tasks. Remember that the goal is to maintain control over the project, so you'll need to be flexible enough to know when to plan and when to do.
+
+Finally, planning isn't always fun. Some people like it, while others hate it. If you're one of the latter, there's no really good advice other than to try and change the way you plan to make it more enjoyable and rewarding. If you come out on the other side of a project knowing that your plan helped and made your life easier, if everything “went to plan”, then you'll surely be rewarded with the smug feeling of success. If you really can't find a way to make planning enjoyable, even tolerable, then sorry... it's just something you're going to have to do. You might want to try hacking your brain to associate it with something positive? On days you allocate to planning, ignore all your emails, cancel your meetings, setup an isolated room, make it comfy, and play your favourite music, and get your favourite snacks. Soon you'll start looking forward to planning days.
 
 
 
 
 
 
-I like a curry as much as the next person, I also like to cook. I’m told making a curry from scratch is ten times better than a takeaway or using a bottled sauce. Every part of me knows this must be true and yet I don’t make one from scratch myself, why? Because it’s just not worth it… the bottled sauce is fine and tastes good – at least that’s what I tell myself and others. The truth is, to me, making a curry from scratch requires a lot of fiddling takes ages and looks really complex regardless of the rewards of a homemade one.
-
-To the uninitiated used to not planning web projects, yet happily making a living, it can seem a little daunting to contemplate starting to plan using any processes given the stigma processes carry of being slow. Like with my curry, any new skill being used for the first few times will add a significant amount of time to the process you’re used to, you will make mistakes, perhaps a few horrific ones, but once you’ve mastered it, you’ll be quick, you’ll reap the rewards, see the benefits and wonder why you ever had such a problem with it.
-
-Damn, now I actually want a curry.
 
 
 
@@ -443,33 +444,14 @@ KPIs can also serve as a boundary to client requests for features that are out o
 
 
 
-LACK OF RESOURCE AVAILABLE TO PLAN
-As I said before, planning takes time and that is something few of us can say we have in abundance. Even dedicated web project managers are all too often stacked with too many projects and too little time to plan effectively.
 
-The only advice I can offer here is to try and shut yourself away from the world for a day or two, resist the temptation to deal with e-mail and phone calls, and plan that project. This is easier said than done, but I always try to remind myself that it’s quite possible I could’ve been ill for those two days and if I had been would have probably not moved any projects forward, dealt with e-mail or taken phone calls – what’s the difference?
 
-LACK OF BUDGET
-This is often a contentious issue because a salesman will not want to add a row in their project estimate to the client that ups their final quote price for something that isn’t a production task – however this really isn’t necessary. If you charge for web project management time, and have been a good boy or girl and been tracking project management time from previous projects in order to identify trends like web project management tends to take between 10% -20% of the total project time, you should always be able to allocate an adequate amount of time to a project timescale or estimate in order to cater for the time required to manage the project, including the planning phase.
 
-Sorry folks, lack of project budget is just not a justifiable reason for not planning your project. If you have to, do it for free, you will undoubtedly recoup any time spent on fewer design and functionality revisions in the long-run due to the planning you did.
 
-THE BELIEF PLANNING OVER COMPLICATES
-Although you will often hear this line from the ‘dive in and get started’ planning personality mentioned in Part 2 of this article, and despite it not being a popular answer amongst the web project managers out there, the truth is they can sometimes be right.
 
-When you’re up against the clock and the pressure is on in a small agency or freelance role, and instead choose to update your GANTT chart each time a task is delayed by 3 hours, or insist on wireframing the 404 error page, chances are you are focussing too much on the planning when you should be focussing on the doing.
 
-That said, you also have to know when to stop to update your schedule or perform the most crucial web project management tasks so that you can maintain a level of control over your project. Not planning when you know you should is a dangerous habit to get into and trust me, before you know you have several projects all going tits up and in ten different directions and all because you chose to do when you should have planned.
 
-Being a good web project manager in a busy small business environment means you have to be wise and flexible enough to know when to plan and when to just get on and ‘do’!
 
-WEB PROJECT PLANNING IS NOT FUN
-This heading is slightly misleading, I enjoy web project planning for two reasons:
-
-It’s just what I happen to enjoy doing these days
-It feels like a lovely warm fuzzy blanket at the beginning of a project to know you have identified the risks, broken down the project and can visualise every step, including the end
-As with so many of the most critical parts of web project management, like producing detailed estimates, to most it’s just not exciting or sexy and there is only one cure – try planning your next few web projects that warrant planning before starting production and see if it seems to help or hinder.
-
-If you do it right, remain disciplined and consistent I would wager ownership of my cat Spiderpig that you won’t look back – if I’m wrong I will personally cook you a curry from scratch…
 
 WHY SMALL WEB AGENCIES AND FREELANCERS SHOULD PLAN THOROUGHLY
 Major reasons small web agencies and freelancers should get into the habit of planning web projects thoroughly is so they can begin to develop some repeatable processes that they can rely on for every project, or even apply the skills and techniques to parts of their projects if full planning is just not possible.
