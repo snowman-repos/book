@@ -336,11 +336,6 @@ We've already covered the importance of empathy and honesty, the understanding o
 
 Your boss or agency director wants revenue, a well-managed cash-flow, and happy clients that will refer more business. For this they need the project completed on time, on budget, and to a level of quality they personally deem satisfactory. You need to make a solid plan, stay on top of things, and identify and work towards meeting or exceeding that particular level of quality. Clients want a project that's future proof, easy enough to maintain, and facilitates their organisation's goals. It just has to look great and work perfectly. Designers want to push the boundaries, make something that stands out, something that they can be proud to show off. Developers want to play with the latest technologies and implement efficient, cutting edge solutions. You hopefully want all of the above and other project managers that you may work with just want your projects to be on schedule so as not to impact theirs. Keep in mind that you're very unlikely to be able to keep everyone happy all the time but that ultimately everyone wants want they think is best for the project so you can focus on that shared goal.
 
-- what to do if you can't make it?
-- intra-team conflicts?
-- inter-team conflicts?
-
-
 Let's take a common example of a difficult decision you might face that has the potential for causing conflict: the developer suggesting a new technology. First consider why they are suggesting it. Does it bring potential performance benefits? Will it improve efficiency, allowing for less repetition in future projects? Or maybe they just want to play around with it and learn about it on the company's dime. You need to have the aptitude and willingness to research that technology quickly and assess its potential risks and benefits in the context of the project, the client's aims, and your organisational workflow. Being ultimately responsible for the project, you'll need a full understanding before you can make a decision, and you'll need to have absolute trust in the developers' ability to make good use of the technology. Whatever you decide, you'll need to communicate clearly and justify your decision to everyone.
 
 If you choose to go with it, you should highlight the potential benefits to your boss and the project owner, with the caveat of the added risk to project timelines. They may try to overrule your decision, in which case you'll have to convince them. If you reject the developer's suggestion then you'll need to give them more than just a “no”. Perhaps you've determined that the new technology risks and already fragile client relationship, or that the risks outweigh the benefits compared to your current stable solutions. Maybe the new technology is not mature or battle-tested enough. Perhaps there are browser or platform considerations or not enough budget to risk overruns. There are plenty of reasons, and after explaining them the chances are your developers are still going to be unhappy. You might be labelled as the PM with your head stuck in the sand, holding the company back. But have conviction in your decisions. While the developer is wholly focused on the technical solutions, you're the only one with a complete overview of the project and it's you who are ultimately responsible for it. Hopefully regularly communicating this to the team will raise their awareness and make them more considerate of the business, not just technical, decisions.
@@ -367,9 +362,11 @@ Finally, no matter what the cause of the conflict is, try and resolve it yoursel
 
 ## Make a Plan
 
-So far in this chapter we've mostly covered what it takes to be a successful web project manager, or indeed any manager, the personality traits and the social challenges. Now let's get into the fun stuff - the actual tasks your role covers and how to best perform them. Here is where it starts - planning. Meticulous, hair-raising, sweat-inducing planning.
+So far in this chapter we've mostly covered what it takes to be a successful web project manager, or indeed any manager, the personality traits and the social challenges. This is all arguably the most important aspect of a successful project - you don't need to have the best team with the best skills but if you have a great team that work really well together then you're sure to produce successful work.
 
+Now though let's get into the fun stuff - the actual tasks your individual role covers and how to best perform them. Here is where it starts - planning. Meticulous, hair-raising, sweat-inducing planning.
 
+- kpis
 
 
 
@@ -407,6 +404,11 @@ Defining realistic and measurable web project KPIs, and keeping them at the fore
 But sales aside, KPIs are good for web agencies because they ensure all teams remain focussed on the business problems that need solving as opposed to the latest techniques or technologies. Yes a web agency must keep up to date with all of the latest trends to remain competitive, but cultivating an entire team to become primarily business focussed is by far more valuable to an agency in the long-run than any use of cutting edge technologies as that team will consistently be delivering business value to clients and this only ever increases agency team morale.
 
 KPIs can also serve as a boundary to client requests for features that are out of scope. In this instance, with KPIs defined, a web project manager can, with all sincerity, ask which KPI this relates too. More often than not, the answer will be none and in one swift move you have not only protected the project’s scope but kept the client focussed on their business’s primary aims and saved them money.
+
+
+
+
+
 
 
 
@@ -751,11 +753,12 @@ But primarily I hope it shows that planning a web project is not a dark art that
 
 The real dark art is actually being able to determine the appropriate level of planning that should be undertaken for each project and then managing the project to that plan once in full swing!
 
-So, I open up the floor to you guys…
 
-How do you go about planning web projects when the workload is stacked up?
-What mistakes do you commonly see made when planning a web project?
-What are your tips and tricks for pragmatic web project planning?
+
+
+
+
+
 
 ### Time
 
