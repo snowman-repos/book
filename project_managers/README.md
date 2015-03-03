@@ -394,17 +394,32 @@ A safer approach may be to try and prevent fires _before_ they start. It may be 
 
 Which approach is better is largely irrelevant as it's beyond your control. You can't change your personality. Likewise, especially in smaller teams or agencies, you are just going to have to skip all or most of the all-important planning phase due to time constraints and suchlike. You know it's bad but you don't have an option. You can only take comfort in knowing that the more blazes you have to battle, the better you will be come at reducing them to smouldering embers. You may be able to rely on having a placid client or a stellar team and that will go a long way towards helping you produce a great end result. But the minute something goes wrong and you lose control, you're going to struggle reigning the project in when you have poor documentation, ambiguous or non-existent scope definition, and unclear sign-offs. The more organised, detailed planning approach at least offers you more consistency. You'll become accustomed to what kind of problems occur at what stages and you'll be better prepared to comprehensively deal with them. Without a detailed plan you also have no recourse when facing angry clients. Armed with a plan, you can clearly point out the how, when, who, what, and why when things inevitably go wrong, allowing the client to understand and accept the situation. Essentially, there's no guaranteed way to project success. There will always be unforseen problems which you may be able to pre-empt or prepare for, or may not. What you can guarantee is that the probability of success is much higher, and the risk much lower, when you have a plan and you stick to it.
 
+### Key Performance Indicators
+
+Earlier we talked about the KPIs for your role. When it comes to planning project you need to determine what are its measures of success. How will your production team deem the project a success.
+
+The client manager's original proposal, or sometimes even documentation from the client, should detail the business goals and/or KPIs. In your role you have to analyse and challenge these where necessary to ensure they are realistic, measurable, and provide sufficient context. For the most part, the KPIs listed in your plan will be the same. Where they explicitly impact production, for instance when making demands on performance, technologies, platforms and so on, those KPIs should be expanded and explained in more detail where possible to provide clarity for your team.
 
 
 
 
 
 
+FACTORS TO CONSIDER WHEN CAPTURING AND MEASURING KPIS
+Another factor to take into consideration when defining and capturing KPIs is what the client’s business activity is that time that could impact any of the metrics collected both before and after launch.
+
+For example, if a KPI was to increase traffic by 5%, a ‘before’ figure would be collected that gave the current traffic over a defined period, let’s say three months. Post-launch, the ‘after’ figure would be collected for the same time duration and the comparison made. But using just this one example could possibly result in skewed results if any of the following are true:
+
+When the ‘before’ metric was taken the client had just implemented a print marketing campaign
+PPC/SEM was being conducted and now is not
+The ‘after’ metric is taken over a period of time when several national holidays occur
+A new competitor arises on the scene before project completion
+There are many factors that should be taken into considering when capturing and measuring web project KPIs. It is impossible to predict the future, but by conducting research into any external factors increases the chance of being able to produce the most equally weighted comparative metrics and thus the purest measurement for a KPI and the project’s success.
 
 
 
 
-- kpis
+
 - scope, risks, and tasks
 - timing and deadlines
 - roles and responsibilities
@@ -418,23 +433,10 @@ Which approach is better is largely irrelevant as it's beyond your control. You 
 
 
 
-- kpis
 
-WHO SHOULD DEFINE KPIS
-It is important to specify who should create the web project’s KPIs? Usually the client will give you the KPIs but it is the web agency’s role to analyse and challenge these where necessary to ensure they are realistic, measurable and placed in the correct context e.g. if a KPI is given to as “appear on page one of Google” without the context of which keywords to appear on page one for, the KPI could be achieved by getting the client to number one for their domain name, brilliant.
 
-Obviously this is not brilliant, but illustrates the importance of defining the right kind of KPIs.
 
-FACTORS TO CONSIDER WHEN CAPTURING AND MEASURING KPIS
-Another factor to take into consideration when defining and capturing KPIs is what the client’s business activity is that time that could impact any of the metrics collected both before and after launch.
 
-For example, if a KPI was to increase traffic by 5%, a ‘before’ figure would be collected that gave the current traffic over a defined period, let’s say three months. Post-launch, the ‘after’ figure would be collected for the same time duration and the comparison made. But using just this one example could possibly result in skewed results if any of the following are true:
-
-When the ‘before’ metric was taken the client had just implemented a print marketing campaign
-PPC/SEM was being conducted and now is not
-The ‘after’ metric is taken over a period of time when several national holidays occur
-A new competitor arises on the scene before project completion
-There are many factors that should be taken into considering when capturing and measuring web project KPIs. It is impossible to predict the future, but by conducting research into any external factors increases the chance of being able to produce the most equally weighted comparative metrics and thus the purest measurement for a KPI and the project’s success.
 
 STAYING FOCUSSED ON KPIS
 Once defined with the client at the start of the project, the KPIs should be documented and circulated amongst all parties that will be involved throughout the project’s lifecycle. In doing so you are immediately focussing everyone on the aims of the project. Too often in web projects the aims of the project are specified in finite detail by the client in the tender document, backed up by agency proposals and then swiftly forgotten by both sides. While this seems a little crazy, in reality, the pace and complexity of most projects, both large and small, make it difficult to focus on anything other than completion – it’s the job of the web project manager to ensure these aims are at the forefront of everyone’s mind at all times.
