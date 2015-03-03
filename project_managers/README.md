@@ -406,7 +406,25 @@ KPIs have to be carefully considered. As an example, imagine you're asked to inc
 
 KPIs are surprisingly easy to forumulate for the enormous potential benefits they offer. Furthermore they cover not just the tools and technologies but also the business goals. That means that achieving business goals brings business value. Finally they also provide a boundary for client requests. When the client requests something that's out of scope, you or your client manager can go back and ask which KPI the request serves. If not related to any of the established and agreed KPIs, the client will hopefully withdraw the request, meaning you've kept **them** focused on **their** business goals, saved them money, and preserved the project's scope and timeline.
 
-One important set of KPIs for all web projects is the **performance budget**. Performance is crucial for the success of every modern web project and dependent on so many factors that it needs to be at the forefront of everyone's minds throughout production. Performance isn't just about code either - it starts with content and information architectire and design. Not only are increasing numbers of users on low-bandwidth devices or in areas with slower connections, but they are increasingly accustomed to using blazingly fast sites and apps like Google which, whether strictly fair or not, set their expectations.
+One important set of KPIs for all web projects is the **performance budget**. Performance is crucial for the success of every modern web project and dependent on so many factors that it needs to be at the forefront of everyone's minds throughout production. Performance isn't just about code either - it starts with content and information architectire and design. Not only are increasing numbers of users on low-bandwidth devices or in areas with slower connections, but they are increasingly accustomed to using blazingly fast sites and apps like Google which, whether strictly fair or not, set their expectations. Things that affect performance might be:
+
+* Total initial download for new users
+* Total initial download for return users
+* Total number of HTTP requests (if using HTTP1.*)
+* Initial load time on X bandwidth
+* Return load time on X bandwidth
+* A minimum score of X on Google Pagespeed Insights
+* Wcag 2.0 compliance
+* Memory usage
+
+These performance KPIs highlight the benefits of KPIs being useful for decision making. During production if you test against your KPI metric while adding a new feature and fail, you have 3 easy options:
+
+* Optimise an existing feature or asset
+* Remove an existing feature or asset
+* Don’t add the new feature or asset
+
+They will ultimately depend on implementation details - what technology you're using to produce the website or app - and also target audience - what technology the users are using to access the website or app - but you should determine early what goals you should estabish for which of these (or other?) variables. Whatever goals you decide on, you need to be able to gather accurate before and after metrics. You also need to be confident that you stick to your targets. For instance, you might find out later that restricting yourself to your 150KB total payload goal turns out to be a real struggle. Rather than letting yourself off or adjusting the KPI, effectively moving the goal posts, you'll have to perhaps forgo certain features that might require 3rd-party libraries. In this case you should revisit this particular KPI and ask yourself why the goal was set at 150KB in the first place.
+
 
 
 
