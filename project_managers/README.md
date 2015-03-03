@@ -404,13 +404,10 @@ The client manager's original proposal, or sometimes even documentation from the
 
 KPIs have to be carefully considered. As an example, imagine you're asked to increase website traffic by 10%. You record the average traffic on the current website over a fixed length period. Post-launch, you monitor the traffic for the same length of time. Compare the two and you should know what percentage improvement you've achieved, right? But what if the client had run a marketing campaign while you were gathering pre-launch metrics and it had skewed the data? Or if a new competitor launches around the same time, impacting a fair comparison of post-launch metrics? There are many business factors that should be taken into consideration when formulating KPIs. With a little research you should increase the chance of being able to produce equally rated comparative metrics.
 
-KPIs are surprisingly easy to forumulate for the enormous potential benefits they offer.
+KPIs are surprisingly easy to forumulate for the enormous potential benefits they offer. Furthermore they cover not just the tools and technologies but also the business goals. That means that achieving business goals brings business value. Finally they also provide a boundary for client requests. When the client requests something that's out of scope, you or your client manager can go back and ask which KPI the request serves. If not related to any of the established and agreed KPIs, the client will hopefully withdraw the request, meaning you've kept **them** focused on **their** business goals, saved them money, and preserved the project's scope and timeline.
 
 
 
-But sales aside, KPIs are good for web agencies because they ensure all teams remain focussed on the business problems that need solving as opposed to the latest techniques or technologies. Yes a web agency must keep up to date with all of the latest trends to remain competitive, but cultivating an entire team to become primarily business focussed is by far more valuable to an agency in the long-run than any use of cutting edge technologies as that team will consistently be delivering business value to clients and this only ever increases agency team morale.
-
-KPIs can also serve as a boundary to client requests for features that are out of scope. In this instance, with KPIs defined, a web project manager can, with all sincerity, ask which KPI this relates too. More often than not, the answer will be none and in one swift move you have not only protected the project’s scope but kept the client focussed on their business’s primary aims and saved them money.
 
 
 
