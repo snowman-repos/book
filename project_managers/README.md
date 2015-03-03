@@ -425,6 +425,8 @@ These performance KPIs highlight the benefits of KPIs being useful for decision 
 
 They will ultimately depend on implementation details - what technology you're using to produce the website or app - and also target audience - what technology the users are using to access the website or app - but you should determine early what goals you should estabish for which of these (or other?) variables. Whatever goals you decide on, you need to be able to gather accurate before and after metrics. You also need to be confident that you stick to your targets. For instance, you might find out later that restricting yourself to your 150KB total payload goal turns out to be a real struggle. Rather than letting yourself off or adjusting the KPI, effectively moving the goal posts, you'll have to perhaps forgo certain features that might require 3rd-party libraries. In this case you should revisit this particular KPI and ask yourself why the goal was set at 150KB in the first place.
 
+### Setting Scope, Identifying Risks, and Assiging Tasks
+
 
 
 
