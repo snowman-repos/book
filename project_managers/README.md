@@ -488,179 +488,6 @@ Milestones can be assigned to any project phase, but are generally used to defin
 
 Creating a GANNT chart that breaks down the project into as much detail as possible, adding time estimates, dependencies and lag, results in clear start and end dates for each task and phase, and ultimately produces definitive dates for the project milestones.
 
-### Roles & Responsibilities
-
-CLIENT TASKS AND REVISION TIME
-One thing your granular project breakdown will often not include, because it’s not something you need to estimate on in order to produce a quote, is the tasks the client must complete throughout the project and the revision mini-stages you have to expect to go through before sign-off of any phase or task. At this stage you need to include them, not only for your sake but also the clients’.
-
-This means adding tasks such as:
-
-Client homepage design review
-Homepage design revisions
-Client homepage design sign-off
-Client copywriting
-Despite these tasks being either encapsulated in your quote as ‘Homepage design’, or not at all (client copywriting), when producing a project schedule it is crucial to consider them all as they impact the overall project timeline. For example, if you have determined you only have 3 days to complete the homepage design phase, by adding in review and revision times you can communicate to the client that, in order to hit the deadline and keep the project on schedule, they must be available to review, provide feedback, sign-off and deliver website copy on/by certain dates.
-
-Often a client seeing the turnaround time required from them, when comparing with their busy schedule, can illustrate the realism of hitting their go-live date and open up an adult dialogue that will see an extension allowed.
-
-Note that this is still before you have put pen to paper and started a sitemap or designing the homepage – this is hardcore client expectation setting right at the beginning of the project and in the right way, as opposed to 2 weeks before go live when print campaigns have been booked!
-
-### Functional Specifications
-
-******************************************
-******************************************
-******************************************
-
-## Comunication & Workflow
-
-WHY GANTT CHARTS WORK FOR ME
-GANTT charts are the subject of much debate in the project management world, some people love them and some hate them. You will find endless conversations online arguing how they are old fashioned and enforce a Waterfall methodology.
-
-I am by no means saying they are the ultimate solution and you should never move away from them, all I am saying here is that at this moment in time they work for me on the kinds of projects I work on currently.
-
-They allow me to:
-
-Explain the web project lifecycle to the client
-Schedule a realistic timeline with milestones that are visible to everyone
-Communicate to the client their level of involvement and when they need to be available
-Track the project’s progress at a low-level
-Quickly adjust the project schedule and produce new milestone dates if anything overruns
-Highlight the fact I need to secure more resource in order to meet the original dates
-Need I sell it more? This stuff sells itself…
-
-So you’ve gone through this, sometimes painfully slow and methodical, web project planning process – how does it help you?
-
-Cast your mind back to the advantages of planning defined in Part 1 of this article and see how this approach has satisfied each point:
-
-Define and manage the project scope
-Completed and possible through granular project breakdown
-Identify and minimise risks to the project
-Completed through granular project breakdown, assumption listing and scheduling
-Break the allocated project time into manageable phases and tasks
-Completed through granular project breakdown
-Determine realistic milestones and client-side deadlines
-Completed through project scheduling
-Track progress and control the project
-Possible with an easily updatable project schedule and consistent time tracking tasks
-Secure the necessary resource
-Easy to identify using an easily updateable schedule
-Being able to manage these fundamental web project management factors greatly increases your chances of delivering on budget and on time without having to compromise on quality which equals happy you and happy client!
-
-When working in a busy environment, as either a web agency team member or as a freelancer, where delivery is what gets you paid, justifying a non-production / non-billable day or two to plan the project is pretty hard to do. Some people know it should be done and just can’t carve out the time, others don’t really believe planning in that much detail is necessary.
-
-Those that can’t find the time should probably try to track the time they spend during their projects working on tasks that they wouldn’t have to if they had planned first – usually this time is much greater than the time it would’ve taken to plan.
-
-Those that don’t believe planning in detail is necessary have probably had a few successes where a project was bought in on time and on budget without a planning stage, or are just avoiding admitting the fact that they don’t enjoy planning. Admitting you don’t enjoy planning is fine, not everyone does, but while admitting this, please try to also admit how many projects have not been delivered on time or budget that perhaps could’ve been if only you’d planned thoroughly.
-
-Always skipping web project planning is a hit and miss affair where success is more dependent on the project and client rather than your ability as a web project manager.
-
-Consistent and thorough web project planning generally results in a more consistent success rate with web projects because, before production begins, you are able to identify, define, and thus manage the critical parts of any project; phases, tasks, resource, timelines, milestones and risks and communicate these to the client.
-
-Thorough web project planning does not ensure a project will come in on time or on budget, but it does increase the chances, and if over budget and late, it will also limit the extent the project overruns because while you may have missed or underestimated a few tasks or risks at the planning stage, you will have identified many more that you have managed to successfully control – and anything you missed this time, you can easily make sure you don’t the next time.
-
-To the web project managers out there, some of the advantages and methods described in this article will be nothing new, but, to web agency and freelance guys and girls with little web project management and planning experience, I hope it explains why planning web projects is so important, to both supplier and client.
-
-But primarily I hope it shows that planning a web project is not a dark art that should only be tackled by dedicated web project managers, it’s something anyone can do as long as you can mentally envisage the project from start to finish…
-
-The real dark art is actually being able to determine the appropriate level of planning that should be undertaken for each project and then managing the project to that plan once in full swing!
-
-## Delivery
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Time
-
 A GOOD FOUNDATION
 After reading Alyssa Gregory’s recent article on Sitepoint.com, How to Estimate Time for a Project, I couldn’t help but feel that it was a good introduction but lacked a little when compared with the realities and complexities of estimating/quoting for a website or web application.
 
@@ -911,52 +738,85 @@ It also presents you to the client as someone, or as an agency, who are very met
 
 Finally, by creating and maintaining a consistent pattern of high-level phases and tasks between your web project time estimates and time tracking means you can collect and analyse reliable data from multiple projects that can help you further increase the accuracy of, and cut the time needed to create, estimates for web projects.
 
-### Setting things up
+### Roles & Responsibilities
 
-WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
-- January 13, 2014 - by thesambarnes, in Digital Project Management, with 9 comments -
+CLIENT TASKS AND REVISION TIME
+One thing your granular project breakdown will often not include, because it’s not something you need to estimate on in order to produce a quote, is the tasks the client must complete throughout the project and the revision mini-stages you have to expect to go through before sign-off of any phase or task. At this stage you need to include them, not only for your sake but also the clients’.
 
-Bio picture of Holly Davis
-Holly is a Certified Scrum Master and Agile Project Manager at Award winning web agency White October. We’re currently recruiting a new Project Manager to join the team, feel free to get in touch if you’re interested. You can find Holly on Twitter @ProjectDavis.
-A year ago, I had never heard of GitHub and now I’m using it on several of my biggest projects and to my surprise, enjoying doing so!
+This means adding tasks such as:
 
-A cropped version of the GitHub 404 page banner showing it's Octocat character dressed as ObiWan from Star Wars in a desert scene in front of a land speeder and hut.It’s worth using GitHub if only for this each time you type with chubby fingers.
-It started just under a year ago when I asked my project team what their preference would be for tracking issues, and the developers were almost evangelical about GitHub. I was aware that most of our active projects were being hosted and deployed from GitHub but didn’t realise it could be used for managing projects too!
+Client homepage design review
+Homepage design revisions
+Client homepage design sign-off
+Client copywriting
+Despite these tasks being either encapsulated in your quote as ‘Homepage design’, or not at all (client copywriting), when producing a project schedule it is crucial to consider them all as they impact the overall project timeline. For example, if you have determined you only have 3 days to complete the homepage design phase, by adding in review and revision times you can communicate to the client that, in order to hit the deadline and keep the project on schedule, they must be available to review, provide feedback, sign-off and deliver website copy on/by certain dates.
 
-So, we took the leap and instead of introducing something new into the mix we started using it to manage tasks, releases and bugs.
+Often a client seeing the turnaround time required from them, when comparing with their busy schedule, can illustrate the realism of hitting their go-live date and open up an adult dialogue that will see an extension allowed.
 
-The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
+Note that this is still before you have put pen to paper and started a sitemap or designing the homepage – this is hardcore client expectation setting right at the beginning of the project and in the right way, as opposed to 2 weeks before go live when print campaigns have been booked!
 
-Using labels you can create issues for “discussion” i.e. we need a comment system, here are the options giving everyone visibility over the options and the opportunity to comment and be involved with the solution.
+### Functional Specifications
 
-A screenshot of low-fi sketches uploaded to GitHubIf I was the client I’d totes sign this off.
-GitHub wins on simplicity and its clean interface. Even some of our designers have adopted it for presenting low fidelity sketches to the client / team to review. It’s great to have communication in one centralised place rather than across emails and visible to all the team. You can set up email notifications when people comment or tag you in an issue.
+******************************************
+******************************************
+******************************************
 
-It has also given me more visibility on work in progress. In our daily ODI scrums we have even introduced the reviewing of pull requests. This helps limit work in progress by ensuring pull requests are reviewed, merged and closed. If the same PR is there several days running, it can quickly alert you that something is wrong that you wouldn’t normally be able to pick up on as a non technical PM.
+- shared language for tools and features
 
-However, like any tool there are a couple of drawbacks. I have had to continue using spreadsheets to track time and velocity over sprints, as you can’t add estimates or track time spent on the issues themselves. However you can assign a milestone to tasks within a sprint which will give you a % indicator of tasks completed but isn’t that helpful if the one task you’ve not completed equates to half the sprint!
+## Comunication & Workflow
 
-Lastly, there is no easy way to prioritise issues. For ODI we’ve added priority 1 and priority 2 tags which work well but i’d like the open issues to work more like a physical backlog where you can click and drag issues to prioritise.
+ - agile
 
-In conclusion, I would recommend using GitHub to other Project Managers, particularly if you’re happy to track project progress outside of GitHub and just embrace it for the ace collaboration tool it is.
+WHY GANTT CHARTS WORK FOR ME
+GANTT charts are the subject of much debate in the project management world, some people love them and some hate them. You will find endless conversations online arguing how they are old fashioned and enforce a Waterfall methodology.
 
-A screenshot of the Huboard tool showing a Kanban board.Web project management things in GitHub? Developers, you cannot escape it! :)
-If you’re thinking of using GitHub you may want to look at Huboard, a lightweight Kaban board which integrates with GitHub issues.
+I am by no means saying they are the ultimate solution and you should never move away from them, all I am saying here is that at this moment in time they work for me on the kinds of projects I work on currently.
 
-If that doesn’t fulfil your requirements you may find something that does on this Quora question “Which project management tools are deeply integrated with GitHub?”
+They allow me to:
 
-Not convinced yet? Why not do some further reading, here are couple of other great blog post on the topic.
+Explain the web project lifecycle to the client
+Schedule a realistic timeline with milestones that are visible to everyone
+Communicate to the client their level of involvement and when they need to be available
+Track the project’s progress at a low-level
+Quickly adjust the project schedule and produce new milestone dates if anything overruns
+Highlight the fact I need to secure more resource in order to meet the original dates
+Need I sell it more? This stuff sells itself…
 
-Using GitHub issues to manage projects by Z Porter.
-Managing projects with GitHub by Jerad Bitner.
+So you’ve gone through this, sometimes painfully slow and methodical, web project planning process – how does it help you?
 
-### Performance Budget
+Cast your mind back to the advantages of planning defined in Part 1 of this article and see how this approach has satisfied each point:
 
-## Daily Workflow
+Define and manage the project scope
+Completed and possible through granular project breakdown
+Identify and minimise risks to the project
+Completed through granular project breakdown, assumption listing and scheduling
+Break the allocated project time into manageable phases and tasks
+Completed through granular project breakdown
+Determine realistic milestones and client-side deadlines
+Completed through project scheduling
+Track progress and control the project
+Possible with an easily updatable project schedule and consistent time tracking tasks
+Secure the necessary resource
+Easy to identify using an easily updateable schedule
+Being able to manage these fundamental web project management factors greatly increases your chances of delivering on budget and on time without having to compromise on quality which equals happy you and happy client!
 
-* agile
+When working in a busy environment, as either a web agency team member or as a freelancer, where delivery is what gets you paid, justifying a non-production / non-billable day or two to plan the project is pretty hard to do. Some people know it should be done and just can’t carve out the time, others don’t really believe planning in that much detail is necessary.
 
-### Communication
+Those that can’t find the time should probably try to track the time they spend during their projects working on tasks that they wouldn’t have to if they had planned first – usually this time is much greater than the time it would’ve taken to plan.
+
+Those that don’t believe planning in detail is necessary have probably had a few successes where a project was bought in on time and on budget without a planning stage, or are just avoiding admitting the fact that they don’t enjoy planning. Admitting you don’t enjoy planning is fine, not everyone does, but while admitting this, please try to also admit how many projects have not been delivered on time or budget that perhaps could’ve been if only you’d planned thoroughly.
+
+Always skipping web project planning is a hit and miss affair where success is more dependent on the project and client rather than your ability as a web project manager.
+
+Consistent and thorough web project planning generally results in a more consistent success rate with web projects because, before production begins, you are able to identify, define, and thus manage the critical parts of any project; phases, tasks, resource, timelines, milestones and risks and communicate these to the client.
+
+Thorough web project planning does not ensure a project will come in on time or on budget, but it does increase the chances, and if over budget and late, it will also limit the extent the project overruns because while you may have missed or underestimated a few tasks or risks at the planning stage, you will have identified many more that you have managed to successfully control – and anything you missed this time, you can easily make sure you don’t the next time.
+
+To the web project managers out there, some of the advantages and methods described in this article will be nothing new, but, to web agency and freelance guys and girls with little web project management and planning experience, I hope it explains why planning web projects is so important, to both supplier and client.
+
+But primarily I hope it shows that planning a web project is not a dark art that should only be tackled by dedicated web project managers, it’s something anyone can do as long as you can mentally envisage the project from start to finish…
+
+The real dark art is actually being able to determine the appropriate level of planning that should be undertaken for each project and then managing the project to that plan once in full swing!
 
 n element of one of my recent Smashing Magazine articles, Guidelines for Successful Communication with Clients, proved to be of particular interest to a lot of readers, the weekly web project status report for clients.
 
@@ -1151,6 +1011,52 @@ Covertly record, ever – it’s just plain wrong and illegal I think
 But come on, I’m probably just a bit rubbish when it comes to note taking, and because it’s just not always appropriate to record web project management meetings…
 
 …what are your tips for note taking in web project management meetings?
+
+## Setting things up
+
+WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
+- January 13, 2014 - by thesambarnes, in Digital Project Management, with 9 comments -
+
+Bio picture of Holly Davis
+Holly is a Certified Scrum Master and Agile Project Manager at Award winning web agency White October. We’re currently recruiting a new Project Manager to join the team, feel free to get in touch if you’re interested. You can find Holly on Twitter @ProjectDavis.
+A year ago, I had never heard of GitHub and now I’m using it on several of my biggest projects and to my surprise, enjoying doing so!
+
+A cropped version of the GitHub 404 page banner showing it's Octocat character dressed as ObiWan from Star Wars in a desert scene in front of a land speeder and hut.It’s worth using GitHub if only for this each time you type with chubby fingers.
+It started just under a year ago when I asked my project team what their preference would be for tracking issues, and the developers were almost evangelical about GitHub. I was aware that most of our active projects were being hosted and deployed from GitHub but didn’t realise it could be used for managing projects too!
+
+So, we took the leap and instead of introducing something new into the mix we started using it to manage tasks, releases and bugs.
+
+The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
+
+Using labels you can create issues for “discussion” i.e. we need a comment system, here are the options giving everyone visibility over the options and the opportunity to comment and be involved with the solution.
+
+A screenshot of low-fi sketches uploaded to GitHubIf I was the client I’d totes sign this off.
+GitHub wins on simplicity and its clean interface. Even some of our designers have adopted it for presenting low fidelity sketches to the client / team to review. It’s great to have communication in one centralised place rather than across emails and visible to all the team. You can set up email notifications when people comment or tag you in an issue.
+
+It has also given me more visibility on work in progress. In our daily ODI scrums we have even introduced the reviewing of pull requests. This helps limit work in progress by ensuring pull requests are reviewed, merged and closed. If the same PR is there several days running, it can quickly alert you that something is wrong that you wouldn’t normally be able to pick up on as a non technical PM.
+
+However, like any tool there are a couple of drawbacks. I have had to continue using spreadsheets to track time and velocity over sprints, as you can’t add estimates or track time spent on the issues themselves. However you can assign a milestone to tasks within a sprint which will give you a % indicator of tasks completed but isn’t that helpful if the one task you’ve not completed equates to half the sprint!
+
+Lastly, there is no easy way to prioritise issues. For ODI we’ve added priority 1 and priority 2 tags which work well but i’d like the open issues to work more like a physical backlog where you can click and drag issues to prioritise.
+
+In conclusion, I would recommend using GitHub to other Project Managers, particularly if you’re happy to track project progress outside of GitHub and just embrace it for the ace collaboration tool it is.
+
+A screenshot of the Huboard tool showing a Kanban board.Web project management things in GitHub? Developers, you cannot escape it! :)
+If you’re thinking of using GitHub you may want to look at Huboard, a lightweight Kaban board which integrates with GitHub issues.
+
+If that doesn’t fulfil your requirements you may find something that does on this Quora question “Which project management tools are deeply integrated with GitHub?”
+
+Not convinced yet? Why not do some further reading, here are couple of other great blog post on the topic.
+
+Using GitHub issues to manage projects by Z Porter.
+Managing projects with GitHub by Jerad Bitner.
+
+## Delivery
+
+
+
+
+
 
 
 ## Designers
