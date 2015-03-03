@@ -458,106 +458,6 @@ Resource allocation
 Project milestones
 Dependencies? Lag? Ewww, web project management waffle! But even if you don’t plan your web projects thoroughly you will need to deal with all the above during the project – being prepared for these in advance is the magic!
 
-
-
-
-- scope, risks, and tasks
-- timing and deadlines
-- roles and responsibilities
-- communication & workflow
-- delivery
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CLIENT TASKS AND REVISION TIME
-One thing your granular project breakdown will often not include, because it’s not something you need to estimate on in order to produce a quote, is the tasks the client must complete throughout the project and the revision mini-stages you have to expect to go through before sign-off of any phase or task. At this stage you need to include them, not only for your sake but also the clients’.
-
-This means adding tasks such as:
-
-Client homepage design review
-Homepage design revisions
-Client homepage design sign-off
-Client copywriting
-Despite these tasks being either encapsulated in your quote as ‘Homepage design’, or not at all (client copywriting), when producing a project schedule it is crucial to consider them all as they impact the overall project timeline. For example, if you have determined you only have 3 days to complete the homepage design phase, by adding in review and revision times you can communicate to the client that, in order to hit the deadline and keep the project on schedule, they must be available to review, provide feedback, sign-off and deliver website copy on/by certain dates.
-
-Often a client seeing the turnaround time required from them, when comparing with their busy schedule, can illustrate the realism of hitting their go-live date and open up an adult dialogue that will see an extension allowed.
-
-Note that this is still before you have put pen to paper and started a sitemap or designing the homepage – this is hardcore client expectation setting right at the beginning of the project and in the right way, as opposed to 2 weeks before go live when print campaigns have been booked!
-
 DEPENDENCIES
 Dependencies are simply rules that state Phase / Task A cannot begin until Phase / Task B is complete. Typical examples being:
 
@@ -588,6 +488,31 @@ Milestones can be assigned to any project phase, but are generally used to defin
 
 Creating a GANNT chart that breaks down the project into as much detail as possible, adding time estimates, dependencies and lag, results in clear start and end dates for each task and phase, and ultimately produces definitive dates for the project milestones.
 
+### Roles & Responsibilities
+
+CLIENT TASKS AND REVISION TIME
+One thing your granular project breakdown will often not include, because it’s not something you need to estimate on in order to produce a quote, is the tasks the client must complete throughout the project and the revision mini-stages you have to expect to go through before sign-off of any phase or task. At this stage you need to include them, not only for your sake but also the clients’.
+
+This means adding tasks such as:
+
+Client homepage design review
+Homepage design revisions
+Client homepage design sign-off
+Client copywriting
+Despite these tasks being either encapsulated in your quote as ‘Homepage design’, or not at all (client copywriting), when producing a project schedule it is crucial to consider them all as they impact the overall project timeline. For example, if you have determined you only have 3 days to complete the homepage design phase, by adding in review and revision times you can communicate to the client that, in order to hit the deadline and keep the project on schedule, they must be available to review, provide feedback, sign-off and deliver website copy on/by certain dates.
+
+Often a client seeing the turnaround time required from them, when comparing with their busy schedule, can illustrate the realism of hitting their go-live date and open up an adult dialogue that will see an extension allowed.
+
+Note that this is still before you have put pen to paper and started a sitemap or designing the homepage – this is hardcore client expectation setting right at the beginning of the project and in the right way, as opposed to 2 weeks before go live when print campaigns have been booked!
+
+### Functional Specifications
+
+******************************************
+******************************************
+******************************************
+
+## Comunication & Workflow
+
 WHY GANTT CHARTS WORK FOR ME
 GANTT charts are the subject of much debate in the project management world, some people love them and some hate them. You will find endless conversations online arguing how they are old fashioned and enforce a Waterfall methodology.
 
@@ -603,7 +528,6 @@ Quickly adjust the project schedule and produce new milestone dates if anything 
 Highlight the fact I need to secure more resource in order to meet the original dates
 Need I sell it more? This stuff sells itself…
 
-THE REWARDS OF WEB PROJECT PLANNING
 So you’ve gone through this, sometimes painfully slow and methodical, web project planning process – how does it help you?
 
 Cast your mind back to the advantages of planning defined in Part 1 of this article and see how this approach has satisfied each point:
@@ -622,7 +546,6 @@ Secure the necessary resource
 Easy to identify using an easily updateable schedule
 Being able to manage these fundamental web project management factors greatly increases your chances of delivering on budget and on time without having to compromise on quality which equals happy you and happy client!
 
-IN SUMMARY
 When working in a busy environment, as either a web agency team member or as a freelancer, where delivery is what gets you paid, justifying a non-production / non-billable day or two to plan the project is pretty hard to do. Some people know it should be done and just can’t carve out the time, others don’t really believe planning in that much detail is necessary.
 
 Those that can’t find the time should probably try to track the time they spend during their projects working on tasks that they wouldn’t have to if they had planned first – usually this time is much greater than the time it would’ve taken to plan.
@@ -640,6 +563,94 @@ To the web project managers out there, some of the advantages and methods descri
 But primarily I hope it shows that planning a web project is not a dark art that should only be tackled by dedicated web project managers, it’s something anyone can do as long as you can mentally envisage the project from start to finish…
 
 The real dark art is actually being able to determine the appropriate level of planning that should be undertaken for each project and then managing the project to that plan once in full swing!
+
+## Delivery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
