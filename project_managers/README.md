@@ -427,6 +427,36 @@ They will ultimately depend on implementation details - what technology you're u
 
 ### Setting Scope, Identifying Risks, and Assiging Tasks
 
+DEFINING SCOPE, IDENTIFYING RISKS AND GRANULAR PROJECT TASKS
+If you estimated the web project using a method similar to the one I described in my Estimating Time for Web Projects more accurately series you already have a head start as you have a complete breakdown of all the design and functional requirements, along with timescales. If not, don’t panic, you can retro fit the method based on the budget and deadline as follows:
+
+Speak at length with the client and break the project down into all design and functional requirements, getting as granular as possible for both
+Document any assumptions you have to make about the project due to lack of information e.g. the client will perform all content entry and provide all images
+Estimate times for all tasks and see how the totals match with the budget and deadline.
+If your estimates put you over on both, begin to work with the client to agree on dropping or simplifying design and features until you are both happy
+Enter the agreed tasks and times into your time tracking tool
+By going through this initial exercise with the client you have immediately gained a great deal of control over your project before you’ve even thought about starting that all important homepage design by:
+
+Defining the project scope, at a high-level, allowing you to manage any scope creep throughout by being able to identify any feature requests as ‘new’ by it not being present in the task list
+Identified some of the project risks in terms of features that are complex
+Broken the project down into granular tasks, knowing how long you have to complete each one
+Now you have all of this defined information you can continue with the web project planning process, starting with the project schedule.
+
+### Timing & Deadlines
+
+PRODUCING A PROJECT SCHEDULE
+Using the agreed estimated times and deadline you can now produce a project schedule. Using a simple, free and open-source tool like Planner; define your web project start date, enter all of the project tasks you have identified, with the exact amount of time allowed for each. PM tools like Planner will automatically assign each task with a start and end date.
+
+Screenshot of Planner - a great free and open-source project management tool.Planner: Create a project schedule & even export as HTML
+One of the advantages of using a tool that allows you to produce a GANTT chart, with start and end dates for phases and tasks, is that you can add:
+
+Client tasks
+Revision time
+Dependencies
+Lag
+Resource allocation
+Project milestones
+Dependencies? Lag? Ewww, web project management waffle! But even if you don’t plan your web projects thoroughly you will need to deal with all the above during the project – being prepared for these in advance is the magic!
 
 
 
@@ -509,34 +539,9 @@ They will ultimately depend on implementation details - what technology you're u
 
 
 
-DEFINING SCOPE, IDENTIFYING RISKS AND GRANULAR PROJECT TASKS
-If you estimated the web project using a method similar to the one I described in my Estimating Time for Web Projects more accurately series you already have a head start as you have a complete breakdown of all the design and functional requirements, along with timescales. If not, don’t panic, you can retro fit the method based on the budget and deadline as follows:
 
-Speak at length with the client and break the project down into all design and functional requirements, getting as granular as possible for both
-Document any assumptions you have to make about the project due to lack of information e.g. the client will perform all content entry and provide all images
-Estimate times for all tasks and see how the totals match with the budget and deadline.
-If your estimates put you over on both, begin to work with the client to agree on dropping or simplifying design and features until you are both happy
-Enter the agreed tasks and times into your time tracking tool
-By going through this initial exercise with the client you have immediately gained a great deal of control over your project before you’ve even thought about starting that all important homepage design by:
 
-Defining the project scope, at a high-level, allowing you to manage any scope creep throughout by being able to identify any feature requests as ‘new’ by it not being present in the task list
-Identified some of the project risks in terms of features that are complex
-Broken the project down into granular tasks, knowing how long you have to complete each one
-Now you have all of this defined information you can continue with the web project planning process, starting with the project schedule.
 
-PRODUCING A PROJECT SCHEDULE
-Using the agreed estimated times and deadline you can now produce a project schedule. Using a simple, free and open-source tool like Planner; define your web project start date, enter all of the project tasks you have identified, with the exact amount of time allowed for each. PM tools like Planner will automatically assign each task with a start and end date.
-
-Screenshot of Planner - a great free and open-source project management tool.Planner: Create a project schedule & even export as HTML
-One of the advantages of using a tool that allows you to produce a GANTT chart, with start and end dates for phases and tasks, is that you can add:
-
-Client tasks
-Revision time
-Dependencies
-Lag
-Resource allocation
-Project milestones
-Dependencies? Lag? Ewww, web project management waffle! But even if you don’t plan your web projects thoroughly you will need to deal with all the above during the project – being prepared for these in advance is the magic!
 
 CLIENT TASKS AND REVISION TIME
 One thing your granular project breakdown will often not include, because it’s not something you need to estimate on in order to produce a quote, is the tasks the client must complete throughout the project and the revision mini-stages you have to expect to go through before sign-off of any phase or task. At this stage you need to include them, not only for your sake but also the clients’.
