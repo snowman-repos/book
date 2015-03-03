@@ -378,13 +378,7 @@ As much as you want to create and maintain a great plan, you may simply not have
 
 As the old saying goes, time is money. When quoting the cost for a new project you may have to put in more effort justifying the time needed for planning because it doesn't directly produce deliverables that the client or projects owner values. They want a website or app, not a 50 page PDF document; the plan is for your team's internal use, so why should they be paying for it? Project management likely takes between 10-20% of the total time that it takes to put the project together, much of it planning. You'll need to ensure that budget is available for this before starting. Lack of budget is no excuse for lack of planning. If no budget is available for planning, then you'll probably have to recouperate it from design or development time.
 
-Maybe you're a small agency or solitary freelancer and your project scopes and budgets are so small and simple that you don't deem planning necessary.
-
----
-*******************************************
-**something else here**
-*******************************************
----
+Maybe you're a small agency or solitary freelancer and your project scopes and budgets are so small and simple that you don't deem planning necessary. But the more you do it the quicker and easier it will become. For smaller projects it's even easier because you have less to focus on. And focus is the key - a good plan that you can share with all stakeholders not only looks professional but keeps everyone focused on the goals and what they need to do.
 
 Not everyone can put together good plans. Effective planning is an acquired skill. Being at the point of starting any plan is a daunting feeling no matter how experienced you are or how many books and articles you've read. Experience is always the most valuable commodity when refining any skill. Lack of it, however, is never an excuse to dismiss planning as a waste of time or not worth the effort. You may still manage to keep your boss and your clients happy with the work you deliver despite not putting together detailed plans; you'll still get paid. It's like cooking. You could buy a packet that you just add to the pan and heat up or you could buy all the ingredients and make the dish from scratch. You've been told making it from scratch will yield much better results. You may even believe this. But it's a lot of extra effort, probably costs more, and will only yield better results than the convenient packet if you know what you're doing and have cooking experience. Eventually though, after you've cooked the dish many times, you will be able to put it together quickly, easily, and will enjoy it much more. If you invite people to try it, they will notice the difference between the packet and the home-cooked version, and they will be impressed with your efforts.
 
@@ -514,11 +508,7 @@ KPIs can also serve as a boundary to client requests for features that are out o
 
 
 
-Ok, so the above scenario is a little exaggerated to illustrate the point, but I challenge anyone, and I include myself, to deny they’ve ever found themselves in a similar situation with a web project, I know I have and no doubt will again!
 
-The web project planning processes described below are not intended to the be a definitive set of web project management techniques that align with the classic project management methodologies, but a stripped down version that I personally find practical on a day to day basis when trying to juggle the realistic amount of work and lack of time we all have.
-
-For the freelancer this may seem all a bit too much to consider doing, but I can assure you, once you get to grips with it you can knock out all of the processes in a solid day or two for projects ranging from small to medium and it will inevitably save you a lot more days in the long run!
 
 DEFINING SCOPE, IDENTIFYING RISKS AND GRANULAR PROJECT TASKS
 If you estimated the web project using a method similar to the one I described in my Estimating Time for Web Projects more accurately series you already have a head start as you have a complete breakdown of all the design and functional requirements, along with timescales. If not, don’t panic, you can retro fit the method based on the budget and deadline as follows:
