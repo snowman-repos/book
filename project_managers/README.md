@@ -390,6 +390,15 @@ To a large degree, your success with either approach will depend on your persona
 
 A safer approach may be to try and prevent fires _before_ they start. It may be less glamourous but also less damaging. Someone who takes this more measured approach is probably has more time and fewer projects on thier hands, is more experienced, has a fear of emergencies and unnecessary risk. Maybe they even enjoy meticulous planning and have had success with it before.
 
+Which approach is better is largely irrelevant as it's beyond your control. You can't change your personality. Likewise, especially in smaller teams or agencies, you are just going to have to skip all or most of the all-important planning phase due to time constraints and suchlike. You know it's bad but you don't have an option. You can only take comfort in knowing that the more blazes you have to battle, the better you will be come at reducing them to smouldering embers. You may be able to rely on having a placid client or a stellar team and that will go a long way towards helping you produce a great end result. But the minute something goes wrong and you lose control, you're going to struggle reigning the project in when you have poor documentation, ambiguous or non-existent scope definition, and unclear sign-offs. The more organised, detailed planning approach at least offers you more consistency. You'll become accustomed to what kind of problems occur at what stages and you'll be better prepared to comprehensively deal with them. Without a detailed plan you also have no recourse when facing angry clients. Armed with a plan, you can clearly point out the how, when, who, what, and why when things inevitably go wrong, allowing the client to understand and accept the situation. Essentially, there's no guaranteed way to project success. There will always be unforseen problems which you may be able to pre-empt or prepare for, or may not. What you can guarantee is that the probability of success is much higher, and the risk much lower, when you have a plan and you stick to it.
+
+
+
+
+
+
+
+
 
 
 
@@ -480,44 +489,16 @@ KPIs can also serve as a boundary to client requests for features that are out o
 
 
 
-SO WHAT’S THE BEST PERSONALITY FOR WEB PROJECT PLANNING?
-Well first of all it should be said that although I have discussed two different web project planning personality types, it doesn’t necessarily mean one person can only adopt one personality throughout the many projects they plan.
 
-As a web project manager in a small agency, or as a freelancer, working to tight deadlines and on too many projects at once will inevitably lead to you at some stage having to skip the detailed planning phase. You know it’s wrong, you know it is bound to cause problems and lost time and money down the road but the reality is the project must start now! Other times you will be lucky enough, or choose to spend an evening or weekend, to have the time to plan a project in detail.
 
-So what happens when you have to be, or are by default, a Fire Fighter? Why do those projects sometimes go well?
 
-WHY FIRE FIGHTING SOMETIMES WORKS
-As I mentioned previously, despite going against all I know to be good and true on this earth, occasionally I will see a Fire Fighter bring a project in on time and on budget and I always ask myself, how? From what I’ve seen the answer is more often by luck, with a hint of experience of running projects this way.
 
-If you get the right project, with the right budget, right team, a good client and have many years experience of diving in and just starting on design or development, you could very well bring that project home with a gold star – it happens.
 
-However, if even one of those variables isn’t present, you could really get caught out the minute something goes wrong and cause yourself and your team a whole load of stress… this is when the methodical and thorough planning of a Forest Ranger really proves valuable.
 
-CONSISTENCY IS KEY
-Although Fire Fighters can bring some projects in on time and on budget, others will spiral horribly out of control, and when it does, reeling it back in to a controlled state can be a nightmare because usually there has been little documentation, ambiguous or non-existent scope definition and unclear phase sign-offs.
 
-Being a Forest Ranger by no means guarantees project success, but over time it tends to prove more stress free and consistent because many of the problems encountered along the way, and there will always be several, can be addressed quickly, comprehensively and with complete confidence.
 
-If a Fire Fighter’s project is going over budget or running late and there has been no defined scope sign-off or project schedule, the client is well within their rights to question why and become rather unpleasant. If the same thing begins to happen in a Forest Ranger’s project, he or she, can point to how, who, what, why and when with absolute conviction – in most cases, with the full facts presented to them, a client will generally accept the situation and either compromise or provide additional funding.
 
-Over time, a Forest Ranger’s consistent form of web project planning and management will produce consistent results when compared to that of a Fire Fighter.
 
-There’s no way to completely guarantee success on a project. There are always issues that arise and sometimes even the tightest control and the best communication, management and resources can’t ensure success. But the probability of success is exponentially higher with well-documented and utilized Project Management processes in place.
-Brad Egeland, What if.. There was No Project Management? – Revisited
-
-THE PLANNING PERSONALITY HIERARCHAL TRUTH
-Perhaps some Fire Fighters out there are reading this article and thinking “Oh be quiet thesambarnes you little midget, I don’t bother with the kind of planning you mention and I’m still in business!”
-
-To this I say well done, you’ve been very lucky and long may you prosper, but I would offer the following response to you as the final piece of evidence that the Fire Fighting approach is always the second choice and thus by definition the most vulnerable…
-
-I can absolutely guarantee each and every person that considers themselves a Forest Ranger at heart, and works in a small web agency or as a freelancer, has adopted the Fire Fighter approach on several projects during their career.
-
-What’s interesting about this is I think the number of Fire Fighters who could honestly say they’ve adopted, and stuck to for a whole project, the Forest Ranger approach for even one project is significantly smaller – thus the following hierarchy is formed with regards to web project planning and management:
-
-If you have the skills, experience and time to implement, the most effective, efficient and solid web project management approach is that of the Forest Ranger
-If you do not have the skills, experience or time available to implement the Forest Ranger approach, the fall back is to adopt the Fire Fighter role and just get the job done as best you can
-I would be open to hear any challenges on this, and change my opinion accordingly, but without a convincing challenge I think this role reversal comparison, and truth that Fire Fighting, although occasionally successful, happens when a crucial skill or variable is lacking from a web project manger’s toolkit, ultimately places the two approaches in a hierarchal order rather than on a level footing.
 
 
 
