@@ -374,7 +374,8 @@ This all sounds totally obvious to you now, right? But as you're surely aware, d
 
 As much as you want to create and maintain a great plan, you may simply not have time. A good plan may take more than a day. It may take a week, or more. Massive projects demand massive planning. Perhaps you're juggling multiple projects at the same time and you can't devote all your time every day to this master plan. It will seem like your planning time is stalling everything else; your content person or designer might be idly waiting. More time = more cost. Ideally, you might argue that a good plan always saves time and money in the long run, but depending on the project this might not always be the case. You may need to break down the planning itself into smaller, more manageable chunks, just enough to give you a detailed and immediate overview of the tasks at hand.
 
-Not everyone can put together good plans. Effective planning is an acquired skill. 
+Not everyone can put together good plans. Effective planning is an acquired skill. Being at the point of starting any plan is a daunting feeling no matter how experienced you are or how many books and articles you've read. Experience is always the most valuable commodity when 
+
 
 
 
