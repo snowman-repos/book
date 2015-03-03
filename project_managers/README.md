@@ -374,19 +374,12 @@ This all sounds totally obvious to you now, right? But as you're surely aware, d
 
 As much as you want to create and maintain a great plan, you may simply not have time. A good plan may take more than a day. It may take a week, or more. Massive projects demand massive planning. Perhaps you're juggling multiple projects at the same time and you can't devote all your time every day to this master plan. It will seem like your planning time is stalling everything else; your content person or designer might be idly waiting. More time = more cost. Ideally, you might argue that a good plan always saves time and money in the long run, but depending on the project this might not always be the case. You may need to break down the planning itself into smaller, more manageable chunks, just enough to give you a detailed and immediate overview of the tasks at hand.
 
-Not everyone can put together good plans. Effective planning is an acquired skill. Being at the point of starting any plan is a daunting feeling no matter how experienced you are or how many books and articles you've read. Experience is always the most valuable commodity when 
+Not everyone can put together good plans. Effective planning is an acquired skill. Being at the point of starting any plan is a daunting feeling no matter how experienced you are or how many books and articles you've read. Experience is always the most valuable commodity when refining any skill. Lack of it, however, is never an excuse to dismiss planning as a waste of time.
 
 
 
 
 
-
-
-Project planning is not as easy as it looks, I personally didn’t realise this until I had to do it, and despite planning many projects still don’t feel I’m a Jedi-level web project planner. Sure I’d read some books and a whole heap of articles and tutorials, but the reality is like anything, you learn on the job and from your mistakes. Likewise, as with anything else, experience is the most valuable commodity with refining any skill.
-
-The truth is many small agencies and freelancers do not yet possess the skills to confidently plan a web project in its entirety. While I can only implore both to start learning, I do however feel this reason is often used as an excuse to dismiss web project planning as a “waste of time” (I really have heard this said with my own, rather large, ears. I swear I almost fainted).
-
-But I can empathise with this attitude… let’s use an obvious analogy to explain – homemade curry.
 
 I like a curry as much as the next person, I also like to cook. I’m told making a curry from scratch is ten times better than a takeaway or using a bottled sauce. Every part of me knows this must be true and yet I don’t make one from scratch myself, why? Because it’s just not worth it… the bottled sauce is fine and tastes good – at least that’s what I tell myself and others. The truth is, to me, making a curry from scratch requires a lot of fiddling takes ages and looks really complex regardless of the rewards of a homemade one.
 
