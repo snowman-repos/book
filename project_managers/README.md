@@ -384,7 +384,9 @@ Sometimes, a plan just fails entirely. Nothing goes as planned and you end up pu
 
 Another reason why planning is often lacklustre or skipped entirely is the sad fact that planning isn't always fun. Some people like it, while others hate it. Sometimes you might just not be in the mood. If you really don't feel like it then there's no really good advice other than to try and change the way you plan to make it more enjoyable and rewarding. If you come out on the other side of a project knowing that your plan helped and made your life easier, if everything “went to plan”, then you'll surely be rewarded with the smug feeling of success. If you really can't find a way to make planning enjoyable, even tolerable, then sorry... it's just something you're going to have to do. You might want to try hacking your brain to associate it with something positive, some other reward? On days you allocate to planning, ignore all your emails, cancel your meetings, setup an isolated room, make it comfy, and play your favourite music, and get your favourite snacks. Soon you'll start looking forward to planning days.
 
+If you've worked with other managers before, you'll be aware that there are different kinds of planning personalities. There are those who don't enjoy detailed planning and dive straight into production. They are up and running quickly and solve problems in an ad-hoc fashion, as and when they arise. On the other hand there are those who start slowly, meticulously planning every step along the way, slowly gaining momentum, ensuring every task is completed successfully before moving on. The hare and the tortoise, so to speak.
 
+To a large degree, your success with either approach will depend on your personality and on your team. The hard, fast, slap-dash approach may seem crazy but people do manage to pull it off, producing a successful project on time, on budget, and to a high standard of quality.
 
 
 
@@ -463,19 +465,10 @@ KPIs can also serve as a boundary to client requests for features that are out o
 
 
 
-you get two types of people when it comes to planning:
-
-Someone who doesn’t enjoy planning and just dives straight into production. These people will get started quickly and will reach the finishing line after solving many challenges as and when they arise in an ad hoc fashion 
-
-Someone who will start slowly, meticulously planning every step from start to finish and although will gain momentum more slowly, will usually complete the task correctly first time round
 
 
 
-This planning personality quote fascinated me so much because my initial reaction was that the person who just dives in is clearly a little mental if they think they can successfully bring a project in on time, on budget and to a high quality by taking this approach.
 
-But soon after hearing this quote it dawned on me that, web project management ideals aside, and speaking from the reality of running web projects in a small web agency or as a freelancer, I’ve seen it done, and not just once but on several projects at several companies.
-
-So what does this mean? That you can plan and run web projects using either approach? Using quotes from Karine’s article, let’s take a closer look at the reasons why both web project management personalities/approaches are adopted when put in context of the frantic pace and environment we all work in today…
 
 THE FIRE FIGHTER
 Fire fighting is a management style not only used by project managers. When someone spends all their time putting out fires, they look very busy, and they have a great sense of purpose.
