@@ -400,38 +400,7 @@ Earlier we talked about the KPIs for your role. When it comes to planning projec
 
 The client manager's original proposal, or sometimes even documentation from the client, should detail the business goals and/or KPIs. In your role you have to analyse and challenge these where necessary to ensure they are realistic, measurable, and provide sufficient context. For the most part, the KPIs listed in your plan will be the same. Where they explicitly impact production, for instance when making demands on performance, technologies, platforms and so on, those KPIs should be expanded and explained in more detail where possible to provide clarity for your team.
 
-
-
-
-
-
-FACTORS TO CONSIDER WHEN CAPTURING AND MEASURING KPIS
-Another factor to take into consideration when defining and capturing KPIs is what the client’s business activity is that time that could impact any of the metrics collected both before and after launch.
-
-For example, if a KPI was to increase traffic by 5%, a ‘before’ figure would be collected that gave the current traffic over a defined period, let’s say three months. Post-launch, the ‘after’ figure would be collected for the same time duration and the comparison made. But using just this one example could possibly result in skewed results if any of the following are true:
-
-When the ‘before’ metric was taken the client had just implemented a print marketing campaign
-PPC/SEM was being conducted and now is not
-The ‘after’ metric is taken over a period of time when several national holidays occur
-A new competitor arises on the scene before project completion
-There are many factors that should be taken into considering when capturing and measuring web project KPIs. It is impossible to predict the future, but by conducting research into any external factors increases the chance of being able to produce the most equally weighted comparative metrics and thus the purest measurement for a KPI and the project’s success.
-
-
-
-
-
-- scope, risks, and tasks
-- timing and deadlines
-- roles and responsibilities
-- communication & workflow
-- delivery
-
-
-
-
-
-
-
+KPIs have to be carefully considered. As an example, imagine you're asked to increase website traffic by 10%. You record the average traffic on the current website over a fixed length period. Post-launch, you monitor the traffic for the same length of time. Compare the two and you should know what percentage improvement you've achieved, right? But what if the client had run a marketing campaign while you were gathering pre-launch metrics and it had skewed the data? Or if a new competitor launches around the same time, impacting a fair comparison of post-launch metrics? There are many business factors that should be taken into consideration when formulating KPIs. With a little research you should increase the chance of being able to produce equally rated comparative metrics.
 
 
 
@@ -454,6 +423,28 @@ Defining realistic and measurable web project KPIs, and keeping them at the fore
 But sales aside, KPIs are good for web agencies because they ensure all teams remain focussed on the business problems that need solving as opposed to the latest techniques or technologies. Yes a web agency must keep up to date with all of the latest trends to remain competitive, but cultivating an entire team to become primarily business focussed is by far more valuable to an agency in the long-run than any use of cutting edge technologies as that team will consistently be delivering business value to clients and this only ever increases agency team morale.
 
 KPIs can also serve as a boundary to client requests for features that are out of scope. In this instance, with KPIs defined, a web project manager can, with all sincerity, ask which KPI this relates too. More often than not, the answer will be none and in one swift move you have not only protected the project’s scope but kept the client focussed on their business’s primary aims and saved them money.
+
+
+
+- scope, risks, and tasks
+- timing and deadlines
+- roles and responsibilities
+- communication & workflow
+- delivery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
