@@ -361,33 +361,19 @@ Arrogance is something we've all encountered in this industry, and probably some
 
 Incompetence is an easily thrown accusation, particularly between designers and developers. A designer might blame a developer for not fully implementing their original vision, or a developer might get irritated with a designer for handing off disorganised and unrealistic mockups with overly complicated layouts. These situations arise, of course, due to lack of communication and short timelines, but also sometimes it's due to genuine incompetence and that's where you have to step in to address it. Sometimes, for whatever reason, people just don't do their work properly. You could allow the slagging match to continue, you might even be tempted to take sides, but that's obviously only going to exacerbate the situation. Instead we need to find a positive way to solve the problem. You'll be the mediator, resetting the tone of the conversation and having all parties involved in a clear, informal, and open discussion about how to resolve the problem. Can we simplify the layout? Can we allow more time for development and testing? How do we avoid this problem in the future? You'll hopefully notice how surprisingly easy it is to turn the tone from a spiteful one to a positive and constructive one, allowing for mutual empathy.
 
-Another common cause for internal squabbling is when the team members aren't given a clear overall picture of the project, along with its business goals and limitations. A good developer will want full feature testing, accessibility testing, security testing, user testing, the works. But in many cases there just may not be the time or the budget. Skipping such steps, that they deem important, without explaining to them the reasons conveys the message that you don't care about quality or standards, and they will find your decisions loathesome. It's simply not the case that your team can't understand or isn't interested in the business decisions. They too may be on career paths that will someday put them in the position of making the difficult decisions that now burden you. If you can find a way to communicate the business decisions to them then you'll make them care about the business decisions as much as you do and will appreciate that sometimes they will have to put together dirty hacks. Hopefully you'll be able to learn from those times and allow more time and budget for standards complicance in future projects.
+Another common cause for internal squabbling is when the team members aren't given a clear overall picture of the project, along with its business goals and limitations. A good developer will want full feature testing, accessibility testing, security testing, user testing, the works. But in many cases there just may not be the time or the budget. Skipping such steps, that they deem important, without explaining to them the reasons conveys the message that you don't care about quality or standards, and they will find your decisions loathesome. It's simply not the case that your team can't understand or isn't interested in the business decisions. They too may be on career paths that will someday put them in the position of making the difficult decisions that now burden you. If you can find a way to communicate the business decisions to them then you'll make them care about the business decisions as much as you do and will appreciate that sometimes they will have to put together dirty hacks. Hopefully you'll be able to learn from those times and allow more time and budget for standards compliance in future projects.
 
-
-
-
-
-While there are many more common issues experienced within digital teams, the main points I wanted to get across are that as a Web Project Manager you should see it as your responsibility to try and resolve any issues that are causing problems with your web projects.
-
-Please do not immediately go bleating to your manager or colleagues about these issues, first try and resolve them yourself.
-
-Running to your manager each time not only puts more on their already busy plates, but it also loses you massive respect points from your team, the very people you’re meant to be leading and keeping motivated to work for you – the manager route should be your last point of call, not first.
-
-A photograph of Lego figures in a parody set from the movie Office SpaceWeb Project Managers should never run to Lumbergh
-Always start by being empathetic to Jedi levels when any issues arise. So often I see in-house fighting between two parties that turns nasty when all along both just wanted to do what they saw as the right thing – stop it before it turns nasty by genuinely (not falsely) listening and understanding the reasons for the feelings – a powerful weapon in the Web Project Manager’s arsenal is the ability to empathise where others cannot.
-
-Make sure to resolve each conflict with education. This education could take many forms, be it on the skills front or business angle, but make sure that by the end of it all parties involved have a heightened awareness to the feelings of others and increased knowledge on how to avoid it next time.
-
-
-
-
-
-
-
-
-
+Finally, no matter what the cause of the conflict is, try and resolve it yourself first. You should never feel the need to escalate the issue to your boss or manager. This will only add to their stress and decrease your value to them, as well as setting a poor example to your production team, whom you should keep leading and motivating. Education in skills, business, increased knowledge, and heightened awareness are your tools here. As we've talked about many in times in this chapter already, it begins with empathy - understanding the problem from all sides, listening to any and all grievances, and then finding common ground to keep the project moving forward before conflicts turn nasty and become irreprably damaging to the current project and to to future ones.
 
 ## Make a Plan
+
+So far in this chapter we've mostly covered what it takes to be a successful web project manager, or indeed any manager, the personality traits and the social challenges. Now let's get into the fun stuff - the actual tasks your role covers and how to best perform them. Here is where it starts - planning. Meticulous, hair-raising, sweat-inducing planning.
+
+
+
+
+
+
 
 WHO SHOULD DEFINE KPIS
 It is important to specify who should create the web project’s KPIs? Usually the client will give you the KPIs but it is the web agency’s role to analyse and challenge these where necessary to ensure they are realistic, measurable and placed in the correct context e.g. if a KPI is given to as “appear on page one of Google” without the context of which keywords to appear on page one for, the KPI could be achieved by getting the client to number one for their domain name, brilliant.
