@@ -368,6 +368,8 @@ Now though let's get into the fun stuff - the actual tasks your individual role 
 
 The web is as littered with articles about project management planning as library shelves are stuffed with books on the topic. Each one stuffed with corporate jargon and calling for specific methodologies that must be strictly followed lest the world cave in on you. They make different assumptions about how much time you have or what sort of team you're working with. The realty is that every project and every team is different. A PMP qualification isn't necessarily going to get you anywhere. There are no hard and fast rules and so we shalln't be covering such rules here. Instead we'll try to be more general, talking about things you need to think about when devising your own system.
 
+Web project managers should get into the habit of thorough planning so as to make it a repeatable and reliable process for every project. Skills learned in doing so are entirely transferrable to other roles too. Thorough planning is especially important for freelancers and smaller agencies, where there is less room for error as mistakes could have a bigger impact on the overall business. The industry is moving quickly and is reaching a level of maturity that necessitates professional management processes to ensure quality that stands-out among ever-increasing competition. Clients are becoming more web savvy and capable of judging the professionalism, competence, and consistency of a production team.
+
 Why do we even bother planning? We have a team of experts to hand. Sit a designer down in front of a blank canvas with some content, and a developer with a code editor, a functional spec. and a styleguide, give them a few weeks and all we be good right? Project planning, or the lack of it, can lead to extremely different results. By planning well we're able to clearly define and manage the project scope, identify and minise risks, and break the allocated time into manageable chunks and tasks. We can determine reaslistic milestones, track progress, maintain control, and secure resources.
 
 This all sounds totally obvious to you now, right? But as you're surely aware, detailed and effective planning that covers all of these bases is not always done, for varying reasons.
@@ -380,11 +382,20 @@ Not everyone can put together good plans. Effective planning is an acquired skil
 
 Sometimes planning might actually just over-complicate things. Plans that are long, boring, filled with waffle or unnecessary detail may be ignored or not fully absorbed. Overly detailed plans that demand updating GANTT charts every few hours or wireframing nearly empty pages may be unrealstic to stick to at best, or at worst just a waste of time. Sometimes you just need to get stuck in and start doing rather than just planning. You have to assess for each project the level of detail required and the when you should update the schedule to perform crucial tasks. Remember that the goal is to maintain control over the project, so you'll need to be flexible enough to know when to plan and when to do.
 
-Finally, planning isn't always fun. Some people like it, while others hate it. If you're one of the latter, there's no really good advice other than to try and change the way you plan to make it more enjoyable and rewarding. If you come out on the other side of a project knowing that your plan helped and made your life easier, if everything “went to plan”, then you'll surely be rewarded with the smug feeling of success. If you really can't find a way to make planning enjoyable, even tolerable, then sorry... it's just something you're going to have to do. You might want to try hacking your brain to associate it with something positive? On days you allocate to planning, ignore all your emails, cancel your meetings, setup an isolated room, make it comfy, and play your favourite music, and get your favourite snacks. Soon you'll start looking forward to planning days.
+Another reason why planning is often lacklustre or skipped entirely is the sad fact that planning isn't always fun. Some people like it, while others hate it. Sometimes you might just not be in the mood. If you really don't feel like it then there's no really good advice other than to try and change the way you plan to make it more enjoyable and rewarding. If you come out on the other side of a project knowing that your plan helped and made your life easier, if everything “went to plan”, then you'll surely be rewarded with the smug feeling of success. If you really can't find a way to make planning enjoyable, even tolerable, then sorry... it's just something you're going to have to do. You might want to try hacking your brain to associate it with something positive? On days you allocate to planning, ignore all your emails, cancel your meetings, setup an isolated room, make it comfy, and play your favourite music, and get your favourite snacks. Soon you'll start looking forward to planning days.
 
 
 
 
+
+
+
+
+- kpis
+- timing and deadlines
+- roles and responsibilities
+- communication & workflow
+- delivery
 
 
 
@@ -453,18 +464,6 @@ KPIs can also serve as a boundary to client requests for features that are out o
 
 
 
-WHY SMALL WEB AGENCIES AND FREELANCERS SHOULD PLAN THOROUGHLY
-Major reasons small web agencies and freelancers should get into the habit of planning web projects thoroughly is so they can begin to develop some repeatable processes that they can rely on for every project, or even apply the skills and techniques to parts of their projects if full planning is just not possible.
-
-If anything, I believe web project planning, in some respects, is more important to a small agency or freelancer because there is less room for mistakes given most are in a constant state of survival mode. Yes a corporate web project needs planning, but a mistake is less likely to put them out of business! In our world, and as I’ve said in previous articles, one or two whoppers of mistakes can mean the end of a business…
-
-Melodrama aside, I believe it’s time for small web agencies and freelancers to up their game on the web project management side of things.
-
-We are maturing as an industry at a rapid rate and I believe the days of fumbling our way through projects in our small offices or bedrooms are coming to an end.
-
-We live in an age where clients are becoming more web savvy and quick to spot a disorganised supplier, and where they are more likely to hire, or work with again with, an agency or freelancer who can demonstrate a certain level of professionalism, competence and consistency when it comes to planning and running their projects.
-
-In Part 2 of this article I will describe the two types of people that plan/manage web projects and the advantages and disadvantages of both, and in Part 3 I will go into more detail about the techniques and tools I use when planning web projects… stay tuned.
 
 PLANNING PERSONALITIES
 I often come across both web agencies and freelancers who consistently do not plan their web projects, and no matter how many times the same mistakes are made, they continue to push ahead using the same techniques. Once upon a time I put this down to sheer naivety, but I’ve come to realise it’s not naivety at all, it’s just that people responsible for running web projects and web project management are very different (not sure it should have taken me so long to realise this!)
@@ -552,6 +551,13 @@ What’s interesting about this is I think the number of Fire Fighters who could
 If you have the skills, experience and time to implement, the most effective, efficient and solid web project management approach is that of the Forest Ranger
 If you do not have the skills, experience or time available to implement the Forest Ranger approach, the fall back is to adopt the Fire Fighter role and just get the job done as best you can
 I would be open to hear any challenges on this, and change my opinion accordingly, but without a convincing challenge I think this role reversal comparison, and truth that Fire Fighting, although occasionally successful, happens when a crucial skill or variable is lacking from a web project manger’s toolkit, ultimately places the two approaches in a hierarchal order rather than on a level footing.
+
+
+
+
+
+
+
 
 EXAMPLE SMALL WEBSITE BRIEF
 Let’s take the following common brief to a small agency or freelancer as our example scenario.
