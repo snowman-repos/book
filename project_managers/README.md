@@ -370,15 +370,35 @@ The web is as littered with articles about project management planning as librar
 
 Why do we even bother planning? We have a team of experts to hand. Sit a designer down in front of a blank canvas with some content, and a developer with a code editor, a functional spec. and a styleguide, give them a few weeks and all we be good right? Project planning, or the lack of it, can lead to extremely different results. By planning well we're able to clearly define and manage the project scope, identify and minise risks, and break the allocated time into manageable chunks and tasks. We can determine reaslistic milestones, track progress, maintain control, and secure resources.
 
+This all sounds totally obvious to you now, right? But as you're surely aware, detailed and effective planning that covers all of these bases is not always done, for varying reasons.
+
+As much as you want to create and maintain a great plan, you may simply not have time. A good plan may take more than a day. It may take a week, or more. Massive projects demand massive planning. Perhaps you're juggling multiple projects at the same time and you can't devote all your time every day to this master plan. It will seem like your planning time is stalling everything else; your content person or designer might be idly waiting. More time = more cost. Ideally, you might argue that a good plan always saves time and money in the long run, but depending on the project this might not always be the case. You may need to break down the planning itself into smaller, more manageable chunks, just enough to give you a detailed and immediate overview of the tasks at hand.
+
+Not everyone can put together good plans. Effective planning is an acquired skill. 
+
+
+
+
+
+
+Project planning is not as easy as it looks, I personally didn’t realise this until I had to do it, and despite planning many projects still don’t feel I’m a Jedi-level web project planner. Sure I’d read some books and a whole heap of articles and tutorials, but the reality is like anything, you learn on the job and from your mistakes. Likewise, as with anything else, experience is the most valuable commodity with refining any skill.
+
+The truth is many small agencies and freelancers do not yet possess the skills to confidently plan a web project in its entirety. While I can only implore both to start learning, I do however feel this reason is often used as an excuse to dismiss web project planning as a “waste of time” (I really have heard this said with my own, rather large, ears. I swear I almost fainted).
+
+But I can empathise with this attitude… let’s use an obvious analogy to explain – homemade curry.
+
+I like a curry as much as the next person, I also like to cook. I’m told making a curry from scratch is ten times better than a takeaway or using a bottled sauce. Every part of me knows this must be true and yet I don’t make one from scratch myself, why? Because it’s just not worth it… the bottled sauce is fine and tastes good – at least that’s what I tell myself and others. The truth is, to me, making a curry from scratch requires a lot of fiddling takes ages and looks really complex regardless of the rewards of a homemade one.
+
+To the uninitiated used to not planning web projects, yet happily making a living, it can seem a little daunting to contemplate starting to plan using any processes given the stigma processes carry of being slow. Like with my curry, any new skill being used for the first few times will add a significant amount of time to the process you’re used to, you will make mistakes, perhaps a few horrific ones, but once you’ve mastered it, you’ll be quick, you’ll reap the rewards, see the benefits and wonder why you ever had such a problem with it.
+
+Damn, now I actually want a curry.
+
+
 
 
 
 
 - kpis
-
-
-
-
 
 WHO SHOULD DEFINE KPIS
 It is important to specify who should create the web project’s KPIs? Usually the client will give you the KPIs but it is the web agency’s role to analyse and challenge these where necessary to ensure they are realistic, measurable and placed in the correct context e.g. if a KPI is given to as “appear on page one of Google” without the context of which keywords to appear on page one for, the KPI could be achieved by getting the client to number one for their domain name, brilliant.
@@ -421,38 +441,13 @@ KPIs can also serve as a boundary to client requests for features that are out o
 
 
 
-WHY WEB PROJECT PLANNING IS OFTEN SKIPPED
-It sounds obvious on paper that planning is a necessary and valuable stage of any web project, but the reality of day to day web project management in a small business, or as a freelancer, often makes it difficult to remain disciplined enough to ensure thorough planning is always conducted.
 
-There are many reasons why planning a website project in a small agency, or as a freelancer, is quite different, they include the usual suspects:
 
-Lack of time
-Lack of web project planning skills
-Lack of resource available to plan
-Lack of budget
-The belief planning over complicates
-Web project planning is not fun
-LACK OF TIME
-It takes time to plan a web project, there’s no getting around it. When feeling the time and cash flow pressures, an agency or freelancer does on a daily basis, it can often feel like stalling design and development work in order to plan is just slowing things down too much, adding unnecessary time and cost to the budgets, stopping the project being completed and that essential last 50% payment coming in hitting your bank. The only real questions to ask are: Does it actually slow the project delivery down and add to the budget?
 
-The default answers to these questions are:
 
-“Don’t be silly, of course it doesn’t slow delivery down or add budget, it speeds it up and saves you and the client a load of cash.”
 
-However, at the risk of undermining my own article, I’m going to say it depends… It really does depend on the web project, the web project manager, the web team and the client. In my experience planning has no negative effects but to say you will never bring a project in on budget and on time without planning is a falsehood and I discuss this in the Part 2 of this article (coming soon).
 
-LACK OF WEB PROJECT PLANNING SKILLS
-Project planning is not as easy as it looks, I personally didn’t realise this until I had to do it, and despite planning many projects still don’t feel I’m a Jedi-level web project planner. Sure I’d read some books and a whole heap of articles and tutorials, but the reality is like anything, you learn on the job and from your mistakes. Likewise, as with anything else, experience is the most valuable commodity with refining any skill.
 
-The truth is many small agencies and freelancers do not yet possess the skills to confidently plan a web project in its entirety. While I can only implore both to start learning, I do however feel this reason is often used as an excuse to dismiss web project planning as a “waste of time” (I really have heard this said with my own, rather large, ears. I swear I almost fainted).
-
-But I can empathise with this attitude… let’s use an obvious analogy to explain – homemade curry.
-
-I like a curry as much as the next person, I also like to cook. I’m told making a curry from scratch is ten times better than a takeaway or using a bottled sauce. Every part of me knows this must be true and yet I don’t make one from scratch myself, why? Because it’s just not worth it… the bottled sauce is fine and tastes good – at least that’s what I tell myself and others. The truth is, to me, making a curry from scratch requires a lot of fiddling takes ages and looks really complex regardless of the rewards of a homemade one.
-
-To the uninitiated used to not planning web projects, yet happily making a living, it can seem a little daunting to contemplate starting to plan using any processes given the stigma processes carry of being slow. Like with my curry, any new skill being used for the first few times will add a significant amount of time to the process you’re used to, you will make mistakes, perhaps a few horrific ones, but once you’ve mastered it, you’ll be quick, you’ll reap the rewards, see the benefits and wonder why you ever had such a problem with it.
-
-Damn, now I actually want a curry.
 
 LACK OF RESOURCE AVAILABLE TO PLAN
 As I said before, planning takes time and that is something few of us can say we have in abundance. Even dedicated web project managers are all too often stacked with too many projects and too little time to plan effectively.
