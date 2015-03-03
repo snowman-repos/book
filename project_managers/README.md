@@ -386,7 +386,9 @@ Another reason why planning is often lacklustre or skipped entirely is the sad f
 
 If you've worked with other managers before, you'll be aware that there are different kinds of planning personalities. There are those who don't enjoy detailed planning and dive straight into production. They are up and running quickly and solve problems in an ad-hoc fashion, as and when they arise. On the other hand there are those who start slowly, meticulously planning every step along the way, slowly gaining momentum, ensuring every task is completed successfully before moving on. The hare and the tortoise, so to speak.
 
-To a large degree, your success with either approach will depend on your personality and on your team. The hard, fast, slap-dash approach may seem crazy but people do manage to pull it off, producing a successful project on time, on budget, and to a high standard of quality.
+To a large degree, your success with either approach will depend on your personality and on your team. The hard, fast, slap-dash approach may seem crazy but people do manage to pull it off, producing a successful project on time, on budget, and to a high standard of quality. If you can motivate a higlight skilled team and confidently make snap decisions then why not? Maybe someone who spends all their time putting out fires inherently has a greater sense of purpose? Maybe being so obviously busy acts to motivate the team? Maybe they just feed on the adrenaline? More likely they're just extremely busy people facing the weighty pressures of cash flow, unrealistic and inflexible deadlines, project overload, lack of project management skills and experience, or all of the above.
+
+A safer approach may be to try and prevent fires _before_ they start. It may be less glamourous but also less damaging. Someone who takes this more measured approach is probably has more time and fewer projects on thier hands, is more experienced, has a fear of emergencies and unnecessary risk. Maybe they even enjoy meticulous planning and have had success with it before.
 
 
 
@@ -470,34 +472,14 @@ KPIs can also serve as a boundary to client requests for features that are out o
 
 
 
-THE FIRE FIGHTER
-Fire fighting is a management style not only used by project managers. When someone spends all their time putting out fires, they look very busy, and they have a great sense of purpose.
 
-Although this summary has some truth, I do feel perhaps the article was perhaps written on the back of a bad experience! I say this because although I have met many Fire Fighters, I don’t believe they run web projects in this way in order to look busy or have a sense of purpose.
 
-I believe the reasons some web project managers adopt the fire fighting approach are because they:
 
-Have no time to plan or run a web project due to all sorts of everyday pressures such as cash flow or a large client with un-realistic and inflexible deadlines
-Are suffering from web project overload – responsible for too many projects at a given time
-Have a lack of web project management/planning skills and experience and don’t know any other way
-Enjoy the adrenaline buzz of the unknown during projects
-Don’t enjoy web project planning
-Just want to get on with the production
-Have had successes with the approach before
-THE FOREST RANGER
-While fire fighters are very visible and have a high-risk, dangerous job, forest rangers are just as important: they keep fires from starting in the first place. It’s not as glamorous as fire fighting, but it causes less damage.
 
-I find this quote to also be mostly true, but would emphasise that I believe Forest Rangers have an equally high-risk and dangerous job given they are ultimately just as responsible for web projects as Fire Fighters.
 
-The reasons for taking the Forest Ranger approach are mostly the exact opposite of the reasons for adopting the Fire Fighting role. A Forest Ranger will typically:
 
-Have allocated time per project to plan web projects in detail
-Be responsible for an acceptable amount of web projects at any one time thus not falling victim to project overload
-Come armed with web project planning skills and experience
-Have a strong dislike of project fires and emergencies and a love of predicting and avoiding them in advance
-Enjoy web project planning
-Believe beginning web project production work before planning is a large risk
-Have had successes with the approach before
+
+
 SO WHAT’S THE BEST PERSONALITY FOR WEB PROJECT PLANNING?
 Well first of all it should be said that although I have discussed two different web project planning personality types, it doesn’t necessarily mean one person can only adopt one personality throughout the many projects they plan.
 
