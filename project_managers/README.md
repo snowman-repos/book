@@ -378,6 +378,14 @@ As much as you want to create and maintain a great plan, you may simply not have
 
 As the old saying goes, time is money. When quoting the cost for a new project you may have to put in more effort justifying the time needed for planning because it doesn't directly produce deliverables that the client or projects owner values. They want a website or app, not a 50 page PDF document; the plan is for your team's internal use, so why should they be paying for it? Project management likely takes between 10-20% of the total time that it takes to put the project together, much of it planning. You'll need to ensure that budget is available for this before starting. Lack of budget is no excuse for lack of planning. If no budget is available for planning, then you'll probably have to recouperate it from design or development time.
 
+Maybe you're a small agency or solitary freelancer and your project scopes and budgets are so small and simple that you don't deem planning necessary.
+
+---
+*******************************************
+**something else here**
+*******************************************
+---
+
 Not everyone can put together good plans. Effective planning is an acquired skill. Being at the point of starting any plan is a daunting feeling no matter how experienced you are or how many books and articles you've read. Experience is always the most valuable commodity when refining any skill. Lack of it, however, is never an excuse to dismiss planning as a waste of time or not worth the effort. You may still manage to keep your boss and your clients happy with the work you deliver despite not putting together detailed plans; you'll still get paid. It's like cooking. You could buy a packet that you just add to the pan and heat up or you could buy all the ingredients and make the dish from scratch. You've been told making it from scratch will yield much better results. You may even believe this. But it's a lot of extra effort, probably costs more, and will only yield better results than the convenient packet if you know what you're doing and have cooking experience. Eventually though, after you've cooked the dish many times, you will be able to put it together quickly, easily, and will enjoy it much more. If you invite people to try it, they will notice the difference between the packet and the home-cooked version, and they will be impressed with your efforts.
 
 Sometimes, a plan just fails entirely. Nothing goes as planned and you end up pulling your hair out. This can only put down to bad planning so you'll have to adjust your planning techniques. Other times planning might actually just over-complicate things. Plans that are long, boring, filled with waffle or unnecessary detail may be ignored or not fully absorbed. Overly detailed plans that demand updating GANTT charts every few hours or wireframing nearly empty pages may be unrealstic to stick to at best, or at worst just a waste of time. Sometimes you just need to get stuck in and start doing rather than just planning. You have to assess for each project the level of detail required and the when you should update the schedule to perform crucial tasks. Remember that the goal is to maintain control over the project, so you'll need to be flexible enough to know when to plan and when to do.
@@ -506,30 +514,6 @@ KPIs can also serve as a boundary to client requests for features that are out o
 
 
 
-
-EXAMPLE SMALL WEBSITE BRIEF
-Let’s take the following common brief to a small agency or freelancer as our example scenario.
-
-“Hey web nerdy geek person, I own a one man band catering business. I want a small website so people can find me, view my menus and book my services online. I want to be able to update the website content myself, edit my menus, upload images to the menu gallery and receive orders via e-mail. I’d like to launch in 4 weeks and have a £3000 budget.”
-
-Notice I omitted the requirement to be number one on Google for the keyword “food”. This would clearly cost at least another £1000.
-
-PLANNING? PAH, NO NEED, NO TIME – BORING!
-Ah (I hear you say), a small simple website, could probably get started on designing the homepage straight away, let’s get it on!!!
-
-The truth is, yes, you could dive straight into your sketchbook or Photoshop and get designing, but what will go on the homepage exactly? At this point you could guess based on, what is usually, a slightly woolly set of initial meeting notes. But the reality is you just don’t know and the chances are you will spend time on several revisions of the homepage and it’s widgets until you get the client’s approval.
-
-If you get it right first time then you got lucky or you’re a psychic web designer (If psychic please contact me for immediate employment opportunity).
-
-By diving in and getting the homepage approved by the client you will have used a certain amount of project time, but how much did you have allocated for the homepage design and what date should it have been signed off by in order to remain on track for launch?
-
-If you don’t know the exact answers to these questions your project is already out of control.
-
-Despite this, you press on and get approval for all design, hooray! You begin to start the functional phase of the project only to discover the client wants a rotating banner on the homepage and wants to be able to do a whole host of other things dynamically that when designing you had envisaged being static elements – oh the pain of re-opening the design phase of the project after ‘approval’.
-
-But, what about if you choose to hold off from the production side of things and start with some project planning…
-
-PRAGMATIC WEB PROJECT PLANNING
 Ok, so the above scenario is a little exaggerated to illustrate the point, but I challenge anyone, and I include myself, to deny they’ve ever found themselves in a similar situation with a web project, I know I have and no doubt will again!
 
 The web project planning processes described below are not intended to the be a definitive set of web project management techniques that align with the classic project management methodologies, but a stripped down version that I personally find practical on a day to day basis when trying to juggle the realistic amount of work and lack of time we all have.
