@@ -366,6 +366,14 @@ So far in this chapter we've mostly covered what it takes to be a successful web
 
 Now though let's get into the fun stuff - the actual tasks your individual role covers and how to best perform them. Here is where it starts - planning. Meticulous, hair-raising, sweat-inducing planning.
 
+The web is as littered with articles about project management planning as library shelves are stuffed with books on the topic. Each one stuffed with corporate jargon and calling for specific methodologies that must be strictly followed lest the world cave in on you. They make different assumptions about how much time you have or what sort of team you're working with. The realty is that every project and every team is different. A PMP qualification isn't necessarily going to get you anywhere. There are no hard and fast rules and so we shalln't be covering such rules here. Instead we'll try to be more general, talking about things you need to think about when devising your own system.
+
+Why do we even bother planning? We have a team of experts to hand. Sit a designer down in front of a blank canvas with some content, and a developer with a code editor, a functional spec. and a styleguide, give them a few weeks and all we be good right? Project planning, or the lack of it, can lead to extremely different results. By planning well we're able to clearly define and manage the project scope, identify and minise risks, and break the allocated time into manageable chunks and tasks. We can determine reaslistic milestones, track progress, maintain control, and secure resources.
+
+
+
+
+
 - kpis
 
 
@@ -412,29 +420,6 @@ KPIs can also serve as a boundary to client requests for features that are out o
 
 
 
-
-PROJECT MANAGEMENT IS FOR CORPORATES!
-You have all no doubt read countless articles on how best to plan a web project. They all go into varying amounts of detail about the steps you should take and how if you don’t follow them the whole world will fall from underneath your feet. I happen to agree with this general philosophy and can often be found preaching the same in my day job.
-
-However, the trouble with many of these articles is they’re often written by authors who work for a large corporate and are planning a multi-million pound enterprise web projects that must use the PRINCE2 methodology and assumes you have weeks of time allocated to plan your project.
-
-For those of us working in small web agencies, or as super funky freelancers, the reality of the web project planning process is a little different…
-
-In this three part article I hope to fill this gap a little with my humble ramblings on pragmatic web project management, addressing why it is often skipped, what the advantages are, the two different type of planning personalities that exist and a little insight into the processes and tools I use to help me retain what sanity I have left.
-
-WHY PLAN AT ALL?
-Before talking about why it’s often skipped or how to plan, it’s important to discuss why planning is needed at all for web projects. Simply put, planning a web project allows you to:
-
-Define and manage the project scope
-Identify and minimise risks to the project
-Break the allocated project time into manageable phases and tasks
-Determine realistic milestones and client-side deadlines
-Track progress and control the project
-Secure the necessary resource
-Although these points sound very much like the corporate web project management waffle I mention in the opening part of this article, they apply to web projects of all shapes and sizes. Not being able to satisfy these points at all stages of any sized project can often spell disaster.
-
-A detailed Death Star schematic and a Death Star themed BBQ grill.Project planning, or lack of, can lead to very different end results
-Image source: Action Figure Insider – Star Wars products rejected a long time ago
 
 WHY WEB PROJECT PLANNING IS OFTEN SKIPPED
 It sounds obvious on paper that planning is a necessary and valuable stage of any web project, but the reality of day to day web project management in a small business, or as a freelancer, often makes it difficult to remain disciplined enough to ensure thorough planning is always conducted.
