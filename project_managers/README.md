@@ -405,6 +405,7 @@ Which approach is better is largely irrelevant as it's beyond your control. You 
 
 
 - kpis
+- scope, risks, and tasks
 - timing and deadlines
 - roles and responsibilities
 - communication & workflow
