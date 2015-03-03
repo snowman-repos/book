@@ -396,7 +396,7 @@ Which approach is better is largely irrelevant as it's beyond your control. You 
 
 ### Key Performance Indicators
 
-Earlier we talked about the KPIs for your role. When it comes to planning project you need to determine what are its measures of success. How will your production team deem the project a success.
+Earlier we talked about the KPIs for your role and the benefit being that you remain focused on what's important to be successful. Similarly when it comes to planning project you need to determine what are its measures of success. What should your production team stay focused on at all times throughout the project lifecycle.
 
 The client manager's original proposal, or sometimes even documentation from the client, should detail the business goals and/or KPIs. In your role you have to analyse and challenge these where necessary to ensure they are realistic, measurable, and provide sufficient context. For the most part, the KPIs listed in your plan will be the same. Where they explicitly impact production, for instance when making demands on performance, technologies, platforms and so on, those KPIs should be expanded and explained in more detail where possible to provide clarity for your team.
 
@@ -407,10 +407,6 @@ KPIs have to be carefully considered. As an example, imagine you're asked to inc
 
 
 
-STAYING FOCUSSED ON KPIS
-Once defined with the client at the start of the project, the KPIs should be documented and circulated amongst all parties that will be involved throughout the project’s lifecycle. In doing so you are immediately focussing everyone on the aims of the project. Too often in web projects the aims of the project are specified in finite detail by the client in the tender document, backed up by agency proposals and then swiftly forgotten by both sides. While this seems a little crazy, in reality, the pace and complexity of most projects, both large and small, make it difficult to focus on anything other than completion – it’s the job of the web project manager to ensure these aims are at the forefront of everyone’s mind at all times.
-
-The most effective ways to keep KPI focus throughout a project are to:
 
 Document them at the start of the project
 Present back to the client, and any stakeholders, in a face to face meeting
