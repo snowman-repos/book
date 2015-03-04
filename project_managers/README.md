@@ -427,27 +427,19 @@ They will ultimately depend on implementation details - what technology you're u
 
 ### Setting Scope, Identifying Risks, and Assigning Tasks
 
-To establish scope, you need to speak at length with the client or client manager, break the project down into specific feature requirements, going into as much detail as possible. Set some time aside and talk for as long as it takes, documenting everything.
+To establish scope, you need to speak at length with the client or client manager, break the project down into specific feature requirements, going into as much detail as possible. Set some time aside and talk for as long as it takes, documenting everything. If the conversation leaves any gaps in the required information, then document the assumptions you need to make; these could be placeholders that you could ellaborate on later.
 
+Your objective here is to get a list of specific feature requirements (i.e. functionality), along with any other general requirements (e.g. design theme). From there you can break those down into individual tasks. You should try to be as granular as is reasonable - the smaller the task the more manageable it is. You can then assess what resources will be required for each task and for how long. By summing up the total time and resources required you can compare with the available time and budget. If you go over the limit on one or both of these, then another meeting is required in which you need to agree to either extend the budget or deadline, or somehow reduce or simplify the feature set. This is why planning takes time - several rounds of requirements gathering, analysis, and revisions.
 
-
-
-
-
-Document any assumptions you have to make about the project due to lack of information e.g. the client will perform all content entry and provide all images
-Estimate times for all tasks and see how the totals match with the budget and deadline.
-If your estimates put you over on both, begin to work with the client to agree on dropping or simplifying design and features until you are both happy
-Enter the agreed tasks and times into your time tracking tool
-By going through this initial exercise with the client you have immediately gained a great deal of control over your project before you’ve even thought about starting that all important homepage design by:
-
-Defining the project scope, at a high-level, allowing you to manage any scope creep throughout by being able to identify any feature requests as ‘new’ by it not being present in the task list
-Identified some of the project risks in terms of features that are complex
-Broken the project down into granular tasks, knowing how long you have to complete each one
-Now you have all of this defined information you can continue with the web project planning process, starting with the project schedule.
+And the end of this process you should have a detailed albeit high-level plan which you can input into your task tracking system that outlines all of the required features, who will be working on them, and how long they should take. You are now in a position to guard against scope screep because you can check any feature requests against the list you have. You have identified potential risks and bottlenecks by determining which tasks will take longest and which depend on others. You're ready to plan the project schedule. You are in control.
 
 ### Timing & Deadlines
 
-PRODUCING A PROJECT SCHEDULE
+
+
+
+
+
 Using the agreed estimated times and deadline you can now produce a project schedule. Using a simple, free and open-source tool like Planner; define your web project start date, enter all of the project tasks you have identified, with the exact amount of time allowed for each. PM tools like Planner will automatically assign each task with a start and end date.
 
 Screenshot of Planner - a great free and open-source project management tool.Planner: Create a project schedule & even export as HTML
