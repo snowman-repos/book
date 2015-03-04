@@ -425,19 +425,15 @@ These performance KPIs highlight the benefits of KPIs being useful for decision 
 
 They will ultimately depend on implementation details - what technology you're using to produce the website or app - and also target audience - what technology the users are using to access the website or app - but you should determine early what goals you should estabish for which of these (or other?) variables. Whatever goals you decide on, you need to be able to gather accurate before and after metrics. You also need to be confident that you stick to your targets. For instance, you might find out later that restricting yourself to your 150KB total payload goal turns out to be a real struggle. Rather than letting yourself off or adjusting the KPI, effectively moving the goal posts, you'll have to perhaps forgo certain features that might require 3rd-party libraries. In this case you should revisit this particular KPI and ask yourself why the goal was set at 150KB in the first place.
 
-### Setting Scope, Identifying Risks, and Assiging Tasks
+### Setting Scope, Identifying Risks, and Assigning Tasks
+
+To establish scope, you need to speak at length with the client or client manager, break the project down into specific feature requirements, going into as much detail as possible. Set some time aside and talk for as long as it takes, documenting everything.
 
 
 
 
 
 
-
-
-DEFINING SCOPE, IDENTIFYING RISKS AND GRANULAR PROJECT TASKS
-If you estimated the web project using a method similar to the one I described in my Estimating Time for Web Projects more accurately series you already have a head start as you have a complete breakdown of all the design and functional requirements, along with timescales. If not, don’t panic, you can retro fit the method based on the budget and deadline as follows:
-
-Speak at length with the client and break the project down into all design and functional requirements, getting as granular as possible for both
 Document any assumptions you have to make about the project due to lack of information e.g. the client will perform all content entry and provide all images
 Estimate times for all tasks and see how the totals match with the budget and deadline.
 If your estimates put you over on both, begin to work with the client to agree on dropping or simplifying design and features until you are both happy
