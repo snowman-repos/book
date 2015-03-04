@@ -244,7 +244,7 @@ You're going to have a lot on your plate so you should make use of the myriad of
 * A code editor
 * Whatever software you need to open design documents
 
-Use whatever you're most comfortable with, beit a notebook and a whiteboard or one of these all-encompassing bells-and-whistles SaaS platforms. Having a physical kanban board is a great idea because it's easily visible and accessible to the production team, but bear in mind that most of your work will need to be easily documented and shared.
+Use whatever you're most comfortable with, beit a notebook and a whiteboard or one of these all-encompassing bells-and-whistles SaaS platforms of which there are many many paid and open-source options. Having a physical kanban board is a great idea because it's easily visible and accessible to the production team, but bear in mind that most of your work will need to be easily documented and shared.
 
 ## Facilitating Others
 
@@ -455,9 +455,7 @@ And the end of this process you should have a detailed albeit high-level plan wh
 
 
 
-Using the agreed estimated times and deadline you can now produce a project schedule. Using a simple, free and open-source tool like Planner; define your web project start date, enter all of the project tasks you have identified, with the exact amount of time allowed for each. PM tools like Planner will automatically assign each task with a start and end date.
 
-Screenshot of Planner - a great free and open-source project management tool.Planner: Create a project schedule & even export as HTML
 One of the advantages of using a tool that allows you to produce a GANTT chart, with start and end dates for phases and tasks, is that you can add:
 
 Client tasks
