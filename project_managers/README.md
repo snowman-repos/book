@@ -462,17 +462,13 @@ For each milestone (more on milestones later), you'll want to plan for some time
 
 #### Dependencies
 
-These are generally fairly easy to spot. Task B cannot be started until Task A is complete. For example, a design style guide for form input elements must be completed and signed off before part of a page with a form can be designed. Design for a hero section on the homepage cannot begin until content has been prepared for that section. CMS integration cannot be completed until the front-end templates are complete (and fully tested!). And so on. Marking dependencies clearly in the schedule higlights to everybody how their work impacts that of others. Everyone's tasks are clearly illustrated on the timeline; this is particularly useful to clients and project owners who may otherwise be under the assumption that they can sit back and let your team get on with it. This way they can quickly understand what is required of them as well. Another handy feature of maintaining timeline dependencies is that you can immediately see how far back milestones and deadlines will be shifted when there are unexpected delays.
+These are generally fairly easy to spot. Task B cannot be started until Task A is complete. For example, a design style guide for form input elements must be completed and signed off before part of a page with a form can be designed. Design for a hero section on the homepage cannot begin until content has been prepared for that section. CMS integration cannot be completed until the front-end templates are complete (and fully tested!). And so on. Marking dependencies clearly in the schedule higlights to everybody how their work impacts that of others. Everyone's tasks are clearly illustrated on the timeline; this is particularly useful to clients and project owners who may otherwise be under the assumption that they can sit back and let your team get on with it. This way they can quickly understand what is required of them as well. Another handy feature of maintaining timeline dependencies is that you can immediately see how far back milestones and deadlines will be shifted when there are unexpected delays. When deadlines do need to be shifted, you're going to have an angry client unless you can clearly communicate the reasons. The dependency timeline will make communicating them much easier, and the new deadlines more acceptable (especially if the client can see that it was their missed delivery that caused the delay!).
 
 
 
 
 
 
-
-
-
-Of course, shifting milestone and go-live dates is never ideal, but if you can consistently explain to a client why the dates have moved, or at least communicate, when delivering the project schedule, that if you don’t get sign-off or receive content by this date, then the dependent tasks will be shifted to later dates, they will generally be more receptive to any changed timelines.
 
 LAG
 Lag is the term associated with the amount of time expected between tasks. For example, although you may have an allocated time of 8 hours for the homepage design, it is unrealistic to schedule in 8 hours or 1 day for this task. Instead you would schedule:
