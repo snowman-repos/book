@@ -1012,210 +1012,6 @@ But come on, I’m probably just a bit rubbish when it comes to note taking, and
 
 …what are your tips for note taking in web project management meetings?
 
-## Setting things up
-
-WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
-- January 13, 2014 - by thesambarnes, in Digital Project Management, with 9 comments -
-
-Bio picture of Holly Davis
-Holly is a Certified Scrum Master and Agile Project Manager at Award winning web agency White October. We’re currently recruiting a new Project Manager to join the team, feel free to get in touch if you’re interested. You can find Holly on Twitter @ProjectDavis.
-A year ago, I had never heard of GitHub and now I’m using it on several of my biggest projects and to my surprise, enjoying doing so!
-
-A cropped version of the GitHub 404 page banner showing it's Octocat character dressed as ObiWan from Star Wars in a desert scene in front of a land speeder and hut.It’s worth using GitHub if only for this each time you type with chubby fingers.
-It started just under a year ago when I asked my project team what their preference would be for tracking issues, and the developers were almost evangelical about GitHub. I was aware that most of our active projects were being hosted and deployed from GitHub but didn’t realise it could be used for managing projects too!
-
-So, we took the leap and instead of introducing something new into the mix we started using it to manage tasks, releases and bugs.
-
-The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
-
-Using labels you can create issues for “discussion” i.e. we need a comment system, here are the options giving everyone visibility over the options and the opportunity to comment and be involved with the solution.
-
-A screenshot of low-fi sketches uploaded to GitHubIf I was the client I’d totes sign this off.
-GitHub wins on simplicity and its clean interface. Even some of our designers have adopted it for presenting low fidelity sketches to the client / team to review. It’s great to have communication in one centralised place rather than across emails and visible to all the team. You can set up email notifications when people comment or tag you in an issue.
-
-It has also given me more visibility on work in progress. In our daily ODI scrums we have even introduced the reviewing of pull requests. This helps limit work in progress by ensuring pull requests are reviewed, merged and closed. If the same PR is there several days running, it can quickly alert you that something is wrong that you wouldn’t normally be able to pick up on as a non technical PM.
-
-However, like any tool there are a couple of drawbacks. I have had to continue using spreadsheets to track time and velocity over sprints, as you can’t add estimates or track time spent on the issues themselves. However you can assign a milestone to tasks within a sprint which will give you a % indicator of tasks completed but isn’t that helpful if the one task you’ve not completed equates to half the sprint!
-
-Lastly, there is no easy way to prioritise issues. For ODI we’ve added priority 1 and priority 2 tags which work well but i’d like the open issues to work more like a physical backlog where you can click and drag issues to prioritise.
-
-In conclusion, I would recommend using GitHub to other Project Managers, particularly if you’re happy to track project progress outside of GitHub and just embrace it for the ace collaboration tool it is.
-
-A screenshot of the Huboard tool showing a Kanban board.Web project management things in GitHub? Developers, you cannot escape it! :)
-If you’re thinking of using GitHub you may want to look at Huboard, a lightweight Kaban board which integrates with GitHub issues.
-
-If that doesn’t fulfil your requirements you may find something that does on this Quora question “Which project management tools are deeply integrated with GitHub?”
-
-Not convinced yet? Why not do some further reading, here are couple of other great blog post on the topic.
-
-Using GitHub issues to manage projects by Z Porter.
-Managing projects with GitHub by Jerad Bitner.
-
-## Delivery
-
-
-
-
-
-
-
-## Designers
-
-ou know how it usually goes… the client likes your agency and decides to go with you based on one or two great pitch meetings, a stunning proposal that includes the right timeline / budget and a couple of speculative mock-ups of what their new site could look like in your capable hands – brrrrap everyone rejoice!
-
-
-
-You sign contracts and NDAs, and it’s time to actually get to work kicking off the project… the first question comes “When can I see some designs?”
-
-To which many a Web Project Manager out there will reply “In a week” – I believe this is a big mistake.
-
-I’ve experienced this approach, and taken my own enough times to back this belief up, let me explain…
-
-THE SPECULATIVE WORK TREND
-Before we get onto why I think providing mock-ups too early is a mistake we’ll deal with something some of you may object to right from the off – speculative web design work at the pitch stage.
-
-There is a strong feeling amongst the web elite that providing visual mock-ups as part of the sales process is wrong for many reasons. Back in 2009 Ryan Taylor wrote a very concise article called Why Speculative Design is Wrong listing reasons like:
-
-It costs everybody money
-It’s about selling not delivering
-It’s wasteful
-It’s uninformed
-It ignores the collaborative nature of design
-I happen to agree with every single word of this post and there have been focussed attempts to champion this approach in the industry, by the likes of NO!!SPEC, in the hope it slowly but surely changes our industry’s attitudes about providing this ‘free’ and misguided work and ultimately eradicates it from the prospective client’s expected sales process.
-
-However, back then, as much as now, I couldn’t help feeling that this would be a hard nut to crack for the very fact that it relies on three things:
-
-Enough web agencies and freelancers get on-board and refuse to do speculative work
-Those same agencies and people have a solid enough portfolio that they can rely on as sales aid
-They’re skilled enough in sales and client management to sell the ‘no spec’ position and still win the work
-I would love this shift to take place and never have to do any speculative design work again, but my gut feeling is this just will never happen on a permanent basis.
-
-A poster of a single from the Irish boy band JedwardUnfortunately some things will never go away
-The fact of the matter is I believe it really is only established web agencies and freelancers who can pull this off and the majority of lesser known people out there will always submit to the request for mock-ups and see it, as do most clients, as an integral part of the web sales process.
-
-But while I don’t believe this tradition will change anytime soon, I do believe many agencies then make their first crucial mistake – and it isn’t producing speculative designs, but beginning the web project based on the speculative designs that helped them win the work in the first place.
-
-THE FIRST MISTAKE
-I understand it because I learnt the hard way, but some people don’t seem to learn. Three of the reasons Ryan Taylor states as a reason to not do speculative work are actually the exact same reasons why using a pitch design is precisely the wrong thing to base the final design solution off – in fact the “It’s wasteful” reason IS often the result of following this path.
-
-What was the point of producing a piece of design only to discard it? Because ultimately you (the client) are paying for the design it is absurd that you would then choose not to use it.
-Ryan Taylor, Why Speculative Design is Wrong
-
-However this statement was made on the assumption that all those who produce speculative designs throw them away upon commencement of the web project, well unfortunately they don’t.
-
-Many out there seem to think it’s best to keep the designs in place for one main reason – if the client loved the designs; it must be what they want. Well maybe yes, but it’s important to identify what the client liked about it before proceeding to base the rest of the web project on it.
-
-All too often it will transpire that the functionality implied by those very early designs, based on probably only 3-4 hours of communication with the client, will actually be built without nearly enough thought given to if they really need it.
-
-What you’ll usually find is the client actually loved the style and colours used in the speculative designs – the final design and functionality should not be set in concrete at this stage.
-
-THE SECOND MISTAKE
-The second mistake often made is to start a won web project by briefing your designer to create a homepage and perhaps some sub-page designs for client approval – no no no!
-
-An old photograph of Sam Barnes as a child painting a bad picture on a child's standing upright easelYes, this is me, and yes I’m designing far to early
-Why not? Well because at this early stage of the project you still have an awful lot of research to do in order to clarify exactly what the best solution is, from a design and functional perspective, so how can you really expect to produce designs that satisfy the user requirements and ensure that the business goals are aligned with the agreed functionality when they haven’t all been completely agreed yet? Quite simply, you can’t.
-
-Good design comes from being well informed. The designer needs to understand business objectives, success criteria, brand personality, competition and numerous other factors in order to provide the right solution.
-Ryan Taylor, Why Speculative Design is Wrong
-
-What invariably happens next when adopting this approach is what I believe to be one of the biggest causes of budget overrun in web projects – the designs will be ‘signed-off’, the functionality will then be agreed and defined, and then come the budget and time sapping design revisions that bring those early homepage and sub-pages in-line with what will actually be built.
-
-Don’t rush straight into solution design and build before you’ve done the groundwork. Take time to create a good plan, gather customer requirements, and create solid functional and technical specifications.
-Duncan Haughey, PMP: Six Cliches That Make You a Better Project Manager
-
-Why not just skip these unnecessary revisions altogether with some confident web project and client management skills!
-
-THE ALTERNATIVE APPROACH BOMBSHELL
-My approach is to win the web project and then definitely not agree to produce a single design for quite a while.
-
-Image of a stern looking dog on the end of a lead refusing to move despite being pulled by its ownerWeb PMs often have to be stubborn for a project’s sake
-Now I know what you’re thinking “Haha you naive fool Mr. Barnes, none of my clients would accept your ridiculous approach, they will insist on designs early and throw a complete hissy fit if I don’t do this for them!”
-
-Well yes, in my experience most clients will not expect this approach easily but that’s when the confidence in the approach must show itself in the form of articulate explanation as to why you follow this approach.
-
-THE ALTERNATIVE APPROACH
-It’s at this point, usually in a kick-off meeting, I will explain to the client how the web project will be managed, what phases are involved, in what order they’ll occur and why, and it goes something like this:
-
-I will take the budget and deadline and cast them in concrete (for now)
-We’ll then talk, and talk for quite a bit and as we’re no longer in sales mode our conversation will almost certainly be more valuable. In these talks I will discuss your business goals and then cross match them against the functionality laid out in the proposal, crossing some off (with your complete approval and buy in) that actually don’t align with any of your goals and keeping those that do
-We’ll then explore those that do in more depth and also discuss other functionality that may not have been in the proposal that would help you achieve your goals, to the point where I can visualise what your requirements are from a design and functional perspective, and have a pretty good idea of how the functionality will work, both in front of and behind the scenes
-I’ll then vanish into my web project management Batcave and create an initial project breakdown that lists all the things we’ll need to complete and my estimated hours and hope and pray the total matches the agreed budget
-If the numbers match, I’ll walk you through this list and explain that this is the first step to confirming what exactly we’re going to build and deliver and eventually you’ll approve this initial list
-Then we produce a sitemap and functional specification for sign-off
-Image of a very smarmy looking manager smiling while sitting at a desk with his chin resting on his handsI truly love your project approach Mr. Web Project Manager m’kay
-At this point the client may protest and insist on designs much earlier as they “need to know what it will look like” or the “board of Directors want designs” – this is when you start the explanation for wanting to take this ‘crazy’ approach.
-
-CONVINCING CLIENTS ON THE APPROACH
-Now this is a debate you may win or lose. Losing means the client listens to your point of view and then says they don’t care, they must have designs first – but winning means you have not only almost certainly and immediately stopped precious web project hours being spent on design revisions, but you’ve also gained the client’s trust and respect – both the most valuable digital account and web project management commodities.
-
-The actual explanation itself is nothing short of a crash course for the client in web design and functional separation. During the crash course you need to communicate five key points:
-
-Achieving the business goals are the primary aim of the web project
-The pages that need to be included to meet these goals can be decided independently of what they look like
-The functionality (what the website or application must be able to do) is completely irrelevant to any design that will essentially be overlaid on top of the moving parts
-By the mere fact the client has hired you means they’ve seen, and liked, the agency’s creative and UX capabilities and need to trust that the same quality level will be applied at the right time
-When designs are eventually produced and presented they will be perfectly aligned with the required functionality, sitemap and business goals and thus reduce web project hours required and minimise budget overrun and thus more money needed
-I won’t lie to you, most of the time this conversation is not easy and the client will challenge you at certain points, but the real secret lies in your ability to convey absolute conviction in your approach and if possible back it up with examples of previous web projects where the process was, and was not followed.
-
-Retro style poster showing a man hypnotising a lion illustrated by a laser beam from his eyesWeb Project Managers must be able to control clients
-For example you could show the client some previous speculative design work, followed by the first set of post-sale designs produced too early, then all subsequent revisions right up until the final version – and then show the amount of hours spent, and duration in work days / weeks, to reach the solution.
-
-This can be followed up quickly by an example where the unorthodox approach was taken and, having used it many times before, I can assure you both the total hours and duration will be comparatively less.
-
-When you start talking in a client’s language about best use of their money and quicker time to market they’ll invariably take a keen interest.
-
-Of course with any web project management approach come challenges and so here are a few tips to help you with this one.
-
-DON’T BE AFRAID TO RIP UP THE PROPOSAL
-One thing I’ve learnt over the years is that the sale is the sale, and the project is the project – and both are very different beasts.
-
-An image of a toy Star Wars Stormtrooper looking at a basic cardboard version of a StormtrooperA successful sale can spell for project disaster if badly sold
-By this I mean in my early days as a Web Project Manager I used to take a sold web project proposal, with included speculative designs, and pretty much attempt to use those as a statement of work.
-
-As the web project progressed it transpired that some requirements had been misunderstood, were no longer in the same priority and other requirements would emerge – and by the end of the web project, the final solution was often quite far from the outlined solution set out all those months ago – bad times.
-
-Over time I began to view all of the sales documentation as a guide more than a blueprint.
-
-Nowadays, upon receiving all of the sales ‘stuff’ I’ll open talks with the client and define their business goals, target audience, marketing plan and required functionality again. As described earlier in this post, I’ll then create a web project task list with time estimations and see if they match the numbers in the proposal – often they don’t and this is the point at which I’ll start talking to the client about what it would be best to deliver to them for their budget they have.
-
-This may all sound a little odd, and perhaps if the people selling your web projects are amazingly accurate in requirement gathering then you’ll rarely have to go through this step, but in my experience sales documents are pretty high-level and numbers are ‘ball-park’ estimates.
-
-A photograph of the 2007 Fiscal budget for the USA showing the front cover, and the massive amount of pages it containsProject budgets in proposals are rarely this detailed
-At the end of the day, when I’m given a web project to manage I consider that it has an initial scope, rough budget and ideal timeline, but that none are final and all are negotiable – and ultimately if I can deliver a solution that the client is happy with, produces commercial return, and my agency can be proud of, then I’ve done my job well and my boss will be happy no matter what he originally sold.
-
-Don’t forget, a happy client is not always one that you delivered a web project for as per the budget and timeline set out in the proposal, but one that is happy with how much they spent on the project and when it was delivered – these numbers and dates are in your control as a Web Project Manager, as is the relationship you form with the client.
-
-I’ve delivered many a web project where it was delivered for twice the cost and weeks or even months later than the original proposal stated, but the client was a very happy person as the process was managed and communicated clearly and the eventual solution was the right one – food for thought.
-
-Ultimately you’re looking for the following client reaction at the end of the web project… is this too much to ask for? I don’t think so.
-
-
-
-COLLABORATION IS KEY
-Moving ahead on a web project without any designs is not easy for some people, but it can also come across as a very waterfall-based approach where the Web Project Manager works in a silo with the client until such times as he or she are ready to hand over to the web designers and developers – but this is most definitely not the correct path.
-
-At all times a Web Project Manager should be working very closely with everyone in their team, in fact failure to do this will always have a negative impact on the web project – no matter what your approach is.
-
-With regards to my own approach, although I will not produce designs for a client until a sitemap and functional specification have been approved, this doesn’t mean I haven’t been talking to the web designers, UX and development teams while producing both – far from it.
-
-A spoof poster with the large title of Collaborate that shows two women at an office desk - one is looking forward while the other is looking at her colleague, with the tagline - Sometimes your best option is to say it's all her faultWeb project collaboration also has unseen benefits
-For example, when writing a functional specification you have to, to some extent, be able to visualise and define certain parts of the website or application that will influence or perhaps even dictate an eventual design or UX factor – but that’s fine – talk though these aspects with the teams, and talk through functionality with developers.
-
-Not only is this collaborative approach getting the key people involved early, which always help to gain buy in and motivate teams, but in most cases a Web Project Manager is not the best person to define any of these things – this is not their expertise.
-
-Part of a Web Project Manager’s expertise however is to get the right people involved at the right time, to utilise the experts in their field and to gently ensure the solutions provided by the experts are within the web project boundaries such as budget, scope and timeline.
-
-THIS WORKS FOR ME, WHAT WORKS FOR YOU?
-So this approach works for me, and works well, but as always in web project management different people have different approaches – so tell me
-
-## Developers
-
-his is a topic I’ve wanted to approach for a few years now and is really more of an open question to the digital community… why do developers live by different rules than others at work?
-
-Note: The term ‘developer’ in this article really means anyone working in a digital environment on the production side, you know, people like this.
-
-
-
 The ‘rules’ I’m referring to are specifically surrounding the use of Twitter, blog reading, YouTube, Facebook, flexitime and all of the other things that now seem to be a widely expected, and to some extent, accepted part of everyday life in many digital agencies out there i.e. things that many view as a sign of people not doing the job they’re being paid to.
 
 THE CONTEXT SWITCHING ARGUMENT
@@ -1310,16 +1106,46 @@ Do you believe there is real commercial value in this culture? If so can you art
 C’mon, sell it to me; sell it to our bosses, please. There must be some Web Project Managers our there who also stay on Twitter all day and read blog posts etc. Why do you find it beneficial? Or, in what way do you see it as a beneficial thing for your project team to be doing?
 
 
+## Setting things up
 
+WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
+- January 13, 2014 - by thesambarnes, in Digital Project Management, with 9 comments -
 
+Bio picture of Holly Davis
+Holly is a Certified Scrum Master and Agile Project Manager at Award winning web agency White October. We’re currently recruiting a new Project Manager to join the team, feel free to get in touch if you’re interested. You can find Holly on Twitter @ProjectDavis.
+A year ago, I had never heard of GitHub and now I’m using it on several of my biggest projects and to my surprise, enjoying doing so!
 
+A cropped version of the GitHub 404 page banner showing it's Octocat character dressed as ObiWan from Star Wars in a desert scene in front of a land speeder and hut.It’s worth using GitHub if only for this each time you type with chubby fingers.
+It started just under a year ago when I asked my project team what their preference would be for tracking issues, and the developers were almost evangelical about GitHub. I was aware that most of our active projects were being hosted and deployed from GitHub but didn’t realise it could be used for managing projects too!
 
+So, we took the leap and instead of introducing something new into the mix we started using it to manage tasks, releases and bugs.
 
+The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
 
+Using labels you can create issues for “discussion” i.e. we need a comment system, here are the options giving everyone visibility over the options and the opportunity to comment and be involved with the solution.
 
+A screenshot of low-fi sketches uploaded to GitHubIf I was the client I’d totes sign this off.
+GitHub wins on simplicity and its clean interface. Even some of our designers have adopted it for presenting low fidelity sketches to the client / team to review. It’s great to have communication in one centralised place rather than across emails and visible to all the team. You can set up email notifications when people comment or tag you in an issue.
 
+It has also given me more visibility on work in progress. In our daily ODI scrums we have even introduced the reviewing of pull requests. This helps limit work in progress by ensuring pull requests are reviewed, merged and closed. If the same PR is there several days running, it can quickly alert you that something is wrong that you wouldn’t normally be able to pick up on as a non technical PM.
 
+However, like any tool there are a couple of drawbacks. I have had to continue using spreadsheets to track time and velocity over sprints, as you can’t add estimates or track time spent on the issues themselves. However you can assign a milestone to tasks within a sprint which will give you a % indicator of tasks completed but isn’t that helpful if the one task you’ve not completed equates to half the sprint!
 
+Lastly, there is no easy way to prioritise issues. For ODI we’ve added priority 1 and priority 2 tags which work well but i’d like the open issues to work more like a physical backlog where you can click and drag issues to prioritise.
+
+In conclusion, I would recommend using GitHub to other Project Managers, particularly if you’re happy to track project progress outside of GitHub and just embrace it for the ace collaboration tool it is.
+
+A screenshot of the Huboard tool showing a Kanban board.Web project management things in GitHub? Developers, you cannot escape it! :)
+If you’re thinking of using GitHub you may want to look at Huboard, a lightweight Kaban board which integrates with GitHub issues.
+
+If that doesn’t fulfil your requirements you may find something that does on this Quora question “Which project management tools are deeply integrated with GitHub?”
+
+Not convinced yet? Why not do some further reading, here are couple of other great blog post on the topic.
+
+Using GitHub issues to manage projects by Z Porter.
+Managing projects with GitHub by Jerad Bitner.
+
+## Delivery
 
 Continuous Integration makes dev life easier. Happier, better developers and testers. More efficient cycle. Keeps people happy.
 
@@ -1327,7 +1153,7 @@ It's not about the work that you do, but the work you enable others to do.
 
 Smaller teams can afford to keep goals small and finish them often. Then you can test faster and learn quicker. By working quickly you can make decisions quickly, things flow better, and other teams will be envious. Cut your chunks of work into smaller chunks. Keep going to the minimum. If you can see measured improvement then do the rest of the chunks. If not, you've only lost a day or two maximum. Communicating frequently about what you're releasing makes you feel truly agile. Releasing often not only makes the team look good internally, but improves the end result for users too.
 
-### THINK HOW, NOT WHAT
+THINK HOW, NOT WHAT
 Your product isn’t just a bunch of features - so stop focusing on them.
 
 What matters is not what functionality your product has, but how it works. A sign-up process is not just a sign-up process, a checkout process is not just a checkout process, a button is not just a button, a rating system is not just a rating system. Think about how you can stand out by introducing something that everyone else might have but in a unique way - what you are selling at it’s core. Here are a few questions to answer:
@@ -1339,7 +1165,7 @@ Glasses have one primary purpose, to help you see. Everything on top of that - s
 
 You will be surprised how much the “how” can help improving your product - and getting an MVP out the door.
 
-### SHIPPED IS BETTER THAN PERFECT
+SHIPPED IS BETTER THAN PERFECT
 The goal of sketching, wireframing and prototyping is delivering great product concepts, not great deliverables.
 
 Nobody cares if your deliverables are great if they’re not finished. And few will care how perfect they are even if they are finished. The only people who may marvel at the deliverables are the UX designers, but they’re hopefully too busy to care about internal documentation. On the other hand, everyone wants or absolutely needs you to communicate the right level of details about what they need to do to make a great and feasible solution so they can ship better products, faster.
@@ -1365,7 +1191,9 @@ The people who will allow you to build a great business around your product are 
 * Use data to drive decisions
 * Default to open
 
-Understand what people needWe must begin digital projects by exploring and pinpointing the needs of the people who will use the service, and the ways in which the service will fit into their lives. Whether the users are members of the public or government employees, policy makers must include real people in their design process from the very beginning. The needs of people — not constraints of government structures or silos — should drive technical and design decisions. We need to continually test the products we build with real people to keep us honest about what is important.checklist
+Understand what people need
+
+We must begin digital projects by exploring and pinpointing the needs of the people who will use the service, and the ways in which the service will fit into their lives. Whether the users are members of the public or government employees, policy makers must include real people in their design process from the very beginning. The needs of people — not constraints of government structures or silos — should drive technical and design decisions. We need to continually test the products we build with real people to keep us honest about what is important.checklist
 * Early in the project, spend time with current and prospective users of the service
 * Use a range of qualitative and quantitative user research methods to determine people’s goals, needs, and behaviors; be thoughtful about the time spent
 * Test prototypes of possible solutions with real people, in the field if possible
@@ -1409,6 +1237,18 @@ What is the reading level of the language the service uses?
 What languages is your service offered in?
 If a user needs help while using the service how do they go about getting it?
 How does the service’s design visually relate to other government services?
+
+
+
+
+
+
+
+
+
+
+
+
 PLAY 4
 
 Build the service using agile and iterative practicesWe should use an incremental, fast-paced style of software development to reduce the risk of failure by getting working software into users’ hands quickly, and by providing frequent opportunities for the delivery team members to adjust requirements and development plans based on watching people use prototypes and real software. A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production. Following agile methodologies is a proven best practice for building digital services, and will increase our ability to build services that effectively meet user needs.checklist
