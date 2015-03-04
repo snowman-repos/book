@@ -450,19 +450,25 @@ And the end of this process you should have a detailed albeit high-level plan wh
 
 ### Timing & Deadlines
 
-Now that you have a clear list of resource-allocated feature-based tasks you can start to plan who should do what when. Aside from those tasks, you'll also need to plan for client tasks, changes and revisions, depdencies, lag times, and resource availability. This may just sound like jargon, but they are things that inevitably act as hurdles in every single project.
+Now that you have a clear list of resource-allocated feature-based tasks you can start to plan who should do what when. Aside from those tasks, you'll also need to plan for client tasks, changes and revisions, depdencies, lag times, resource availability, and milestones. This may just sound like jargon, but they are things that inevitably act as hurdles in every single project.
+
+#### Client Tasks
+
+Outlining the client's responsibilities explicitly here in the project schedule highlights to them what they need to do and when they need to do it by. They are probably busy people too, or might be working on a different schedule or in a timezone to you and your team. You need to make them aware in advance when they will be needed to provide content or media or feedback and how they might impact deadlines if they are late.
+
+#### Changes & Revisions
+
+For each milestone (more on milestones later), you'll want to plan for some time for reflection where both the client's team and yours can go through the features delivered so far and assess whether anything might need to be changed. Like you did with the initial feature requests for the project, these change requests will be broken down into specific tasks. If you have enough time to complete these tasks now, great, but if not you'll need to establish their urgency and maybe move things around in the schedule before pushing the project forward.
+
+#### Dependencies
+
+These are generally fairly easy to spot. Task B cannot be started until Task A is complete. For example, a design style guide for form input elements must be completed and signed off before part of a page with a form can be designed. Design for a hero section on the homepage cannot begin until content has been prepared for that section. CMS integration cannot be completed until the front-end templates are complete (and fully tested!). And so on. Marking dependencies clearly in the schedule higlights to everybody how 
 
 
 
 
 
-
-DEPENDENCIES
-Dependencies are simply rules that state Phase / Task A cannot begin until Phase / Task B is complete. Typical examples being:
-
-Sub-page design task cannot start until the homepage design task has been completed
-Back-end development phase cannot begin until the Solution Design phase has been signed off by the client
-Dependencies are a great way to adjust project schedules and set client expectation when the inevitable delays happen because, taking the functional specification / back-end development example, if a delay occurred either yours or the client’s side and the functional specification overran, you could update the expected end date and the tasks / phases that are dependent on the specification being signed off will automatically shift along the calendar thus producing new milestone and go-live dates.
+ example, if a delay occurred either yours or the client’s side and the functional specification overran, you could update the expected end date and the tasks / phases that are dependent on the specification being signed off will automatically shift along the calendar thus producing new milestone and go-live dates.
 
 Of course, shifting milestone and go-live dates is never ideal, but if you can consistently explain to a client why the dates have moved, or at least communicate, when delivering the project schedule, that if you don’t get sign-off or receive content by this date, then the dependent tasks will be shifted to later dates, they will generally be more receptive to any changed timelines.
 
