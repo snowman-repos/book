@@ -427,6 +427,13 @@ They will ultimately depend on implementation details - what technology you're u
 
 ### Setting Scope, Identifying Risks, and Assiging Tasks
 
+
+
+
+
+
+
+
 DEFINING SCOPE, IDENTIFYING RISKS AND GRANULAR PROJECT TASKS
 If you estimated the web project using a method similar to the one I described in my Estimating Time for Web Projects more accurately series you already have a head start as you have a complete breakdown of all the design and functional requirements, along with timescales. If not, don’t panic, you can retro fit the method based on the budget and deadline as follows:
 
