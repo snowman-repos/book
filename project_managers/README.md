@@ -110,8 +110,7 @@ Avoid using jargon. Always consider who you're speaking to and how best to commu
 
 Don't submit to envy when you see others leaving work earlier than you or arriving later. There will inevitably be times when they are busier than you. You have the benefit of seeing an end to every project, you get recognition for successful deliveries, and you have clear success criteria, known targets, which perhaps others don't. It may seem like the client manager's job is to promise clients that which you have to deliver without even a clear idea if it's even possible, but in fact part of their job is to convince the client to go with your team, and at your costs, no matter what. Your plan is fixed and certain, based on specific tasks and goals, while those of others may not be. Always consider the situation others are in and try to cut them a little slack now and again. Never criticise unduly and when you do, make it constructive by offering helpful advice and trying to find a common ground. The alternative is to jeopardise relationships that you rely on and ultimately contribute to your already towering mountain of stress.
 
-Resign yourself to the fact that there is a fixed, maybe even reduced budget. 
-Also resign yourself to the fact that scope likely isn't fixed and is sooner to be expanded than reduced. Great! Unfortunately, this is just something you'll have to accept and move on. No point crying over spilt milk, as the saying goes. A truly great project manager will find a way to maximise the resources at hand to produce the optimum result, and that is the quintessential challenge of your role.
+Resign yourself to the fact that there is a fixed, maybe even reduced budget. Also resign yourself to the fact that scope likely isn't fixed and is sooner to be expanded than reduced. Great! Unfortunately, this is just something you'll have to accept and move on. No point crying over spilt milk, as the saying goes. A truly great project manager will find a way to maximise the resources at hand to produce the optimum result, and that is the quintessential challenge of your role.
 
 There are various tools and methods for dealing with this challenge. Primarily among them is by building a great team and cultivating relationships such that everyone helps eachother and works efficiently. Easy right? pfft. An easy way to give yourself some leeway is to always overestimate the time and money required. Overspend the budget, place deadlines beyond a date by which you know delivery is achievable. You may need to justify this on the basis that future projects for the same project owner will allow them to reclaim the overspend for the current one.
 
@@ -230,6 +229,22 @@ You have to expect a lot of support from your team, but that means you have to p
 Thank them and recognise their efforts publicly, but always offer your own criticism and advice privately. Even if they are performing well, it's your job to push them to always be better. Constantly encourage them to learn new tools and techniques, give them the time for training to practice what they've learned. Of course, you need to take this into account when formulating schedules and conjuring deadlines. It will pay off in the long run as they learn to work more efficiently and can accommodate a greater variety of requests. That means fewer bottlenecks for you.
 
 Ultimately, no matter whether you always manage to hire industry wizards or not, your team will only ever be as productive are you enable them to be, which leads us nicely onto the next section.
+
+#### Suitable Tools
+
+You're going to have a lot on your plate so you should make use of the myriad of tools available to make your work more efficient. We're not going to recommend any specific ones here but if it's your first day on the job then you're going to want to set yourself up with some or all of the following:
+
+* A easy to use task planner that syncs across all your devices
+* A note taking tool that syncs across all your devices
+* A timeline tool
+* A project planner, e.g. a kanban board or gant chart
+* Somewhere to store important details about each project
+* A shared calendar
+* A shared chatroom
+* A code editor
+* Whatever software you need to open design documents
+
+Use whatever you're most comfortable with, beit a notebook and a whiteboard or one of these all-encompassing bells-and-whistles SaaS platforms. Having a physical kanban board is a great idea because it's easily visible and accessible to the production team, but bear in mind that most of your work will need to be easily documented and shared.
 
 ## Facilitating Others
 
