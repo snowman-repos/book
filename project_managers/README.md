@@ -472,12 +472,15 @@ Lag is all the extra time it takes to complete a task or feature that you should
 
 #### Resource Planning
 
+***********************************
+***********************************
+***********************************
 
+Most timeline tools will allow you to assign tasks to specific team members. This will give you an overview of who you need to work on what and when, which is very useful in teams that handle multiple project simultaneously. Maybe some team members will be unavailable or committed to other projects during certain periods so you will need to adjust your timeline to accommodate or re-assign the tasks to someone else.
 
 #### Setting Milestones
 
 
-This is a huge topic in its own right. GANTT chart tools allow you to assign each project task to a team member. However, this being an article about pragmatic web project management in a small web agency or as a freelancer I will not go much further on this topic. I find simply assigning tasks to the appropriate internal team and client an adequate solution. It tells me what resource I need and when, and also rubber stamps the client’s initials against any tasks they need to complete e.g. reviews, providing content and sign-off.
 
 MILESTONES
 Milestones can be assigned to any project phase, but are generally used to define the beginning or end of a high-level project phase e.g. Design complete, Back-end development begins etc. These are the big dates to watch out for as hitting them all means you’re on track to complete the project on time.
