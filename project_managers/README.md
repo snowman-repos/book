@@ -464,27 +464,19 @@ For each milestone (more on milestones later), you'll want to plan for some time
 
 These are generally fairly easy to spot. Task B cannot be started until Task A is complete. For example, a design style guide for form input elements must be completed and signed off before part of a page with a form can be designed. Design for a hero section on the homepage cannot begin until content has been prepared for that section. CMS integration cannot be completed until the front-end templates are complete (and fully tested!). And so on. Marking dependencies clearly in the schedule higlights to everybody how their work impacts that of others. Everyone's tasks are clearly illustrated on the timeline; this is particularly useful to clients and project owners who may otherwise be under the assumption that they can sit back and let your team get on with it. This way they can quickly understand what is required of them as well. Another handy feature of maintaining timeline dependencies is that you can immediately see how far back milestones and deadlines will be shifted when there are unexpected delays. When deadlines do need to be shifted, you're going to have an angry client unless you can clearly communicate the reasons. The dependency timeline will make communicating them much easier, and the new deadlines more acceptable (especially if the client can see that it was their missed delivery that caused the delay!).
 
-Dependency timelines naturally start to look like a waterfall, with tasks flowing from the top left - the initial tasks - to the bottom right - those at the end of the project. That is not to say however that this is a project management methodology or that everyone's work should be carried out in sequential phases, and we'll cover more on this later.
+Dependency timelines naturally start to look like a waterfall, with tasks flowing from the top left - the initial tasks - to the bottom right - those at the end of the project. That is not to say however that this is a project management methodology or that everyone's work should be carried out in sequential phases, but we'll cover more on this later.
+
+#### Lag
+
+Lag is all the extra time it takes to complete a task or feature that you should account for in your timeline. For example, you ask a developer how long it will take to complete feature X. They tell you 4 hours and for good measure you might put down 8 hours, or 1 day, in case it actually takes them longer (such things are notoriously difficult to predict). In fact, you need to also account for a few hours of testing, maybe a day for client review and feedback, then yet more time for changes and revisions, and another feedback loop. It now seems more sensible to allocate 3 or 4 days for this task, despite the initial assumption that it could be complete in 4 hours. At first this may sound like all of your projects are going to go on forever. A great plan though will account for overlapping tasks, even if they have some level of dependency. Going back to our example, a developer could complete their task and then move onto the next one while the tester is testing or the client is reviewing. By the time the tester or client's feedback has arrived they may have completed their next task, allowing the tester or client to go on and review that while the developer makes the required changes to the original task. Smooth workflow demands that you try to consider all the variables and also the available resources, then add a big of contingency lag time.
+
+#### Resource Planning
 
 
 
+#### Setting Milestones
 
 
-
-LAG
-Lag is the term associated with the amount of time expected between tasks. For example, although you may have an allocated time of 8 hours for the homepage design, it is unrealistic to schedule in 8 hours or 1 day for this task. Instead you would schedule:
-
-3.5 hours for a first version that you send to the client
-A lag of perhaps 1 day that the client will need in order to review and submit feedback
-2 hours revision time before re-sending to the client for review
-Another 1 day of lag to allow the client time to provide feedback
-The remaining 2.5 hours for final amends before sending for sign-off, and finally
-1 day to allow for the client final review and actually getting around to formally signing off the design
-As you can see, this 8 hour task could actually take up to 6 days to complete. It still surprises me how often I see an 8 hour task scheduled in for 1 or even 2 days and the constant shock when it actually takes a week or longer.
-
-Then again, although I may have developed an aptitude for this lesson, I still regularly find myself in the McDonalds drive through and then gasp in disbelief as my jelly belly expands…
-
-RESOURCE ALLOCATION
 This is a huge topic in its own right. GANTT chart tools allow you to assign each project task to a team member. However, this being an article about pragmatic web project management in a small web agency or as a freelancer I will not go much further on this topic. I find simply assigning tasks to the appropriate internal team and client an adequate solution. It tells me what resource I need and when, and also rubber stamps the client’s initials against any tasks they need to complete e.g. reviews, providing content and sign-off.
 
 MILESTONES
@@ -492,12 +484,16 @@ Milestones can be assigned to any project phase, but are generally used to defin
 
 Creating a GANNT chart that breaks down the project into as much detail as possible, adding time estimates, dependencies and lag, results in clear start and end dates for each task and phase, and ultimately produces definitive dates for the project milestones.
 
-A GOOD FOUNDATION
+
+
+
+
+
+
 After reading Alyssa Gregory’s recent article on Sitepoint.com, How to Estimate Time for a Project, I couldn’t help but feel that it was a good introduction but lacked a little when compared with the realities and complexities of estimating/quoting for a website or web application.
 
 But before we look at how to create more accurate estimates for web projects, it’s important to look at the reasons why this area is such a difficult one and why web project management forums aren’t exactly littered with posts entitled “How can I stop completing web projects on budget?”
 
-WHY UNDERESTIMATING IS SO COMMON
 There are many common reasons why web projects are often underestimated by freelancers and web agencies alike, they include the following:
 
 The technologies required have never been used before
@@ -516,7 +512,6 @@ However, there are few worse feelings in this industry than getting to any point
 
 So why does it happen time and time again?
 
-THE DAY-TO-DAY REALITY
 The approaches to creating more accurate estimates for web projects that I will describe in Part 2 of this article explain how to combat several of the common reasons for underestimating. I personally use them to track time on all projects and use the data gathered when estimating new ones – the results are very positive indeed.
 
 However, as you can see below, it doesn’t resolve them all:
@@ -531,20 +526,16 @@ The revenue needs for immediate cash flow now outweigh the effects of no new bus
 Estimating time for a project is not fun
 So what can you do to combat each of these realities?
 
-TECHNOLOGIES HAVE NEVER BEEN USED BEFORE
 If you are estimating time needed to implement a solution using a technology you have little or no experience of, you will have to conduct some basic research and then just guess! Alternatively, try to negotiate a smaller fee with which you can conduct the first stages of the project in terms of research and putting together some kind of high-level specification for the project.
 
 At best, you learn a new technology, build a rapport with the client and win the remaining work. At worst, you’ve learnt a new technology, you’ve generated revenue and the client has a good specification to update its project tender with.
 
-DETAILED ESTIMATION EXERCISES TAKE TOO LONG
 My personal approach takes time, much more than the traditional method of providing an estimate purely based on both experience and instinct. What if you spend hours or days putting together this detailed quote, breaking the project down perfectly, and then don’t win the work. Is that a loss of opportunity on another potential sale? Does the client now have a free detailed breakdown for free?
 
 Well yes, but this is just how it goes in any sales situation. Is it wasted work? Possibly, but it’s also possible you have researched a new technology or broken down a feature you haven’t used before. What’s to stop you trying to sell this to existing or new clients if it aligns with their long-term business aims?
 
-CLIENT NEEDS ESTIMATE FOR LARGE PROJECT TOMORROW
 If a client needs an estimate for a large project tomorrow, please refer to the ball park figure section in Part 2 of this article. Try to confirm a ball park figure and then assess the potential gains to your business versus the possibility of underestimating this one project. Always bear in mind, the larger the project, the greater the likelihood you will underestimate and the potential loss you could incur by submitting a low estimate.
 
-BUSINESS REVENUE NEEDS
 Revenue needs of a freelancer or small businesses for cash flow is an ever present issue. A typical dilemma faced is:
 
 We need £20k in revenue this month to sustain the business
@@ -555,7 +546,6 @@ We can take the project on and try and do it for £10k
 We can take the project on; accept the £5k loss, break even and live to fight another day
 This quandary is the reality of running a business and just one of the daily tough decisions a freelancer or Managing Director has to make, I don’t envy them. What to do in this situation is entirely the business owners decision, all you can do is get accurate information to them so that they can make as informed a decision as possible.
 
-ESTIMATING TIME FOR A PROJECT IS NOT FUN
 Well never has a truer word been spoken. Despite taking so much pride in it, and also testing new ways to improve accuracy, it’s not often a person will love the process of compiling and delivering a project estimate (if you find one, grab hold of them and lock them in your office!).
 
 Let us speak plainly my friends; the following facts are true when it comes to estimating web projects:
@@ -570,14 +560,12 @@ Eventual profitability of the project
 Growth/survival of your business
 With all of the above being truisms that I believe most people who have to estimate web project feel, the scary truth of the matter is getting it wrong just a few times can leave a freelancer or small web agency in real turmoil.
 
-IDENTIFY THEN FIX
 For all of the reasons stated above, getting people who are primarily from a creative or technical background and more passionate in actually creating something, to really spend time on developing a solid and reliable web project time estimating process is quite difficult and understandably so, it’s just not sexy work.
 
 But, especially in these turbulent times, being able to identify any gaps in your entire web project management workflow that (incoming buzzword bingo phrases) minimise project risk and maximise project profit should take a front seat, and the web project estimation phase is the most crucial in achieving these aims.
 
 In Part 2 of this article I will go into detail of how I personally go about estimating time for web projects, both on an individual project and long-term multiple project basis, that combats the remaining common reasons for underestimating.
 
-ESTIMATING PROJECTS AND THE OCCULT
 After reading Alyssa Gregory’s recent article on Sitepoint.com, How to Estimate Time for a Project, I couldn’t help but feel that it was a good introduction but lacked a little when compared with the realities and complexities of estimating/quoting for a website or web application.
 
 The Devil is in the detail: When people say that the devil is in the detail, they mean that small things in plans and schemes that are often overlooked can cause serious problems later on.
@@ -585,10 +573,8 @@ Using English.com
 
 I may not believe in the Devil, but I do believe this statement to be as true as it gets when it comes to estimating time for web projects.
 
-ESTIMATING WEB PROJECTS ACCURATELY
 Some would say this is an oxymoron, and to some extent I would agree, but I do believe by applying a few techniques it’s possible to drastically increase the accuracy of most web project estimates and avoid the feeling of wanting to curl up in the foetal position and whimper helplessly under your duvet.
 
-CONFIRM A BALL PARK FIGURE
 Before you embark on any detailed estimate exercise it’s crucial to immediately confirm with the client a rough budget, or budget range, they feel would be acceptable for an estimate. After all, if you get a new business lead, spend three days estimating and deliver a proposal worth £30,000 only to hear that the client ‘appreciates your response’ but only has £3000 to spend, you probably deserve to be struck with reasonable force in the baby-making department.
 
 When you receive a project brief, throw some figures out there for the client to comment on, only one of a possible few things will happen:
@@ -603,7 +589,6 @@ It’s understandable a client wants to get their website or web application at 
 
 Assuming you have made the decision to pursue the lead, you can now begin the detailed estimating exercise.
 
-CONSISTENT PROJECT PHASE BREAKDOWNS
 Most web projects can be broken down into the following high-level categories:
 
 Research and planning
@@ -617,7 +602,6 @@ Each individual project will contain unique tasks, but most can be encapsulated 
 
 The first step to increasing accuracy of web project estimates is to make sure you always begin with a consistent set of categories and then add as many sub-categories and tasks as you like.
 
-GET GRANULAR, THEN GET MORE GRANULAR
 Now your consistent high-level project phases are defined, it’s time to get granular and add sub-phases and tasks e.g.:
 
 Research and planning
@@ -669,7 +653,6 @@ By getting granular and mentally trying to build the solution you are able to id
 A Web Project Manager knows how to design and develop most of the project on his own, even if with poorer results compared to his team. This allows him to estimate projects with good approximation and to understand his team’s problems and difficulties
 Introduction to Web Project Management: Fucina Web
 
-GRANULARITY: GOOD FOR THE CLIENT AND GOOD FOR YOU
 Don’t forget, by getting this granular not only increases your estimations accuracy, but it also gives you the instant ability to remove proposed features quickly if your estimate exceeds the client’s maximum budget! Need to shave 10 hours off the budget? Well, rather than removing the News feature entirely, how about remove the thumbnail and caption adding functionality from News, and a few other small niceties from other features and still allow the client to have the basic versions of all the features they need? Simply remove the lines and hey presto, a new estimate at warp speed and with full visibility to the client of what functionality they’re sacrificing for budget.
 
 Roughly guessing the News feature will take 5 hours is one thing, but what about when the client comes to you after seeing the initial functional specification and asks where the archive section is or how they attach PDFs simply because they assumed the News section they would be getting is like the News section on another website they’d seen?
@@ -741,6 +724,10 @@ When possible, resisting the temptation to throw some figures onto a proposal an
 It also presents you to the client as someone, or as an agency, who are very meticulous, diligent and thorough in how they approach things and this is often taken as a signifier of how you will approach the rest of the project and this always gives the client confidence.
 
 Finally, by creating and maintaining a consistent pattern of high-level phases and tasks between your web project time estimates and time tracking means you can collect and analyse reliable data from multiple projects that can help you further increase the accuracy of, and cut the time needed to create, estimates for web projects.
+
+
+
+
 
 ### Roles & Responsibilities
 
