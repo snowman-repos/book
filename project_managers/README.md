@@ -504,25 +504,14 @@ And there are many other potential reasons. It's a miserable feeling indeed know
 
 Taking one of the examples from the list above, if you want to try a new technology that your team might be unfamiliar with, then you should probably spend some time researching or practicing with it first. Obviously you don't want to be doing this for free, nor does the project owner really want to be paying for it unless they get a clear cost benefit. In this case you could perhaps compromise by charging a reduced fee for a research phase that includes work on the simpler tasks. You could create a more high-level project plan based on this, to which you can add more detail once your team have had chance to use the new technology in this experimental phase and can therefore more accurately assess timings. In the best case scenario you've learned a new technology and kept the client happy with a low cost while still being productive. At worst you've still learned a new technology and made some revenue.
 
+> The Devil is in the detail: When people say that the devil is in the detail, they mean that small things in plans and schemes that are often overlooked can cause serious problems later on.
+
+> _English.com_
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-The Devil is in the detail: When people say that the devil is in the detail, they mean that small things in plans and schemes that are often overlooked can cause serious problems later on.
-Using English.com
 
 I may not believe in the Devil, but I do believe this statement to be as true as it gets when it comes to estimating time for web projects.
 
