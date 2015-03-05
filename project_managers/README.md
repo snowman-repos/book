@@ -488,7 +488,7 @@ If you can complete each project phase before reaching each milestone date, then
 
 If the first part of this chapter sounded challenging, suggesting you need to be some kind of psychologist to resolve all your team members' personal issues, then you might think sitting down and drawing up a timeline will be easy. In fact, it's the hardest part of a web project manager's job. The sheer complexities of estimating and quoting timelines for web projects means you're going to do it wrong... ***a lot***. Just try a Google search for the phrase "how can I stop completing web projects on time?".
 
-There are so many variables that make it difficult to plan timings accurately, for example:
+There are so many reasons for it being difficult to plan web project timings accurately, for example:
 
 * new untested technologies, tools, and techniques
 * loosely defined scope
@@ -498,36 +498,14 @@ There are so many variables that make it difficult to plan timings accurately, f
 * client pressure to provide estimates quickly
 * financial pressure to get to work and deliver quickly
 
+And there are many other potential reasons. It's a miserable feeling indeed knowing that you've underestimated and thus committed you and your team to overtime and rushed work. And yet it's a feeling that you may get time and time again as you try and fail to formulate rhobust plans. Unfortunately, it all comes down to guesswork. The best you can do is sit down in advance and think about the potential risks to your timeline and try and find ways to reduce them.
+
+Taking the above list of examples, if you want to try a new technology that your team might be unfamiliar with, then you should probably spend some time researching or practicing with it first. Obviously you don't want to be doing this for free, nor does the project owner really want to be paying for it unless they get a clear cost benefit. In this case you could perhaps compromise by charging a reduced fee for a research phase that includes work on the simpler tasks. You could create a more high-level project plan based on this, to which you can add more detail once your team have had chance to use the new technology in this experimental phase and can therefore more accurately assess timings. In the best case scenario you've learned a new technology and kept the client happy with a low cost while still being productive. At worst you've still learned a new technology and made some revenue.
 
 
 
 
 
-However, there are few worse feelings in this industry than getting to any point in a project and realising you’ve grossly underestimated the time, it’s a bitter taste you don’t forget in a hurry and should strive to avoid again.
-
-So why does it happen time and time again?
-
-The approaches to creating more accurate estimates for web projects that I will describe in Part 2 of this article explain how to combat several of the common reasons for underestimating. I personally use them to track time on all projects and use the data gathered when estimating new ones – the results are very positive indeed.
-
-However, as you can see below, it doesn’t resolve them all:
-
-The technologies required have never been used before
-Large parts of the project are grey areas at the time of estimating
-The features needed are very specific to the client’s industry and thus bespoke
-To break the project down into the detail it would require almost as much as work as the paid for requirements gathering phase
-No previous project ‘estimated vs. actual’ analysis has been conducted to draw on
-The client needs an estimate for their large project tomorrow
-The revenue needs for immediate cash flow now outweigh the effects of no new business now
-Estimating time for a project is not fun
-So what can you do to combat each of these realities?
-
-If you are estimating time needed to implement a solution using a technology you have little or no experience of, you will have to conduct some basic research and then just guess! Alternatively, try to negotiate a smaller fee with which you can conduct the first stages of the project in terms of research and putting together some kind of high-level specification for the project.
-
-At best, you learn a new technology, build a rapport with the client and win the remaining work. At worst, you’ve learnt a new technology, you’ve generated revenue and the client has a good specification to update its project tender with.
-
-My personal approach takes time, much more than the traditional method of providing an estimate purely based on both experience and instinct. What if you spend hours or days putting together this detailed quote, breaking the project down perfectly, and then don’t win the work. Is that a loss of opportunity on another potential sale? Does the client now have a free detailed breakdown for free?
-
-Well yes, but this is just how it goes in any sales situation. Is it wasted work? Possibly, but it’s also possible you have researched a new technology or broken down a feature you haven’t used before. What’s to stop you trying to sell this to existing or new clients if it aligns with their long-term business aims?
 
 If a client needs an estimate for a large project tomorrow, please refer to the ball park figure section in Part 2 of this article. Try to confirm a ball park figure and then assess the potential gains to your business versus the possibility of underestimating this one project. Always bear in mind, the larger the project, the greater the likelihood you will underestimate and the potential loss you could incur by submitting a low estimate.
 
