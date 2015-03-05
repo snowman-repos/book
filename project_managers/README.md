@@ -510,81 +510,129 @@ Taking one of the examples from the list above, if you want to try a new technol
 
 Luckily, at the time of writing anyway, the devil doesn't exist. the details however are ever-present. You should already know from the outset the project owner's budget. If you don't, you really need to so start pestering your client or client manager. Even a rough budget or a budget range might be enough for you to work with.
 
+Start off by breaking the project into general, high-level, potentially overlapping, phases (i.e. task categories) and gradually get more granular and identify the distinct tasks:
+
+* Research, Planning, Setup
+* Front-End Production
+* Back-End Production
+* Delivery
+
+Then you try and get more granular
+
+* Research, Planning, Setup
+    * Requirements Gathering
+    * Functional Specifications
+    * Content
+    * Environment Setup
+* Front-End Production
+    * Design
+    * Development
+    * Testing
+* Back-End Production
+    * Database Setup
+    * CMS Setup
+    * Testing
+* Delivery
+    * Content Entry
+    * Deployment
+    * Review
+    * Analysis
+    * Feedback Gathering
+
+And just keep going until you can't think of any more smaller tasks:
+
+* Research, Planning, Setup
+    * Requirements Gathering
+    * Functional Specifications
+        * Sitemap
+        * Wireframes
+        * Performance Budget
+        * Technology Decisions
+    * Timelines
+    * Resource Allocation
+    * Kick-off meeting
+    * Content
+        * Content Categories
+        * Media - images/videos/etc.
+        * Rich data
+        * Tooltips, Alt image text etc.
+        * Langauges & Translations
+        * SEO & Keywords
+    * Environment Setup
+        * Testing Server
+        * Staging Server
+        * Deployment Server
+        * Git Repository
+        * Continuous Integration System
+        * Build / Asset Management System
+        * Bug Tracker
+        * Domain names
+        * Security Certificates
+* Front-End Production
+    * Design
+        * Mood board / look & feel
+        * Typography
+        * Animation guidelines
+        * UI Styleguide
+            * Button components
+            * Form components
+            * ...
+    * Development
+        * HTML templates
+        * Styles framework
+        * JavaScript application
+            * Unit Testing
+            * End to End Testing
+    * Testing
+        * Usability Testing
+        * Browser Testing
+        * Performance Testing
+        * SEO Testing
+* Back-End Production
+    * Database Setup
+    * CMS Setup
+        * Template Integration
+        * User Accounts
+        * Security
+        * SEO
+        * Caching
+    * CDN Setup
+    * Restful APIs
+    * Testing
+        * Unit Testing
+        * End to End Testing
+        * Performance Testing
+* Delivery
+    * Content Entry
+    * Deployment
+    * Review
+        * Post-Mortem
+    * Analysis
+    * Feedback Gathering
+
+And so on - you're essentially designing the project in your head at this point. You could go on to include individual features in this list if you know them by now.
+
+For example:
+
+* List Feature X
+    * Design
+        * ... 
+    * Implementation
+        * Add new item
+        * Delete item
+        * Edit item
+        * ...
+    * Testing
+    * ...
+
+This is surely much better than just saying “hmm... list feature... 6 hours outta do it”. Instead you're building the feature in your head and breaking it down step by step. So we need to be able to add an item. How? What kind of item can we add? How can we make it easy and performant? What else might need to be considered for this seemingly simple task?
+
+Every project will have different task requirements but following this process not only forces you to consider everything that may be required to successfully deliver this project but also makes it easier to plan and assign individual tasks and assess timings. When considering each task, you're placing yourself in the position of the person you're going to be assiging it to, thinking about what they need to do, what problems or questions they might have, what they might need before they can start this tasks, heping you to clarify issues before work begins. Another added benefit is that it demonstrates to the project owner the scale of the work required so many also be helpful in justifying costs.
 
 
 
 
 
-
-For these possibilities what the next steps are need little explanation, but the “we are open to suggestions” answer is always the trickiest. In these cases it really is down to you to make a decision if the project is worth the risk of spending time writing a proposal and estimating for. It could be that the potential for new work is huge, or the client is extremely high profile and thus often it’s worth it, however, if you feel none of these are true, you should probably ask yourself what this statement says about the client and if you want to work with them.
-
-It’s understandable a client wants to get their website or web application at the lowest cost, but the best clients are the most professional, experienced and ethical ones and simply know that not providing a rough budget range could waste theirs and your time.
-
-Assuming you have made the decision to pursue the lead, you can now begin the detailed estimating exercise.
-
-Most web projects can be broken down into the following high-level categories:
-
-Research and planning
-Solution design
-Functional specification
-Web design
-Front-end development
-Back-end development
-Content entry
-Each individual project will contain unique tasks, but most can be encapsulated in the above phases.
-
-The first step to increasing accuracy of web project estimates is to make sure you always begin with a consistent set of categories and then add as many sub-categories and tasks as you like.
-
-Now your consistent high-level project phases are defined, it’s time to get granular and add sub-phases and tasks e.g.:
-
-Research and planning
-Requirements gathering
-Project planning
-Solution design
-Sitemap
-Wireframes
-User workflows
-Functional specification
-Design
-Initial homepage look and feel
-Content page
-Master content page template
-News main page
-News item
-Front-end development
-Template x5 XHTML/CSS
-Cross-browser fixes
-Back-end development
-CMS Setup and configuration
-News feature
-Contact us form
-Content entry
-This full list of required project tasks can be created based on the pre-sales research you have conducted with the client. It is imperative to nail down, in as much detail as possible, what exactly the client wants before you submit an estimate or begin work.
-
-The more granular you can get, the more you are forced at this early stage to think through each part of the project, literally designing and building the website or application from beginning to end in your head.
-
-By going through the project step-by-step, putting yourself in the shoes of the information architect, the designer and all developers, will often immediately result in many issues rearing their head that you need to clarify before putting in an estimate, take the News feature for example. Ideally you could break each feature down as much as you can, so the News feature may actually end up looking like the following:
-
-News feature
-Add/edit/delete new item
-Upload image
-Attach PDF
-Auto-archiving
-RSS
-By resisting the temptation to just think “News… ummm… 5 hours” and breaking it down to this level means you’re mentally building the feature step-by-step and raising questions as you go.
-
-So the client needs to be able to upload images to their news items, ok, but do they need:
-
-Auto-resize capability?
-Auto-thumbnail generation?
-Full-screen viewing?
-Caption addition facility?
-I’m sure you can think of many more questions that could be associated with a simple upload image for a news item requirement. This demonstrates the possible scope variations that are contained within even the smallest of features and that could impact your estimates / risk of underestimating.
-
-By getting granular and mentally trying to build the solution you are able to identify and address these issues early on, making sure to cater for them in your final estimate.
-
-A Web Project Manager knows how to design and develop most of the project on his own, even if with poorer results compared to his team. This allows him to estimate projects with good approximation and to understand his team’s problems and difficulties
-Introduction to Web Project Management: Fucina Web
 
 Don’t forget, by getting this granular not only increases your estimations accuracy, but it also gives you the instant ability to remove proposed features quickly if your estimate exceeds the client’s maximum budget! Need to shave 10 hours off the budget? Well, rather than removing the News feature entirely, how about remove the thumbnail and caption adding functionality from News, and a few other small niceties from other features and still allow the client to have the basic versions of all the features they need? Simply remove the lines and hey presto, a new estimate at warp speed and with full visibility to the client of what functionality they’re sacrificing for budget.
 
