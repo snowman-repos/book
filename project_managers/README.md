@@ -472,11 +472,11 @@ Lag is all the extra time it takes to complete a task or feature that you should
 
 #### Resource Planning
 
-***********************************
-***********************************
-***********************************
+This is pure project management jargon - when we say resources, we mean people. You hopefully have a varied team of people that bring a different mix of skills and skill levels. Planning your project efficiently involves sharing the workload among them, ensuring that their time is optimised and that nobody is sitting around waiting for others to complete their tasks on which their own work depends. Most timeline tools will allow you to assign tasks to specific team members. This will give you an overview of who you need to work on what and when, which is very useful in teams that handle multiple project simultaneously. Maybe some team members will be unavailable or committed to other projects during certain periods so you will need to adjust your timeline to accommodate or re-assign the tasks to someone else. 
 
-Most timeline tools will allow you to assign tasks to specific team members. This will give you an overview of who you need to work on what and when, which is very useful in teams that handle multiple project simultaneously. Maybe some team members will be unavailable or committed to other projects during certain periods so you will need to adjust your timeline to accommodate or re-assign the tasks to someone else.
+Resource planning is important not just for your projects but for your team as a whole. Ongoing problems with resource planning may indicate that your team is under or over-staffed. If you find yourself assigning more tasks to one team member than you are to others, or that one person is suffering under a larger workload, then you may be able to identify skillsets that your team may be lacking, causing certain team members to be spread too thinly. Conversely if you have a team member who is rarely assigned tasks, maybe they could be reassigned to another role or trained in some new, more useful skills?
+
+Resource planning a huge topic in itself and there is not really any solid advice anyone can give you. The major difficulty is in guessing, for it is guesswork, how long it will take someone to complete a particular task. The reason nobody can give you any bulletproof advice is because it depends entirely on the people you're working with - everyone works at different speeds - so it's just something you'll have to learn to improve as you go along. The best advice is to always try and break each task down into the smallest possible chunks that can should be completable in the shortest possible time. Short, quick task assignments are easier to manage and monitor. If there is an overrun, say if someone is struggling, then you can react quickly by assinging some help, even stepping in to help yourself, or by re-arranging your timeline to mitigate the impact on project milestones.
 
 #### Setting Milestones
 
