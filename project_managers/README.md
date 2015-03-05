@@ -484,7 +484,7 @@ Milestones differ from deadlines in that they are internal goals, points at whic
 
 If you can complete each project phase before reaching each milestone date, then you can be sure the project is on track to be completed on top. It's up to you how often you set milestones. The project tasks may lend themselves to obvious phases, or otherwise you may just wish to set arbitrary or regular milestones just to keep everyone motivated and to maintain closer control over project progress. Alternatively, if you're confident that you can stay on top of things then you may not need to set milestones at all.
 
-#### Accuracy vs. Guesswork
+#### Accuracy vs. Guesswork - Planning Your Time
 
 If the first part of this chapter sounded challenging, suggesting you need to be some kind of psychologist to resolve all your team members' personal issues, then you might think sitting down and drawing up a timeline will be easy. In fact, it's the hardest part of a web project manager's job. The sheer complexities of estimating and quoting timelines for web projects means you're going to do it wrong... ***a lot***. Just try a Google search for the phrase "how can I stop completing web projects on time?".
 
@@ -627,22 +627,14 @@ For example:
 
 This is surely much better than just saying “hmm... list feature... 6 hours outta do it”. Instead you're building the feature in your head and breaking it down step by step. So we need to be able to add an item. How? What kind of item can we add? How can we make it easy and performant? What else might need to be considered for this seemingly simple task?
 
-Every project will have different task requirements but following this process not only forces you to consider everything that may be required to successfully deliver this project but also makes it easier to plan and assign individual tasks and assess timings. When considering each task, you're placing yourself in the position of the person you're going to be assiging it to, thinking about what they need to do, what problems or questions they might have, what they might need before they can start this tasks, heping you to clarify issues before work begins. Another added benefit is that it demonstrates to the project owner the scale of the work required so many also be helpful in justifying costs.
+Every project will have different task requirements but following this process not only forces you to consider everything that may be required to successfully deliver this project but also makes it easier to plan and assign individual tasks and assess timings. When considering each task, you're placing yourself in the position of the person you're going to be assiging it to, thinking about what they need to do, what problems or questions they might raise, what they might need before they can start this tasks, heping you to clarify issues before work begins. Another added benefit is that it demonstrates to the project owner the scale of the work required so may also be helpful in justifying costs.
+
+By increasing the accuracy of your timing estimates in this way, you can more easily assess the coast of the project and determine if you're likely to go over budget and need to reduce the proposed feature set, or under budget and could possibly propose more features or enhancements. The project owner probably isn't going to be happy, however, if you propose removing features in order to meet the budget. They want it all. With your nice granular list though perhaps you can find ways to shave small tasks off other features, simplifying everything, so that you still have time to deliver all the features in a more basic form that can be upgraded later. It won't take you much time to go through your list, and the client still gets their features and has full visibility on what's being sacrificed for the sake of the budget. If you're in any doubt about what can be removed or altered, then be sure to consult your client or client manager, as certain requirements may be industry specific so they should have a clearer picture of how it needs to turn out.
 
 
 
 
 
-
-Don’t forget, by getting this granular not only increases your estimations accuracy, but it also gives you the instant ability to remove proposed features quickly if your estimate exceeds the client’s maximum budget! Need to shave 10 hours off the budget? Well, rather than removing the News feature entirely, how about remove the thumbnail and caption adding functionality from News, and a few other small niceties from other features and still allow the client to have the basic versions of all the features they need? Simply remove the lines and hey presto, a new estimate at warp speed and with full visibility to the client of what functionality they’re sacrificing for budget.
-
-Roughly guessing the News feature will take 5 hours is one thing, but what about when the client comes to you after seeing the initial functional specification and asks where the archive section is or how they attach PDFs simply because they assumed the News section they would be getting is like the News section on another website they’d seen?
-
-Getting granular will not always allow you to breakout a required feature in full because it is client industry specific. If you are ever in any doubts about what the client needs, ASK THEM! Take the time to understand their business so that you can fully understand why they want the feature and how it needs to work.
-
-Few clients mind you asking questions, if anything it tends to give them more confidence that you will continue to be as diligent and thorough if they hire you.
-
-Best of all, if you win the work, by getting granular you have:
 
 An instant statement of work
 A defined project scope
@@ -650,6 +642,8 @@ The timings you need to put together an accurate project schedule with milestone
 Set your client’s expectations very early
 Demonstrated your thoroughness and understanding of their business to the client
 By being methodical, transparent and getting granular from the very start means your client is well informed and you’re seriously reducing the chances of friction later down the line.
+
+
 
 YOU WON THE WORK W00T! TIME TO START TRACKING TIME
 The more projects you complete that are categorised with a consistent set of phases and tasks, the more useful data you can collect on how long you estimated versus how long each phase or task actually took.
