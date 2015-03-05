@@ -508,16 +508,12 @@ Taking one of the examples from the list above, if you want to try a new technol
 
 > _English.com_
 
+Luckily, at the time of writing, the devil doesn't exist. the details however are ever-present. You should already know from the outset the project owner's budget. If you don't, you really need to so start pestering your client or client manager. Even a rough budget or a budget range might be enough for you to work with.
 
 
 
 
 
-I may not believe in the Devil, but I do believe this statement to be as true as it gets when it comes to estimating time for web projects.
-
-Some would say this is an oxymoron, and to some extent I would agree, but I do believe by applying a few techniques it’s possible to drastically increase the accuracy of most web project estimates and avoid the feeling of wanting to curl up in the foetal position and whimper helplessly under your duvet.
-
-Before you embark on any detailed estimate exercise it’s crucial to immediately confirm with the client a rough budget, or budget range, they feel would be acceptable for an estimate. After all, if you get a new business lead, spend three days estimating and deliver a proposal worth £30,000 only to hear that the client ‘appreciates your response’ but only has £3000 to spend, you probably deserve to be struck with reasonable force in the baby-making department.
 
 When you receive a project brief, throw some figures out there for the client to comment on, only one of a possible few things will happen:
 
