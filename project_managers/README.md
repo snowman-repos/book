@@ -508,19 +508,14 @@ Taking one of the examples from the list above, if you want to try a new technol
 
 > _English.com_
 
-Luckily, at the time of writing, the devil doesn't exist. the details however are ever-present. You should already know from the outset the project owner's budget. If you don't, you really need to so start pestering your client or client manager. Even a rough budget or a budget range might be enough for you to work with.
+Luckily, at the time of writing anyway, the devil doesn't exist. the details however are ever-present. You should already know from the outset the project owner's budget. If you don't, you really need to so start pestering your client or client manager. Even a rough budget or a budget range might be enough for you to work with.
 
 
 
 
 
 
-When you receive a project brief, throw some figures out there for the client to comment on, only one of a possible few things will happen:
 
-They will laugh and hang up when they hear your daily rate
-You will laugh and hang up when you hear they want Facebook for £4000
-They will say you’re in the right area but probably need to come down or go up a little bit
-They will refuse to feedback and say “We are open to suggestions”
 For these possibilities what the next steps are need little explanation, but the “we are open to suggestions” answer is always the trickiest. In these cases it really is down to you to make a decision if the project is worth the risk of spending time writing a proposal and estimating for. It could be that the potential for new work is huge, or the client is extremely high profile and thus often it’s worth it, however, if you feel none of these are true, you should probably ask yourself what this statement says about the client and if you want to work with them.
 
 It’s understandable a client wants to get their website or web application at the lowest cost, but the best clients are the most professional, experienced and ethical ones and simply know that not providing a rough budget range could waste theirs and your time.
