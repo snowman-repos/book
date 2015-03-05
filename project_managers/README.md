@@ -486,16 +486,11 @@ If you can complete each project phase before reaching each milestone date, then
 
 #### Accuracy vs. Guesswork
 
-If the first part of this chapter sounded challenging, suggesting you need to be some kind of psychologist to resolve all your team members' personal issues, then you might think sitting down and drawing up a timeline will be easy. In fact, it's the hardest part of a web project manager's job. The sheer complexities of estimating and quoting timelines for web projects means you're going to do it wrong... ***a lot***.
+If the first part of this chapter sounded challenging, suggesting you need to be some kind of psychologist to resolve all your team members' personal issues, then you might think sitting down and drawing up a timeline will be easy. In fact, it's the hardest part of a web project manager's job. The sheer complexities of estimating and quoting timelines for web projects means you're going to do it wrong... ***a lot***. Just try a Google search for the phrase "how can I stop completing web projects on time?".
 
 
 
 
-
-
-After reading Alyssa Gregory’s recent article on Sitepoint.com, How to Estimate Time for a Project, I couldn’t help but feel that it was a good introduction but lacked a little when compared with the realities and complexities of estimating/quoting for a website or web application.
-
-But before we look at how to create more accurate estimates for web projects, it’s important to look at the reasons why this area is such a difficult one and why web project management forums aren’t exactly littered with posts entitled “How can I stop completing web projects on budget?”
 
 There are many common reasons why web projects are often underestimated by freelancers and web agencies alike, they include the following:
 
