@@ -448,7 +448,7 @@ Your objective here is to get a list of specific feature requirements (i.e. func
 
 And the end of this process you should have a detailed albeit high-level plan which you can input into your task tracking system that outlines all of the required features, who will be working on them, and how long they should take. You are now in a position to guard against scope screep because you can check any feature requests against the list you have. You have identified potential risks and bottlenecks by determining which tasks will take longest and which depend on others. You have an agreed deadline before which you are confident all tasks can be completed. You're ready to plan the project schedule. You are in control.
 
-### Timing & Deadlines
+### Timing
 
 Now that you have a clear list of resource-allocated feature-based tasks you can start to plan who should do what when. Aside from those tasks, you'll also need to plan for client tasks, changes and revisions, depdencies, lag times, resource availability, and milestones. This may just sound like jargon, but they are things that inevitably act as hurdles in every single project.
 
@@ -484,7 +484,7 @@ Milestones differ from deadlines in that they are internal goals, points at whic
 
 If you can complete each project phase before reaching each milestone date, then you can be sure the project is on track to be completed on top. It's up to you how often you set milestones. The project tasks may lend themselves to obvious phases, or otherwise you may just wish to set arbitrary or regular milestones just to keep everyone motivated and to maintain closer control over project progress. Alternatively, if you're confident that you can stay on top of things then you may not need to set milestones at all.
 
-
+#### Guesswork
 
 
 
