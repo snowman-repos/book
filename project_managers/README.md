@@ -481,8 +481,6 @@ Resource planning a huge topic in itself and there is not really any solid advic
 #### Setting Milestones
 
 
-
-MILESTONES
 Milestones can be assigned to any project phase, but are generally used to define the beginning or end of a high-level project phase e.g. Design complete, Back-end development begins etc. These are the big dates to watch out for as hitting them all means you’re on track to complete the project on time.
 
 Creating a GANNT chart that breaks down the project into as much detail as possible, adding time estimates, dependencies and lag, results in clear start and end dates for each task and phase, and ultimately produces definitive dates for the project milestones.
