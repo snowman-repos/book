@@ -488,23 +488,20 @@ If you can complete each project phase before reaching each milestone date, then
 
 If the first part of this chapter sounded challenging, suggesting you need to be some kind of psychologist to resolve all your team members' personal issues, then you might think sitting down and drawing up a timeline will be easy. In fact, it's the hardest part of a web project manager's job. The sheer complexities of estimating and quoting timelines for web projects means you're going to do it wrong... ***a lot***. Just try a Google search for the phrase "how can I stop completing web projects on time?".
 
+There are so many variables that make it difficult to plan timings accurately, for example:
+
+* new untested technologies, tools, and techniques
+* loosely defined scope
+* imprecise specifications
+* bespoke or industry-specific features
+* no analysis having been done of estimated vs. actual delivery times for past projects
+* client pressure to provide estimates quickly
+* financial pressure to get to work and deliver quickly
 
 
 
 
-There are many common reasons why web projects are often underestimated by freelancers and web agencies alike, they include the following:
 
-The technologies required have never been used before
-Large parts of the project are grey areas at the time of estimating
-The features needed are very specific to the client’s industry and thus bespoke
-To break the project down into the detail it would require almost as much as work as the paid for requirements gathering phase
-While almost all web folk will admit to these points being common reasons why it’s difficult to estimate time for web projects, there are a few that will admit to the following that are just as true:
-
-No previous project ‘estimated vs. actual’ analysis has been conducted to draw on
-The client needs an estimate for their large project tomorrow
-The revenue needs for immediate cash flow now outweigh the effects of no new business now
-Estimating time for a project is not fun
-I am no different. At one point or the other I have cited the valid public reasons but also fallen foul of the not so public ones; this is the reality of working as an insanely busy freelancer, or in an equally busy web agency, just trying to keep your head above the water financially.
 
 However, there are few worse feelings in this industry than getting to any point in a project and realising you’ve grossly underestimated the time, it’s a bitter taste you don’t forget in a hurry and should strive to avoid again.
 
