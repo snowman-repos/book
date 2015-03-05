@@ -631,21 +631,24 @@ Every project will have different task requirements but following this process n
 
 By increasing the accuracy of your timing estimates in this way, you can more easily assess the coast of the project and determine if you're likely to go over budget and need to reduce the proposed feature set, or under budget and could possibly propose more features or enhancements. The project owner probably isn't going to be happy, however, if you propose removing features in order to meet the budget. They want it all. With your nice granular list though perhaps you can find ways to shave small tasks off other features, simplifying everything, so that you still have time to deliver all the features in a more basic form that can be upgraded later. It won't take you much time to go through your list, and the client still gets their features and has full visibility on what's being sacrificed for the sake of the budget. If you're in any doubt about what can be removed or altered, then be sure to consult your client or client manager, as certain requirements may be industry specific so they should have a clearer picture of how it needs to turn out.
 
+So in summary, now you have your granular task list for planning time, you have:
+
+* An instant and clearly defined scope of work
+* Timings you need to formulate and accurate schedule with reasonable milestones
+* Clearly set project owner expectations
+* Demonstrated your thoroughness and understanding to both the project owner and your team, giving everyone confidence that there are fewer chances of problems further down the line
+
+#### Tracking Time
+
+A plan is al very well and good but you need to be able to stick to it.
 
 
 
 
 
-An instant statement of work
-A defined project scope
-The timings you need to put together an accurate project schedule with milestones
-Set your client’s expectations very early
-Demonstrated your thoroughness and understanding of their business to the client
-By being methodical, transparent and getting granular from the very start means your client is well informed and you’re seriously reducing the chances of friction later down the line.
 
 
 
-YOU WON THE WORK W00T! TIME TO START TRACKING TIME
 The more projects you complete that are categorised with a consistent set of phases and tasks, the more useful data you can collect on how long you estimated versus how long each phase or task actually took.
 
 Consistency here is the key again. By this stage you should have the final project estimate that was approved by the client, and this estimate should be broken down first into the same high-level phases as your previous projects, and then at a granular level by task and sub-task.
