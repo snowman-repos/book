@@ -480,10 +480,10 @@ Resource planning a huge topic in itself and there is not really any solid advic
 
 #### Setting Milestones
 
+Milestones differ from deadlines in that they are internal goals, points at which your team can stop having completed a pre-determined set of tasks or features, collect your thoughts, and review the work completed so far. Milestones are how you gauge the project progress. Deadlines on the other hand are final cut-off dates, points at which nothing more can or should be done. The clue is in the name - stones marking each mile of a long journey versus death - the end of everything. Milestones certainly sound a lot friendlier.
 
-Milestones can be assigned to any project phase, but are generally used to define the beginning or end of a high-level project phase e.g. Design complete, Back-end development begins etc. These are the big dates to watch out for as hitting them all means you’re on track to complete the project on time.
+If you can complete each project phase before reaching each milestone date, then you can be sure the project is on track to be completed on top. It's up to you how often you set milestones. The project tasks may lend themselves to obvious phases, or otherwise you may just wish to set arbitrary or regular milestones just to keep everyone motivated and to maintain closer control over project progress.
 
-Creating a GANNT chart that breaks down the project into as much detail as possible, adding time estimates, dependencies and lag, results in clear start and end dates for each task and phase, and ultimately produces definitive dates for the project milestones.
 
 
 
