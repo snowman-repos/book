@@ -486,7 +486,7 @@ If you can complete each project phase before reaching each milestone date, then
 
 #### Accuracy vs. Guesswork
 
-
+If the first part of this chapter sounded challenging, suggesting you need to be some kind of psychologist to resolve all your team members' personal issues, then you might think sitting down and drawing up a timeline will be easy. In fact, it's the hardest part of a web project manager's job. The sheer complexities of estimating and quoting timelines for web projects means you're going to do it wrong... ***a lot***.
 
 
 
