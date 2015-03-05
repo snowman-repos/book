@@ -488,6 +488,8 @@ If you can complete each project phase before reaching each milestone date, then
 
 If the first part of this chapter sounded challenging, suggesting you need to be some kind of psychologist to resolve all your team members' personal issues, then you might think sitting down and drawing up a timeline will be easy. In fact, it's the hardest part of a web project manager's job. The sheer complexities of estimating and quoting timelines for web projects means you're going to do it wrong... ***a lot***. Just try a Google search for the phrase "how can I stop completing web projects on time?".
 
+There are aspects of this role that you will enjoy, while others you don't. Few people enjoy estimating timings purely because it's such hard work and rarely proves to be entirely successful. It takes a lot of time and concentration, both of which you may not be able to spare under the weight of your existing workload. You have to predict the future. Especially if the cost for the project is based on the estimated time, then it makes you ultimately responsible for the sales success as well as the quality of the implementation, maybe even the profitability of your team or agency! If you are someone from a technical or creative background, passionate about creating and building stuff, then this is understandably going to be a joyless part of your job. Nevertheless it has to be done and you should take comfort in knowing that if you get it right, then you'll be rewarded with a warm fuzzy feeling that more than compensates.
+
 There are so many reasons for it being difficult to plan web project timings accurately, for example:
 
 * new untested technologies, tools, and techniques
@@ -500,46 +502,24 @@ There are so many reasons for it being difficult to plan web project timings acc
 
 And there are many other potential reasons. It's a miserable feeling indeed knowing that you've underestimated and thus committed you and your team to overtime and rushed work. And yet it's a feeling that you may get time and time again as you try and fail to formulate rhobust plans. Unfortunately, it all comes down to guesswork. The best you can do is sit down in advance and think about the potential risks to your timeline and try and find ways to reduce them.
 
-Taking the above list of examples, if you want to try a new technology that your team might be unfamiliar with, then you should probably spend some time researching or practicing with it first. Obviously you don't want to be doing this for free, nor does the project owner really want to be paying for it unless they get a clear cost benefit. In this case you could perhaps compromise by charging a reduced fee for a research phase that includes work on the simpler tasks. You could create a more high-level project plan based on this, to which you can add more detail once your team have had chance to use the new technology in this experimental phase and can therefore more accurately assess timings. In the best case scenario you've learned a new technology and kept the client happy with a low cost while still being productive. At worst you've still learned a new technology and made some revenue.
+Taking one of the examples from the list above, if you want to try a new technology that your team might be unfamiliar with, then you should probably spend some time researching or practicing with it first. Obviously you don't want to be doing this for free, nor does the project owner really want to be paying for it unless they get a clear cost benefit. In this case you could perhaps compromise by charging a reduced fee for a research phase that includes work on the simpler tasks. You could create a more high-level project plan based on this, to which you can add more detail once your team have had chance to use the new technology in this experimental phase and can therefore more accurately assess timings. In the best case scenario you've learned a new technology and kept the client happy with a low cost while still being productive. At worst you've still learned a new technology and made some revenue.
 
 
 
 
 
 
-If a client needs an estimate for a large project tomorrow, please refer to the ball park figure section in Part 2 of this article. Try to confirm a ball park figure and then assess the potential gains to your business versus the possibility of underestimating this one project. Always bear in mind, the larger the project, the greater the likelihood you will underestimate and the potential loss you could incur by submitting a low estimate.
 
-Revenue needs of a freelancer or small businesses for cash flow is an ever present issue. A typical dilemma faced is:
 
-We need £20k in revenue this month to sustain the business
-Client is offering us a maximum of £10k now and we don’t have many other leads
-We feel their project will cost a minimum of £15k
-We can walk away now and not lose £7k, but also not make £10k
-We can take the project on and try and do it for £10k
-We can take the project on; accept the £5k loss, break even and live to fight another day
-This quandary is the reality of running a business and just one of the daily tough decisions a freelancer or Managing Director has to make, I don’t envy them. What to do in this situation is entirely the business owners decision, all you can do is get accurate information to them so that they can make as informed a decision as possible.
 
-Well never has a truer word been spoken. Despite taking so much pride in it, and also testing new ways to improve accuracy, it’s not often a person will love the process of compiling and delivering a project estimate (if you find one, grab hold of them and lock them in your office!).
 
-Let us speak plainly my friends; the following facts are true when it comes to estimating web projects:
 
-It’s hard work and takes you outside your comfort zone
-Forces you to predict the future
-Usually has to be completed alongside your plans for your already fully booked week
-Makes you largely responsible for the:
-Sales success
-Solution offered
-Eventual profitability of the project
-Growth/survival of your business
-With all of the above being truisms that I believe most people who have to estimate web project feel, the scary truth of the matter is getting it wrong just a few times can leave a freelancer or small web agency in real turmoil.
 
-For all of the reasons stated above, getting people who are primarily from a creative or technical background and more passionate in actually creating something, to really spend time on developing a solid and reliable web project time estimating process is quite difficult and understandably so, it’s just not sexy work.
 
-But, especially in these turbulent times, being able to identify any gaps in your entire web project management workflow that (incoming buzzword bingo phrases) minimise project risk and maximise project profit should take a front seat, and the web project estimation phase is the most crucial in achieving these aims.
 
-In Part 2 of this article I will go into detail of how I personally go about estimating time for web projects, both on an individual project and long-term multiple project basis, that combats the remaining common reasons for underestimating.
 
-After reading Alyssa Gregory’s recent article on Sitepoint.com, How to Estimate Time for a Project, I couldn’t help but feel that it was a good introduction but lacked a little when compared with the realities and complexities of estimating/quoting for a website or web application.
+
+
 
 The Devil is in the detail: When people say that the devil is in the detail, they mean that small things in plans and schemes that are often overlooked can cause serious problems later on.
 Using English.com
