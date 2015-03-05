@@ -480,9 +480,11 @@ Resource planning a huge topic in itself and there is not really any solid advic
 
 #### Setting Milestones
 
-Milestones differ from deadlines in that they are internal goals, points at which your team can stop having completed a pre-determined set of tasks or features, collect your thoughts, and review the work completed so far. Milestones are how you gauge the project progress. Deadlines on the other hand are final cut-off dates, points at which nothing more can or should be done. The clue is in the name - stones marking each mile of a long journey versus death - the end of everything. Milestones certainly sound a lot friendlier.
+Milestones differ from deadlines in that they are internal goals, points at which your team can stop, having completed a pre-determined set of tasks or features, regroup, collect your thoughts, and review the work completed so far. Milestones are how you gauge the project progress. You might find that you need to reorganise your plan, redo some tasks, or plan for some unforseen work. Deadlines on the other hand are final cut-off dates, points at which nothing more can or should be done. Missing a deadline means that something went wrong, whereas missing a milestone just means that things aren't going quite to plan and a change needs to be made. Maybe you just didn't include enough lag time? Maybe it was beyond your control as someone fell ill? The clue is in the name - stones marking each mile of a long journey versus death - the end of everything. Milestones certainly sound a lot friendlier.
 
 If you can complete each project phase before reaching each milestone date, then you can be sure the project is on track to be completed on top. It's up to you how often you set milestones. The project tasks may lend themselves to obvious phases, or otherwise you may just wish to set arbitrary or regular milestones just to keep everyone motivated and to maintain closer control over project progress.
+
+
 
 
 
