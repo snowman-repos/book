@@ -705,6 +705,8 @@ All of these factors can and should influence content, design, and implementatio
 
 Hopefully this research has been done already by this point and the information is at hand. Maybe the project owner may be able to provide some insight, especially if they have any existing web projects from which to draw data.
 
+How about user stories? These are simple
+
 #### Performance Budget
 
 The next most important thing to always consider is the performance budget. We've covered PBs earlier in this chapter but this is where the budget should be written down and shared. Try to be as explicit as possible about all required metrics and ensure that all metrics are testable.
