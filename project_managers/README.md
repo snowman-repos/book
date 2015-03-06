@@ -640,72 +640,17 @@ So in summary, now you have your granular task list for planning time, you have:
 
 #### Tracking Time
 
-A plan is al very well and good but you need to be able to stick to it.
+A plan is al very well and good but you need to be able to stick to it and the best way to do that is to plan well in the first place. Well, again, this is only going to come through experience. Not just experience doing web project management but experience working with this team on these kinds of projects. By consistently tracking how long your team actually spends on each task and measuring against how long you estimated it would take, you not only get a clearer picture of project progress but you can also determine the accuracy of your timing estimations and identify potential bottlenecks. Gradually, you will get more accurate; if you always seem to underestimate a particular task or phase then you'll know to allocate more time for those tasks on future projects.
 
+Find a way to easily collect and collate timing data for each project. This will allow you to build up average timings for project phases so that you can give more accurate ballpark guesses and figures to your boss or client team. These guesses can also be good starting points for estimates on future projects. Equipped with a capped budget and average timings for project phases, you can find the most cost-effective solution to deliver the required features. That's much better than going in blind.
 
+A side effect of collecting this timing data is that you also have a list of commonly repeated tasks in different projects. Perhaps you might be able to identify areas where you could make efficiency savings? For instance if you're often building a news feed or a product carousel or an FAQ page, you could set a side project for someone or a group of people to create a resusable module or library.
 
+Nobody enjoys time tracking. It's methodical, laborious, repetitive and often seems a pointless waste of time. It doesn't guarantee that a project won't go over budget and people often see time tracking suspiciously, as if a slave master is sitting behind them making sure they don't stop working. Is my job under threat if I don't track a solid 8 hours or if the chap sitting next to me is clocking more hours? And yet everyone on the team needs to track their time in order for you to collect the valuable data you need to plan future projects. The main obstacles to proper time tracking are a combination of poor tools - difficult to use, overly detailed, not tailored to the individual or organisation's specific needs - and poor communication.
 
+In terms of tools, there are more and more time-tracking solutions available all the time, many that are available as web apps or that integrate with offline desktop tools such as code editors. Maybe you might need different team members to adopt different tools depending what would have the least impact on their workflow. It would afterall defeat the purpose if people had to spend too much of the precious time you've planned for them tracking their time. Maybe you need your own bespoke tool (another great idea for a side project!) that's tailored to the roles and workflow or your team specifically. Deciding on tooling should be a team conversation and everyone should have a say. As long as you get your data.
 
-
-
-
-The more projects you complete that are categorised with a consistent set of phases and tasks, the more useful data you can collect on how long you estimated versus how long each phase or task actually took.
-
-Consistency here is the key again. By this stage you should have the final project estimate that was approved by the client, and this estimate should be broken down first into the same high-level phases as your previous projects, and then at a granular level by task and sub-task.
-
-Simply replicate this structure and the time estimates for each in your time tracking tool of choice so that you can:
-
-See how long you have to complete each phase
-View how long you have for each task and sub-task
-At the end, report on how long everything took
-Not only is this a perfect way to track the progress of the project you are working on, but the data you collect over multiple projects, using a consistent pattern, will become more and more valuable when it comes to estimating future projects and also allow you to identify bottlenecks in your project processes.
-
-ANALYSE PROJECT ESTIMATES VS. ACTUAL TIME SPENT
-Once you have defined a consistent set of high-level project phases to use when estimating all web projects, and committed to setting up your time tracking tool each time to match, you are ready to reap the rewards.
-
-By tracking all the estimated and actual times of all past projects, using a consistent framework, will give you an average percentage that each phase and task took, and you can use these averages as a good guide for starting a new estimate.
-
-For example, by collecting data for your past five projects you are able to identify trends like:
-
-Solution design took around 10% of the total project time to complete and get approved
-Web design 30%
-Front-end development 15%
-Back-end development 30%
-And so on…
-
-Using these averages, and with a client’s preferred budget, you can begin to immediately allocate a rough amount of time to each phase and then break out each in more detail, but with the roughly allowed hours available known beforehand.
-
-With this initial capped time limit in place, you can estimate not only your times but also the most cost-efficient solution you can deliver based on the budget rather than going in with a blind quote that may be way to small or too high.
-
-Of course, this is dependent on knowing the client’s budget beforehand, not always possible, but more possible than most seem to think if you just explain you want to deliver the best solution for the budget given that you could potentially offer a News feature that costs £750 or £7,500.
-
-GET GRANULAR WITH FEATURES, AGAIN!
-Aside from being able to determine the average percentage of time each high-level phase usually takes of each project, you can take this tracking and analysis one step further.
-
-How many websites or web applications tend to need a feature you’ve implemented before? Small to medium business websites invariably demand the following functionalities:
-
-News
-Press Releases
-Case Studies
-Events
-FAQ
-Contact us form
-At the estimating stage you will have identified these requirements and broken them down as much as you can. Not only can you re-use these common breakdowns in multiple quotes, if you track the time for each one over multiple projects you will also begin to have average times it takes to implement or migrate each feature – now that’s useful.
-
-IN SUMMARY
-The approach for estimating time for web projects I have described to you in this article works for me. It’s something I’ve developed over several years through trial and error by having to estimate web projects of all shapes and sizes in a small web agency environment, combined with a lot of good old fashioned hours of research.
-
-Its methodical, it’s laborious, isn’t a guarantee that a project will not go over budget and I’ve no doubt is something I will continue to develop and evolve as time goes by. But as any web project manager will tell you, the more you plan, the more chance there is your project will be successful and the same goes for estimating times.
-
-When possible, resisting the temptation to throw some figures onto a proposal and send it off and instead splitting the project requirements into as granular detail as possible can really be a life saver. It not only identifies possible grey areas early on but forces you to think through everything you’re planning on offering the client and to what extent/scope.
-
-It also presents you to the client as someone, or as an agency, who are very meticulous, diligent and thorough in how they approach things and this is often taken as a signifier of how you will approach the rest of the project and this always gives the client confidence.
-
-Finally, by creating and maintaining a consistent pattern of high-level phases and tasks between your web project time estimates and time tracking means you can collect and analyse reliable data from multiple projects that can help you further increase the accuracy of, and cut the time needed to create, estimates for web projects.
-
-
-
-
+Ultimately though, no matter what time tracking tools you decide upon, people aren't going to use them to their full potential, if at all, if they aren't personally invested in the reasons behind doing it. You need to communicate to the team the importance of time tracking for the organisation of the project as a whole and for the sake of future projects. It's not just about calculating bonuses or making your job easier. If you can't accurately assess how long a task takes them, you might inadvertently assign them too little time in future, or they may end up being assigned to multiple tasks or projects simultaneously due to the challenge of resource planning. By tracking their time, they are giving themselves enough time to do their work from now on. Tracking time leads to less overtime and more productive work time. Try to make it a daily habit, something that can be done quickly, easily (even automatically?) and at the same time every day during less productive times, like at the start of each day, the end of each day, or just after lunch.
 
 ### Roles & Responsibilities
 
