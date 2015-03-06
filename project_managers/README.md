@@ -722,6 +722,9 @@ For example if you're building a blog, your content sections may be a section ab
 Think of it like a biologist ranking and classifying plants or animals by kingdoms, phyla, species, and sub-species. At each stage they are listing the name and the attributes that are shared among the sub-stages, adding more distinguishing attributes as they go further down the tree. Likewise you are here identifying the main information sections, describing the attributes of that information in detail (e.g. date, author, category, what the user might be able to change/add/delete), and then going on to detail sub-sections and sub-sub-sections.
 
 #### Content Guidelines
+
+
+
 #### Wireframes
 #### Feature List
 #### Media
