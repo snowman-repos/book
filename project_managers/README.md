@@ -721,6 +721,8 @@ For example if you're building a blog, your content sections may be a section ab
 
 Think of it like a biologist ranking and classifying plants or animals by kingdoms, phyla, species, and sub-species. At each stage they are listing the name and the attributes that are shared among the sub-stages, adding more distinguishing attributes as they go further down the tree. Likewise you are here identifying the main information sections, describing the attributes of that information in detail (e.g. date, author, category, what the user might be able to change/add/delete), and then going on to detail sub-sections and sub-sub-sections.
 
+This information directly translates to relational database schemas and classes and objects in the code, as well as providing designers with an initial idea of how the different kinds of information might need to be presented.
+
 #### Content Guidelines
 
 
