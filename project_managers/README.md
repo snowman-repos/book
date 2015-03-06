@@ -727,6 +727,29 @@ This information directly translates to relational database schemas and classes 
 
 What's all too often forgotten in web content strategy is that content isn't just the words on the page.
 
+
+Who is your audience? Who are trying to reach with your message?
+What is your message? What are you trying to get across?
+What should happen after this message is delivered? What are your goals?
+
+
+Remember the Visitor has Come to Your Site for a Reason
+The visitor is in a hurry
+Most Visitors Scan Websites, They don't Read Every Word
+Put the Important Content First
+Links
+Proofreading
+Abbreviations and Acronyms
+Lists
+Legal Stuff
+Dates and Times
+Headlines
+Keywords
+Titles
+Meta Data
+Branding
+
+
 #### Wireframes
 #### Feature List
 #### Media
