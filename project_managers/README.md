@@ -760,7 +760,11 @@ The wireframe diagrams show only content and functionality features, and how the
 
 Here you go into full detail about what every part of the website or application should **have** and **do**.
 
-- user flow diagram
+e.g Product / Inventory Summary Showcase: displays a summary of items for sale, stock number, item name, short description, one photo, price, and Add to Cart button.
+Product / Inventory One Item Showcase: displays the detail of one inventory item: stock number, item name, long description, multiple photos (up to 10 photos), price, and Add to Cart button.
+
+
+- user flow diagrams
 
 #### Timings
 
