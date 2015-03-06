@@ -756,7 +756,7 @@ Wireframes are not a design tool. They should not convey colours, styles, sizes,
 
 #### Feature List
 
-Here you go into full detail about what every part of the website or application should *do*.
+Here you go into full detail about what every part of the website or application should **have** and **do**.
 
 #### Timings
 
