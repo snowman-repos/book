@@ -678,7 +678,7 @@ The specs should have sections tailored to providing detailed information to eac
 
 One of the main purposes of the functional specs is to provide a shared language for tools and features. Features or UI components need one specific and explicitly stated name that everyone can use when discussing it. For example, a carousel at the top of the homepage might be called a carousel by one person and a slider by another. A dropdown menu may be called a select input, a hover list, a tooltip menu, or a dropdown menu. A hero area may also be a masthead. A modal window may be a dialog box or a popup. And so on. Another consideration is that the people involved in the project may come from different backgrounds - creative, technical, marketing, sales, management, etc., maybe different industries, or different languages and cultures. The specs should normalise everyone and keep them all on the same page, so to speak.
 
-Desiging a good functional spec is a skill in itself. The information needs to be presented in a simple and clear way that's easily understandable by everyone. The specs should be as detailed as possible without being overly complicated, so you'll have to find a balance. It should be possible for all project stakeholders to pick up the spec and easily envisage what a certain feature should do. The documentation can easily be over-complicated by superfluous information and messy diagrams or annotations. If there is a wireframe diagram featuring several buttons, try and find a way to make it obvious that those are buttons through consistent styling rather than filling the page with arrows and the word "button". Likewise don't label those buttons with coded serial numbers that need to be referenced in a table 14 pages down by a cell that says "this is a button". You'd be surprised just how many functional specs are produced by agencies every day all over the world that are 99% mental diarrhea.
+Designing a good functional spec is a skill in itself. The information needs to be presented in a simple and clear way that's easily understandable by everyone. The specs should be as detailed as possible without being overly complicated, so you'll have to find a balance. It should be possible for all project stakeholders to pick up the spec and easily envisage what a certain feature should do. The documentation can easily be over-complicated by superfluous information and messy diagrams or annotations. If there is a wireframe diagram featuring several buttons, try and find a way to make it obvious that those are buttons through consistent styling rather than filling the page with arrows and the word "button". Likewise don't label those buttons with coded serial numbers that need to be referenced in a table 14 pages down by a cell that says "this is a button". You'd be surprised just how many functional specs are produced by agencies every day all over the world that are 99% mental diarrhea.
 
 Finally the specs should be easily shareable and accessible. They could be composed in many different forms or document formats but make sure it's one that everybody, every project stakeholder, can download and open whenever and wherever they are using any device. Something like a shared Google doc might be a good idea, but you'd want to restrict editing access - only you should have control over it. Otherwise a PDF on a shared server directory or web link. If it's 300MB you might want to break it up into more manageable sections.
 
@@ -746,7 +746,12 @@ You'll also want to include specific rules, as with the performance budget, that
 - styles
 
 #### Feature List
-#### Media
+
+
+
+#### Timings
+
+The last thing everybody needs to stay aware of (or maybe the first?) is the timeline, showing project phases, assigned tasks, dependencies, milestones, and deadlines. You may want to incude a timeline diagram directly in the specs or at least reference a shared calendar which people can check each day.
 
 Now, you're finally ready to kick off the project.
 
