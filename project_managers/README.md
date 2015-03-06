@@ -713,7 +713,13 @@ Performance is crucial and it's not just a case of coding more efficiently, chas
 
 #### Information Architecture
 
+Here we have to determine the main sections or content categories of the project and how they fit together. For web projects are, on the whole, content delivery services. The end result of such an analysis, and what should be put in this section, is probably something akin to a sitemap. It may be a tree diagram, a table, a simple list, or something else. The goal is to illustrate what kind of content should be available to the user and how they might access and interact with it (maybe add, change, or delete it).
 
+Why should this be in the functional specs? Because it guides everything from content strategy to UI design to database schema and endpoint API design. In other words, everyone needs to know about it.
+
+For example if you're building a blog, your content sections may be a section about you and then your blog articles. Your blog articles may then also be categorised. You may have multiple authors. You may have a ratings sytem. You may want to be able to archive articles, and organise and filter them according to date, author, category, popularity, and so on. A news section may have sub-sections with different pages that may require different styles.
+
+Think of it like a biologist ranking and classifying plants or animals by kingdoms, phyla, species, and sub-species. At each stage they are listing the name and the attributes that are shared among the sub-stages, adding more distinguishing attributes as they go further down the tree. Likewise you are here identifying the main information sections, describing the attributes of that information in detail (e.g. date, author, category, what the user might be able to change/add/delete), and then going on to detail sub-sections and sub-sub-sections.
 
 #### Content Guidelines
 #### Wireframes
