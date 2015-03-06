@@ -656,11 +656,17 @@ Try to make it a daily habit, something that can be done quickly, easily (even a
 
 ### Roles & Responsibilities
 
+Part of your project plan is going to be the assignment of tasks to people. That means all project stakeholders: the project owner, your boss, the client manager, all of your production team, and of course yourself. This is to make everyone clear about what they need to do in order to make the project a success. It's one of the easiest parts of project planning because roles generally don't change much from project to project as people's skillsets and focus remains the same or at least tends to change slowly.
+
+For example your production director should be aware that you may require additional resources to complete the project, even if only temporary. That means hiring new team members or perhaps re-arranging other projects to free up people. They may also need to step in and defend the team's decisions to the client, or to help with negotiating budgets by adding weight to the conversation. A client manager must be aware of the timings, costs, and feedback requirements. Roles for the production team are generally obvious but should still be stated clearly. Whether you want to explicitly name people in your plan is up to you, but you may find it helpful to make people feel more personally invested in the project and also to reassure the client that you have a team of real hardworking people dedicated to their project and justifying their budget.
+
+The role that generally needs the most reminding of their responsibilites is the client or project owner. This is because they, unlike you and your team, presumably don't do this for a living day-in, day-out. Maybe it's their first time taking part in the production of a web project or maybe it's just something they really delve into. They may be under the assumption that if they're paying you then they don't have to do anything - you don't go to a restaurant to cook your own food do you? Well... some restaurants you do. 
 
 
 
 
-CLIENT TASKS AND REVISION TIME
+
+
 One thing your granular project breakdown will often not include, because it’s not something you need to estimate on in order to produce a quote, is the tasks the client must complete throughout the project and the revision mini-stages you have to expect to go through before sign-off of any phase or task. At this stage you need to include them, not only for your sake but also the clients’.
 
 This means adding tasks such as:
@@ -674,6 +680,9 @@ Despite these tasks being either encapsulated in your quote as ‘Homepage desig
 Often a client seeing the turnaround time required from them, when comparing with their busy schedule, can illustrate the realism of hitting their go-live date and open up an adult dialogue that will see an extension allowed.
 
 Note that this is still before you have put pen to paper and started a sitemap or designing the homepage – this is hardcore client expectation setting right at the beginning of the project and in the right way, as opposed to 2 weeks before go live when print campaigns have been booked!
+
+
+
 
 ### Functional Specifications
 
