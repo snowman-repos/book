@@ -756,11 +756,13 @@ Wireframes are not a design tool. They should not convey colours, styles, sizes,
 
 The wireframe diagrams show only content and functionality features, and how they are organised and prioritised, that a designer can then style and move into place.
 
+- iterative, refinement
+
 #### Feature List
 
 Here you go into full detail about what every part of the website or application should **have** and **do**.
 
-
+- user flow diagram
 
 #### Timings
 
