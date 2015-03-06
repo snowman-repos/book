@@ -725,29 +725,20 @@ This information directly translates to relational database schemas and classes 
 
 #### Content Guidelines
 
-What's all too often forgotten in web content strategy is that content isn't just the words on the page.
+Content strategy comes under the role of a content manager so we shalln't go into too much detail here (See _Chapter 6: Content Managers_). If it's not you covering that role then you'll need to work closely with whoever is in order to fill out this section.
+
+A robust content strategy is essentially a set of policies to be followed for all content throughout the project and is used for generating and maintaining that content. What's all too often forgotten in web content strategy is that content isn't just the words on the page, but also includes all of the meta data and media. That means that everyone needs to be aware of it whether writing, desiging, coding, or testing, right from the start.
+
+A content strategy should basically cover these main areas:
+
+* **Editorial strategy** - values, voice, tone, style, legal and regulatory concerns, etc.
+* **Metadata** - the data about the content
+* **SEO** - how content should be optimised for search
+* **Content channel distribution** - how and where content will be generated, published, and made available to users
+
+You'll also want to include specific rules, as with the performance budget, that absolutely must be followed throughout the production process. For example, you may want to put here the WCAG2.0 guideliness for ensuring accessibility.
 
 
-Who is your audience? Who are trying to reach with your message?
-What is your message? What are you trying to get across?
-What should happen after this message is delivered? What are your goals?
-
-
-Remember the Visitor has Come to Your Site for a Reason
-The visitor is in a hurry
-Most Visitors Scan Websites, They don't Read Every Word
-Put the Important Content First
-Links
-Proofreading
-Abbreviations and Acronyms
-Lists
-Legal Stuff
-Dates and Times
-Headlines
-Keywords
-Titles
-Meta Data
-Branding
 
 
 #### Wireframes
