@@ -705,7 +705,17 @@ All of these factors can and should influence content, design, and implementatio
 
 Hopefully this research has been done already by this point and the information is at hand. Maybe the project owner may be able to provide some insight, especially if they have any existing web projects from which to draw data.
 
-How about user stories? These are simple
+How about user stories? These are simple to produce and are very popular in fast-paced agile project management methodologies. Without them, your functional specs may be overly concerned with features - what you are building for your client or project owner. User stories, as the name suggests, places focus and emphasis on the user. The idea is to identify some example or hypothetical user _roles_ (after all, it can be difficult, if not impossible, to gather data from real users), the type of users that will be using the project once it's launched, why they would want to use it, and what they need in order to use it easily. For example:
+
+As a **reader of history books**
+I would like to **search for history books** that I want to read
+So that **I can buy them**
+
+As a **site administrator**
+I would like to be able to **take payment** for books
+So that I can **receive money** before I send books to people
+
+These are also helpful for you to prioritise you and your team's ideas, using words like must, should, could, and would.
 
 #### Performance Budget
 
