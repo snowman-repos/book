@@ -448,6 +448,20 @@ Your objective here is to get a list of specific feature requirements (i.e. func
 
 And the end of this process you should have a detailed albeit high-level plan which you can input into your task tracking system that outlines all of the required features, who will be working on them, and how long they should take. You are now in a position to guard against scope screep because you can check any feature requests against the list you have. You have identified potential risks and bottlenecks by determining which tasks will take longest and which depend on others. You have an agreed deadline before which you are confident all tasks can be completed. You're ready to plan the project schedule. You are in control.
 
+### Roles & Responsibilities
+
+Part of your project plan is going to be the assignment of tasks to people. That means all project stakeholders: the project owner, your boss, the client manager, all of your production team, and of course yourself. This is to make everyone clear about what they need to do in order to make the project a success. It's one of the easiest parts of project planning because roles generally don't change much from project to project as people's skillsets and focus remains the same or at least tends to change slowly.
+
+For example your production director should be aware that you may require additional resources to complete the project, even if only temporary. That means hiring new team members or perhaps re-arranging other projects to free up people. They may also need to step in and defend the team's decisions to the client, or to help with negotiating budgets by adding weight to the conversation. A client manager must be aware of the timings, costs, and feedback requirements. Roles for the production team are generally obvious but should still be stated clearly. Whether you want to explicitly name people in your plan is up to you, but you may find it helpful to make people feel more personally invested in the project and also to reassure the client that you have a team of real hardworking people dedicated to their project and justifying their budget.
+
+The role that generally needs the most reminding of their responsibilites is the client or project owner. This is because they, unlike you and your team, presumably don't do this for a living day-in, day-out. Maybe it's their first time taking part in the production of a web project or maybe it's just something they really delve into. They may be under the assumption that if they're paying you then they don't have to do anything - you don't go to a restaurant to cook your own food do you? Well... some restaurants you do. 
+
+It's important to highlight to them that they are deeply involved in the process. They're investing in the project so you want to be sure that you're delivering exactly what they want. Feedback loops, and the quality of the feedback, has a huge impact on the progress of the project and its final outcome, respectively. You may need them to provide not just feedback but also content or other assets on which your team's work depends.
+
+Assessing how much time to allocate to client tasks can be tricky at the best of times so you should consult them regularly to determine when would be best to schedule feedback loops based on when they are available. By stating clearly to them their role in the project they will be made aware of how they could negatively impact (their own?) deadline. Depending on your relationship with them you might even want to put it explicitly in writing that any delays on their end will push back the final deadline by the same length of time. It's about setting their expectations early, even before you've properly started work on the project.
+
+Some project owners will of course just want to leave you to it and wait for the finished product. Ideally though, the more you involve the project owner in the production process, the more personally invested they will feel, and thus more motivated to continue maintaining and improving the product. That's the goal here - the ongoing success of the product.
+
 ### Timing
 
 Now that you have a clear list of resource-allocated feature-based tasks you can start to plan who should do what when. Aside from those tasks, you'll also need to plan for client tasks, changes and revisions, depdencies, lag times, resource availability, and milestones. This may just sound like jargon, but they are things that inevitably act as hurdles in every single project.
@@ -654,23 +668,9 @@ Ultimately though, no matter what time tracking tools you decide upon, people ar
 
 Try to make it a daily habit, something that can be done quickly, easily (even automatically?) and at the same time every day during less productive times, like at the start of each day, the end of each day, or just after lunch. It's your job to ensure everyone is tracking their time and if necessary to listen to and address the concerns of those who may not be.
 
-### Roles & Responsibilities
-
-Part of your project plan is going to be the assignment of tasks to people. That means all project stakeholders: the project owner, your boss, the client manager, all of your production team, and of course yourself. This is to make everyone clear about what they need to do in order to make the project a success. It's one of the easiest parts of project planning because roles generally don't change much from project to project as people's skillsets and focus remains the same or at least tends to change slowly.
-
-For example your production director should be aware that you may require additional resources to complete the project, even if only temporary. That means hiring new team members or perhaps re-arranging other projects to free up people. They may also need to step in and defend the team's decisions to the client, or to help with negotiating budgets by adding weight to the conversation. A client manager must be aware of the timings, costs, and feedback requirements. Roles for the production team are generally obvious but should still be stated clearly. Whether you want to explicitly name people in your plan is up to you, but you may find it helpful to make people feel more personally invested in the project and also to reassure the client that you have a team of real hardworking people dedicated to their project and justifying their budget.
-
-The role that generally needs the most reminding of their responsibilites is the client or project owner. This is because they, unlike you and your team, presumably don't do this for a living day-in, day-out. Maybe it's their first time taking part in the production of a web project or maybe it's just something they really delve into. They may be under the assumption that if they're paying you then they don't have to do anything - you don't go to a restaurant to cook your own food do you? Well... some restaurants you do. 
-
-It's important to highlight to them that they are deeply involved in the process. They're investing in the project so you want to be sure that you're delivering exactly what they want. Feedback loops, and the quality of the feedback, has a huge impact on the progress of the project and its final outcome, respectively. You may need them to provide not just feedback but also content or other assets on which your team's work depends.
-
-Assessing how much time to allocate to client tasks can be tricky at the best of times so you should consult them regularly to determine when would be best to schedule feedback loops based on when they are available. By stating clearly to them their role in the project they will be made aware of how they could negatively impact (their own?) deadline. Depending on your relationship with them you might even want to put it explicitly in writing that any delays on their end will push back the final deadline by the same length of time. It's about setting their expectations early, even before you've properly started work on the project.
-
-Some project owners will of course just want to leave you to it and wait for the finished product. Ideally though, the more you involve the project owner in the production process, the more personally invested they will feel, and thus more motivated to continue maintaining and improving the product. That's the goal here - the ongoing success of the product.
-
 ### Functional Specifications
 
-
+So far, you have a plan. You know exactly what needs to be done and achieved, who's going to do it, and rougly how long it's all going to take.
 
 
 
