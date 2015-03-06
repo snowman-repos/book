@@ -670,9 +670,10 @@ Some project owners will of course just want to leave you to it and wait for the
 
 ### Functional Specifications
 
-******************************************
-******************************************
-******************************************
+
+
+
+
 
 what everyone on the production team needs to get started
 
@@ -687,7 +688,11 @@ kick off
 
 ## Comunication & Workflow
 
- - agile
+- introduction
+- agile
+- kick off
+- scrums / standups
+- reviews / post-mortems
 
 WHY GANTT CHARTS WORK FOR ME
 GANTT charts are the subject of much debate in the project management world, some people love them and some hate them. You will find endless conversations online arguing how they are old fashioned and enforce a Waterfall methodology.
@@ -1026,6 +1031,15 @@ Why do you quickly click off Twitter, Amazon, Facebook etc. back to work when yo
 Have you ever worked anywhere where this culture was discouraged? What were the big differences?
 Do you believe there is real commercial value in this culture? If so can you articulate what it is?
 C’mon, sell it to me; sell it to our bosses, please. There must be some Web Project Managers our there who also stay on Twitter all day and read blog posts etc. Why do you find it beneficial? Or, in what way do you see it as a beneficial thing for your project team to be doing?
+
+
+
+
+
+
+
+
+
 
 
 ## Setting things up
