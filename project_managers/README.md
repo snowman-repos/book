@@ -740,10 +740,13 @@ You'll also want to include specific rules, as with the performance budget, that
 
 #### Design Guidelines
 
+Designers face the daunting challenge ot starting with a completely blank canvas. We can make that challenge less daunting perhaps by filling in the canvas with things like colours or wireframe diagrams.
+
+Branding and colours is probably the best place to start and can often be easily extracted from the project owner's existing branding. They probably have a logo, some corporate typefaces, colours, even perhaps a brand style guide. These may not all be easily translatable to the web but that's a problem that the designer should resolve - this will at least get them started.
+
+Personality is another important factor. What kind of product is it? Who is it aimed at? Should the style be stiff and sharp, or soft and rounded? This sort of information is difficult to convey. The user information above helps to some extent. Other ideas might be to discuss with the client a persona for the project - what would it be like if it was a person? Or otherwise check the industry competition and see if there are any other similar projects from which we can take inspiration. The project owner probably has a few ideas, and remember that we're selling the project not just to their **users** but to them, so their personal preferences should be taken into account as well. They are the ones that have to make an ongoing investment in the project and so they will be more likely to stay committed and passionate if it matches their personal tastes exactly.
+
 - wireframes
-- branding
-- colours
-- styles
 
 #### Feature List
 
