@@ -681,7 +681,16 @@ Note that this is still before you have put pen to paper and started a sitemap o
 ******************************************
 ******************************************
 
+what everyone on the production team needs to get started
+
 - shared language for tools and features
+- wireframes
+- example func specs
+- feature list
+- information architecture
+- content guidelines
+
+kick off
 
 ## Comunication & Workflow
 
