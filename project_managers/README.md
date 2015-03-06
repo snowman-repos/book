@@ -670,21 +670,30 @@ Try to make it a daily habit, something that can be done quickly, easily (even a
 
 ### Functional Specifications
 
-So far, you have a plan. You know exactly what needs to be done and achieved, who's going to do it, and rougly how long it's all going to take.
+So far, you have a plan. You know exactly what needs to be done and achieved, who's going to do it, and rougly how long it's all going to take. The final step is getting all the details down so that everyone has exactly what they need to get started. This generally comes in the form of a document or series of documents called the Functional Specification. This is the project blueprint that everyone can take away and then get to work.
+
+The specs should have sections tailored to providing detailed information to each of the production team roles, so will likely be different for each project and team. We'll cover those main sections shortly but for now let's take note of some important features of such a document.
 
 
 
 
-what everyone on the production team needs to get started
+
 
 - shared language for tools and features
-- wireframes
-- example func specs
-- feature list
+- easy or complex
+- easily absorbable information
+- 
+
+
 - information architecture
 - content guidelines
+- wireframes
+- feature list
+- performance budget
 
-kick off
+- example func specs
+
+Now, you're ready to kick off the project.
 
 ## Comunication & Workflow
 
