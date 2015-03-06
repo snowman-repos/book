@@ -707,9 +707,14 @@ Hopefully this research has been done already by this point and the information 
 
 #### Performance Budget
 
+The next most important thing to always consider is the performance budget. We've covered PBs earlier in this chapter but this is where the budget should be written down and shared. Try to be as explicit as possible about all required metrics and ensure that all metrics are testable.
 
+Performance is crucial and it's not just a case of coding more efficiently, chasing memory leaks, or choosing the right database system. Performance starts with content and design and so everybody is responsible for working towards these goals.
 
 #### Information Architecture
+
+
+
 #### Content Guidelines
 #### Wireframes
 #### Feature List
