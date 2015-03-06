@@ -685,7 +685,30 @@ Finally the specs should be easily shareable and accessible. They could be compo
 For an example functional specification document template, see _Appendix C: Functional Specifications_.
 
 #### The Users
+
+Right at the top of the specs is what everyone foremost in their minds throughout the project - the users.
+
+This can be a simple reiteration of the target demographic described in the original project proposal / scope of work. What we might want to consider is:
+
+* Who the average users are
+* Where they are from
+* What languages they speak
+* How old they are
+* What jobs they do
+* What they are interested in
+* What other web products they use
+* What devices they use
+* What time they usually interact with the web
+* What their internet connections are like
+
+All of these factors can and should influence content, design, and implementation decisions. For example older users might require more formal language and larger font sizes. Users on slower connections might require a more heavily optimised payload. Users on touch screen devices will obviously need to use tap, swipe and drag gestures rather than clicks, hovers, and keyboard shortcuts.
+
+Hopefully this research has been done already by this point and the information is at hand. Maybe the project owner may be able to provide some insight, especially if they have any existing web projects from which to draw data.
+
 #### Performance Budget
+
+
+
 #### Information Architecture
 #### Content Guidelines
 #### Wireframes
