@@ -732,16 +732,16 @@ A robust content strategy is essentially a set of policies to be followed for al
 A content strategy should basically cover these main areas:
 
 * **Editorial strategy** - values, voice, tone, style, legal and regulatory concerns, etc.
-* **Metadata** - the data about the content
-* **SEO** - how content should be optimised for search
-* **Content channel distribution** - how and where content will be generated, published, and made available to users
+* **Metadata** - the data about the content that can be read by search engines, 3rd-party apps, screen readers etc.
+* **SEO** - how content should be optimised for search, links, keywords etc.
+* **Content channel distribution** - how and where content will be generated, published, maintained, and made available to users
 
 You'll also want to include specific rules, as with the performance budget, that absolutely must be followed throughout the production process. For example, you may want to put here the WCAG2.0 guideliness for ensuring accessibility.
 
-
-
-
 #### Wireframes
+
+
+
 #### Feature List
 #### Media
 
