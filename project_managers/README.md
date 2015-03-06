@@ -662,27 +662,11 @@ For example your production director should be aware that you may require additi
 
 The role that generally needs the most reminding of their responsibilites is the client or project owner. This is because they, unlike you and your team, presumably don't do this for a living day-in, day-out. Maybe it's their first time taking part in the production of a web project or maybe it's just something they really delve into. They may be under the assumption that if they're paying you then they don't have to do anything - you don't go to a restaurant to cook your own food do you? Well... some restaurants you do. 
 
+It's important to highlight to them that they are deeply involved in the process. They're investing in the project so you want to be sure that you're delivering exactly what they want. Feedback loops, and the quality of the feedback, has a huge impact on the progress of the project and its final outcome, respectively. You may need them to provide not just feedback but also content or other assets on which your team's work depends.
 
+Assessing how much time to allocate to client tasks can be tricky at the best of times so you should consult them regularly to determine when would be best to schedule feedback loops based on when they are available. By stating clearly to them their role in the project they will be made aware of how they could negatively impact (their own?) deadline. Depending on your relationship with them you might even want to put it explicitly in writing that any delays on their end will push back the final deadline by the same length of time. It's about setting their expectations early, even before you've properly started work on the project.
 
-
-
-
-One thing your granular project breakdown will often not include, because it’s not something you need to estimate on in order to produce a quote, is the tasks the client must complete throughout the project and the revision mini-stages you have to expect to go through before sign-off of any phase or task. At this stage you need to include them, not only for your sake but also the clients’.
-
-This means adding tasks such as:
-
-Client homepage design review
-Homepage design revisions
-Client homepage design sign-off
-Client copywriting
-Despite these tasks being either encapsulated in your quote as ‘Homepage design’, or not at all (client copywriting), when producing a project schedule it is crucial to consider them all as they impact the overall project timeline. For example, if you have determined you only have 3 days to complete the homepage design phase, by adding in review and revision times you can communicate to the client that, in order to hit the deadline and keep the project on schedule, they must be available to review, provide feedback, sign-off and deliver website copy on/by certain dates.
-
-Often a client seeing the turnaround time required from them, when comparing with their busy schedule, can illustrate the realism of hitting their go-live date and open up an adult dialogue that will see an extension allowed.
-
-Note that this is still before you have put pen to paper and started a sitemap or designing the homepage – this is hardcore client expectation setting right at the beginning of the project and in the right way, as opposed to 2 weeks before go live when print campaigns have been booked!
-
-
-
+Some project owners will of course just want to leave you to it and wait for the finished product. Ideally though, the more you involve the project owner in the production process, the more personally invested they will feel, and thus more motivated to continue maintaining and improving the product. That's the goal here - the ongoing success of the product.
 
 ### Functional Specifications
 
