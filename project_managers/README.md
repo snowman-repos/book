@@ -682,8 +682,6 @@ The specs should have sections tailored to providing detailed information to eac
 - shared language for tools and features
 - easy or complex
 - easily absorbable information
-- 
-
 
 - information architecture
 - content guidelines
