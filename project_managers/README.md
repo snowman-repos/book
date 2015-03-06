@@ -738,9 +738,12 @@ A content strategy should basically cover these main areas:
 
 You'll also want to include specific rules, as with the performance budget, that absolutely must be followed throughout the production process. For example, you may want to put here the WCAG2.0 guideliness for ensuring accessibility.
 
-#### Wireframes
+#### Design Guidelines
 
-
+- wireframes
+- branding
+- colours
+- styles
 
 #### Feature List
 #### Media
