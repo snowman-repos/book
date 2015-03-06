@@ -746,9 +746,11 @@ Branding and colours is probably the best place to start and can often be easily
 
 Personality is another important factor. What kind of product is it? Who is it aimed at? Should the style be stiff and sharp, or soft and rounded? This sort of information is difficult to convey. The user information above helps to some extent. Other ideas might be to discuss with the client a persona for the project - what would it be like if it was a person? Or otherwise check the industry competition and see if there are any other similar projects from which we can take inspiration. The project owner probably has a few ideas, and remember that we're selling the project not just to their **users** but to them, so their personal preferences should be taken into account as well. They are the ones that have to make an ongoing investment in the project and so they will be more likely to stay committed and passionate if it matches their personal tastes exactly.
 
-You know what wireframes are, right? They're just no-colour, skeletal diagrams of parts of the website or application used for planning the structure and functionality. They can be quite controversial.
+You know what wireframes are, right? They're just no-colour, skeletal diagrams of parts of the website or application used for planning the structure and functionality. They can be quite controversial. They can be a big waste of time. At the most basic level, they should be quick and easy to produce and should communicate exactly what needs to be featured on every part of the project, nothing more and nothing less. For example, if I go to this page, there should be XYZ input elements and a button; the button can be labelled to explain what happens when it's clicked.
 
-
+- tools
+- overly detailed
+- not a design tool, no colours, styles, layout
 
 #### Feature List
 
