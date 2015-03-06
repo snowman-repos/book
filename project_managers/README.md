@@ -760,7 +760,7 @@ The wireframe diagrams show only content and functionality features, and how the
 
 Here you go into full detail about what every part of the website or application should **have** and **do**.
 
-This should probably take the form of a table, where each feature has a name or number (remember above we talked about a shared language that everyone can use to reference parts of the project?), alongside a details step-by-step description. For example:
+This should probably take the form of a table, where each feature has a name or number (remember above we talked about a shared language that everyone can use to reference parts of the project?), alongside a details step-by-step description. It pairs well with wireframes, providing additional information that'snot always easy to convey visually. For example:
 
 * **Products Inventory**: Display a list of available products, paginated in groups of 12. For each product in the list, show the name, image, price, category, rating, and an add to cart button. Clicking on a product shows the product detail section. Clicking the add to cart button adds the product to the shopping cart.
 
