@@ -1,4 +1,4 @@
-# Appendix B
+# Appendix D
 ## Content Styleguide
 
 http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx
