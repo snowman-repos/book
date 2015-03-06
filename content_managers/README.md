@@ -496,3 +496,374 @@ Those who invest in content marketing can win big, but only if they do it correc
 ·      Answering Questions: Hammering home the question/answer topic, this kind of content marketing always scores with your audience. Answering the needs of your audience will keep them coming back for more.
 
 Content marketing has been important for branding ever since the days of the printing press. This is no exception to 2015, as content marketing’s relevancy and value only continues to increase on a yearly basis. From establishing a solid reputation, to drumming up social media engagement and becoming a thought leader, content marketing is of utmost importance in 2015 and beyond.
+
+
+
+
+
+With hundreds of different individuals collaborating to create websites under the UCR.edu domain, it is important that everyone follow the same standards to ensure consistent imaging and branding.
+These tips for creating content and points of emphasis can help you create great content for your site, while staying within the university's style guidelines.
+If you have a specific question about the correct way to write something, please review our Online Web Style Guide.
+Questions, comments or suggestions for future revisions should be directed to the Web Development Team in the Office of Strategic Communications.
+Tips for Creating Content
+Before You Begin
+Before you begin creating written and visual content for a website, ask yourself these questions:
+Who is your audience? Who are trying to reach with your message?
+What is your message? What are you trying to get across?
+What should happen after this message is delivered? What are your goals?
+Remember the Visitor has Come to Your Site for a Reason
+Visitors have something they want to do when they come to your website. They are there either to do an action or to find information. It is your job to anticipate what they will want to do and help them to do it.
+Your Visitor is in a Hurry
+Time is valuable, and visitors to your website want to find what they are looking for and move on quickly. If they cannot do this, you risk losing them.
+Most Visitors Scan Websites, They don't Read Every Word
+Research shows that the majority of people scan Web copy, looking for key words or phrases. You must make your content conducive to scanning. That means breaking it into small, easily accessible and readable chunks. Headlines and subheads can further break up the content. Use bulleted lists instead of long, comma delimited lists.
+Put the Important Content First
+Don't bury your important information under several paragraphs of filler content. Keep top-level content simple and to the point and provide links to allow visitors to "drill down" to more specific items. Lead with your most important content, then elaborate. This will help your visitor find what they are looking for.
+Use Links within Your Text
+Incorporate your links within your text, rather than using phrases such as "click here" or "more." Having a sentence or a phrase as a link will make it clear to your visitor exactly what is going to happen when they click it.
+Keep it Simple
+The median reading level for an average American is the 8th grade. Also English is not the first language of many of our visitors. Finally, simple pages lend themselves to scanning. The following guidelines will help you help your visitors.
+Keep your content simple and straightforward
+Use terms your visitor will understand
+Avoid jargon, overly formal language or highly technical terms at the highest levels of your site (These terms may be acceptable on lower level pages within the site, such as faculty pages or research-related pages, whose audiences will expect to find the language.)
+Use keywords that your visitor will expect to find
+Keep it Short
+Use as few words as possible in your content. Keep your writing tight.
+Proofread and Edit Your Copy
+Check your facts and your spelling. Do not only rely on a computer spelling or grammar checker. Have somebody who is unfamiliar with your content check it for accuracy. It may be helpful to print your pages and proofread them away from the computer, as mistakes are often easier to find.
+Writing Points of Emphasis
+Abbreviations and Acronyms
+You may use abbreviations that are common in standard English, such as site names (e.g., St. Louis), or names of states (use postal abbreviations, e.g. "CA" for California).
+Avoid using non-standard or UCR-specific abbreviations.
+Acronyms for facilities are not acceptable on first mentions, but may be used in subsequent mentions. For example: "The College of Humanities, Arts, and Social Sciences (CHASS) is the largest college at UCR. CHASS oversees..."
+Bulleted Lists (Changed December 22, 2008)
+These should be used whenever you are listing a large number of items, particularly if the items are links.
+Here are the rules for creating a bulleted list:
+Bullet lists should be introduced with a sentence which is closed with a colon.
+The first word in a bulleted items is always capitalized.
+The punctuation on the bulleted list depends upon the nature of the text. Complete sentences, or phrases that would complete a sentence when combined with the introduction, receive a period.
+There may be multiple periods in a bulleted item.
+Phrases that are not complete sentences or are part of a list do not require a period.
+Copyright Violations
+All information, images and intellectual properties are protected by law. Even though it may be easier to directly copy from another site, do not do so unless you get written permission from the site owner.
+Dates and Times
+The proper format is "a.m." and "p.m.", not capitalized and with periods. Days of the week and months of the year should be spelled out. 12 noon and 12 midnight should be noted as such, not 12 a.m. or 12 p.m.
+Headlines
+They should be up style. E.g. UCR Revamps Website. Capitalization of all words, except for internal articles, prepositions, conjunctions and forms of to be (e.g. "is"). In general, when using the content management system, any headers H1 through H3 should be in up-style. H4 and below should be in down style.
+Section Headlines should be no more than five to seven words and should not be in title case (capitalized).
+Headlines should be compelling, simple and straightforward. Get to the point and state facts. Do not fall into the trap of trying to be clever.
+Numbers
+In keeping with AP style, numbers lower than 10 should be spelled out. All two-digit or greater numbers should be presented numerically.
+Publication Titles
+Titles of publications should be italicized. This is different than the print standard. For example:
+The Maltese Falcon by Dashiell Hammett
+The Supremes' Greatest Hits by Michael G. Trachtman
+Gone With the Wind
+"You"
+Write in the first and second person when possible. Using "you" and other first person words personalizes your website for your visitor.
+Keywords
+The phrases and underlined keywords are themes that our research shows our core audiences believe important. These themes should influence the your content as applicable.
+For students
+Opportunity for everyone
+Access to excellence and real experience
+Dynamic learning environment — "where it's happening" intellectually, culturally, socially
+Supportive of students and alumni
+Open to new ideas, perspectives, experiences (from internships to fun), people, and partners
+Making a difference — locally and globally
+Future-focused 
+For faculty
+A community that attracts and cultivates excellence
+High impact — dedicated to discovery and knowledge that make a difference
+Empowering educators by providing support and resources
+Uniquely collegial — educators and researchers who challenge, inspire, cultivate, and celebrate each other
+Innovative — focused on the future
+Transformative — Shaping the future of our students, our community, our region, and our world
+For staff
+A community that attracts, cultivates, and rewards excellence
+High impact — dedicated to discovery and knowledge that make a difference
+Engaging staff members as partners in a meaningful education and research mission
+Innovative — focused on the future
+Transformative — shaping the future of our students, our community, our region, and our world
+For alumni
+Ongoing opportunity for everyone
+Dynamic and engaging learning environment - "where it's happening" intellectually, culturally, socially
+Supportive/proud of and connected to alumni
+Commitment to lifelong learning and relationship
+Welcoming and accessible
+Open to new ideas, perspectives, people, and partners
+Making a difference — locally and globally
+Future-focused
+For donors and supporters
+A smart investment that delivers tangible results
+Excellence and impact across disciplines
+A strong philanthropic partner for donors of every interest - from education and research to arts and culture to local impact and global solutions
+An institution that enables philanthropic partners to make a difference
+An institution that welcomes and values partnership and support of all kinds - from financial contributions to volunteered time, energy, and expertise
+A responsible institution that invests philanthropic gifts wisely and strategically
+Committed to cultivating long-term, mutually rewarding relationships with individual donors and supporters and private/public philanthropic organizations
+About Branding
+The following messages are the key components of the UCR Brand. You are encouraged to incorporate these themes and concepts, as applicable, to the highest levels of content in your site. These messages will help market the campus in a subtle fashion as your visitor finds the information they are looking for.
+Remember that these are concepts and ideas. Not all of them will necessarily apply to your content, nor must they all appear on every page. Use them in a way that will advantage your organization and the University as a whole.
+"UC Riverside embodies the promise of the Golden State by offering students the support, resources and inspiration to explore, discover and contribute new knowledge while they expand their own horizons. In a UC system known for its tradition of service and excellence, UCR's distinguishing characteristics are:
+We are a UC of Opportunity — enabling students of every background and ambition, from first-generation college-goers to dedicated graduate researchers to achieve their goals and dreams.
+We are a UC of Strategic Results — pioneering research with economic, scientific and social impact on the real-world challenges we face in California and beyond. We are a living laboratory for issues that affect virtually every aspect of quality of life, from the air we breathe and the water we drink to the food we eat, technologies we explore and art forms we pioneer.
+We are a UC of Accessible Excellence — putting a superb education within every student's reach through strong core programs, new and emerging disciplines, and educators recognized for their dedication and high standards — and extending that excellence to our community.
+We are the UC of Inland Southern California — catalyzing and serving the positive growth of our region by attracting great minds in the sciences and the arts, incubating new ideas, contributing to local quality of life and educating future citizens and leaders
+We are a UC of the Future — a diverse, inclusive, globally focused community that reflects California's many cultures and perspectives; a university on the rise, powered by an entrepreneurial spirit, a record of innovation and a commitment to excellence and collaboration across disciplines.
+
+
+
+
+
+http://www.w3.org/TR/WCAG10/checkpoint-list.html
+
+
+
+Web Writing Guidelines for Content Contributors
+
+By Rick Allen on April 18, 2011
+Web writing
+Enable content contributors to write for your website.
+As web professionals, we owe a lot to our content contributors. Your college website has tons of content, and no one person can do it all. The more you enable content contributors to write for your site (supported, of course, by a thorough editorial process), the closer you will be to your shared goal of creating great content. Here are some web writing guidelines to help make that happen.
+1. Keep your audience in mind.
+
+Consider who will be reading and using your web content. Prospective students, current students, alumni, faculty, staff? What are they looking for, and what do they need? Be sure the tone, language and organization of content is appropriate for your audience.
+2. Be concise.
+
+Web writing should be clear and direct. Keep sentences short. Remove words or descriptions that don’t add value to the content. As content strategist Margot Bloomstein says, "Thoreau instructed ‘simplify, simplify.’ You can do him one better. Here’s to snappy writing that gets to the point and knows when to stop!"
+3. Make content scannable.
+
+Readers scan web pages before they read. If they don’t recognize useful, relevant content, they often move on. Elements that enhance scanning include headers, links, highlighted text, bulleted lists, graphics, captions and pull-quotes. However, be careful not to overemphasize content and confuse the visual and editorial hierarchy of information. There’s a reason the blink tag is deprecated by the W3C.
+4. Write meaningful headers.
+
+Readers rely on headers to navigate on-page content. Choose words for headers and subheaders that clearly describe the content they introduce. Boring, useful words are better than clever, obtuse words.
+5. Limit paragraphs to 70 words.
+
+I’ve seen numerous recommended word counts, but I’ve found a 70-word limit to be a practical and effective number in most cases. Of course, less is better.
+6. Use bulleted lists whenever possible.
+
+Bulleted lists are easier to scan and read than full paragraphs. If you are listing three or more items, consider using a bulleted list. For instructions or long lists like this one, consider using numbered lists for easy reference.
+7. Use active voice.
+
+Writing in the active voice is more clear, conversational and engaging than the passive voice. Just ask Strunk and White: "The active voice is usually more direct and vigorous than the passive." Also, "when a sentence is made stronger, it usually becomes shorter. Thus, brevity is a by-product of vigor" (The Elements of Style, Third Edition, pages 18-19).
+8. Use common language.
+
+It’s essential for findability and SEO (search engine optimization) to use the same words and phrases your readers do. When creating page titles, headers, list items and links, choose keywords carefully. Additionally, be sure to use keywords consistently when creating web content. When used appropriately, this practice reinforces keyword relevancy for search engines, such as Google and your own internal search, thereby improving findability.
+9. Be professional and human.
+
+Think like a publisher and less like a marketer. Use a more conversational tone. Avoid jargon and buzzwords like "cutting-edge" or "leverage." Users are turned off by content that talks at them instead of with them. Consider how you would communicate with someone standing in front of you instead of via a traditional TV or radio advertisement.
+10. Include valuable links.
+
+If additional useful, relevant and appropriate content exists elsewhere—on or off your website—link to it. Instead of repeating information that already exists on your site, link to this content as well. Consider what content elsewhere might add value to yours and improve usability. When possible, include links within your page copy to make them contextually relevant.
+What else?
+
+Writing guidelines don’t replace an editorial process. Everyone needs an editor. But guidelines can be a great reference for those learning about web writing, as well as for pros who appreciate friendly reminders about best practices
+For learning about web writing, I highly recommend Letting Go of the Words: Writing Web Content that Works, by Janice (Ginny) Redish. Check out other recommended books in Our Library.
+What did I miss? Are there other tips you would add to this list?
+
+
+Perceivable – Information and user interface components must be presentable to users in ways they can perceive.
+
+Guideline 1.1: Information and user interface components must be presentable to users in ways they can perceive.
+Guideline 1.2: Time-based media: Provide alternatives for time-based media.
+Guideline 1.3: Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
+Guideline 1.4: Make it easier for users to see and hear content including separating foreground from background.
+Operable – User interface components and navigation must be operable.
+
+Guideline 2.1: Make all functionality available from a keyboard.
+Guideline 2.2: Provide users enough time to read and use content.
+Guideline 2.3: Do not design content in a way that is known to cause seizures.
+Guideline 2.4: Provide ways to help users navigate, find content, and determine where they are.
+Understandable – Information and the operation of user interface must be understandable.
+
+Guideline 3.1: Make text content readable and understandable.
+Guideline 3.2: Make web pages appear and operate in predictable ways.
+Guideline 3.3: Help users avoid and correct mistakes.
+Robust – Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
+
+Guideline 4.1.: Maximize compatibility with current and future user agents, including assistive technologies.
+
+
+
+
+Content Strategy Basics
+Content strategy focuses on the planning, creation, delivery, and governance of content.  Content not only includes the words on the page but also the images and multimedia that are used. Ensuring that you have useful and usable content, that is well structured, and easily found is vital to improving the user experience of a website. 
+
+Creating a Comprehensive Strategy and Governance
+The goal of content strategy is to create meaningful, cohesive, engaging, and sustainable content.  Throughout her book, Content Strategy for the Web, Kristina Halvorson discusses in detail the benefits of and how to create your content strategy.  It reiterates that your strategy helps you to identify what already exists, what should be created and, more importantly, why it should be created. 
+
+Melissa Rach has created what she calls the Content Strategy Quad Site exit disclaimer to help describe the content-oriented and people-oriented components you need to know. We have adapted it a bit to discuss the components that come together to help you create a successful strategy and governance.
+
+Content-oriented Components	People-oriented Components
+Identify Goals and Substance: focuses on what content is required to successfully execute your core strategy. It includes characteristics such as messaging architecture, intended audience(s), and voice and tone.	Outline the Roles and Workflow: focuses on how people manage and maintain content on a daily basis, including the roles, tasks, and tools required throughout the content lifecycle.
+Determine Structure: focuses on how content is prioritized, organized, and accessed. Focuses on the content itself, including mapping messages to content, content bridging, and creating detailed page tables.	Identify Policies and Standards: focuses on the policies, standards, and guidelines that apply to content and its lifecycle, as well as how an organization will sustain and evolve its content strategy.
+Content Lifecycle
+Producing compelling and sustainable content means that you need to understand and follow the content lifecycle.  Erin Scime identifies that there are five stages in the lifecycle.  In general, content lifecycles include the following:
+
+Audit and Analysis:  Content stakeholder interviews, competitive analysis, objective analysis and evaluation of the content environment (site, partner content, sister, parent sites)
+Strategy: Determine topical ownership areas, taxonomy, process/ workflow for content production, sourcing plan, voice and brand definition
+Plan: Staffing recommendations, content management system customization, metadata plan, communications plan, migration plan
+Create: Writing content, asset production, governance model, search engine optimization, quality assurance
+Maintain: Plan for periodic auditing, advise the client, determine targets for success measures.
+Several of the deliverables related to each of those phases overlap with the deliverables of other fields, including information architecture, user research, project management, web analytics.  Instead of thinking of who owns each deliverable, it’s important to think of who contributes to each and how those different contributions come together to define the final product.  There’s value in including multiple perspectives on deliverables.
+
+Best Practices for Creating Meaningful Content
+We have identified these best practices to help you create meaningful and relevant content.  Each piece of content should:
+
+Reflect your organization’s goals and user’s needs.  You can discover your user’s needs through conducting market research, user research, and analyzing web metrics.
+Understand how user’s think and speak about a subject. Content should then be created and structured based on that.  Doing this will also help you with search engine optimization (SEO).
+Communicate to people in a way that they understand.  Embracing plain writing principles helps with this.
+Be useful.  By being purposeful in the content that you include, omit the needless.
+Stay up-to-date and and remain factual.  When new information becomes available, update your content or archive it.
+Be accessible to all people.  You have a responsibility to make sure that all people can access and benefit from your information.
+Be consistent.  Following style guides, both for language and design, helps people understand and learn what you are trying to communicate.
+Be able to be found.  Make sure that users can find your content both through internally through navigation and also externally through search engines.
+Help define the requirements for the overall site.  Content should drive design, structure, etc
+
+
+
+
+
+We, the people who make websites, have been talking for fifteen years about user experience, information architecture, content management systems, coding, metadata, visual design, user research, and all the other disciplines that facilitate our users’ abilities to find and consume content.
+
+Illustration:
+Kevin Cornell
+Share This:
+Twitter
+Facebook
+Google+
+Hover
+Get a great domain name for your great idea at Hover.com
+Ad via The Deck
+JOB BOARD
+Big Cartel is looking for a Data Engineer.
+Job listings via We Work Remotely
+Weirdly, though, we haven’t been talking about the meat of the matter. We haven’t been talking about the content itself.
+
+Yeah, yeah. We know how to write for online readers. We know bullet lists pwn.
+
+But who among us is asking the scary, important questions about content, such as “What’s the point?” or “Who cares?” Who’s talking about the time-intensive, complicated, messy content development process? Who’s overseeing the care and feeding of content once it’s out there, clogging up the tubes and dragging down our search engines?
+
+As a community, we’re rather quiet on the matter of content. In fact, we appear to have collectively, silently come to the conclusion that content is really somebody else’s problem—“the client can do it,” “the users will generate it”—so we, the people who make websites, shouldn’t have to worry about it in the first place.
+
+Do you think it’s a coincidence, then, that web content is, for the most part, crap?
+
+Dealing with content is messy. It’s complicated, it’s painful, and it’s expensive.
+
+And yet, the web is content. Content is the web. It deserves our time and attention.
+
+And that’s where content strategy comes in.
+
+What is Content Strategy?
+Content strategy plans for the creation, publication, and governance of useful, usable content.
+
+Necessarily, the content strategist must work to define not only which content will be published, but why we’re publishing it in the first place.
+
+Otherwise, content strategy isn’t strategy at all: it’s just a glorified production line for content nobody really needs or wants. (See: your company’s CMS.)
+
+Content strategy is also—surprise—a key deliverable for which the content strategist is responsible. Its development is necessarily preceded by a detailed audit and analysis of existing content—a critically important process that’s often glossed over or even skipped by project teams.
+
+At its best, a content strategy defines:
+
+key themes and messages,
+recommended topics,
+content purpose (i.e., how content will bridge the space between audience needs and business requirements),
+content gap analysis,
+metadata frameworks and related content attributes,
+search engine optimization (SEO), and
+implications of strategic recommendations on content creation, publication, and governance.
+But wait…there’s more
+In her groundbreaking article, Content Strategy: the Philosophy of Data, Rachel Lovinger said:
+
+The main goal of content strategy is to use words and data to create unambiguous content that supports meaningful, interactive experiences. We have to be experts in all aspects of communication in order to do this effectively.
+
+That’s a tall order. I’d like to propose that, in fact, there are far too many “aspects of communication” for a solitary content strategist to truly claim deep expertise in all of them.
+
+Instead, let’s assume that there are a number of content-related disciplines that deserve their own definition, by turn:
+
+Editorial strategy defines the guidelines by which all online content is governed: values, voice, tone, legal and regulatory concerns, user-generated content, and so on. This practice also defines an organization’s online editorial calendar, including content life cycles.
+Web writing is the practice of writing useful, usable content specifically intended for online publication. This is a whole lot more than smart copywriting. An effective web writer must understand the basics of user experience design, be able to translate information architecture documentation, write effective metadata, and manage an ever-changing content inventory.
+Metadata strategy identifies the type and structure of metadata, also known as “data about data” (or content). Smart, well-structured metadata helps publishers to identify, organize, use, and reuse content in ways that are meaningful to key audiences.
+Search engine optimization is the process of editing and organizing the content on a page or across a website (including metadata) to increase its potential relevance to specific search engine keywords.
+Content management strategy defines the technologies needed to capture, store, deliver, and preserve an organization’s content. Publishing infrastructures, content life cycles and workflows are key considerations of this strategy.
+Content channel distribution strategy defines how and where content will be made available to users. (Side note: please consider e-mail marketing in the context of this practice; it’s a way to distribute content and drive people to find information on your website, not a standalone marketing tactic.)
+Now, this breakdown certainly doesn’t imply that a content strategist can’t or shouldn’t be capable of playing these roles and creating the associated deliverables. In fact, in my experience, the content strategist is a rare breed who’s often willing and able to embrace these roles as necessary to deliver useful, usable content.
+
+BUT. And this is a big “but.” If our community fails to recognize, divide, and conquer the multiple roles associated with planning for, creating, publishing, and governing content, we’ll keep underestimating the time, budget, and expertise it takes to do content right. We won’t clearly define and defend the process to our companies and clients. We’ll keep getting stuck with 11th-hour directives, fix-it-later copy drafts—and we’ll keep on publishing crap.
+
+We can do better. Our clients and employers deserve it. Our audiences deserve it. We as users deserve it.
+
+Take up the torch
+David Campbell, the founder of Saks Fifth Avenue, said, “Discipline is remembering what you want.”
+
+When it comes to creating and governing content, it’s easy to forget what we want, or even worse, to settle for less.
+
+Also in Issue № 274
+Content-tious Strategy
+by Jeffrey MacIntyre
+But until we commit to treating content as a critical asset worthy of strategic planning and meaningful investment, we’ll continue to churn out worthless content in reaction to unmeasured requests. We’ll keep trying to fit words, audio, graphics, and video into page templates that weren’t truly designed with our business’s real-world content requirements in mind. Our customers still won’t find what they’re looking for. And we’ll keep failing to publish useful, usable content that people actually care about.
+
+Stop pretending content is somebody else’s problem. Take up the torch for content strategy. Learn it. Practice it. Promote it. It’s time to make content matter.
+
+
+
+
+You or someone you know wants to create content. Awesome! But to what end? Content strategy helps us plan for valuable, viable content.
+
+We begin with publishing. To manage the digital workflow required to maintain an ever-increasing amount of content, publishers employ what’s (aptly) known as a content management system (CMS). It’s what we use behind the scenes at UX Booth.
+
+Now, what if you or someone you know is getting ready to unleash content on the world. What might guide their creation efforts?
+
+At this point, visual design—design of the actual website itself—is irrelevant. Nobody should really discuss what the system will look like (expect, maybe, the visual thinkers in the room), but instead, the heart of the matter: what’s this all about? What content will this website deliver? Moreover, when will the website deliver that content?
+
+In this article, we’ll take a brief look at Content Strategy—that odd amalgamation of digital publishing, information architecture and editorial process that adds up to something infinitely greater than the sum of its parts. You’ll learn when and where to apply strategy to your content endeavors and when you should simply raise your hand and start asking (a lot of important) questions.
+
+WHAT IS CONTENT STRATEGY?
+“Content strategy plans for the creation, publication, and governance of useful, usable content,” says Kristina Halvorson, author of the book Content Strategy for the Web.
+
+“It plots an achievable roadmap for individuals and organizations to create and maintain content that audiences will actually care about. It provides specific, well-informed recommendations about how we’re going to get from where we are today (no content, or bad content, or too much content) to where we want to be (useful, usable content people will actually care about).”
+
+Taking a step back, Lou Rosenfeld adds:
+
+“If [Information Architecture] is the spatial side of information, I see content strategy as the temporal side of the same coin.”
+
+This abstraction is important: If Information Architecture helps us say “where” content lives, Content Strategy tells us decide “when” it lives. The combination, in due course, helps us as well as our clients understand “why” it’s there in the first place. And in case the connection isn’t clear: Lou is the guy behind the UX publishing house Rosenfeld Media. His company makes real, honest-to-goodness books. You can hold them in your hand.
+
+So if I had to guess, Lou knows quite a bit about Content Strategy—even though he might not identify someone well-versed in it—because Content Strategy is part and parcel to the publishing world.
+
+DIGITAL PUBLISHING
+The distance between print and the web, when it comes to a prudent publication process, isn’t all that vast. In fact, if you think about all of the stuff required to publish books—authors, reviewers, technical editors, copy editors, publishers, graphic designers, distributors, etc.—you begin to see that their analogous roles on the web are just, by default, not designed into the process …at least, not when everyone and their mom can publish content.
+
+Content Strategy is the way forward. It helps both clients and project teams understand what content is being produced, how it’s being produced, by whom, when, and why.
+
+HOW IS CONTENT STRATEGY DONE
+Kristina Halvorson, in her article The Discipline of Content Strategy, says that “at its best, a content strategy defines:
+
+key themes and messages
+recommended topics
+content purpose (i.e., how content will bridge the space between audience needs and business requirements)
+content gap analysis
+metadata frameworks and related content attributes
+search engine optimization (SEO), and
+implications of strategic recommendations on content creation, publication, and governance.”
+That means that, at their best, strategists will provide a document explaining how their teams will accomplish these goals.
+
+Relly Annett-Baker, in her article Why you need a Content Strategist, points to a rough methodology:
+
+ When we first meet, I ask a lot of questions about how your business works, what messages you want to get across and what your business’/products’ best features are. I look at (and sometimes create) the wireframes and the proposed information architecture of your website, consider interaction instructions, and [determine] whether a message is best explained with a screencast or a series of step-by-step by pictures.
+
+THE CONTENT LIFECYCLE
+Content, just like the websites they inhabit, are living, changing things. When strategists seek to assess and improve the quality of a website’s content, they typically follow a four-part process. The following diagram (used with permission) was created by Rahel Bailie while the descriptions of the phases were borrowed from Jonathan Kahn’s articles Content Strategy for the Web Professional:
+
+
+ANALYZE
+In this phase, strategists figure out what what kind of content they’re dealing with. Jonathan suggests: Ask questions about content, right from the start. Utilize user research or personas to decide what content is needed. Answer the question, “who cares?” Carry out a content audit, and/or a gap analysis.
+
+COLLECT
+Here we figure out (or plan for) the commonalities across our website’s content. Jonathan recommends: Establish key themes and messages. Write a plan for creating and commissioning content. Insist that the client plans for content production over time (an editorial calendar).
+
+PUBLISH
+In this phase, we’ll see our content through to publication: where does it live on the website and how does it get there? Jonathan recommends: Annotate wireframes and sitemaps to explain how both interaction and content will work. Specify CMS features like content models, metadata, and workflow based on the content strategy. Write and aggregate your killer content.
+
+MANAGE
+After we’ve published content, it’s time to look back, see what worked, and plan for the future. Jonathan says: Write comprehensive copy decks, based on common templates. Write a style guide for tone of voice, SEO, linking policy, and community policy.
