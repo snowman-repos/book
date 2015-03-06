@@ -768,6 +768,8 @@ This should probably take the form of a table, where each feature has a name or 
 
 As with wireframes, a picture speaks a thousand words. For complex features it's a good idea to provide an accompanying user flow diagram that will help reinforce the reader's mental model of how that feature should work. This will hopefully get people thinking about the implementation details - maybe there will need to be success/failure notifications? Should it be animated? Do we need a loading indicator? etc.
 
+Also just as wireframes are not a design tool, a features list is not concerned with technical aspects; it's up to the developer how to best implement a feature.
+
 #### Timings
 
 The last thing everybody needs to stay aware of (or maybe the first?) is the timeline, showing project phases, assigned tasks, dependencies, milestones, and deadlines. You may want to incude a timeline diagram directly in the specs or at least reference a shared calendar which people can check each day.
