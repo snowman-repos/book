@@ -692,9 +692,7 @@ For an example functional specification document template, see _Appendix C: Func
 #### Feature List
 #### Media
 
-
-
-Now, you're ready to kick off the project.
+Now, you're finally ready to kick off the project.
 
 ## Comunication & Workflow
 
