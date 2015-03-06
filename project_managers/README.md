@@ -725,7 +725,7 @@ This information directly translates to relational database schemas and classes 
 
 #### Content Guidelines
 
-
+What's all too often forgotten in web content strategy is that content isn't just the words on the page.
 
 #### Wireframes
 #### Feature List
