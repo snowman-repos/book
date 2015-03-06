@@ -760,11 +760,13 @@ The wireframe diagrams show only content and functionality features, and how the
 
 Here you go into full detail about what every part of the website or application should **have** and **do**.
 
-e.g Product / Inventory Summary Showcase: displays a summary of items for sale, stock number, item name, short description, one photo, price, and Add to Cart button.
-Product / Inventory One Item Showcase: displays the detail of one inventory item: stock number, item name, long description, multiple photos (up to 10 photos), price, and Add to Cart button.
+This should probably take the form of a table, where each feature has a name or number (remember above we talked about a shared language that everyone can use to reference parts of the project?), alongside a details step-by-step description. For example:
 
+* **Products Inventory**: Display a list of available products, paginated in groups of 12. For each product in the list, show the name, image, price, category, rating, and an add to cart button. Clicking on a product shows the product detail section. Clicking the add to cart button adds the product to the shopping cart.
 
-- user flow diagrams
+* **Product Detail Section**: This shows the product information including the name, desciption, category, manufacturer, amount in stock, rating, and up to 10 images of the product. There is an add to cart button which adds the product to the shopping cart, and a button to return the user to the products inventory section.
+
+As with wireframes, a picture speaks a thousand words. For complex features it's a good idea to provide an accompanying user flow diagram that will help reinforce the reader's mental model of how that feature should work. This will hopefully get people thinking about the implementation details - maybe there will need to be success/failure notifications? Should it be animated? Do we need a loading indicator? etc.
 
 #### Timings
 
