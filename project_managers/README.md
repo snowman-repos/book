@@ -815,7 +815,7 @@ Earlier we talked about timeline diagrams, otherwise known as gantt charts, and 
 
 The waterfall methodology simply does not work with web projects. Never. Ever. It doesn't work for the following reasons:
 
-- you're building reusable features, not separate pages
+- you're building reusable features, not separate pages, features may be interdependent, you can't put pages together without the features
 - design, development, and testing are inter-dependent
 - no intra-team transfer of skills/knowledge/understanding
 - too easy for delays, harder to monitor progress towards milestones
