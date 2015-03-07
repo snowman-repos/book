@@ -798,7 +798,7 @@ There are many different project management methodologies - you've no doubt hear
 
 ### Agile
 
-Earlier we talked about timeline diagrams, otherwise known as gantt charts, and even mentioned that they look like waterfalls, with the early tasks on the top left gradually flowing down to the final tasks on the bottom right, with all the dependencies along the way. That is not to say that such diagrams enforce the classic “waterfall” methodology. Rather those diagrams just give you a simpler way to track project progress and communicate the project lifecycle to all stakeholders. However, they do tend to lend themselves to the waterfall methodology and are often abused. It's easy to just enter abstract and over-arching phases like "design", "front-end development", "back-end development", and "testing" with one flowing onto the next. Not only is it easy to put on a diagram, it's easier for us to understand because those are clearly defined chunks of work, probably handled by different people or teams. Likewise it's easier for the clients to understand - they can probably grasp what "design" entails and it's nice for them to be able to see clear end points. It seems to make the project more manageable because you can focus on just one set of tasks at a time and manage resources more easiy. While the back-end developers are working on this project, the front-end developers have already finished so they can get to work on the next project, right? If you think this is a good approach then you have 2 options:
+Earlier we talked about timeline diagrams, otherwise known as gantt charts, and even mentioned that they look like waterfalls, with the early tasks on the top left sequentially flowing down to the final tasks on the bottom right, with all the dependencies along the way. That is not to say that such diagrams enforce the classic “waterfall” methodology. Rather those diagrams just give you a simpler way to track project progress and communicate the project lifecycle to all stakeholders. However, they do tend to lend themselves to the waterfall methodology and are often abused. It's easy to just enter abstract and over-arching phases like "design", "front-end development", "back-end development", and "testing" with one flowing onto the next. Not only is it easy to put on a diagram, it's easier for us to understand because those are clearly defined chunks of work, probably handled by different people or teams. Likewise it's easier for the clients to understand - they can probably grasp what "design" entails and it's nice for them to be able to see clear end points. It seems to make the project more manageable because you can focus on just one set of tasks at a time and manage resources more easiy. While the back-end developers are working on this project, the front-end developers have already finished so they can get to work on the next project, right? If you think this is a good approach then you have 2 options:
 
 **Option 1**
 
@@ -820,9 +820,21 @@ The waterfall methodology simply does not work with web projects. Never. Ever. I
 - no intra-team transfer of skills/knowledge/understanding
 - too easy for delays, harder to monitor progress towards milestones
 - nothing to show throughout, less opportunity for feedback, necessitates big-reveals -> more risk
+- can't go back and make changes, depends on exact and highly detailed specs, change requests difficult to manage
+- chance for reviews, testing, prioritisation, honing in on exactly what the client wants
+- bugs easier to take care of
+- and the end, or indeed at any point, project is ready to launch because it's been continuously tested. more likely to meet deadlines, something can at least be delivered if budget runs out
 
 So what's the alternative?
 
+- lots of mini-waterfalls
+
+Developers start off with a simplistic project design, and then begin to work on small modules. The work on these modules is done in weekly or monthly sprints, and at the end of each sprint, project priorities are evaluated and tests are run. These sprints allow for bugs to be discovered, and customer feedback to be incorporated into the design before the next sprint is run.
+
+- changes? insert a sprint, minor impact on timeline, clear impact
+- because changes are easy, you have more room for experimentation
+- regular testing/reviews
+- 
 
 
 - kick off
