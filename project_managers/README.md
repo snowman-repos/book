@@ -877,8 +877,7 @@ Changes are really easy to handle. You can probably insert a sprint without any 
 - flexibility allows for potential scope creep
 - increased feedback loops may piss off some clients
 
-- summary
-
+Hopefully by now the benefits of a close-knit team working together iteratively towards the best possible solution is clear. Undoubtedly you find the idea quite daunting as it depends on you being able to maintain strict control over the project. That's where good planning, documentation, regular status meetings come in, and also a good solid kick-off.
 
 ### The Kick-Off Meeting
 ### Daily Meetings
