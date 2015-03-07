@@ -852,19 +852,22 @@ Let's run through a simple example. You've got your detailed plan and your timel
 
 There are many advantages to this approach:
 
-Changes are really easy to handle.
+Changes are really easy to handle. You can probably insert a sprint without any major impact on the timeline. At least the impact of adding a new sprint on the timeline is clear. The whole idea of Agile - the clue is in the name - is that it's faster and more reactive. You may find yourself actually ahead of schedule occasionally, allowing enough time for you to insert a sprint in the timeline to work on further improving or refining a previous feature. Another consequence of changes being easy to handle is that you can afford to be more experimental with new tools, techniques, and technologies. You can try something, test it, and if it doesn't work then redo it. At worst your team learns something new. At best your work is cutting edge.
 
 
-- changes? insert a sprint, minor impact on timeline, clear impact
-- improvements possible
-- because changes are easy, you have more room for experimentation
-- regular testing/reviews
+
+
 - chance for reviews, testing, prioritisation, honing in on exactly what the client wants
+- 
 - bugs easier to take care of
+- 
 - and the end, or indeed at any point, project is ready to launch because it's been continuously tested. more likely to meet deadlines, something can at least be delivered if budget runs out
+- 
 - Quality improves because testing starts from day one.
+- 
 - Visibility improves because you are 1/2 way through the project when you have built 1/2 the features.
-- Risk is reduced because you are getting feedback early, and
+- 
+- Risk is reduced because you are getting feedback early, 
 - Customers are happy because they can make changes without paying exorbitant costs.
 
 
