@@ -828,7 +828,16 @@ The waterfall methodology simply does not work with web projects. Never. Ever. I
 So what's the alternative?
 
 
+agile manifesto:
+Individuals and interactions over Processes and tools
 
+Working software over Comprehensive documentation
+
+Customer collaboration over Contract negotiation
+
+Responding to change over Following a plan
+
+Agile software development is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.
 
 - sprints = lots of mini-waterfalls
 
@@ -841,6 +850,12 @@ Developers start off with a simplistic project design, and then begin to work on
 - chance for reviews, testing, prioritisation, honing in on exactly what the client wants
 - bugs easier to take care of
 - and the end, or indeed at any point, project is ready to launch because it's been continuously tested. more likely to meet deadlines, something can at least be delivered if budget runs out
+- Quality improves because testing starts from day one.
+- Visibility improves because you are 1/2 way through the project when you have built 1/2 the features.
+- Risk is reduced because you are getting feedback early, and
+- Customers are happy because they can make changes without paying exorbitant costs.
+
+
 
 - change can be tooo easy, relies on a good plan to ensure final product is what was originally proposed
 
@@ -857,6 +872,9 @@ When should you use Agile methodology?
 5. When the product is intended for an industry with rapidly changing standards.
 
 
+
+mixed approach might be best
+don't follow the methodology too strictly, by the letter, find your own way, important to focus on quality and take as long as is needed - the important principle is having everyone work together and having a deliverable feature at the end of each spring, not getting as much done as you can in the time available and then moving on regardless.
 
 
 
