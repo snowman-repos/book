@@ -796,7 +796,7 @@ Your day to day tasks on any one particular project will mainly involve meetings
 
 There are many different project management methodologies - you've no doubt heard words like waterfall, agile, scrum - but you don't really need to formally stick to any of them. Find your own methodology that works for you and your team. Saying that, there are some good and bad aspects to any methodology.
 
-- agile
+### Agile
 
 Earlier we talked about timeline diagrams, otherwise known as gantt charts, and even mentioned that they look like waterfalls, with the early tasks on the top left gradually flowing down to the final tasks on the bottom right, with all the dependencies along the way. That is not to say that such diagrams lend themselves to, let alone enforce, the classic “waterfall” methodology. Rather those diagrams just give you a simpler way to track project progress and communicate the project lifecycle to all stakeholders.
 
