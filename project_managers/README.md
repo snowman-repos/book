@@ -840,7 +840,7 @@ You've no doubt heard of “agile”. It's mostly a popular buzz word that many 
 
 Essentially what this means is that a small and focused team is put together with a minimal feature list. They work on these discrete features in daily, weekly or monthly iterations or “sprints”, starting by producing the most basic version and then gradually improving it. At the end of each sprint, priorities are evaluated and feedback is incorporated into the feature before the next sprint is run. Agile methodologies are generally more suited to projects that have tight deadlines imposed on them and require rapid development at the possible expense of quality, where the scope isn't clearly defined and the final outcome unclear, where the designers and developers are highly-skilled, adaptable, and able to think independently.
 
-Hang on a minute. After reading that, alarm bells should be ringing. No comprehensive documentation? No following of plans? No clearly defined scope? No clear outcome?! Throughout this chapter 
+Hang on a minute. After reading that, alarm bells should be ringing. No comprehensive documentation? No following of plans? No clearly defined scope? No clear outcome?! Throughout this chapter we've been emphasing the critical importance of documentation and planning!
 
 
 
