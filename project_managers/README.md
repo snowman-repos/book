@@ -878,7 +878,7 @@ It takes a big commitment by all stakeholders to make this work. This can't be u
 - flexibility allows for potential scope creep
 - increased feedback loops may piss off some clients
 
-Hopefully by now the benefits of a close-knit team working together iteratively towards the best possible solution is clear. Undoubtedly you find the idea quite daunting as it depends on you being able to maintain strict control over the project. That's where good planning, documentation, regular status meetings come in, and also a good solid kick-off.
+By now the benefits of a close-knit team working together iteratively towards the best possible solution should be clear. Undoubtedly you find the idea quite daunting as it depends on you being able to maintain strict control over the project. That's where good planning, documentation, regular status meetings come in, and also a good solid kick-off.
 
 ### The Kick-Off Meeting
 ### Daily Meetings
