@@ -838,15 +838,13 @@ You've no doubt heard of “agile”. It's mostly a popular buzz word that many 
 * Customer collaboration over Contract negotiation
 * Responding to change over Following a plan
 
-Essentially what this means is that a small and focused team is put together with a minimal feature list. They work on these discrete features in daily, weekly or monthly iterations or “sprints”, starting by producing the most basic version and then gradually improving it. At the end of each sprint, priorities are evaluated and feedback is incorporated into the feature before the next sprint is run. Agile methodologies are generally more suited to projects that have tight deadlines imposed on them and require rapid development at the possible expense of quality, where the scope isn't clearly defined and the final outcome unclear, where the designers and developers are highly-skilled, adaptable, and able to think independently.
+Essentially what this means is that a small and focused team is put together with a minimal feature list. They work on these discrete features in daily, weekly or monthly iterations or “sprints”, starting by producing the most basic version and then gradually improving it. At the end of each sprint, priorities are evaluated and feedback is incorporated into the feature before the next sprint is run. A sprint doesn't start until the previous one is finished; it's not about trying to cram as much work as possible into the pre-defined sprint time and then just moving on regardless. Agile methodologies are generally more suited to projects that have tight deadlines imposed on them and require rapid development at the possible expense of quality, where the scope isn't clearly defined and the final outcome unclear, where the designers and developers are highly-skilled, adaptable, and able to think independently.
 
 Hang on a minute. After reading that, alarm bells should be ringing. No comprehensive documentation? No following of plans? No clearly defined scope? No clear outcome?! Throughout this chapter we've been emphasing the critical importance of documentation and planning!
 
+So maybe a mixed approach may be best. Never follow any methodology too strictly - nobody can prescribe the perfect solution for you and your team. Just try to focus on what's important - quality - and plan to take as much time as is needed to achieve the best you are able to with the budget and resources available. The most important principles to take from Agile are everyone working closely, and having a fully testable deliverable at the end of each sprint. Maybe consider each sprint as a mini-waterfall 
 
 
-
-mixed approach might be best
-don't follow the methodology too strictly, by the letter, find your own way, important to focus on quality and take as long as is needed - the important principle is having everyone work together and having a deliverable feature at the end of each spring, not getting as much done as you can in the time available and then moving on regardless.
 
 - sprints = lots of mini-waterfalls
 
