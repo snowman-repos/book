@@ -857,6 +857,8 @@ Developers start off with a simplistic project design, and then begin to work on
 
 - change can be tooo easy, relies on a good plan to ensure final product is what was originally proposed
 - takes a commitment to do it right, can't skip meetings etc.
+- flexibility allows for potential scope creep
+- increased feedback loops may piss off some clients
 
 When should you use Agile methodology?
 
@@ -876,6 +878,8 @@ mixed approach might be best
 don't follow the methodology too strictly, by the letter, find your own way, important to focus on quality and take as long as is needed - the important principle is having everyone work together and having a deliverable feature at the end of each spring, not getting as much done as you can in the time available and then moving on regardless.
 
 - sprints = lots of mini-waterfalls
+
+requires every single person to be motivated and committed to the process
 
 some tasks will inevitably be dependent on other initial tasks. for instance content should always come first. it's a big shift in the way traditional teams work. important to do as much planning, information architecture and content planning before starting, then kick off sprints.
 
