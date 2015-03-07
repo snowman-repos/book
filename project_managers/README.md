@@ -870,10 +870,11 @@ Changes are really easy to handle. You can probably insert a sprint without any 
 - Risk is reduced because you are getting feedback early, 
 - Customers are happy because they can make changes without paying exorbitant costs.
 
+Advantages rarely come without disadvantages so we'd be remiss to not cover those too. The adaptability of the approach and responsivness to changes brings an inherent risk. Changes can become tooooo easy, too tempting. It comes back to a good plan and good project management control to ensure that the final product matches what was originally proposed. As you go along, maybe you, your team, or the client will have some great ideas that you have chance to implement. But if they take you further away from the original business goals then they should be given serious consideration and probably stay on the table for a future upgrade project.
+
+It takes a big commitment by all stakeholders to make this work. This can't be understated. Everyone has to do their best to keep themselves motivated, on track, and work together closely. Status meetings cannot be skipped, feedback cannot be dismissed or left unsought. If one person doesn't participate fully, they obstruct everybody else. Hopefully over time, processes become habitual. Even more hopefully perhaps, proven results should motivate everyone to get with the programme.
 
 
-- change can be tooo easy, relies on a good plan to ensure final product is what was originally proposed
-- takes a commitment to do it right, can't skip meetings etc.
 - flexibility allows for potential scope creep
 - increased feedback loops may piss off some clients
 
