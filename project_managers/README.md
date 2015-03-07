@@ -839,8 +839,6 @@ Responding to change over Following a plan
 
 Agile software development is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.
 
-- sprints = lots of mini-waterfalls
-
 Developers start off with a simplistic project design, and then begin to work on small modules. The work on these modules is done in weekly or monthly sprints, and at the end of each sprint, project priorities are evaluated and tests are run. These sprints allow for bugs to be discovered, and customer feedback to be incorporated into the design before the next sprint is run.
 
 - changes? insert a sprint, minor impact on timeline, clear impact
@@ -858,6 +856,7 @@ Developers start off with a simplistic project design, and then begin to work on
 
 
 - change can be tooo easy, relies on a good plan to ensure final product is what was originally proposed
+- takes a commitment to do it right, can't skip meetings etc.
 
 When should you use Agile methodology?
 
@@ -876,6 +875,9 @@ When should you use Agile methodology?
 mixed approach might be best
 don't follow the methodology too strictly, by the letter, find your own way, important to focus on quality and take as long as is needed - the important principle is having everyone work together and having a deliverable feature at the end of each spring, not getting as much done as you can in the time available and then moving on regardless.
 
+- sprints = lots of mini-waterfalls
+
+some tasks will inevitably be dependent on other initial tasks. for instance content should always come first.
 
 
 - kick off
