@@ -821,20 +821,40 @@ The waterfall methodology simply does not work with web projects. Never. Ever. I
 - too easy for delays, harder to monitor progress towards milestones
 - nothing to show throughout, less opportunity for feedback, necessitates big-reveals -> more risk
 - can't go back and make changes, depends on exact and highly detailed specs, change requests difficult to manage
-- chance for reviews, testing, prioritisation, honing in on exactly what the client wants
-- bugs easier to take care of
-- and the end, or indeed at any point, project is ready to launch because it's been continuously tested. more likely to meet deadlines, something can at least be delivered if budget runs out
+
 
 So what's the alternative?
 
-- lots of mini-waterfalls
+
+
+
+- sprints = lots of mini-waterfalls
 
 Developers start off with a simplistic project design, and then begin to work on small modules. The work on these modules is done in weekly or monthly sprints, and at the end of each sprint, project priorities are evaluated and tests are run. These sprints allow for bugs to be discovered, and customer feedback to be incorporated into the design before the next sprint is run.
 
 - changes? insert a sprint, minor impact on timeline, clear impact
 - because changes are easy, you have more room for experimentation
 - regular testing/reviews
-- 
+- chance for reviews, testing, prioritisation, honing in on exactly what the client wants
+- bugs easier to take care of
+- and the end, or indeed at any point, project is ready to launch because it's been continuously tested. more likely to meet deadlines, something can at least be delivered if budget runs out
+
+- change can be tooo easy, relies on a good plan to ensure final product is what was originally proposed
+
+When should you use Agile methodology?
+
+1. When rapid production is more important than the quality of the product.
+
+2. When clients will be able to chance the scope of the project.
+
+3. When there isn’t a clear picture of what the final product should look like.
+
+4. When you have skilled developers who are adaptable and able to think independently.
+
+5. When the product is intended for an industry with rapidly changing standards.
+
+
+
 
 
 - kick off
