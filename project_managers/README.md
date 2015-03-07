@@ -815,6 +815,8 @@ Earlier we talked about timeline diagrams, otherwise known as gantt charts, and 
 
 The waterfall methodology simply does not work with web projects. Never. Ever. It doesn't work for the following reasons:
 
+It's vital to remember that a website or app is not a magazine. You're not putting together a collection of pages, but rather a set of reusable features or modules, and the content, design, development, and testing work for each module is inter-dependent. You can't put web pages together without those modules. A traditional newspaper or magazine article may be put together by the author passing on content to an editor who passes it to a designer, who places it into a template and adjusts it, before the editor passes all pages on to the printer, who then goes on to deliver it to the distributer, and so on. In contrast, a website for instance 
+
 
 
 - you're building reusable features, not separate pages, features may be interdependent, you can't put pages together without the features
