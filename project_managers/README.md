@@ -842,15 +842,13 @@ Essentially what this means is that a small and focused team is put together wit
 
 Hang on a minute. After reading that, alarm bells should be ringing. No comprehensive documentation? No following of plans? No clearly defined scope? No clear outcome?! Throughout this chapter we've been emphasing the critical importance of documentation and planning!
 
-So maybe a mixed approach may be best. Never follow any methodology too strictly - nobody can prescribe the perfect solution for you and your team. Just try to focus on what's important - quality - and plan to take as much time as is needed to achieve the best you are able to with the budget and resources available. The most important principles to take from Agile are everyone working closely, and having a fully testable deliverable at the end of each sprint. Maybe consider each sprint as a mini-waterfall 
+So maybe a mixed approach may be best. Never follow any methodology too strictly - nobody can prescribe the perfect solution for you and your team. Just try to focus on what's important - quality - and plan to take as much time as is needed to achieve the best you are able to with the budget and resources available. The most important principles to take from Agile are everyone working closely, and having a fully testable deliverable at the end of each sprint. Maybe consider each sprint as a mini-waterfall with its own design, development, and testing phase. Content must always come first and inevitably each feature will require some initial design work. Testing obviously can't be done until there's some code to test. This will make for harder planning as each role may need to work longer on different features. At least there will be a constant stream of finished and tested features coming through rather than waiting for the big reveal weeks or months down the line.
 
+It's a big shift in the way that traditional teams work but it's a necessary one, especially in the age of the multi-device web, a.k.a. “responsive design”. Everything needs to be adapted for and tested on different devices which increases the potential risk if things need to be changed to accommodate one platform or another.
 
+We also still need to thoroughly plan and document web projects. Web projects are not software projects from the 1990s. The complexity and mutability of the web necessitates good preparation. So just as you would with a traditional waterfall model, prepare thoroughly first - information architecure, content strategy, etc. before diving into the sprints (i.e. discrete periods working on specific features or feature sets). How long sprints are depends on your team and your projects.
 
-- sprints = lots of mini-waterfalls
-
-some tasks will inevitably be dependent on other initial tasks. for instance content should always come first. it's a big shift in the way traditional teams work. important to do as much planning, information architecture and content planning before starting, then kick off sprints.
-
-
+Let's run through a simple example. You've got your detailed plan and your timeline and your functional specs. Maybe the timeline just has a planning phase, a production phase (that entails many loops of content, design, development, and testing), a changes or optimisation phase that can be squeezed if necessary, and a delivery phase. Several features in you come to the website navigation menu.
 
 
 - changes? insert a sprint, minor impact on timeline, clear impact
