@@ -819,6 +819,7 @@ The waterfall methodology simply does not work with web projects. Never. Ever. I
 - design, development, and testing are inter-dependent
 - no intra-team transfer of skills/knowledge/understanding
 - too easy for delays, harder to monitor progress towards milestones
+- nothing to show throughout, less opportunity for feedback, necessitates big-reveals -> more risk
 
 So what's the alternative?
 
