@@ -790,7 +790,11 @@ Now, you're finally ready to kick off the project.
 
 ## Comunication & Workflow
 
-OK so that's the easy part over. You've got your plan and your team is good to go. This section is all about what your role involves throughout the rest of the project, from kick-off to delivery, which will roughly be akin to juggling with chainsaws. Your tasks will largely depend, like so much else, on the kind of project you're putting together, the kind of project owner you're working with, and the personalities of the rest of your team. There are many different project management methodologies - you've no doubt heard words like waterfall, agile, scrum - but you don't really need to formally stick to any of them. Find your own methodology that works for you and your team. Saying that, there are some good and bad aspects to any methodology.
+OK so that's the easy part over. You've got your plan and your team is good to go. This section is all about what your role involves throughout the rest of the project, from kick-off to delivery, which will roughly be akin to juggling with chainsaws. Your tasks will largely depend, like so much else, on the kind of project you're putting together, the kind of project owner you're working with, and the personalities of the rest of your team.
+
+Your day to day tasks will mainly involve
+
+There are many different project management methodologies - you've no doubt heard words like waterfall, agile, scrum - but you don't really need to formally stick to any of them. Find your own methodology that works for you and your team. Saying that, there are some good and bad aspects to any methodology.
 
 - agile
 
