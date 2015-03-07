@@ -838,7 +838,7 @@ You've no doubt heard of “agile”. It's mostly a popular buzz word that many 
 * Customer collaboration over Contract negotiation
 * Responding to change over Following a plan
 
-Essentially what this means is that a small and focused team is put together with a minimal feature list. They work on these discrete features in daily, weekly or monthly iterations or “sprints”. At the end of each spring, priorities are evaluated and feedback is incorporated into the feature before the next sprint is run.
+Essentially what this means is that a small and focused team is put together with a minimal feature list. They work on these discrete features in daily, weekly or monthly iterations or “sprints”. At the end of each sprint, priorities are evaluated and feedback is incorporated into the feature before the next sprint is run.
 
 
 
