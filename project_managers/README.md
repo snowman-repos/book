@@ -821,10 +821,13 @@ We just made the important point that design, development, and testing, are inte
 
 There is a major problem with designers, developers, and testers working independently and that's that there can be no mutual transfer of skills, knowledge, and understanding. Designers have little opportunity to learn of the constraints introduced by the code, and developers may not appreciate the potential user experience benefits when faced with complex designs. Instead of working together towards the best solution, they're each trying to get their own job done with as little difficulty as possible, resenting each other when difficulties arise. Likewise testers need to understand the creative and technical implementation in order to asses and identify problems, otherwise they may be seen as being obstructive when they raise bug reports.
 
+Waterfall phases increase the risk of delays. You've allocated 2 weeks or design and 4 weeks for development. What if the design is so complex that the developers will need 6 weeks to implement it? This added complexity is probably also going to require more time for testing and bug fixes. Suddenly your deadline has to be pushed back by a month, you've gone way over budget, and the project owner isn't happy. In the mad rush to complete the project as soon as possible, the work you've produced isn't your team's best. With this risk of unforeseen delays, you as the project manager cannot confidently assess at any stage how far through the project you are. 
+
+It's also much more difficult to react to changes, be they requests from the project owner or unforseen problems that necessitate a change. A change may need you to go back to the design phase - what if the designers are already working on another project? - then go back through the developers and testers, both of whom are already working on other tasks. That meticulous plan you spent so much time on at the start is now out - you have to start all over again, although now it's much more difficult to assess timings because everybody's busy and you're under a lot more pressure.
 
 
 
-- too easy for delays, harder to monitor progress towards milestones
+
 - nothing to show throughout, less opportunity for feedback, necessitates big-reveals -> more risk
 - can't go back and make changes, depends on exact and highly detailed specs, change requests difficult to manage
 - testing is always at the end, but usually you've run out of time by then so it's not done or otherwise rushed
