@@ -790,66 +790,25 @@ Now, you're finally ready to kick off the project.
 
 ## Comunication & Workflow
 
-- introduction
+OK so that's the easy part over. You've got your plan and your team is good to go. This section is all about what your role involves throughout the rest of the project, from kick-off to delivery, which will roughly be akin to juggling with chainsaws. Your tasks will largely depend, like so much else, on the kind of project you're putting together, the kind of project owner you're working with, and the personalities of the rest of your team. There are many different project management methodologies - you've no doubt heard words like waterfall, agile, scrum - but you don't really need to formally stick to any of them. Find your own methodology that works for you and your team. Saying that, there are some good and bad aspects to any methodology.
+
 - agile
+
+Earlier we talked about timeline diagrams, otherwise known as gantt charts, and even mentioned that they look like waterfalls, with the early tasks on the top left gradually flowing down to the final tasks on the bottom right, with all the dependencies along the way. That is not to say that such diagrams lend themselves to, let alone enforce, the classic “waterfall” methodology. Rather those diagrams just give you a simpler way to track project progress and communicate the project lifecycle to all stakeholders.
+
+what is the WM and why it's bad
+what you can do instead
+
 - kick off
 - scrums / standups
 - reviews / post-mortems
 
-WHY GANTT CHARTS WORK FOR ME
-GANTT charts are the subject of much debate in the project management world, some people love them and some hate them. You will find endless conversations online arguing how they are old fashioned and enforce a Waterfall methodology.
 
-I am by no means saying they are the ultimate solution and you should never move away from them, all I am saying here is that at this moment in time they work for me on the kinds of projects I work on currently.
 
-They allow me to:
 
-Explain the web project lifecycle to the client
-Schedule a realistic timeline with milestones that are visible to everyone
-Communicate to the client their level of involvement and when they need to be available
-Track the project’s progress at a low-level
-Quickly adjust the project schedule and produce new milestone dates if anything overruns
-Highlight the fact I need to secure more resource in order to meet the original dates
-Need I sell it more? This stuff sells itself…
 
-So you’ve gone through this, sometimes painfully slow and methodical, web project planning process – how does it help you?
 
-Cast your mind back to the advantages of planning defined in Part 1 of this article and see how this approach has satisfied each point:
 
-Define and manage the project scope
-Completed and possible through granular project breakdown
-Identify and minimise risks to the project
-Completed through granular project breakdown, assumption listing and scheduling
-Break the allocated project time into manageable phases and tasks
-Completed through granular project breakdown
-Determine realistic milestones and client-side deadlines
-Completed through project scheduling
-Track progress and control the project
-Possible with an easily updatable project schedule and consistent time tracking tasks
-Secure the necessary resource
-Easy to identify using an easily updateable schedule
-Being able to manage these fundamental web project management factors greatly increases your chances of delivering on budget and on time without having to compromise on quality which equals happy you and happy client!
-
-When working in a busy environment, as either a web agency team member or as a freelancer, where delivery is what gets you paid, justifying a non-production / non-billable day or two to plan the project is pretty hard to do. Some people know it should be done and just can’t carve out the time, others don’t really believe planning in that much detail is necessary.
-
-Those that can’t find the time should probably try to track the time they spend during their projects working on tasks that they wouldn’t have to if they had planned first – usually this time is much greater than the time it would’ve taken to plan.
-
-Those that don’t believe planning in detail is necessary have probably had a few successes where a project was bought in on time and on budget without a planning stage, or are just avoiding admitting the fact that they don’t enjoy planning. Admitting you don’t enjoy planning is fine, not everyone does, but while admitting this, please try to also admit how many projects have not been delivered on time or budget that perhaps could’ve been if only you’d planned thoroughly.
-
-Always skipping web project planning is a hit and miss affair where success is more dependent on the project and client rather than your ability as a web project manager.
-
-Consistent and thorough web project planning generally results in a more consistent success rate with web projects because, before production begins, you are able to identify, define, and thus manage the critical parts of any project; phases, tasks, resource, timelines, milestones and risks and communicate these to the client.
-
-Thorough web project planning does not ensure a project will come in on time or on budget, but it does increase the chances, and if over budget and late, it will also limit the extent the project overruns because while you may have missed or underestimated a few tasks or risks at the planning stage, you will have identified many more that you have managed to successfully control – and anything you missed this time, you can easily make sure you don’t the next time.
-
-To the web project managers out there, some of the advantages and methods described in this article will be nothing new, but, to web agency and freelance guys and girls with little web project management and planning experience, I hope it explains why planning web projects is so important, to both supplier and client.
-
-But primarily I hope it shows that planning a web project is not a dark art that should only be tackled by dedicated web project managers, it’s something anyone can do as long as you can mentally envisage the project from start to finish…
-
-The real dark art is actually being able to determine the appropriate level of planning that should be undertaken for each project and then managing the project to that plan once in full swing!
-
-n element of one of my recent Smashing Magazine articles, Guidelines for Successful Communication with Clients, proved to be of particular interest to a lot of readers, the weekly web project status report for clients.
-
-So here’s a little (well, a lot) more on why they work, what should be in them and a few tips on producing them.
 
 WHY A WEEKLY WEB PROJECT REPORT?
 Well first of all it should be said that a web project report does not necessarily have to be compiled and sent to the client on a weekly basis, however I believe this only applies to large projects with big budgets that are spanning over more than six months, but even then the web project report should be sent out once every other week at least!
@@ -874,6 +833,7 @@ INTERNAL WEB PROJECT STATUS COMMUNICATION
 As you’re going to all that trouble of compiling this ‘easy to digest’ web project report, why not send it to your boss and project team also. By all rights it will contain exactly the information both of them should be interested in and you need to keep them regularly updated on.
 
 A spoof picture of a TPS report from the movie Office SpaceUse your red stapler for multi-paged web project reports
+
 HIGHLIGHTS ISSUES
 For anyone involved in running web projects you know that on a daily basis any number of issues can rear their ugly head no matter how well it was planned. The weekly web project report can highlight these issues and instigate the conversations that need to happen in order to find a solution.
 
@@ -970,7 +930,6 @@ Producing and sending weekly web project status reports to clients seems like an
 From the very beginning it’s important to remain disciplined and send your client a report every week. In this report you should highlight key information such as actions completed, actions to do, schedule and budget updates.
 
 RECORD YOUR WEB PROJECT MANAGEMENT MEETINGS
-- May 3, 2011 - by thesambarnes, in Digital Project Management, with 19 comments -
 
 For once I’m just going to share something I’ve been doing for years that I could now not imagine not doing… dressing up as Princess Leia from Return of the Jedi and re-enacting the ‘lying in front of Jabba’ scene all chained up n stuff.
 
@@ -1011,6 +970,7 @@ Noteability
 However, I did try using these and personally found it a little more cumbersome than pen and paper and also made me come across slightly detached from the client, like typing away on a laptop does – but maybe this type of solution will work for you.
 
 NAVIGATING THE EXCALIBUR UNVEILING
+
 Although the theory and practice of recording web project meetings is solid, it’s still a little bit of a taboo when you mention the idea to a client, and to be honest I’m not surprised – it’s not exactly standard practice and there are confidentiality concerns.
 
 But I find, as always with clients, honesty is the best policy and by simply explaining that you want to concentrate 100% on the meeting itself and not note taking, and that it will ensure you capture all the fine detail and enable more efficient briefing and web project documents, you’ll generally get agreement.
@@ -1026,11 +986,13 @@ A picture of an oil painting of ex-US President Richard NixonSometimes, recordin
 But in case you’re not too smart (like me, trust me I learnt the hard way) here’s a few handy tips on when to suggest recording and when not too.
 
 THE DOS AND DON’TS OF RECORDING
+
 DO
 Be completely honest about the fact you’d like to record the meeting, even if it’s a conference call
 Make the point to mention you will be discreet with the recording
 Name your recordings semantically so you don’t have to trawl through “untitled.mp3″ only to find out it wasn’t the meeting you needed after all
 Use your instinct to determine if it would feel appropriate to get the recorder out
+
 DON’T
 Try to record pre-sales meetings and conflict resolution meetings
 Record meetings where it isn’t necessary e.g. budget discussions
