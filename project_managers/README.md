@@ -831,21 +831,17 @@ Finally the most heinous crime of waterfall model adherents is that testing is n
 
 So what's the alternative?
 
+You've no doubt heard of “agile”. It's mostly a popular buzz word that many agencies surely throw about without really understanding it or properly adhering to the methodology. Agile came about in the 1990s as a methodology for software development. It places an emphasis on self-organising cross-functional teams who work on short, fast, flexible iterations. This is the official _Agile Manifesto_:
+
+* Individuals and interactions over Processes and tools
+* Working software over Comprehensive documentation
+* Customer collaboration over Contract negotiation
+* Responding to change over Following a plan
+
+Essentially what this means is that a small and focused team is put together with a minimal feature list. They work on these discrete features in daily, weekly or monthly iterations or “sprints”. At the end of each spring, priorities are evaluated and feedback is incorporated into the feature before the next sprint is run.
 
 
 
-agile manifesto:
-Individuals and interactions over Processes and tools
-
-Working software over Comprehensive documentation
-
-Customer collaboration over Contract negotiation
-
-Responding to change over Following a plan
-
-Agile software development is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.
-
-Developers start off with a simplistic project design, and then begin to work on small modules. The work on these modules is done in weekly or monthly sprints, and at the end of each sprint, project priorities are evaluated and tests are run. These sprints allow for bugs to be discovered, and customer feedback to be incorporated into the design before the next sprint is run.
 
 - changes? insert a sprint, minor impact on timeline, clear impact
 - improvements possible
