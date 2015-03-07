@@ -801,6 +801,7 @@ what you can do instead
 
 - kick off
 - scrums / standups
+- status reports
 - reviews / post-mortems
 
 
