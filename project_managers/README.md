@@ -815,6 +815,8 @@ Earlier we talked about timeline diagrams, otherwise known as gantt charts, and 
 
 The waterfall methodology simply does not work with web projects. Never. Ever. It doesn't work for the following reasons:
 
+
+
 - you're building reusable features, not separate pages, features may be interdependent, you can't put pages together without the features
 - design, development, and testing are inter-dependent
 - no intra-team transfer of skills/knowledge/understanding
@@ -884,11 +886,10 @@ requires every single person to be motivated and committed to the process
 some tasks will inevitably be dependent on other initial tasks. for instance content should always come first. it's a big shift in the way traditional teams work. important to do as much planning, information architecture and content planning before starting, then kick off sprints.
 
 
-- kick off
-- scrums / standups
-- status reports
-- reviews / post-mortems
-
+### The Kick-Off Meeting
+### Daily Meetings
+### Status Reports
+### Project Reviews
 
 
 
