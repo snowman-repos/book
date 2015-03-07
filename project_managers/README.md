@@ -838,7 +838,19 @@ You've no doubt heard of “agile”. It's mostly a popular buzz word that many 
 * Customer collaboration over Contract negotiation
 * Responding to change over Following a plan
 
-Essentially what this means is that a small and focused team is put together with a minimal feature list. They work on these discrete features in daily, weekly or monthly iterations or “sprints”. At the end of each sprint, priorities are evaluated and feedback is incorporated into the feature before the next sprint is run.
+Essentially what this means is that a small and focused team is put together with a minimal feature list. They work on these discrete features in daily, weekly or monthly iterations or “sprints”, starting by producing the most basic version and then gradually improving it. At the end of each sprint, priorities are evaluated and feedback is incorporated into the feature before the next sprint is run. Agile methodologies are generally more suited to projects that have tight deadlines imposed on them and require rapid development at the possible expense of quality, where the scope isn't clearly defined and the final outcome unclear, where the designers and developers are highly-skilled, adaptable, and able to think independently.
+
+Hang on a minute. After reading that, alarm bells should be ringing. No comprehensive documentation? No following of plans? No clearly defined scope? No clear outcome?! Throughout this chapter 
+
+
+
+
+mixed approach might be best
+don't follow the methodology too strictly, by the letter, find your own way, important to focus on quality and take as long as is needed - the important principle is having everyone work together and having a deliverable feature at the end of each spring, not getting as much done as you can in the time available and then moving on regardless.
+
+- sprints = lots of mini-waterfalls
+
+some tasks will inevitably be dependent on other initial tasks. for instance content should always come first. it's a big shift in the way traditional teams work. important to do as much planning, information architecture and content planning before starting, then kick off sprints.
 
 
 
@@ -862,28 +874,7 @@ Essentially what this means is that a small and focused team is put together wit
 - flexibility allows for potential scope creep
 - increased feedback loops may piss off some clients
 
-When should you use Agile methodology?
-
-1. When rapid production is more important than the quality of the product.
-
-2. When clients will be able to chance the scope of the project.
-
-3. When there isn’t a clear picture of what the final product should look like.
-
-4. When you have skilled developers who are adaptable and able to think independently.
-
-5. When the product is intended for an industry with rapidly changing standards.
-
-
-
-mixed approach might be best
-don't follow the methodology too strictly, by the letter, find your own way, important to focus on quality and take as long as is needed - the important principle is having everyone work together and having a deliverable feature at the end of each spring, not getting as much done as you can in the time available and then moving on regardless.
-
-- sprints = lots of mini-waterfalls
-
-requires every single person to be motivated and committed to the process
-
-some tasks will inevitably be dependent on other initial tasks. for instance content should always come first. it's a big shift in the way traditional teams work. important to do as much planning, information architecture and content planning before starting, then kick off sprints.
+- summary
 
 
 ### The Kick-Off Meeting
