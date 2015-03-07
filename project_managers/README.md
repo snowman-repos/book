@@ -827,15 +827,11 @@ It's also much more difficult to react to changes, be they requests from the pro
 
 Throughout a waterfall project, you have little or nothing to show. At the end of a design phase maybe you have some static mockups or a UI style guide. That's not very easy for a project owner to assess and provide feedback on. Similarly during the devlopment phase the best you can show them is a broken, unfinished website or app. Any feedback they can provide will surely be influenced by the less than optimal experience. Waterfall methodologies necessitate “big reveals”, where a curtain is unveiled at the end of the project and all the project owner's feedback is expected at once. What if they hate it? What if they want lots of changes? There is now a very large and real risk that you're going to miss the deadline, go over-budget, and probably antagonise your already weary team with all the repeat work they have to do. Your boss isn't happy with you either because you're now eating into profits and you have other projects waiting. Most project managers have been in this situation and know how horribly depressing it is. If you're feeling down and out, how are you supposed to keep driving the team? Do you even still care about making this project great?
 
-
-
-
-- testing is always at the end, but usually you've run out of time by then so it's not done or otherwise rushed
-
-
-
+Finally the most heinous crime of waterfall model adherents is that testing is necessarily left to the end. As a result, it's the first phase on the chopping block when the shit hits the fan, and as web project managers we all have pretty shitty fans and smeared walls. If testing and bug fixing isn't done, or even if it's rushed then you haven't produced quality work. Unless your production team is magically made up of Aslan, Iron Man, David Hasslehoff and the like, you are guaranteed to have bugs that will seriously impact the product's usability for some users, and potentially impact the product owner's business. Major fail.
 
 So what's the alternative?
+
+
 
 
 agile manifesto:
