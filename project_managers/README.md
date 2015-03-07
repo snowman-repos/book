@@ -852,7 +852,7 @@ Let's run through a simple example. You've got your detailed plan and your timel
 
 There are many advantages to this approach:
 
-
+Changes are really easy to handle.
 
 
 - changes? insert a sprint, minor impact on timeline, clear impact
