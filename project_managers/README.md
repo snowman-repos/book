@@ -798,10 +798,31 @@ There are many different project management methodologies - you've no doubt hear
 
 ### Agile
 
-Earlier we talked about timeline diagrams, otherwise known as gantt charts, and even mentioned that they look like waterfalls, with the early tasks on the top left gradually flowing down to the final tasks on the bottom right, with all the dependencies along the way. That is not to say that such diagrams lend themselves to, let alone enforce, the classic “waterfall” methodology. Rather those diagrams just give you a simpler way to track project progress and communicate the project lifecycle to all stakeholders.
+Earlier we talked about timeline diagrams, otherwise known as gantt charts, and even mentioned that they look like waterfalls, with the early tasks on the top left gradually flowing down to the final tasks on the bottom right, with all the dependencies along the way. That is not to say that such diagrams enforce the classic “waterfall” methodology. Rather those diagrams just give you a simpler way to track project progress and communicate the project lifecycle to all stakeholders. However, they do tend to lend themselves to the waterfall methodology and are often abused. It's easy to just enter abstract and over-arching phases like "design", "front-end development", "back-end development", and "testing" with one flowing onto the next. Not only is it easy to put on a diagram, it's easier for us to understand because those are clearly defined chunks of work, probably handled by different people or teams. It seems to make the project more manageable because you can focus on just one set of tasks at a time and manage resources more easiy. While the back-end developers are working on this project, the front-end developers have already finished so they can get to work on the next project, right? If you think this is a good approach then you have 2 options:
 
-what is the WM and why it's bad
-what you can do instead
+**Option 1**
+
+1. Open a maps app
+2. Find the nearest tall building, cliff, or bridge. Ideally it should be at least 80m high.
+3. Go to that tall building, cliff, or bridge.
+4. Stand on the edge, facing the abyss
+5. Jump forward
+
+**Option 2**
+
+1. STOP. STOP. STOP!
+2. Change your wicked ways
+
+The waterfall methodology simply does not work with web projects. Never. Ever. It doesn't work for the following reasons:
+
+- you're building reusable features, not separate pages
+- design, development, and testing are inter-dependent
+- no intra-team transfer of skills/knowledge/understanding
+- too easy for delays, harder to monitor progress towards milestones
+
+So what's the alternative?
+
+
 
 - kick off
 - scrums / standups
