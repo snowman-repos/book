@@ -877,7 +877,7 @@ don't follow the methodology too strictly, by the letter, find your own way, imp
 
 - sprints = lots of mini-waterfalls
 
-some tasks will inevitably be dependent on other initial tasks. for instance content should always come first.
+some tasks will inevitably be dependent on other initial tasks. for instance content should always come first. it's a big shift in the way traditional teams work. important to do as much planning, information architecture and content planning before starting, then kick off sprints.
 
 
 - kick off
