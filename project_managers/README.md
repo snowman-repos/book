@@ -821,6 +821,8 @@ The waterfall methodology simply does not work with web projects. Never. Ever. I
 - too easy for delays, harder to monitor progress towards milestones
 - nothing to show throughout, less opportunity for feedback, necessitates big-reveals -> more risk
 - can't go back and make changes, depends on exact and highly detailed specs, change requests difficult to manage
+- testing is always at the end, but usually you've run out of time by then so it's not done or otherwise rushed
+- you never know where you are in the project. based on the design phase you don't know how long development will take, based on dev you don't know testing, harder to plan time realistically
 
 
 So what's the alternative?
@@ -833,6 +835,7 @@ So what's the alternative?
 Developers start off with a simplistic project design, and then begin to work on small modules. The work on these modules is done in weekly or monthly sprints, and at the end of each sprint, project priorities are evaluated and tests are run. These sprints allow for bugs to be discovered, and customer feedback to be incorporated into the design before the next sprint is run.
 
 - changes? insert a sprint, minor impact on timeline, clear impact
+- improvements possible
 - because changes are easy, you have more room for experimentation
 - regular testing/reviews
 - chance for reviews, testing, prioritisation, honing in on exactly what the client wants
