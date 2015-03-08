@@ -1244,7 +1244,13 @@ Not convinced yet? Why not do some further reading, here are couple of other gre
 Using GitHub issues to manage projects by Z Porter.
 Managing projects with GitHub by Jerad Bitner.
 
+
+
+
 ## Delivery
+
+- fully tested beforehand
+- beta period = your warranty period
 
 Continuous Integration makes dev life easier. Happier, better developers and testers. More efficient cycle. Keeps people happy.
 
@@ -1337,10 +1343,6 @@ What languages is your service offered in?
 If a user needs help while using the service how do they go about getting it?
 How does the service’s design visually relate to other government services?
 
-## Delivery
-
-- fully tested beforehand
-- beta period = your warranty period
 
 
 
