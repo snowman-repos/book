@@ -884,6 +884,13 @@ By now the benefits of a close-knit team working together iteratively towards th
 - what's the point - deliver the requirements
 - explain the plan
 - choose a technology stack
+
+teams should consider using open source, cloud based, and commodity solutions across the technology stack, as these solutions have seen widespread adoption and support by the most successful private-sector consumer and enterprise software technology companies.
+
+Choose software frameworks that are commonly used by private-sector companies creating similar services
+
+To the extent practical, ensure that software can be deployed on a variety of commodity hardware types
+
 - listen to concerns
 - set to work
 
@@ -1206,6 +1213,8 @@ C’mon, sell it to me; sell it to our bosses, please. There must be some Web Pr
 - servers
 - github
 - testing / continuous integration
+- bug tracking system
+- user data (analytics, user testing tools)
 
 A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
 
@@ -1257,6 +1266,10 @@ Managing projects with GitHub by Jerad Bitner.
 - beta period = your warranty period
 
 Continuous Integration makes dev life easier. Happier, better developers and testers. More efficient cycle. Keeps people happy.
+
+Ensure that each project has easy to understand instructions for setting up a local development environment, and that team members can be quickly added or removed from projects
+
+
 
 It's not about the work that you do, but the work you enable others to do.
 
@@ -1361,33 +1374,17 @@ How does the service’s design visually relate to other government services?
 
 
 
-Release features and improvements multiple times each month
-Create a prioritized list of features and bugs, also known as the “feature backlog” and “bug backlog”
-Use an “issue tracker” to catalog features and bugs
-Use a source code version control system
-Ensure entire team has access to the issue tracker and version control system
-Use code reviews to ensure quality
-key questions
-How long did it take to ship the MVP? If it has not shipped yet, when will it?
-How long does it take for a production deployment?
-How long in days are the iterations/sprints?
-Which source code version control system is being used?
-What tool is being used to track bugs and issue tickets?
-What tool is being used to manage the feature backlog?
-How often do you review and reprioritize the items in your feature and bug backlog?
-How do you collect user feedback during development and how is that feedback to improve the service?
-At each stage of usability testing, what gaps were identified in addressing user needs?
 
-Choose a modern technology stackThe technology decisions we make need to enable development teams to work efficiently and enable services to scale easily and cost-effectively. Our choices for hosting infrastructure, databases, software frameworks, programming languages and the rest of the technology stack should seek to avoid vendor lock-in and match what successful modern consumer and enterprise software companies would choose today. In particular, digital services teams should consider using open source, cloud based, and commodity solutions across the technology stack, as these solutions have seen widespread adoption and support by the most successful private-sector consumer and enterprise software technology companies.checklist
-Choose software frameworks that are commonly used by private-sector companies creating similar services
-To the extent practical, ensure that software can be deployed on a variety of commodity hardware types
-Ensure that each project has easy to understand instructions for setting up a local development environment, and that team members can be quickly added or removed from projects
-Consider open source software solutions at all layers of the stack
-key questions
-What is your development stack and why did you choose it?
-What database(s) are you using and why did you choose them?
-How long does it take for a new team member to set up a local development environment?
-PLAY 9
+
+
+
+
+
+
+
+
+
+
 
 Deploy in a flexible hosting environmentOur services should be deployed on flexible infrastructure, where resources can be provisioned in real time to meet spikes in user demand. Our digital services are crippled when we host them in data centers which market themselves as “cloud hosting” but require us to manage and maintain hardware directly. This outdated practice wastes time, weakens our disaster recovery plans, and results in significantly higher costs.checklist
 Resources are provisioned on demand
