@@ -1191,6 +1191,7 @@ C’mon, sell it to me; sell it to our bosses, please. There must be some Web Pr
 - code review
 - test coverage
 - feedback
+- measure against KPIs
 
 Use data to drive decisionsAt all stages of a digital project, we should measure how well our service is working for our users. This includes measuring how well a system performs and how people are interacting with the system in real time. Our teams and agency leadership should carefully watch these metrics to proactively spot issues and identify which improvements should be prioritized. In addition to monitoring tools, a feedback mechanism should be in place for people to report issues directly.checklist
 Monitor system-level resource utilization in real time
@@ -1446,53 +1447,11 @@ What tool/technology is used for A/B testing?
 
 
 
-What is a product manager? What do product managers do all day? Most importantly, why do companies need to hire them? Good questions.
-The first confusion we have to clear up is what we mean by “product.” In the context of software development, a product is the website, application or online service that users interact with. Depending on the size of the company and its products, a product manager could be responsible for an entire system (such as a mobile app) or part of a system (such as the checkout flow on an e-commerce website across all devices).
-This is confusing because, in most contexts, a product is a thing you sell to people. Particularly in e-commerce, product managers often get confused with category managers, which are the team that sources and merchandises the products sold on an e-commerce website. So, yes, “product” probably isn’t the best word for it. But it’s what we’ve got, and it’s the word we’ll refer to in exploring this role.
-To define the role of a product manager, let’s start by looking at Marc Andreessen’s view of the only thing that matters in a startup:
-The quality of a startup’s product can be defined as how impressive the product is to one customer or user who actually uses it: How easy is the product to use? How feature rich is it? How fast is it? How extensible is it? How polished is it? How many (or rather, how few) bugs does it have?
-The size of a startup’s market is the the number, and growth rate, of those customers or users for that product.…
-The only thing that matters is getting to product-market fit. Product-market fit means being in a good market with a product that can satisfy that market.
-Even though Andreessen wrote this for startups, the importance of that last sentence about product-market fit holds truth for every organization — whether the organization is getting a new product to market or redesigning an existing experience or anything in between. It is a universal road map to success, and it is the core of what product managers are responsible for.
-With that as the backdrop, my definition of the role of a product manager would be to achieve business success by meeting user needs through the continual planning and execution of digital product solutions.
-This definition summarizes all of the things that a product manager needs to obsess over: the target market, the intricacies of the product, what the business needs in order to succeed, and how to measure that success. It also encapsulates the three things that a product manager should never lose sight of:
-The ultimate measure of success is the health of the business and, therefore, the value that the product provides to users.
-Everything starts with a solid understanding of the target market and its needs, so that the focus remains on the quality of the product experience.
-A continual cycle of planning and execution is required to meet these market needs in a sustainable way.
-So, how does this translate to what a product manager does every day? That question is way too big to answer here, but as an introduction, Marty Cagan has a great list of common tasks that product managers are responsible for in his ebook Behind Every Great Product (PDF). The tasks include:
-identifying and assessing the validity and feasibility of product opportunities,
-making sure the right product is delivered at the right time,
-developing a product strategy and road map for development,
-leading the team in executing the product’s road map,
-evangelizing the product internally to the executive team and colleagues,
-representing customers through the product development process.
-But before a product manager is able to do these things, a couple of awkward questions have to be asked. First, do companies really need product managers? And, if we can agree on that, what are the characteristics of a good one? Also, where does this role fit in an organization’s structure? Let’s explore these questions.
-Why Companies Need Product Managers
-The role of product manager can be a hard sell for some companies. Common objections to it include:
-“We have various people in the organization whose roles fulfill each of these functions.”
-“I don’t see how the role would make us more money.”
-“Product managers would just slow us down.”
-“I don’t want to relinquish control of the product to someone else.” (OK, this one is not usually said out loud.)
-These appear to be valid concerns, but only if the role is not well understood — or if the organization has bad product managers who perpetuate these perceptions.
-The truth is that, to be effective, the role of a manager for a particular product or area must not be filled by multiple people. It is essential for the product manager to see the whole picture — the strategic vision as well as the details of implementation — in order to make good decisions about the product. If knowledge of different parts of the process resides in the heads of different people, then no one will have that holistic view, and all value will be drained of the role.
-Let’s look at two major benefits that product managers bring.
-PRODUCT MANAGERS ENSURE A MARKET-DRIVEN APPROACH
-The key argument in favor of product managers is that they help companies to be driven by the needs and goals of the target market, not the forces of technology or fads. As Barbara Nelson puts it in “Who Needs Product Management?”:
-It is vastly easier to identify market problems and solve them with technology than it is to find buyers for your existing technology.
-If done right, a market-driven focus results in long-term, sustainable, profitable business, because the company will remain focused on solving market problems, as opposed to looking for things to do with the latest technologies. A market-driven focus is important because companies that have one are proven to be more profitable than those driven by other factors (31% more profitable, according to George S. Day and Prakash Nedungadi).
-This doesn’t mean focusing on incremental change to the exclusion of product innovation. Identifying market problems is about not only finding existing issues to improve (for example, “60% of users drop off on this page, so let’s fix that”), but also about creating new products to satisfy unmet needs (“Cell phones suck — let’s make a better one”).
-PRODUCT MANAGERS IMPROVE TIME-TO-EVERYTHING
-The second major benefit of product managers is that they reduce the time an organization takes to reach its goals. A well-defined and appropriate product development process run by effective managers will improve both the time-to-market as well as the time-to-revenue.
-The reason for the faster turnaround time is that a product manager is responsible for figuring out what’s worth building and what’s not. This means less time spent on the spaghetti approach to product development (throwing things against the wall to see what sticks) and more time spent on building products that have been validated in the market. This approach also sharpens the organization’s focus, enabling the organization to dedicate more people to products that are likely to succeed, instead of spreading people too thin on projects that no one is sure will have a product-market fit.
 
 
 
-7 Principles of Rich Web Applications
 
-November 4, 2014 – 127504 views
-This is a writeup based on a presentation I gave at BrazilJS in August 2014. It builds on some of the ideas I’ve been blogging about recently related mostly to UX and performance.
 
-I want to introduce 7 actionable principles for websites that want to make use of JavaScript to control their UI. They are the result of my experience as a web developer, but also as a long-time user of the WWW.
 
 JavaScript has undeniably become an indispensable tool for frontend developers. Its usage is now expanding into other areas like servers and microcontrollers. It’s the language of choice for introducing computer science concepts by prestigious universities.
 
