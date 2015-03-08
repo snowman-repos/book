@@ -958,3 +958,79 @@ You tap a button and the form just ...appears? You swipe to delete an item and i
 Oh, ok sweet. You made some notes — it just “slides in.” How? Quickly? Does it bounce back? Cushion in? Static design doesn't provide context between states.
 Mirroring the rise of browsers and devices powerful enough to animate a full 60 frames per second are prototyping tools easy and cheap enough to use in routine production. The coming years will reflect a totally new way of designing our products that solve clients’ problems, which will also mean a totally new way of showing that work to clients in progress. After all, how could you represent a fully responsive e-commerce site like Melanie F just in Photoshop or even Sketch? Animation for the web — and the tools we use to design it — are just getting started.
 
+
+
+http://responsivedesign.is/articles/why-you-dont-need-device-specific-breakpoints
+
+WHY YOU DON’T NEED DEVICE SPECIFIC BREAKPOINTS
+
+BY JUSTIN AVERY, 28 OCT 2014 : OPINION
+
+With the ever growing number of different mobile, tablet, laptops, monitors, televisions, watches — and whatever else will communicate information to you visually — it's finally time to put to rest those device specific breakpoints.
+
+Recently I was fortunate to spend some time with Brad Frost. One of our conversations — most of which weren't anything to do with the industry — was around the need to upgrade to the latest round of devices (the iPhone 6 had recently been released).
+
+I was joking about coming across my first iPad (2011 iPad 2) and how comically large it seemed after using the iPad Mini. With so many new devices that were now hitting the shelves and the fact that we're no longer wowed that there's a new bigger and skinnier phone has meant that for some the upgrade to the latest version isn't something that is as vital as it once was.
+
+DESIRE TO UPGRADE
+
+One of the reasons behind wanting to upgrade to the latest device was the need to start testing our own and our client websites to see what we needed to fix.
+
+With the iPhone 6 new larger screen, and it's companions 6+ even bigger screen this would surely introduce a new set of design problems for all the sites we only launched since the iPhone 5 resize.
+
+Surely this, along with the High DPI Screen was going to warrant us to head out and upgrade to the latest bit of hardware.
+
+RESPONSIVE DESIGN AT ITS BEST
+
+The fact is that we didn't need to do anything.
+
+Nothing. Nada. Zip.
+
+Over the past 4 years (that's right, the idea has been around for that long and it's not going anywhere) we've been moving towards a more responsive web. We have flexible grids, we have flexible images, and we use media queries to rearrange our layouts when the viewport dictates.
+
+Over the 4 years we have slowly moved away from device specific breakpoints in favour of content specific breakpoints, i.e. adding a breakpoint when the content is no longer easy to consume.
+
+With this fundamental shift in thinking we no longer have to fear a new device — a new iPhone width — because we've already fixed our sites to work everywhere.
+
+Lets take a look at three of the most common issues with new widths and why they no longer matter.
+
+FORM FACTOR
+
+This is actually a good reason for testing. The size of the phone has increased and therefore the way we interface with the phone will change. Luke Wroblewski has written about the form factor and possible solutions to navigation.
+
+This is nothing new though. There have been larger phones on the market since the Samsung Note was released so many of the issues faced will have already been overcome.
+
+Apple have released a double tap on the home button to move the top of the screen closer for tapping elements, but this form factor is not available across all devices so not something that provides a well rounded solution.
+
+Form factor doesn't matter because you've already taken these screen sizes into consideration with other devices.
+
+HIGH DPI
+
+When the retina display (Apples marketing name for high DPI screens) was released it caused a world wide panic. First there was 1.5 high dpi which meant you needed a 38px icon to render nice and crisp when displayed at 25px. Then we had the 2x icon sizes and we needed a 50px icon to render nice and crisp when displayed at 25px.
+
+At some point we got bored or resizing icons and worked out that if we used Font Icons or SVG icons then it didn't matter how good the screen would become because the vector looks beautiful and crisp EVERYWHERE.
+
+High DPI/Retina doesn't matter because you've already updated all your logo's and icons to SVG and that scales to work on any device.
+
+NEW VIEWPORT DIMENSIONS
+
+For a little while we lost site of what Responsive Design really meant — and I mean the underlying theory of Responsive Design where we respond our content to fit any viewport — and we began to use device widths to target particular layouts towards.
+
+We knew that browser and device sniffing was frowned upon and thought that we could achieve the same approach using only media queries. This spurred the 320, 480, and 768px media queries that kept with the iPhone 3/4 and iPad viewport dimensions. When the iPhone 5 was released a handful of use updated the 480px query to 568px to accommodate the slightly larger screen. Strangely we never looked at Android phone dimensions (probably because there's far too many of them).
+
+Fortunately at some point we all became aware we were doing it wrong and fell back to allowing the content dictate our breakpoints. This has the greatest benefit of all, the ability to still serve our sites content perfectly regardless of the device sizes released to market.
+
+New device size don't matter because you've already based your media query breakpoints on the content.
+
+THE FUTURE
+
+This won't be the last iPhone to be released, and it certainly won't be the last smart phone released with a new dimension.
+
+Fortunately it no longer matters the size of the devices that are coming in the future because we're already prepared for them with our flexible grids, flexible images, and content focussed breakpoints.
+
+The picture proposal has meant that in the future image sizes are no longer an issue either, although we do need to become better at setting the sizes attribute.
+
+The biggest issue we're going to have now will be producing content for smaller screens. Screens that fit on your wrist. This is a problem less for responsive design to solve, after all we can't reduce the content to less than a single column.
+
+Instead the solution will be in the format we serve our content. Making it available not just in between <html>..</html> tags, but also in formats like <xml> <rss> and json.
+
