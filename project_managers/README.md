@@ -1192,6 +1192,16 @@ C’mon, sell it to me; sell it to our bosses, please. There must be some Web Pr
 - test coverage
 - feedback
 
+Use data to drive decisionsAt all stages of a digital project, we should measure how well our service is working for our users. This includes measuring how well a system performs and how people are interacting with the system in real time. Our teams and agency leadership should carefully watch these metrics to proactively spot issues and identify which improvements should be prioritized. In addition to monitoring tools, a feedback mechanism should be in place for people to report issues directly.checklist
+Monitor system-level resource utilization in real time
+Monitor system performance, measuring response time, latency, throughput, and error rates in real-time
+Ensure monitoring in place can measure median, 95th percentile and 98th percentile performance
+Create automated alerts based on this monitoring
+Track concurrent users in real time, and monitor user behaviors (in the aggregate) to determine how well the service is meeting user needs
+Publish metrics internally
+Publish metrics externally
+Use an experimentation tool that supports multivariate testing in production
+
 ### Project Reviews
 
 - discuss good and bad points
@@ -1379,92 +1389,10 @@ What languages is your service offered in?
 If a user needs help while using the service how do they go about getting it?
 How does the service’s design visually relate to other government services?
 
+## Ongoing Maintenance
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-PLAY 11
-
-Manage security and privacy through reusable processesIt is critical that our digital services protect sensitive information and keep systems secure. This is typically a process of continuous review and improvement which should be built into the development and maintenance of the service. At the start of designing a new service or feature, the team lead should engage the appropriate privacy, security, and legal officer(s) to discuss the type of information collected, how it should be secured, and how it may be used and shared. The sustained engagement of a privacy specialist helps ensure that personal data is properly managed. In addition, a key process to building a secure service is comprehensively testing and certifying the components in each layer of the technology stack for security vulnerabilities, and then to re-use these same pre-certified components for multiple services.The following checklist provides a starting point, but teams should work closely with their privacy specialist and security engineer to meet the needs of the specific service.checklist
-Contact the appropriate privacy or legal officer of the department or agency to determine whether a System of Records Notice (SORN), Privacy Impact Assessment, or other review should be conducted
-Determine, in consultation with a records officer, what data is collected and why, how it is used or shared, how it is stored and secured, and how long it is kept
-Determine, in consultation with a privacy specialist, whether and how users are notified about how personal information is collected and used, including whether a privacy policy is needed and where it should appear, and how users will be notified in the event of a security breach
-Consider whether the user should be able to access, delete, or remove their information from the service
-“Pre-certify” the hosting infrastructure used for the project using FedRAMP
-Use deployment scripts to ensure configuration of production environment remains consistent and controllable
-key questions
-Does the service collect personal information from the user (whether government or public)? How is the user notified of this collection?
-Does it collect more information than is needed to perform the requested task? Are there uses of the data that would not be expected by the average user?
-How does a user contact a responsible person to seek access, correction, deletion, or removal of his or her personal information?
-Will information stored in the system be shared with others?
-How and how often is the service tested for security vulnerabilities?
-How can someone from the public report a security issue?
-
-Use data to drive decisionsAt all stages of a digital project, we should measure how well our service is working for our users. This includes measuring how well a system performs and how people are interacting with the system in real time. Our teams and agency leadership should carefully watch these metrics to proactively spot issues and identify which improvements should be prioritized. In addition to monitoring tools, a feedback mechanism should be in place for people to report issues directly.checklist
-Monitor system-level resource utilization in real time
-Monitor system performance, measuring response time, latency, throughput, and error rates in real-time
-Ensure monitoring in place can measure median, 95th percentile and 98th percentile performance
-Create automated alerts based on this monitoring
-Track concurrent users in real time, and monitor user behaviors (in the aggregate) to determine how well the service is meeting user needs
-Publish metrics internally
-Publish metrics externally
-Use an experimentation tool that supports multivariate testing in production
-key questions
-What are the key metrics for the service?
-How have these key metrics performed over the life of the service?
-What system monitoring tool(s) are in place?
-What is the targeted average response time for your service? What percent of requests take more than 1 second, 2 seconds, 4 seconds, and 8 seconds?
-What is the average response time and percentile breakdown (percent of requests taking more than 1s, 2s, 4s, and 8s) for your service’s top 10 transactions?
-What is your service’s monthly uptime target?
-What is your service’s monthly uptime percentage including scheduled maintenance? Excluding scheduled maintenance?
-How does your team receive automated alarms when incidents occur?
-What is the volume of each of your service’s top 10 transactions? What is the percentage of transactions started vs. completed?
-What tool(s) are in place to measure user behavior?
-What tool/technology is used for A/B testing?
-How do you measure customer satisfaction?
-
-Default to openWhen we collaborate in the open and publish our data publicly we can improve Government together. By building services more openly and publishing open data, we simplify the public’s access to government services and information, allow the public to easily provide fixes and contributions, and enable reuse by entrepreneurs, nonprofits, other agencies, and the public.checklist
-Offer users a mechanism to report bugs and issues, and be responsive to these reports
-Provide datasets to the public, in their entirety, through bulk downloads and APIs (application programming interfaces)
-Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver
-Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing
-Ensure that we maintain the rights to all data developed by third parties in such a manner that is releasable and reusable at no cost to the public
-Ensure that we maintain contractual rights to all custom software developed by third parties in such a manner that is publishable and reusable at no cost
-When appropriate, create an API for third parties to interact with the service directly
-When appropriate, publish source code of projects or components online
-When appropriate, share your development process and progress publicly
-key questions
-How are you collecting user feedback for bugs and issues?
-If there is an API, what capabilities does it provide? Who uses it? How is it documented?
-If the codebase has not been released under an open source license, explain why.
-What components are made available to the public as open source?
-What datasets are made available to the public?
-
-
+- security
+- performance
 
 Monitor system-level resource utilization in real time
 Monitor system performance, measuring response time, latency, throughput, and error rates in real-time
@@ -1486,6 +1414,35 @@ How does your team receive automated alarms when incidents occur?
 What is the volume of each of your service’s top 10 transactions? What is the percentage of transactions started vs. completed?
 What tool(s) are in place to measure user behavior?
 What tool/technology is used for A/B testing?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A product owner has been identified
 All stakeholders agree that the product owner has the authority to assign tasks and make decisions about features and technical implementation details
