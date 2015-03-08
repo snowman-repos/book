@@ -831,7 +831,7 @@ Finally the most heinous crime of waterfall model adherents is that testing is n
 
 So what's the alternative?
 
-You've no doubt heard of “agile”. It's mostly a popular buzz word that many agencies surely throw about without really understanding it or properly adhering to the methodology. Agile came about in the 1990s as a methodology for software development. It places an emphasis on self-organising cross-functional teams who work on short, fast, flexible iterations. This is the official _Agile Manifesto_:
+You've no doubt heard of “agile”. It's mostly a popular buzz word that many agencies surely throw about without really understanding it or properly adhering to the methodology. Agile came about in the 1990s as a methodology for software development. It places an emphasis on self-organising cross-functional teams who work on short, fast, flexible iterations. Following agile methodologies is actually a proven best practice for building digital services. This is the official _Agile Manifesto_:
 
 * Individuals and interactions over Processes and tools
 * Working software over Comprehensive documentation
@@ -1205,7 +1205,11 @@ C’mon, sell it to me; sell it to our bosses, please. There must be some Web Pr
 - tools
 - servers
 - github
-- 
+- testing / continuous integration
+
+A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
+
+Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners
 
 WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
 - January 13, 2014 - by thesambarnes, in Digital Project Management, with 9 comments -
@@ -1352,16 +1356,11 @@ How does the service’s design visually relate to other government services?
 
 
 
-PLAY 4
-
-Build the service using agile and iterative practicesWe should use an incremental, fast-paced style of software development to reduce the risk of failure by getting working software into users’ hands quickly, and by providing frequent opportunities for the delivery team members to adjust requirements and development plans based on watching people use prototypes and real software. A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production. Following agile methodologies is a proven best practice for building digital services, and will increase our ability to build services that effectively meet user needs.
 
 
-Ship a functioning “minimum viable product” (MVP) that solves a core user need addressed by the service as soon as possible, and not longer than three months from the beginning of any new digital project, using a “beta” or “test” period if needed
 
-Run usability tests frequently to see how well the service works for users, and identify improvements that should be made
-Ensure the individuals building the service are in close communication using techniques such as war rooms, daily standups, and team chat tools
-Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners
+
+
 Release features and improvements multiple times each month
 Create a prioritized list of features and bugs, also known as the “feature backlog” and “bug backlog”
 Use an “issue tracker” to catalog features and bugs
