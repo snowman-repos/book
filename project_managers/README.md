@@ -879,15 +879,25 @@ It takes a big commitment by all stakeholders to make this pseudo-agile process 
 By now the benefits of a close-knit team working together iteratively towards the best possible solution should be clear. Undoubtedly you find the idea quite daunting as it depends on you being able to maintain strict control over the project. That's where good planning, documentation, regular status meetings come in, and also a good solid kick-off.
 
 ### The Kick-Off Meeting
+
+- before hand - while you're planning get everyone's feedback
+- what's the point - deliver the requirements
+- explain the plan
+- choose a technology stack
+- listen to concerns
+- set to work
+
 ### Daily Meetings
+
+- find everyone's status
+- quick daily standup
+- non-intrusive
+- provide updates to client manager, get feedback from client
+- identify and react to risks
+
+after each meeting go back and adjust your plan
+
 ### Status Reports
-### Project Reviews
-
-
-
-
-
-
 
 WHY A WEEKLY WEB PROJECT REPORT?
 Well first of all it should be said that a web project report does not necessarily have to be compiled and sent to the client on a weekly basis, however I believe this only applies to large projects with big budgets that are spanning over more than six months, but even then the web project report should be sent out once every other week at least!
@@ -1175,19 +1185,27 @@ Have you ever worked anywhere where this culture was discouraged? What were the 
 Do you believe there is real commercial value in this culture? If so can you articulate what it is?
 C’mon, sell it to me; sell it to our bosses, please. There must be some Web Project Managers our there who also stay on Twitter all day and read blog posts etc. Why do you find it beneficial? Or, in what way do you see it as a beneficial thing for your project team to be doing?
 
+### Scrum Reviews
 
+- design review
+- code review
+- test coverage
+- feedback
 
+### Project Reviews
 
-
-
-
-
-
-
+- discuss good and bad points
+- strategy to tackle problems before meeting is over. when set goal, set deadline, assign to people
+- ideas to make it better that an be sold to client
+- find best way to showcase it to win more work
 
 ## Setting things up
 
 - seating arrangements
+- tools
+- servers
+- github
+- 
 
 WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
 - January 13, 2014 - by thesambarnes, in Digital Project Management, with 9 comments -
@@ -1319,8 +1337,10 @@ What languages is your service offered in?
 If a user needs help while using the service how do they go about getting it?
 How does the service’s design visually relate to other government services?
 
+## Delivery
 
-
+- fully tested beforehand
+- beta period = your warranty period
 
 
 
@@ -1332,8 +1352,11 @@ How does the service’s design visually relate to other government services?
 
 PLAY 4
 
-Build the service using agile and iterative practicesWe should use an incremental, fast-paced style of software development to reduce the risk of failure by getting working software into users’ hands quickly, and by providing frequent opportunities for the delivery team members to adjust requirements and development plans based on watching people use prototypes and real software. A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production. Following agile methodologies is a proven best practice for building digital services, and will increase our ability to build services that effectively meet user needs.checklist
+Build the service using agile and iterative practicesWe should use an incremental, fast-paced style of software development to reduce the risk of failure by getting working software into users’ hands quickly, and by providing frequent opportunities for the delivery team members to adjust requirements and development plans based on watching people use prototypes and real software. A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production. Following agile methodologies is a proven best practice for building digital services, and will increase our ability to build services that effectively meet user needs.
+
+
 Ship a functioning “minimum viable product” (MVP) that solves a core user need addressed by the service as soon as possible, and not longer than three months from the beginning of any new digital project, using a “beta” or “test” period if needed
+
 Run usability tests frequently to see how well the service works for users, and identify improvements that should be made
 Ensure the individuals building the service are in close communication using techniques such as war rooms, daily standups, and team chat tools
 Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners
