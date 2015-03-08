@@ -1287,6 +1287,71 @@ Not convinced yet? Why not do some further reading, here are couple of other gre
 Using GitHub issues to manage projects by Z Porter.
 Managing projects with GitHub by Jerad Bitner.
 
+Ever since version control systems such as Git have become widely-known and well-used, modern development processes have radically changed.
+
+Here are some reasons why Git has the power to improve your development workflow.
+
+
+Git Encourages Modularization
+In even the smallest development projects, developers are often required to work on multiple components in parallel. Feature X, bug #102, a new UI for a sign-up form, etc.
+
+Among many others, here are a couple of major issues with projects that aren’t version-controlled:
+
+Project dependencies will be painful to manage. Team members must sort out which changes affect which components.
+Unfinished and experimental code will mix-in with production-ready code. Without version control, there is a huge chance that an unstable piece of code gets deployed to a production environment.
+Imagine these scenarios.
+
+Your client tells you that they don’t want feature X anymore.
+
+Or what if you find that feature Y — an experimental feature you have been working on — can’t be implemented?
+
+How do you get code removed safely from your code base?
+
+Using branches is the solution to these commonplace development problems. Although Git wasn’t the version control system (VCS) that introduced the concept of branching, it’s the first of its kind that makes it user-friendly.
+
+Git Encourages Creativity and Experimentation
+Git branching will improve your code-quality and productivity. It facilitates creativity and experimentation by removing your fear that the current version of the project will be affected while you are trying out ideas, giving you an environment where you can confidently explore and develop your project’s future features.
+
+With Git, you can even create multiple branches that approach a given problem in different ways, test each of them with your master branch (the most current version of your project), and then choose the best option.
+
+Git Allows You to Undo Your Mistakes
+In Git, you can undo almost everything.
+
+Being able to undo things gives your team the courage to try out ideas and concepts without the risk of breaking stuff, which in turn fosters a culture of innovation.
+
+Git Makes Your Progress Clear
+A commit in Git refers to the act of recording changes you have made in your source code.
+
+When used properly, Git makes it easy to craft very granular commits. You can see what changes have occurred down to the microscopic level: Git will tell you what characters and lines in your source code have been altered. If you want to compare two versions of a file or the difference between two of your commits, you can issue Git’s diff command, which will highlight the differences between them.
+
+A side note when using commits: As a good version control policy, I recommend that each commit should only contain changes that belong to a single topic.
+
+For instance, if you’re fixing a specific bug — let’s call it bug #200 — that requires multiple source code changes across several files, all those changes should be under one commit in order for you to easily track changes to your project related to that bug. This way, you can document that "commit X fixed bug #200". A side benefit of this commit policy is, when you encounter another bug similar to bug #200 somewhere else in your project months from now, you can review how you resolved the first bug.
+
+Mixing different topics in one commit makes it hard to see what things were added or resolved.
+
+Also, multi-topic commits makes it more difficult to roll back to a previous version if you ever find the need to do so. Imagine a commit that contains changes for both feature A and feature B. If you find out later on that you introduced a severe security leak with feature B, you’ll have to roll back the code for both topics just to get rid of the problem.
+
+You Can Work Offline
+A lot of companies underestimate the benefits that can be had if their developers were to be able to work offline.
+
+Being able to code on your laptop without having to connect to your company’s servers is not only about being able to work during a commute or while at home (which a lot of companies don’t permit due to security restrictions).
+
+More importantly, being able to work offline makes you more fail-safe as a team: While with a VCS like Subversion or CVS, a developer can’t continue their work when a central server goes down, this is not an issue with Git.
+
+In Git, developers can perform everything on their personal computer, making them independent of possible infrastructure downtimes.
+
+Never Lose Data Ever Again
+Losing data and not being able to recover it can break a dev project.
+
+We’ve all heard or experienced our own set of horror stories about failed backups and servers. It’s good to know that when using Git, every developer working on a project has a full-fledged copy on their machine, including the project’s complete change history.
+
+And if your team uses a remote source code repository such as GitHub, then the chances of losing your work in the event that your on-site backups fail is much smaller.
+
+If your backups break down, losing data isn’t even a possibility when using Git: Just take any team member’s local repository and restore in minutes.
+
+How to Use Git Today
+Git has stepped out of being a technology for early-adopters. Today, more and more developers are using it to improve the quality of their code and workflow.
 
 
 
@@ -1457,49 +1522,6 @@ What tool/technology is used for A/B testing?
 
 
 
-You Are Solving The Wrong Problem
-
-
-There is some problem you are trying to solve. In your life, at work, in a design. You are probably solving the wrong problem. Paul MacCready, considered to be one of the best mechanical engineers of the 20th century, said it best: “The problem is we don’t understand the problem.”
-
-Story time.
-
-It’s 1959, a time of change. Disney releases their seminal film Sleeping Beauty, Fidel Castro becomes the premier of Cuba, and Eisenhower makes Hawaii an official state. That year, a British industry magnate by the name of Henry Kremer has a vision that leaves a haunting question: Can an airplane fly powered only by the pilot’s body power? Like Da Vinci, Kremer believed it was possible and decided to push his dream into reality. He offered the staggering sum of £50,000 for the first person to build a plane that could fly a figure eight around two markers one half-mile apart. Further, he offered £100,000 for the first person to fly across the channel. In modern US dollars, that’s the equivalent of $1.3 million and $2.5 million. It was the X-Prize of its day.
-
-A decade went by. Dozens of teams tried and failed to build an airplane that could meet the requirements. It looked impossible. Another decade threatened to go by before our hero, MacCready, decided to get involved. He looked at the problem, how the existing solutions failed, and how people iterated their airplanes. He came to the startling realization that people were solving the wrong problem. “The problem is,” he said, “that we don’t understand the problem.”
-
-MacCready’s insight was that everyone working on solving human-powered flight would spend upwards of a year building an airplane on conjecture and theory without the grounding of empirical tests. Triumphantly, they’d complete their plane and wheel it out for a test flight. Minutes later, a years worth of work would smash into the ground. Even in successful flights, a couple hundred meters later the flight would end with the pilot physically exhausted. With that single new data point, the team would work for another year to rebuild, retest, relearn. Progress was slow for obvious reasons, but that was to be expected in pursuit of such a difficult vision. That’s just how it was.
-
-The problem was the problem. Paul realized that what we needed to be solved was not, in fact, human powered flight. That was a red-herring. The problem was the process itself, and along with it the blind pursuit of a goal without a deeper understanding how to tackle deeply difficult challenges. He came up with a new problem that he set out to solve: how can you build a plane that could be rebuilt in hours not months. And he did. He built a plane with Mylar, aluminum tubing, and wire.
-
-The first airplane didn’t work. It was too flimsy. But, because the problem he set out to solve was creating a plane he could fix in hours, he was able to quickly iterate. Sometimes he would fly three or four different planes in a single day. The rebuild, retest, relearn cycle went from months and years to hours and days.
-
-18 years had passed since Henry Kremer opened his wallet for his vision. Nobody could turn that vision into an airplane. Paul MacCready got involved and changed the understanding of the problem to be solved. Half a year later later, MacCready’s Gossamer Condor flew 2,172 meters to win the prize. A bit over a year after that, the Gossamer Albatross flew across the channel.
-
-What’s the take-away? When you are solving a difficult problem re-ask the problem so that your solution helps you learn faster. Find a faster way to fail, recover, and try again. If the problem you are trying to solve involves creating a magnum opus, you are solving the wrong problem.
-
-
-
-
-
-
-
-04. The decline of the website
-
-Have you noticed the gradual decline in the role of the website? Take for example going to see a movie. You know what you want to see, but you don’t know where it is showing.
-
-In the past you would have visited each movie theatre website one at a time to see if they were showing the film you wanted. Each website was different, crafted by a busy team of web designers.
-
-My betting is that is not how you look up movies anymore. The chances are you have a single app on your mobile that aggregates movie listings from many sources. Perhaps you even ask Siri or just Google it.
-
-Web design trends for 2015
-Who needs websites when you have Siri?
-This creates a much better experience as users don't have to deal with different interfaces. Unfortunately it does start to undermine the role of the designer crafting these different sites.
-
-I am sure it won't be long before you ask Siri and she tells you when and where your film is on. The whole thing done by voice command, no user interface at all.
-
-Content is being set free from design. Instead we are sharing content via APIs between applications and sites. Sometimes business owners are choosing to put their content on Facebook, Yelp or Foursquare. They are abandoning the idea of having their own site. This is something that is particularly prevalent in China.
-
 
 
 
@@ -1520,147 +1542,3 @@ http://alistapart.com/blog/post/responsive-web-design-second-ed
 http://24ways.org/2014/developing-robust-deployment-procedures/
 
 http://24ways.org/2014/what-it-takes-to-build-a-website/
-
-
-http://thetomorrowlab.com/2015/01/why-developers-hate-being-interrupted/
-
-Interruptions are to developers what kryptonite is to Superman—they kill productivity and there’s a significant recovery period.
-
-There are two types of interruption: the planned meeting and the one where someone walks over to your desk to talk to you (or if you’re unlucky enough to have a desk phone it’s when the phone rings). The random interruption is akin to walking up to a someone building a lego tower, kicking it over and expecting them to continue from where they were the moment before you arrived. The planned meeting is a lot longer and kills productivity before, not just during and after. So, there are two types of problem that need addressed here.
-
-WHAT HAPPENS WHEN A DEVELOPER IS INTERRUPTED?
-A huge amount of what a developer is doing is in their head. As we write code we need to keep a mental model of how parts of the application that have already been written and are yet to be written interact with the part that we are writing at that moment. We need to have a solid picture of exactly how the code is working as a whole and maintain that picture. It’s not easy, it requires a lot of concentration and has to remain in place while we think of creative and efficient ways to solve the problem at hand.
-
-Developers can appear very unproductive at times, sitting staring at the screen with our headphones on and very little in the way of keyboard clackety-tap. This however is when we are doing our thinking, when we are building up, adding to and rearranging the mental model of how our code will work. This is the biggest and hardest part of development.
-
-Imagine how it feels to have that interrupted at random by a telephone call or somebody walking over to talk to you. It’s horrible.
-
-This picture explains it very well.
-
-The thing about this mental model is that it takes about an hour to build up from a cold start (first thing in the morning, after lunch or after a meeting). Thankfully that’s not the case after a five minute interruption from a boss or account manager. In that case it takes 10-15 minutes before a developer is back “in the zone” with a repaired mental model and ready to write some more code.
-
-That’s still not great—we only need 4 or 5 small interruptions for an hour to be lost.
-
-Scheduled meetings don’t bring the mental modal crashing down the way smaller interruptions do, but they have a significant impact. We know the meeting is taking place so we can stop where there’s a natural break point in our work and prepare for the meeting. Not such a huge problem there.
-
-Where it becomes a problem is if the meeting is scheduled for an hour or so after lunch or arriving in the office. Remember that it takes about an hour to be in a position to write code after a longer break. Combine that with the fact that nobody can write much code in less than an hour, so anything that leaves a developer with less than two hours is probably going to mean it’s not worth the effort to get started only to stop and have to get started again afterwards.
-
-There’s one more thing, a theory by developer come venture capitalist Paul Graham called Maker’s Schedule, Manager’s Schedule. In it Graham posits that managers are on a different schedule to makers and that is the root of the problem. Interruptions are the symptom.
-
-It’s a good article and well worth reading. I feel it’s well summarised by two early paragraphs:
-
-Most powerful people are on the manager’s schedule. It’s the schedule of command. But there’s another way of using time that’s common among people who make things, like programmers and writers. They generally prefer to use time in units of half a day at least. You can’t write or program well in units of an hour. That’s barely enough time to get started.
-
-When you’re operating on the maker’s schedule, meetings are a disaster. A single meeting can blow a whole afternoon, by breaking it into two pieces each too small to do anything hard in. Plus you have to remember to go to the meeting. That’s no problem for someone on the manager’s schedule. There’s always something coming on the next hour; the only question is what. But when someone on the maker’s schedule has a meeting, they have to think about it.
-
-The upshot of all of this is that developers often end up working late at night when there is no chance of an interruption and we know we can really get stuck into a project. Obviously this is not ideal. Developers are no more able to cope with a lack of sleep than anyone else, especially as we get past our twenties.
-
-REDUCING INTERRUPTIONS
-So what practical measures can we take to alleviate this?
-
-Toby Osbourn has written a fantastic article on the subject of small interruptions and one of the things he highlights is the need for developers to turn off the interruptions we create ourselves like having our phone on a stand under our monitor, distracting us with every text, call, tweet and whatever other notifications it has turned on.
-
-Desktop notifications need to go too. Close that email client and get rid of any browser tabs that aren’t related to the task in hand.
-
-Here at The Tomorrow Lab we have a headphones rule. If a developer has headphones on or in both ears they cannot be disturbed. If only one ear has music then they can be disturbed about work. It’s been in place for a good while but for 2015 we decided to formalise it in the form of a poster on the wall, and you can download it to print if you like!
-
-Another thing Osbourn suggests is moving somewhere else such as a coffee shop or working from home. Thankfully here at The Tomorrow Lab we can work from home frequently but moving out of the office is not something that would work for us over extended periods of time. There’s a lot of collaborative work with other members of the team on design, digital marketing, sales and with each other that we need to be in the office for.
-
-The key thing for me though is communication with interrupters. They will never know how they affect our productivity unless we tell them. They spend all day doing their job and aren’t going to find out via telepathy that what they are doing is having a negative influence on how we do ours. Another system we are prototyping here is a timetable or quota of time when everybody has to stay away from developers unless there is a serious problem with a live site. We can’t impose this on account managers and directors so we need to work with them, effectively communicating why such a system needs to be in place and how it benefits the whole company.
-
-That’s all fine for small interruptions, what about planned meetings? We can’t just take a laptop to a coffee shop to avoid meetings we’re supposed to be at. Meetings are a necessary evil. (Granted they are usually last twice as long as they need to which is a separate issue.)
-
-To be honest we’re not sure the best way to tackle this one. We conducted an internal survey asking 4 questions:
-
-What time(s) of day do you feel most productive?
-What time(s) of day would you rather have meetings at?
-What/who are the worst interruptions you have to deal with?
-Anything else you want to say on the subject of being interrupted?
-The initial feedback would suggest we’re not going to keep everyone happy when scheduling meetings but there are some “hotspot” times i.e. times you don’t dare touch when organsing a meeting. These hotspot times are in addition to the first couple of hours in the morning and after lunch. On top of that we aren’t robots working in The Tomorrow Lab so we each have different start times and lunch times.
-
-I think the best we can hope for is that nobody ends up feeling like they’re always in meetings right when they are most likely to solve a hard problem.
-
-HOW TO DEAL WITH INTERRUPTIONS WHEN THEY HAPPEN
-We’re talking about short interruptions here, the unplanned type. They will happen—hopefully less than before—but they will happen, and the aim when dealing with them is to preserve the structural integrity of the mental model as much as possible.
-
-First of all split up the main problem into a list of smaller tasks, so instead of thinking something like, “Now where was I with the progressively enhanced accessible modal dialogue”, it’s more like, “Now where was I with updating the aria-hidden attribute”.
-
-Secondly learn how to answer the interrupter with something polite along the lines of, “I can’t look at it right now, send me an email to remind me and I’ll get back to you as soon as I can.” People will soon learn there’s not much point in interrupting you when they’ll just be going back to their desk to type out the same thing they were trying to tell you.
-
-SUMMARY
-Interruptions are a serious problem, they cause a huge amount in lost productivity, ergo money, and can make it very hard to get anything done. Working in a company where interruptions are guaranteed and nothing can be done about it is very demoralising. On the other hand, working in a company (*cough* like Tomorrow Lab *cough*) where you’re left to get on with your work is fantastic. It makes a developer feel like they can achieve something, it makes us look forward to going into work, it makes us feel fulfilled at the end of each day.
-
-Developers don’t wear headphones because we enjoy music more than anyone else, it’s because headphones shut everything out and give us the mental space we need to build a very complicated model. (A lot of us view open plan offices as the worst invention of the 20th century!)
-
-If you’re an interrupter and you get a terser response than you might have expected please don’t take it personally. We’re just aware of the model starting to loosen at the more precarious points and are getting frantic about the need to get back at work.
-
-If you’re a developer and you’ve discovered some novel or interesting ways to reduce and/or deal with interruptions, please let us know in the comments.
-
-
-http://sixrevisions.com/git/why-you-should-use-git/
-
-Ever since version control systems such as Git have become widely-known and well-used, modern development processes have radically changed.
-
-Here are some reasons why Git has the power to improve your development workflow.
-
-
-Git Encourages Modularization
-In even the smallest development projects, developers are often required to work on multiple components in parallel. Feature X, bug #102, a new UI for a sign-up form, etc.
-
-Among many others, here are a couple of major issues with projects that aren’t version-controlled:
-
-Project dependencies will be painful to manage. Team members must sort out which changes affect which components.
-Unfinished and experimental code will mix-in with production-ready code. Without version control, there is a huge chance that an unstable piece of code gets deployed to a production environment.
-Imagine these scenarios.
-
-Your client tells you that they don’t want feature X anymore.
-
-Or what if you find that feature Y — an experimental feature you have been working on — can’t be implemented?
-
-How do you get code removed safely from your code base?
-
-Using branches is the solution to these commonplace development problems. Although Git wasn’t the version control system (VCS) that introduced the concept of branching, it’s the first of its kind that makes it user-friendly.
-
-Git Encourages Creativity and Experimentation
-Git branching will improve your code-quality and productivity. It facilitates creativity and experimentation by removing your fear that the current version of the project will be affected while you are trying out ideas, giving you an environment where you can confidently explore and develop your project’s future features.
-
-With Git, you can even create multiple branches that approach a given problem in different ways, test each of them with your master branch (the most current version of your project), and then choose the best option.
-
-Git Allows You to Undo Your Mistakes
-In Git, you can undo almost everything.
-
-Being able to undo things gives your team the courage to try out ideas and concepts without the risk of breaking stuff, which in turn fosters a culture of innovation.
-
-Git Makes Your Progress Clear
-A commit in Git refers to the act of recording changes you have made in your source code.
-
-When used properly, Git makes it easy to craft very granular commits. You can see what changes have occurred down to the microscopic level: Git will tell you what characters and lines in your source code have been altered. If you want to compare two versions of a file or the difference between two of your commits, you can issue Git’s diff command, which will highlight the differences between them.
-
-A side note when using commits: As a good version control policy, I recommend that each commit should only contain changes that belong to a single topic.
-
-For instance, if you’re fixing a specific bug — let’s call it bug #200 — that requires multiple source code changes across several files, all those changes should be under one commit in order for you to easily track changes to your project related to that bug. This way, you can document that "commit X fixed bug #200". A side benefit of this commit policy is, when you encounter another bug similar to bug #200 somewhere else in your project months from now, you can review how you resolved the first bug.
-
-Mixing different topics in one commit makes it hard to see what things were added or resolved.
-
-Also, multi-topic commits makes it more difficult to roll back to a previous version if you ever find the need to do so. Imagine a commit that contains changes for both feature A and feature B. If you find out later on that you introduced a severe security leak with feature B, you’ll have to roll back the code for both topics just to get rid of the problem.
-
-You Can Work Offline
-A lot of companies underestimate the benefits that can be had if their developers were to be able to work offline.
-
-Being able to code on your laptop without having to connect to your company’s servers is not only about being able to work during a commute or while at home (which a lot of companies don’t permit due to security restrictions).
-
-More importantly, being able to work offline makes you more fail-safe as a team: While with a VCS like Subversion or CVS, a developer can’t continue their work when a central server goes down, this is not an issue with Git.
-
-In Git, developers can perform everything on their personal computer, making them independent of possible infrastructure downtimes.
-
-Never Lose Data Ever Again
-Losing data and not being able to recover it can break a dev project.
-
-We’ve all heard or experienced our own set of horror stories about failed backups and servers. It’s good to know that when using Git, every developer working on a project has a full-fledged copy on their machine, including the project’s complete change history.
-
-And if your team uses a remote source code repository such as GitHub, then the chances of losing your work in the event that your on-site backups fail is much smaller.
-
-If your backups break down, losing data isn’t even a possibility when using Git: Just take any team member’s local repository and restore in minutes.
-
-How to Use Git Today
-Git has stepped out of being a technology for early-adopters. Today, more and more developers are using it to improve the quality of their code and workflow.
