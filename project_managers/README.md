@@ -884,23 +884,6 @@ By now the benefits of a close-knit team working together iteratively towards th
 - what's the point - deliver the requirements
 - explain the plan
 - choose a technology stack
-
-teams should consider using open source, cloud based, and commodity solutions across the technology stack, as these solutions have seen widespread adoption and support by the most successful private-sector consumer and enterprise software technology companies.
-
-Choose software frameworks that are commonly used by private-sector companies creating similar services
-
-To the extent practical, ensure that software can be deployed on a variety of commodity hardware types
-
-Deploy in a flexible hosting environmentOur services should be deployed on flexible infrastructure, where resources can be provisioned in real time to meet spikes in user demand. Our digital services are crippled when we host them in data centers which market themselves as “cloud hosting” but require us to manage and maintain hardware directly. This outdated practice wastes time, weakens our disaster recovery plans, and results in significantly higher costs.
-Resources are provisioned on demand
-Resources scale based on real-time user demand
-Resources are provisioned through an API
-Resources are available in multiple regions
-We pay only for the resources we use
-Static assets are served through a content delivery network
-Application is hosted on commodity hardware
-disaster recovery.
-
 - listen to concerns
 - set to work
 
@@ -1221,8 +1204,34 @@ C’mon, sell it to me; sell it to our bosses, please. There must be some Web Pr
 - seating arrangements
 - tools
 - servers
+
+teams should consider using open source, cloud based, and commodity solutions across the technology stack, as these solutions have seen widespread adoption and support by the most successful private-sector consumer and enterprise software technology companies.
+
+Choose software frameworks that are commonly used by private-sector companies creating similar services
+
+To the extent practical, ensure that software can be deployed on a variety of commodity hardware types
+
+Deploy in a flexible hosting environmentOur services should be deployed on flexible infrastructure, where resources can be provisioned in real time to meet spikes in user demand. Our digital services are crippled when we host them in data centers which market themselves as “cloud hosting” but require us to manage and maintain hardware directly. This outdated practice wastes time, weakens our disaster recovery plans, and results in significantly higher costs.
+Resources are provisioned on demand
+Resources scale based on real-time user demand
+Resources are provisioned through an API
+Resources are available in multiple regions
+We pay only for the resources we use
+Static assets are served through a content delivery network
+Application is hosted on commodity hardware
+disaster recovery.
+
 - github
 - testing / continuous integration
+
+Automate testing and deploymentsToday, developers write automated scripts that can verify thousands of scenarios in minutes and then deploy updated code into production environments multiple times per day. They use automated performance tests which simulate surges in traffic to identify performance bottlenecks. While manual tests and quality assurance is still necessary, automated tests provide consistent and reliable protection against unintentional regressions, and make it possible for developers to confidently release frequent updates to the service.checklist
+Create automated tests that verify all user-facing functionality
+Create unit and integration tests to verify modules and components
+Run tests automatically as part of the build process
+Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques
+Conduct load and performance tests at regular intervals, including before public launch
+
+
 - bug tracking system
 - user data (analytics, user testing tools)
 
@@ -1397,23 +1406,7 @@ How does the service’s design visually relate to other government services?
 
 
 
-Automate testing and deploymentsToday, developers write automated scripts that can verify thousands of scenarios in minutes and then deploy updated code into production environments multiple times per day. They use automated performance tests which simulate surges in traffic to identify performance bottlenecks. While manual tests and quality assurance is still necessary, automated tests provide consistent and reliable protection against unintentional regressions, and make it possible for developers to confidently release frequent updates to the service.checklist
-Create automated tests that verify all user-facing functionality
-Create unit and integration tests to verify modules and components
-Run tests automatically as part of the build process
-Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques
-Conduct load and performance tests at regular intervals, including before public launch
-key questions
-What percentage of the code base is covered by automated tests?
-How long does it take to build, test, and deploy a typical bug fix?
-How long does it take to build, test, and deploy a new feature into production?
-How frequently are builds created?
-What test tools are used?
-What deployment automation or continuous integration tools are used?
-What is the estimated maximum number of concurrent users who will want to use the system?
-How many simultaneous users could the system handle, according to the most recent capacity test?
-How does the service perform when you exceed the expected target usage volume? Does the service degrade gracefully or catastrophically?
-What is your scaling strategy when demand increases suddenly?
+
 PLAY 11
 
 Manage security and privacy through reusable processesIt is critical that our digital services protect sensitive information and keep systems secure. This is typically a process of continuous review and improvement which should be built into the development and maintenance of the service. At the start of designing a new service or feature, the team lead should engage the appropriate privacy, security, and legal officer(s) to discuss the type of information collected, how it should be secured, and how it may be used and shared. The sustained engagement of a privacy specialist helps ensure that personal data is properly managed. In addition, a key process to building a secure service is comprehensively testing and certifying the components in each layer of the technology stack for security vulnerabilities, and then to re-use these same pre-certified components for multiple services.The following checklist provides a starting point, but teams should work closely with their privacy specialist and security engineer to meet the needs of the specific service.checklist
