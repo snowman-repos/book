@@ -1,6 +1,6 @@
 # Project Managers
 
-_Reading time ~ 45 minutes_
+_Reading time ~ 2 hours, 15 minutes_
 
 Your role is the most important. Not everyone can handle this role, but given that it touches on every part of the project, it's something that every web professional should try at some point and indeed many have, with Project Managers usually having previously been designers and developers. You are responsible for making sure the rest of the production team can do their jobs smoothly, for making sure the project actually gets produced, and produced to the best of your team's abilities. You are the enabler. 
 
