@@ -1192,6 +1192,8 @@ C’mon, sell it to me; sell it to our bosses, please. There must be some Web Pr
 - test coverage
 - feedback
 - measure against KPIs
+- keep an eye on responsiveness
+- keep an eye on performance
 
 Use data to drive decisionsAt all stages of a digital project, we should measure how well our service is working for our users. This includes measuring how well a system performs and how people are interacting with the system in real time. Our teams and agency leadership should carefully watch these metrics to proactively spot issues and identify which improvements should be prioritized. In addition to monitoring tools, a feedback mechanism should be in place for people to report issues directly.checklist
 Monitor system-level resource utilization in real time
@@ -1203,12 +1205,47 @@ Publish metrics internally
 Publish metrics externally
 Use an experimentation tool that supports multivariate testing in production
 
+- performance
+
+Performance improvements often begin as one person’s voice within a company culture. You start to notice how other sites are making optimizations and improving their user experience through tweaks to perceived performance or total page load time. Then you start measuring how your competitors’ sites fare in WebPagetest and comparing your site’s performance to theirs. After beginning to learn about many of the easy performance wins that you could implement on your site, you start crafting improvements with little effort and tons of gains.
+
+Advertisement
+These are the individuals who often start out as performance cops or janitors. Cleaning up after other designers and developers becomes a routine chore for these individuals; sometimes they’ve taken this responsibility on themselves, or sometimes they were assigned these responsibilities. Either way, this road leads to burnout.
+
+As time marches on, so many things will continue to create performance challenges for even the most stable site:
+
+New performance techniques emerge, like the recent implementation of picture.
+The site’s hardware, brand, and code age.
+New designers and/or developers are hired.
+Existing designers and/or developers with great performance habits leave.
+Browsers continue to evolve.
+Web standards evolve, such as HTTP/2, which eradicates some existing performance constraints.
+Having a dedicated team of people responsible for keeping track of these kinds of evolutions is important. A performance champion, or a team of performance champions, is an excellent tool for a company to lean on as the Web changes. But the responsibility for maintaining a high-performing site should not solely rest on the shoulders of these individuals. Everyone who works on the site should buy in to the importance of performance and understand what they can do to improve it.
+
+If other designers and developers who shape the site aren’t educated on performance, how can they make the best decisions about user experience? How can they weigh the balance between aesthetics and page speed? If they aren’t empowered to make improvements, any performance champions will simply be playing cleanup after other people’s work. Spending your time cleaning up other people’s work (especially when it’s preventable) is a one-way ticket to burnout.
+
+A dedicated performance team can focus on:
+
+Giving lectures, lunch-and-learns, and workshops to educate others about performance
+Celebrating the good work of designers and developers on other teams who improve site speed
+Building tools to surface performance data in others’ daily workflows to help them understand how they are directly impacting performance in their current work
+Defining baseline requirements for performance, such as a performance budget for each new project or a maximum page load time across the site
+Learning about emerging technology and new methods of improving performance
+Communicating publicly about changes in site performance and recent experiments and learnings, as shown in Figure 8-1
+Etsy Performance
+
+Figure 8-1. Etsy’s performance report details load time for top pages and what changes contributed to the load time each quarter.
+
+Having an individual or team care deeply about performance is important for all of the aforementioned purposes. These champions can stay on top of how performance is being handled sitewide; they can keep an eye on problem areas, look for areas to improve, and raise suggestions to the other people contributing to the site’s design and development. But the work to be done to actually improve and maintain performance needs to be owned and shared across your organization, rather than lie with an individual or single team.
+
+
 ### Project Reviews
 
 - discuss good and bad points
 - strategy to tackle problems before meeting is over. when set goal, set deadline, assign to people
 - ideas to make it better that an be sold to client
 - find best way to showcase it to win more work
+- kpis
 
 ## Setting things up
 
@@ -1249,6 +1286,100 @@ Conduct load and performance tests at regular intervals, including before public
 A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
 
 Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners
+
+
+Create a stable development environment
+There’s little more likely to send a web developer into a wild panic and a client into a wild rage than making a new site live and things just not working. That’s why it’s important to have realistic development and staging environments that mimic the live server as closely as possible.
+
+Are you in the habit of developing new sites right on the client’s server? Or maybe in a subfolder on your local machine? It’s time to reconsider.
+
+Charlie Perrins writes:
+
+Don’t work on a live server – this feels like one of those gear-changing moments for a developer’s growth. Build something that works just as well locally on your own machine as it does on a live server, and capture the differences in the code between the local and live version in a single config file. Ultimately, if you can get all the differences between environments down to a config level then you’ll be in a really good position to automate the deployment process at some point in the future.
+
+Anything that creates a significant difference between the development and the live environments has the potential to cause problems you won’t know about until the site goes live – and at that point the problems are very public and very embarrassing, not to mention unprofessional.
+
+A reasonable solution is to use a tool like MAMP PRO which enables you to set up an individual local website for each project you work on. Importantly, individual sites give you both consistency of paths between development and live, but also the ability to configure server options (like PHP versions and configuration, for example) to match the live site.
+
+Better yet is to use a virtual machine, managed with a tool such as Vagrant. If you’re interested in learning more about that, we have an article on that subject later in the series.
+
+Use source control
+Trent Walton writes:
+
+We use source control, and it’s become the centerpiece for how we handle collaboration, enhancements, and issues. It drives our process.
+
+I’m hoping by now that you’re either using source control for all your work, or feeling a nagging guilt that you should be. Be it Git, Mercurial, Subversion (name your poison), a revision control system enables you to keep track of changes, revert anything that breaks, and keep rolling backups of your project.
+
+The benefits only start there, and Charlie Perrins recommends using source control “not just as a personal backup of your code, but as a way to play nicely with other developers.“
+
+Noting the benefits when collaborating with other developers, he adds:
+
+Graduating from being the sole architect of your codebase to contributing to a shared codebase is a huge leap for a developer. Perhaps a practical way for people who tend to work on their own to do that would be to submit a pull request or a patch to an open source project or plugin.”
+
+Richard Rutter of Clearleft sees clear advantages for the client, too. He recommends using source control “preferably in some sort of collaborative environment that you can open up or hand over to the client” – a feature found with hosted services such as GitHub.
+
+If you’d like to hone your Git skills, Emma Jane Westby wrote Git for Grown-ups in last year’s 24 ways.
+
+Don’t repeat, automate!
+Tim Kadlec is a big proponent of automating your build process:
+
+I’ve been hammering that home to every client I’ve had this year. It’s amazing how many companies don’t really have a formal build/deployment process in place. So many issues on the web (performance, accessibility, etc.) can be greatly improved just by having a layer of automation involved.
+
+For example, graphic editing software spits out ridiculously bloated images. Very frequently, that’s what ends up getting put on a site. If you have a build process, you can have the compression automated and start seeing immediate gains for no effort. On a recent project, they were able to shave around 1.5MB from their site weight simply by automating compression.
+
+Once you have your code in source control, some of that automation can be made easier. Brian Suda writes:
+
+We have a few bash scripts that run on git commit: they compile the less, jslint and remove white-space, basically the 3 Cs, Compress, Concatenate, Combine. This is now part of our workflow without even realising it.
+
+One great way to get started with a build process is to use a tool like Grunt, and a great way to get started with Grunt is to read Chris Coyier’s Grunt for People Who Think Things Like Grunt are Weird and Hard.
+
+Tim reinforces:
+
+Issues like [image compression] — or simple accessibility issues like alt tags on images — should never be able to hit a live server. If you can detect it, you can automate it. And if you can automate it, you can free up time for designers and developers to focus on more challenging — and interesting — problems.
+
+A clear call to arms to tighten up and formalise development and deployment practices. The less that has to be done manually or is susceptible to change, the less that can go wrong when a site is built and deployed. Any procedures that are automated are no longer dependant on a single person’s knowledge, making it easier to build your team or just cope when someone important is out of the office or leaves.
+
+If you’re interested in kicking the FTP habit and automating your site deployments, we have an article later in the series just for you.
+
+BUILD SYSTEMS, NOT SITES
+One big theme arising this year was that of building websites as systems, not as individual pages.
+
+Brad Frost:
+
+For me, teams making websites in 2015 shouldn’t be working on just-another-redesign redesign. People are realizing that in order to make stable, future-friendly, scalable, extensible web experiences they’re going to need to think more systematically. That means crafting deliberate and thoughtful design systems. That means establishing front-end style guides. That means killing the out-dated, siloed, assembly-line waterfall process and getting cross-disciplinary teams working together in meaningful ways. That means treating development as design. That means treating performance as design. That means taking the time out of the day to establish the big picture, rather than aimlessly crawling along quarter by quarter.
+
+Designer and developer Jina Bolton also advocates the use of style guides, and recommends making the guide a project deliverable:
+
+Consider adding on a style guide/UI library to your project as a deliverable for maintainability and thinking through all UI elements and components.
+
+Val Head agrees: “build and maintain a style guide for each project” she wrote. On the subject of approaching a redesign, she added:
+
+A UI inventory goes a long way to helping get your head around what a design system needs in the early stages of a redesign project.
+
+So what about that old chestnut, responsive web design? Should we be making sites responsive by default? How about mobile first?
+
+Richard Rutter:
+
+Think mobile first unless you have a very good reason not to. Remember to take the client with you on this principle, otherwise it won’t work as a convincing piece of design.
+
+Trent Walton adds:
+
+The more you can test and sort of skew your perception for what is typical on the web, the better. 4k displays hooked up to 100Mbps connections can make one extremely unsympathetic.
+
+The value of testing with real devices is something Ruth John appreciates. She wrote:
+
+I still have my own small device lab at home, even though I work permanently for a well-established company (which has a LOT of devices at its disposal) – it just means I can get a good overview of how things are looking during development.
+
+And speaking of systems, Mark Norman Francis recommends the use of measuring tools to aid the design process; “[U]se analytics and make decisions from actual data” he suggests, rather than relying totally on intuition.
+
+Tim Kadlec adds a word on performance planning:
+
+I think having a performance budget in place should now be a given on any project. We’ve proven pretty conclusively through a hundred and one case studies that performance matters. And over the last year or so, we’ve really seen a lot of great tools emerge to help track and enforce performance budgets. There’s not really a good excuse for not using one any more.
+
+It’s clear that in the four years since Ethan Marcotte’s Responsive Web Design article the diversity of screen sizes, network connection speeds and input methods has only increased. New web projects should presume visitors will be using anything from a watch up to a big screen desktop display, and from being offline, through to GPRS, 3G and fast broadband.
+
+Will it take more time to design and build for those constraints? Yes, it most likely will. If Internet Explorer is brave enough to ask to be your default browser, you can be brave enough to tell your client they need to build responsively.
+
 
 WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
 - January 13, 2014 - by thesambarnes, in Digital Project Management, with 9 comments -
@@ -1357,6 +1488,7 @@ Git has stepped out of being a technology for early-adopters. Today, more and mo
 
 ## Delivery
 
+- deployment
 - fully tested beforehand
 - beta period = your warranty period
 
@@ -1364,6 +1496,174 @@ Continuous Integration makes dev life easier. Happier, better developers and tes
 
 Ensure that each project has easy to understand instructions for setting up a local development environment, and that team members can be quickly added or removed from projects
 
+
+Once you have developed your site, how do you make it live on your web hosting? For many years the answer was to log on to your server and upload the files via FTP. Over time most hosts and FTP clients began to support SFTP, ensuring your files were transmitted over a secure connection. The process of deploying a site however remained the same.
+
+There are issues with deploying a site in this way. You are essentially transferring files one by one to the server without any real management of that transfer. If the transfer fails for some reason, you may end up with a site that is only half updated. It can then be really difficult to work out what hasn’t been replaced or added, especially where you are updating an existing site. If you are updating some third-party software your update may include files that should be removed, but that may not be obvious to you and you risk leaving outdated files littering your file system. Updating using (S)FTP is a fragile process that leaves you open to problems caused by both connectivity and human error. Is there a better way to do this?
+
+You’ll be glad to know that there is. A modern professional deployment workflow should have you moving away from fragile manual file transfers to deployments linked to code committed into source control.
+
+THE BENEFITS OF GOOD PRACTICE
+You may never have experienced any major issues while uploading files over FTP, and good FTP clients can help. However, there are other benefits to moving to modern deployment practices.
+
+No surprises when you launch
+If you are deploying in the way I suggest in this article you should have no surprises when you launch because the code you committed from your local environment should be the same code you deploy – and to staging if you have a staging server. A missing vital file won’t cause things to start throwing errors on updating the live site.
+
+Being able to work collaboratively
+Source control and good deployment practice makes working with your clients and other developers easy. Deploying first to a staging server means you can show your client updates and then push them live. If you subcontract some part of the work, you can give your subcontractor the ability to deploy to staging, leaving you with the final push to launch, once you know you are happy with the work.
+
+Having a proper backup of site files with access to them from anywhere
+The process I will outline requires the use of hosted, external source control. This gives you a backup of your latest commit and the ability to clone those files and start working on them from any machine, wherever you are.
+
+Being able to jump back into a site quickly when the client wants a few changes
+When doing client work it is common for some work to be handed over, then several months might go by without you needing to update the site. If you don’t have a good process in place, just getting back to work on it may take several hours for what could be only a few hours of work in itself. A solid method for getting your local copy up to date and deploying your changes live can cut that set-up time down to a few minutes.
+
+THE TOOL CHAIN
+In the rest of this article I assume that your current practice is to deploy your files over (S)FTP, using an FTP client. You would like to move to a more robust method of deployment, but without blowing apart your workflow and spending all Christmas trying to put it back together again. Therefore I’m selecting the most straightforward tools to get you from A to B.
+
+Source control
+Perhaps you already use some kind of source control for your sites. Today that is likely to be Git but you might also use Subversion or Mercurial. If you are not using any source control at all then I would suggest you choose Git, and that is what I will be working with in this article.
+
+When you work with Git, you always have a local repository. This is where your changes are committed. You also have the option to push those changes to a remote repository; for example, GitHub. You may well have come across GitHub as somewhere you can go to download open source code. However, you can also set up private repositories for sites whose code you don’t want to make publicly accessible.
+
+A hosted Git repository gives you somewhere to push your commits to and deploy from, so it’s a crucial part of our tool chain.
+
+A deployment service
+Once you have your files pushed to a remote repository, you then need a way to deploy them to your staging environment and live server. This is the job of a deployment service.
+
+This service will connect securely to your hosting, and either automatically (or on the click of a button) transfer files from your Git commit to the hosting server. If files need removing, the service should also do this too, so you can be absolutely sure that your various environments are the same.
+
+Tools to choose from
+What follows are not exhaustive lists, but any of these should allow you to deploy your sites without FTP.
+
+HOSTED GIT REPOSITORIES
+GitHub
+Beanstalk
+Bitbucket
+STANDALONE DEPLOYMENT TOOLS
+Deploy
+dploy.io
+FTPloy
+I’ve listed Beanstalk as a hosted Git repository, though it also includes a bundled deployment tool. Dploy.io is a standalone version of that tool just for deployment. In this tutorial I have chosen two separate services to show how everything fits together, and because you may already be using source control. If you are setting up all of this for the first time then using Beanstalk saves having two accounts – and I can personally recommend them.
+
+PUTTING IT ALL TOGETHER
+The steps we are going to work through are:
+
+Getting your local site into a local Git repository
+Pushing the files to a hosted repository
+Connecting a deployment tool to your web hosting
+Setting up a deployment
+Get your local site into a local Git repository
+Download and install Git for your operating system.
+
+Open up a Terminal window and tell Git your name using the following command (use the name you will set up on your hosted repository).
+
+> git config --global user.name "YOUR NAME"
+Use the next command to give Git your email address. This should be the address that you will use to sign up for your remote repository.
+
+> git config --global user.email "YOUR EMAIL ADDRESS"
+Staying in the command line, change to the directory where you keep your site files. If your files are in /Users/rachel/Sites/mynicewebite you would type:
+
+> cd /Users/rachel/Sites/mynicewebsite
+The next command tells Git that we want to create a new Git repository here.
+
+> git init
+We then add our files:
+
+> git add .
+Then commit the files:
+
+> git commit -m “Adding initial files”
+The bit in quotes after -m is a message describing what you are doing with this commit. It’s important to add something useful here to remind yourself later why you made the changes included in the commit.
+
+Your local files are now in a Git repository! However, everything should be just the same as before in terms of working on the files or viewing them in a local web server. The only difference is that you can add and commit changes to this local repository.
+
+Want to know more about Git? There are some excellent resources in a range of formats here.
+
+Setting up a hosted Git repository
+I’m going to use Atlassian Bitbucket for my first example as they offer a free hosted and private repository.
+
+Create an account on Bitbucket. Then create a new empty repository and give it a name that will identify the repository easily.
+
+Click Getting Started and under Command Line select “I have an existing project”. This will give you a set of instructions to run on the command line. The first instruction is just to change into your working directory as we did before. We then add a remote repository, and run two commands to push everything up to Bitbucket.
+
+cd /path/to/my/repo
+git remote add origin https://myuser@bitbucket.org/myname/24ways-tutorial.git
+git push -u origin --all 
+git push -u origin --tags 
+When you run the push command you will be asked for the password that you set for Bitbucket. Having entered that, you should be able to view the files of your site on Bitbucket by selecting the navigation option Source in the sidebar.
+
+You will also be able to see commits. When we initially committed our files locally we added the message “Adding initial files”. If you select Commits from the sidebar you’ll see we have one commit, with the message we set locally. You can imagine how useful this becomes when you can look back and see why you made certain changes to a project that perhaps you haven’t worked on for six months.
+
+Before working on your site locally you should run:
+
+> git pull
+in your working directory to make sure you have all of the most up-to-date files. This is especially important if someone else might work on them, or you just use multiple machines.
+
+You then make your changes and add any changed or modified files, for example:
+
+> git add index.php
+Commit the change locally:
+
+> git commit -m “updated the homepage”
+Then push it to Bitbucket:
+
+> git push origin master
+If you want to work on your files on a different computer you clone them using the following command:
+
+> git clone https://myuser@bitbucket.org/myname/24ways-tutorial.git
+You then have a copy of your files that is already a Git repository with the Bitbucket repository set up as a remote, so you are all ready to start work.
+
+Connecting a deployment tool to your repository and web hosting
+The next step is deploying files. I have chosen to use a deployment tool called Deploy as it has support for Bitbucket. It does have a monthly charge – but offers a free account for open source projects.
+
+Sign up for your account then log in and create your first project. Select Create an empty project. Under Configure Repository Details choose Bitbucket and enter your username and password.
+
+If Deploy can connect, it will show you your list of projects. Select the one you want.
+
+The next screen is Add New Server and here you need to configure the server that you want to deploy to. You might set up more than one server per project. In an ideal world you would deploy to a staging server for your client preview changes and then deploy once everything is signed off. For now I’ll assume you just want to set up your live site.
+
+Give the server a name; I usually use Production for the live web server. Then choose the protocol to connect with. Unless your host really does not support SFTP (which is pretty rare) I would choose that instead of FTP.
+
+You now add the same details your host gave you to log in with your SFTP client, including the username and password. The Path on server should be where your files are on the server. When you log in with an SFTP client and you get put in the directory above public_html then you should just be able to add public_html here.
+
+Once your server is configured you can deploy. Click Deploy now and choose the server you just set up. Then choose the last commit (which will probably be selected for you) and click Preview deployment. You will then get a preview of which files will change if you run the deployment: the files that will be added and any that will be removed. At the very top of that screen you should see the commit message you entered right back when you initially committed your files locally.
+
+If all looks good, run the deployment.
+
+You have taken the first steps to a more consistent and robust way of deploying your websites. It might seem like quite a few steps at first, but you will very soon come to realise how much easier deploying a live site is through this process.
+
+YOUR NEW PROCEDURE STEP BY STEP
+Edit your files locally as before, testing them through a web server on your own computer.
+Commit your changes to your local Git repository.
+Push changes to the remote repository.
+Log into the deployment service.
+Hit the Deploy now button.
+Preview the changes.
+Run the deployment and then check your live site.
+TAKING IT FURTHER
+I have tried to keep things simple in this article because so often, once you start to improve processes, it is easy to get bogged down in all the possible complexities. If you move from deploying with an FTP client to working in the way I have outlined above, you’ve taken a great step forward in creating more robust processes. You can continue to improve your procedures from this point.
+
+Staging servers for client preview
+When we added our server we could have added an additional server to use as a staging server for clients to preview their site on. This is a great use of a cheap VPS server, for example. You can set each client up with a subdomain – clientname.yourcompany.com – and this becomes the place where they can view changes before you deploy them.
+
+In that case you might deploy to the staging server, let the client check it out and then go back and deploy the same commit to the live server.
+
+Using Git branches
+As you become more familiar with using Git, and especially if you start working with other people, you might need to start developing using branches. You can then have a staging branch that deploys to staging and a production branch that is always a snapshot of what has been pushed to production. This guide from Beanstalk explains how this works.
+
+Automatic deployment to staging
+I wouldn’t suggest doing automatic deployment to the live site. It’s worth having someone on hand hitting the button and checking that everything worked nicely. If you have configured a staging server, however, you can set it up to deploy the changes each time a commit is pushed to it.
+
+If you use Bitbucket and Deploy you would create a deployment hook on Bitbucket to post to a URL on Deploy when a push happens to deploy the code. This can save you a few steps when you are just testing out changes. Even if you have made lots of changes to the staging deployment, the commit that you push live will include them all, so you can do that manually once you are happy with how things look in staging.
+
+Further Reading
+The tutorials from Git Client Tower, already mentioned in this article, are a great place to start if you are new to Git.
+A presentation from Liam Dempsey showing how to use the GitHub App to connect to Bitbucket
+Try Git from Code School
+The Git Workbook a self study guide to Git from Lorna Mitchell
+GET SET UP FOR THE NEW YEAR
+I love to start the New Year with a clean slate and improved processes. If you are still wrangling files with FTP then this is one thing you could tick off your list to save you time and energy in 2015. Post to the comments if you have suggestions of tools or ideas for ways to enhance this type of set-up for those who have already taken the first steps.
 
 
 It's not about the work that you do, but the work you enable others to do.
@@ -1480,65 +1780,3 @@ How does your team receive automated alarms when incidents occur?
 What is the volume of each of your service’s top 10 transactions? What is the percentage of transactions started vs. completed?
 What tool(s) are in place to measure user behavior?
 What tool/technology is used for A/B testing?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-http://24ways.org/2014/is-agile-harder-for-agencies/
-
-http://24ways.org/2014/making-sites-more-responsive-responsibly/
-
-http://24ways.org/2014/responsive-enhancement/
-
-http://davidwalsh.name/performance-cops-janitors
-
-http://www.thesambarnes.com/dpm-interviews/learning-people-digital-project-manager-qa/
-
-http://danielmall.com/articles/how-to-make-a-performance-budget/
-
-http://alistapart.com/blog/post/responsive-web-design-second-ed
-
-http://24ways.org/2014/developing-robust-deployment-procedures/
-
-http://24ways.org/2014/what-it-takes-to-build-a-website/
