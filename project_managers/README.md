@@ -1444,16 +1444,7 @@ What tool/technology is used for A/B testing?
 
 
 
-A product owner has been identified
-All stakeholders agree that the product owner has the authority to assign tasks and make decisions about features and technical implementation details
-The product owner has a product management background with technical experience to assess alternatives and weigh tradeoffs
-The product owner has a work plan that includes budget estimates and identification of funding sources
-The product owner has a strong relationship with his or her contracting officer
-key questions
-Who is the product owner?
-What organizational changes have been made to ensure the product owner has sufficient authority over and support for the project?
-What does it take for the product owner to add or remove a feature from the service?
-PLAY 7
+
 
 What is a product manager? What do product managers do all day? Most importantly, why do companies need to hire them? Good questions.
 The first confusion we have to clear up is what we mean by “product.” In the context of software development, a product is the website, application or online service that users interact with. Depending on the size of the company and its products, a product manager could be responsible for an entire system (such as a mobile app) or part of a system (such as the checkout flow on an e-commerce website across all devices).
