@@ -1466,19 +1466,11 @@ Story time.
 
 It’s 1959, a time of change. Disney releases their seminal film Sleeping Beauty, Fidel Castro becomes the premier of Cuba, and Eisenhower makes Hawaii an official state. That year, a British industry magnate by the name of Henry Kremer has a vision that leaves a haunting question: Can an airplane fly powered only by the pilot’s body power? Like Da Vinci, Kremer believed it was possible and decided to push his dream into reality. He offered the staggering sum of £50,000 for the first person to build a plane that could fly a figure eight around two markers one half-mile apart. Further, he offered £100,000 for the first person to fly across the channel. In modern US dollars, that’s the equivalent of $1.3 million and $2.5 million. It was the X-Prize of its day.
 
-
-
-Paul MacCready holding a “Speed Ring”, a device he invented for competitive glider flying.
-
-Thanks to Alan Kay for turning me on to this story.
-
 A decade went by. Dozens of teams tried and failed to build an airplane that could meet the requirements. It looked impossible. Another decade threatened to go by before our hero, MacCready, decided to get involved. He looked at the problem, how the existing solutions failed, and how people iterated their airplanes. He came to the startling realization that people were solving the wrong problem. “The problem is,” he said, “that we don’t understand the problem.”
 
 MacCready’s insight was that everyone working on solving human-powered flight would spend upwards of a year building an airplane on conjecture and theory without the grounding of empirical tests. Triumphantly, they’d complete their plane and wheel it out for a test flight. Minutes later, a years worth of work would smash into the ground. Even in successful flights, a couple hundred meters later the flight would end with the pilot physically exhausted. With that single new data point, the team would work for another year to rebuild, retest, relearn. Progress was slow for obvious reasons, but that was to be expected in pursuit of such a difficult vision. That’s just how it was.
 
 The problem was the problem. Paul realized that what we needed to be solved was not, in fact, human powered flight. That was a red-herring. The problem was the process itself, and along with it the blind pursuit of a goal without a deeper understanding how to tackle deeply difficult challenges. He came up with a new problem that he set out to solve: how can you build a plane that could be rebuilt in hours not months. And he did. He built a plane with Mylar, aluminum tubing, and wire.
-
-
 
 The first airplane didn’t work. It was too flimsy. But, because the problem he set out to solve was creating a plane he could fix in hours, he was able to quickly iterate. Sometimes he would fly three or four different planes in a single day. The rebuild, retest, relearn cycle went from months and years to hours and days.
 
@@ -1486,82 +1478,8 @@ The first airplane didn’t work. It was too flimsy. But, because the problem he
 
 What’s the take-away? When you are solving a difficult problem re-ask the problem so that your solution helps you learn faster. Find a faster way to fail, recover, and try again. If the problem you are trying to solve involves creating a magnum opus, you are solving the wrong problem.
 
-http://www.azarask.in/blog/post/the-wrong-problem/
 
 
-http://responsivedesign.is/articles/why-you-dont-need-device-specific-breakpoints
-
-WHY YOU DON’T NEED DEVICE SPECIFIC BREAKPOINTS
-
-BY JUSTIN AVERY, 28 OCT 2014 : OPINION
-
-With the ever growing number of different mobile, tablet, laptops, monitors, televisions, watches — and whatever else will communicate information to you visually — it's finally time to put to rest those device specific breakpoints.
-
-Recently I was fortunate to spend some time with Brad Frost. One of our conversations — most of which weren't anything to do with the industry — was around the need to upgrade to the latest round of devices (the iPhone 6 had recently been released).
-
-I was joking about coming across my first iPad (2011 iPad 2) and how comically large it seemed after using the iPad Mini. With so many new devices that were now hitting the shelves and the fact that we're no longer wowed that there's a new bigger and skinnier phone has meant that for some the upgrade to the latest version isn't something that is as vital as it once was.
-
-DESIRE TO UPGRADE
-
-One of the reasons behind wanting to upgrade to the latest device was the need to start testing our own and our client websites to see what we needed to fix.
-
-With the iPhone 6 new larger screen, and it's companions 6+ even bigger screen this would surely introduce a new set of design problems for all the sites we only launched since the iPhone 5 resize.
-
-Surely this, along with the High DPI Screen was going to warrant us to head out and upgrade to the latest bit of hardware.
-
-RESPONSIVE DESIGN AT ITS BEST
-
-The fact is that we didn't need to do anything.
-
-Nothing. Nada. Zip.
-
-Over the past 4 years (that's right, the idea has been around for that long and it's not going anywhere) we've been moving towards a more responsive web. We have flexible grids, we have flexible images, and we use media queries to rearrange our layouts when the viewport dictates.
-
-Over the 4 years we have slowly moved away from device specific breakpoints in favour of content specific breakpoints, i.e. adding a breakpoint when the content is no longer easy to consume.
-
-With this fundamental shift in thinking we no longer have to fear a new device — a new iPhone width — because we've already fixed our sites to work everywhere.
-
-Lets take a look at three of the most common issues with new widths and why they no longer matter.
-
-FORM FACTOR
-
-This is actually a good reason for testing. The size of the phone has increased and therefore the way we interface with the phone will change. Luke Wroblewski has written about the form factor and possible solutions to navigation.
-
-This is nothing new though. There have been larger phones on the market since the Samsung Note was released so many of the issues faced will have already been overcome.
-
-Apple have released a double tap on the home button to move the top of the screen closer for tapping elements, but this form factor is not available across all devices so not something that provides a well rounded solution.
-
-Form factor doesn't matter because you've already taken these screen sizes into consideration with other devices.
-
-HIGH DPI
-
-When the retina display (Apples marketing name for high DPI screens) was released it caused a world wide panic. First there was 1.5 high dpi which meant you needed a 38px icon to render nice and crisp when displayed at 25px. Then we had the 2x icon sizes and we needed a 50px icon to render nice and crisp when displayed at 25px.
-
-At some point we got bored or resizing icons and worked out that if we used Font Icons or SVG icons then it didn't matter how good the screen would become because the vector looks beautiful and crisp EVERYWHERE.
-
-High DPI/Retina doesn't matter because you've already updated all your logo's and icons to SVG and that scales to work on any device.
-
-NEW VIEWPORT DIMENSIONS
-
-For a little while we lost site of what Responsive Design really meant — and I mean the underlying theory of Responsive Design where we respond our content to fit any viewport — and we began to use device widths to target particular layouts towards.
-
-We knew that browser and device sniffing was frowned upon and thought that we could achieve the same approach using only media queries. This spurred the 320, 480, and 768px media queries that kept with the iPhone 3/4 and iPad viewport dimensions. When the iPhone 5 was released a handful of use updated the 480px query to 568px to accommodate the slightly larger screen. Strangely we never looked at Android phone dimensions (probably because there's far too many of them).
-
-Fortunately at some point we all became aware we were doing it wrong and fell back to allowing the content dictate our breakpoints. This has the greatest benefit of all, the ability to still serve our sites content perfectly regardless of the device sizes released to market.
-
-New device size don't matter because you've already based your media query breakpoints on the content.
-
-THE FUTURE
-
-This won't be the last iPhone to be released, and it certainly won't be the last smart phone released with a new dimension.
-
-Fortunately it no longer matters the size of the devices that are coming in the future because we're already prepared for them with our flexible grids, flexible images, and content focussed breakpoints.
-
-The picture proposal has meant that in the future image sizes are no longer an issue either, although we do need to become better at setting the sizes attribute.
-
-The biggest issue we're going to have now will be producing content for smaller screens. Screens that fit on your wrist. This is a problem less for responsive design to solve, after all we can't reduce the content to less than a single column.
-
-Instead the solution will be in the format we serve our content. Making it available not just in between <html>..</html> tags, but also in formats like <xml> <rss> and json.
 
 
 
