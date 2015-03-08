@@ -891,6 +891,16 @@ Choose software frameworks that are commonly used by private-sector companies cr
 
 To the extent practical, ensure that software can be deployed on a variety of commodity hardware types
 
+Deploy in a flexible hosting environmentOur services should be deployed on flexible infrastructure, where resources can be provisioned in real time to meet spikes in user demand. Our digital services are crippled when we host them in data centers which market themselves as “cloud hosting” but require us to manage and maintain hardware directly. This outdated practice wastes time, weakens our disaster recovery plans, and results in significantly higher costs.
+Resources are provisioned on demand
+Resources scale based on real-time user demand
+Resources are provisioned through an API
+Resources are available in multiple regions
+We pay only for the resources we use
+Static assets are served through a content delivery network
+Application is hosted on commodity hardware
+disaster recovery.
+
 - listen to concerns
 - set to work
 
@@ -1386,29 +1396,6 @@ How does the service’s design visually relate to other government services?
 
 
 
-Deploy in a flexible hosting environmentOur services should be deployed on flexible infrastructure, where resources can be provisioned in real time to meet spikes in user demand. Our digital services are crippled when we host them in data centers which market themselves as “cloud hosting” but require us to manage and maintain hardware directly. This outdated practice wastes time, weakens our disaster recovery plans, and results in significantly higher costs.checklist
-Resources are provisioned on demand
-Resources scale based on real-time user demand
-Resources are provisioned through an API
-Resources are available in multiple regions
-We pay only for the resources we use
-Static assets are served through a content delivery network
-Application is hosted on commodity hardware
-key questions
-Where is your service hosted?
-What hardware does your service use to run?
-What is the demand / usage pattern for your service?
-What happens to your service when it experiences a surge in traffic or load?
-How much capacity is available in your hosting environment?
-How long does it take you to provision a new resource such as an application server?
-How have you designed your service to scale based on demand?
-How are you paying for your hosting infrastructure — i.e., by the minute, hourly, daily, monthly, fixed?
-Is your service hosted in multiple regions / availability zones / data centers?
-In the event of a catastrophic disaster to a datacenter, how long will it take to have the service operational?
-What would be the impact of a prolonged downtime window?
-What data redundancy do you have built into the system, and what would be the impact of a catastrophic data loss?
-How often do you need to contact a person from your hosting provider to get resources or to fix an issue?
-PLAY 10
 
 Automate testing and deploymentsToday, developers write automated scripts that can verify thousands of scenarios in minutes and then deploy updated code into production environments multiple times per day. They use automated performance tests which simulate surges in traffic to identify performance bottlenecks. While manual tests and quality assurance is still necessary, automated tests provide consistent and reliable protection against unintentional regressions, and make it possible for developers to confidently release frequent updates to the service.checklist
 Create automated tests that verify all user-facing functionality
