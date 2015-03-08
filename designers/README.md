@@ -9,6 +9,13 @@ Your role is the most important.
 
 What differentiates web design from other disciplines of design? There are the obvious ones: it's modular, it must be adaptable to different states, interactions, and contexts, and it has an entire technological component that greatly affects execution.
 
+
+http://24ways.org/2014/making-sites-more-responsive-responsibly/
+
+http://24ways.org/2014/responsive-enhancement/
+
+http://alistapart.com/blog/post/responsive-web-design-second-ed
+
 Break based on content not device (8:33)
 Keep those links well spread (11:54)
 Watch that complex javascript (16:27)
