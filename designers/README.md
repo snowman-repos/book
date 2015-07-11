@@ -1041,3 +1041,148 @@ The biggest issue we're going to have now will be producing content for smaller 
 
 Instead the solution will be in the format we serve our content. Making it available not just in between <html>..</html> tags, but also in formats like <xml> <rss> and json.
 
+
+
+
+
+
+
+
+
+Developers and Designers — Dear Design Student — Medium
+deardesignstudent.com · by Norcross
+The Developers Are Due On Maple Street
+
+A: Start thinking like a developer.
+
+If you remember nothing else about developers, remember this: our core nature is to streamline, automate, and basically reduce things to their smallest possible element. This ethos drives almost every decision a developer makes. The other common thread about developers is that we’re inherently lazy. We don’t want to do things twice, and we automate anything and everything to avoid doing some things even once. Full confession: I’m a developer, so I’m biased as hell.
+
+
+A good design comp is like a painting of a website. It’s often visually stunning, but nothing about the comp shows any intent, only the end result. You cannot look at a comp and determine how decisions were made, what constraints existed, or how things were prioritized. Furthermore, you cannot see how things are intended to act. Does this thing move when hovered? Is there a fade? Individually, these are minor things, but add them up and you’ve got a pretty picture riddled with questions. Questions a developer either has to have answered, or worse, has to figure out on their own.
+
+You don’t want me, the developer, making assumptions about your design. I will probably assume wrong, or at the very least choose the path of least resistance. I’m a developer, it’s what I’ve been trained to do. So what can we do to avoid this?
+
+Prioritize the needs of the design
+I don’t believe designers want to design something ugly. I sure as hell don’t want to build something ugly. And when it comes to web projects, no one cares for a pretty face that can’t string a sentence together. Think of it as a Maslow’s Hierarchy for web development: start at the bottom with what is needed to actually solve the problem at hand (because remember, design is about solving problems, not changing the world or some other bullshit like that) and then work up from there. It’s much easier to apply nicer progressive elements that look cool once we know the site actually works.
+
+Include me as early in the process as possible
+Everyone on the A-Team had a specific role. So do we. And while we don’t get to blow up buildings or hide from the Federal government, we still need to play to our strengths. I have no interest in doing your part, as I imagine you have no interest in doing mine. In the interest in making my own role easier, so I will often bend over backwards to help you, when the result is getting something to build that doesn’t involve bending the laws of web physics. Make me part of your research process. I can often point out small things in a design that seem like throwaway items to you, but can make things very difficult for me, or more importantly, difficult for a user to enter. Also, I may be able to point out when a design doesn’t match up with the budget. I like making things fancy, but not at the expense of the core functionality that is being expected. Your wiggle could be half a day’s worth of development and cross-browser testing. And I will always prioritize functionality over a nicer coat of paint. Which brings me to my next point…
+
+Consider the content at all times
+Nearly all web design now is done in the context of a CMS. Whether it’s WordPress, Drupal, something custom, or whatever else exists out there, someone is gonna have to enter all the content. That someone isn’t me, and probably isn’t you either. In my experience, any content the client can see, the client will want the ability to change (even if they shouldn’t, but that’s another topic all together). Below is a short list of things to consider when putting together a design for a content driven site:
+
+Keep image sizes as consistent as possible (especially aspect ratios)
+Standardize your content formatting
+Share style elements wherever possible
+Favor repeatable elements over unique ones (They don’t have to be identical. Just not so unique that I have to write 8 template functions to handle minor differences)
+Position elements in relative proximity for all breakpoints
+Use varying content for placeholder elements
+That last one is important. I can’t count how many times a comp has a grid-type layout and uses identical content for each item. Same image size, same character count, same punctuation, etc. As soon as real content is entered, the grid goes to shit. Uneven columns and truncated content can easily make a professional design look like an 8th grader’s first web project. In short: don’t include something that requires strict adherence to some arbitrary rule, unless that rule is already agreed upon and understood by all parties involved. More than once, hopefully, because often times a client may agree to this rule until they want to enter something (or their marketing team gets their hands on it) and decides it won’t work anymore. Which brings me to my last point:
+
+Assume I know nothing about your design
+It’s easy to forget that not everyone knows what you know. I’m as guilty of it as anyone. But unless I was involved at the very beginning of the process, there is information related to the design that I simply don’t know. It could be from a client interaction, the scope itself, or just an understood part of the process that doesn’t filter down to me. So make the assumption that I don’t know why you did anything. I don’t want a doctoral thesis on it, but I do want information. A comprehensive style guide is the beginning of this, but also having detailed notes about specific items can help me develop it in such a way that your design works without conflict, and the end user can actually use it. I can build damn near anything, but the more complex it is, the more time has to be spent by someone to explain it.
+
+The bottom line: This isn’t unique to designers or developers. The exact same discussions (or a very similar version) are had between designers and pre-press techs, designers and printers, printers and binders, binders and trimmers, etc. Everyone thinks the person downstream (closer to the deadline) is a blocker, and everyone thinks the person upstream is an asshole. You can be each other’s biggest advocates or worst nightmares. Help each other out and what you’re making will be better off for it.
+
+
+
+
+Style Guide Best Practices | Brad Frost
+bradfrost.com · December 19, 2014
+Style guides and pattern libraries are essential tools to help Web teams maintain sanity while creating experiences for our multi-device Web.
+
+The benefits of style guides are many: they establish a common language, make testing easier, save time and effort, and create a useful reference to keep coming back to. And most importantly, it lays a future-friendly foundation for your organization to modify, extend, and evolve over time.
+
+Make it happen
+
+Obviously, in order to incorporate style guide best practices, you first need a style guide. Where to start? I’d recommend checking out all the great resources, tools, and examples on Styleguides.io to get buy-in from your organization.
+
+A good first step towards establishing a style guide is to conduct an interface inventory to document your entire existing interface. It’s also essential to choose the right tools to help create your style guide.
+
+Make it cross-disciplinary
+
+Family Reunion
+Family Reunion
+One of the biggest pitfalls I see with style guides is that they are often created with only one discipline in mind. Developers create code standards and libraries to make their lives easier, while designers create interface pattern libraries to establish consistent design patterns.
+
+Of course these are nobel endeavors, but a larger, more worthwhile goal is to create a tool that’s useful for designers, developers, project managers, business owners, and even third parties. A style guide can serve as a watering hole that helps everyone at an organization speak the same language and builds awareness/appreciation of the system.
+
+Make it approachable
+
+Yelp Style Guide
+Yelp Style Guide
+In order to be useful to everyone, the style guide should clearly convey what it is and why it matters. Some style guides (typically developer-specific ones) tend to be a bit muddy or jump straight into code samples. This can intimidate other disciplines and lead them to believe the resource isn’t for them.
+
+Presentation matters, so take the time to design an approachable style guide.
+
+Make it agnostic
+
+Feature Block Pattern for South Tees Hospital Style Guide
+Feature Block Pattern for South Tees Hospital Style Guide
+Pattern-based design and development requires you to blur your eyes a little bit. When creating a design system built for reuse, it’s essential to take a step back from the current context and name things in an agnostic way. “Carousel”, not “Homepage Carousel”. “Filters” not “Product Grid Filters”. “Radio Button Group” not “Gender Select”. And so on.
+
+Naming patterns in an agnostic way reduces duplication and leads to smaller, more efficient, more portable systems.
+
+Make it contextual
+
+Frost Finery Pattern Lab Lineage
+Frost Finery Pattern Lab Lineage
+Pattern libraries can be great, but they can often be an abstract concept. Too many pattern libraries in the wild don’t provide context to how and where patterns get used. Where are “Horizontal Tabs” used? What patterns make up the checkout template? If I make changes to the “Accordion” pattern, what’s going to break?
+
+One of my favorite features of Pattern Lab is its ability to show what patterns make up any given pattern, and also show where the patterns are employed. This helps teams understand how global a pattern is and where they need to test/QA if changes are made to a particular pattern. The ability to traverse between in-context and out-of-context is massively helpful for designers and developers.
+
+Make it maintainable
+
+
+"You seek the holy grail" from Monty Python and the Holy Grail
+Creating a style guide that is perfectly in sync with the production environment is the Holy Grail.
+
+CSS and JS can be easily migrated from one place to another, but pattern markup is where things can get challenging.
+
+I highly recommend Ian Feather’s article on how Lonely Planet created a style guide that is integrated with their production environment. Make a change to a pattern in the style guide, and boom, it’s updated in the production environment. Super clever stuff.
+
+Lonely Planet Style Guide
+Lonely Planet Style Guide
+Unfortunately it’s difficult to scale this kind of solution (the myriad of available backend environments makes things difficult), but I’m encouraged by the tools, techniques, and thinking around this issue. The next version of Pattern Lab will allow people to use the templating engine of your choice, which can help get markup much closer to your backend production code. Also, things like the Pattern Lab Component Builder by Evan Lovely automagically updates the style guide whenever Sass gets changed.
+
+It’s important to strive toward an automatically in-sync style guide to prevent the resource from becoming out-of-date and obsolete. Note: if you have experience/ideas of using Pattern Lab to keep the style guide and production environment in sync, please let me know.
+
+Make it part of your workflow
+
+The Guardian Style Guide
+The Guardian Style Guide
+A style guide needs to become an integral part of your organization’s process and workflow if it’s to continue to be a useful resource.
+
+As sad as I am to admit it, the majority of style guides I’ve delivered to clients have been abandoned. It’s challenging to bake style guides into an organization’s workflow when you’re on the outside. True changes to process needs to come from within. Like most things, the real challenges here are people and organizational issues rather than technical ones. Thankfully I’m seeing more teams step up to the plate and champion style guides as the cornerstone of their workflows.
+
+Make it visible
+
+Starbucks Style Guide
+Starbucks Style Guide
+A style guide can only be useful if the organization knows it’s there. That’s why I strongly recommend making your style guide public.
+
+Gasp! Horror! Wouldn’t that cause us to lose our competitive edge?
+
+No.
+
+There’s much to be gained by being open and sharing more, and making your style guide public is no exception.
+
+Large organizations almost always have issues with the right hand not knowing what the left is doing. Documentation and resources are often buried in internal wikis or behind logins or some other unnecessary/archaic crap. By making your style guide public you’re not just making it visible to the outside world, you’re making it a lot more visible to the people within organization itself. And after all, those are the folks that will be making use of it.
+
+Also, sharing your style guide serves as recruitment tool that shows you’re up to speed on modern Web best practices, and gives a glimpse into your tech stack, style, and workflow.
+
+Make it bigger
+
+IBM Design Language
+IBM Design Language
+Pattern libraries for Web teams are proving their worth over and over again. So why not widen the scope a bit, and create a hub for the many other areas that could benefit from a style guide? Brand assets, design language, voice and tone, and writing can and should be consistent and available. Use the Web style guide to start a broader conversation.
+
+Make it last
+
+No organization wants to perpetuate the “burn the whole thing down every 3-5 years” style of redesign. A good system is built to stand the test of time, and establishing a solid style guide can help make that happen.
+
+That’s not to say things can’t change. But establishing a design system now makes those changes easier down the line. After all, even with an entirely new design, you’ll still need buttons, inputs, image types, and so on. Style guides are beneficial from Day 1, but become much more valuable as time goes on.
+
+As someone who helps organizations do better work, I’m absolutely thrilled to see more people embrace style guides as an effective way to create and maintain resilient design systems. If you have questions or are interested in a workshop about style guides and more, please do get in touch.
+
+
