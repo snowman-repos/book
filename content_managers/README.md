@@ -867,3 +867,225 @@ In this phase, we’ll see our content through to publication: where does it liv
 
 MANAGE
 After we’ve published content, it’s time to look back, see what worked, and plan for the future. Jonathan says: Write comprehensive copy decks, based on common templates. Write a style guide for tone of voice, SEO, linking policy, and community policy.
+
+
+
+
+Understanding & Designing Great Microcopy | Tips
+webdesignledger.com · by Jake Rocheleau · December 8, 2014
+We all know about the importance of great copy on the web. It’s often easy to capture attention with visuals but strenuous to capture attention with verbiage. So if the word “copy” refers to the overall page text, then what’s microcopy? Well much like finding a great parking spot in a crowded plaza, microcopy refers to the little things that make a big impact.
+
+Microcopy is littered throughout every website to explain features, interfaces, and minute details. The exact diction used in a signup form can make a world of difference. In this post I’d like to cover a brief overview of microcopy and how you can design better interfaces by focusing more on the unique pattern of words.
+
+Effective Microcopy
+
+The most important thing to remember is that people actually do read this stuff. The iTunes Terms of Service is so heavily ignored that you could hide a dead body in there and nobody would ever find it. But when talking about real interactive page elements the text matters. Think about loading screens, signup forms, confirmation or thank you e-mails. Even if people don’t read every word they usually skim to at least capture the essence of the message.
+
+Crafting effective microcopy is about staying true to the website’s theme while delivering information. A 404 page could be funny, charismatic, detailed, or pragmatic and straightforward. The style of writing also defines how much should be written. Sometimes a little humor can alleviate the potential stress of an error message. When used in the right context it becomes a memorable experience for the user.
+
+UX designer, user researcher and usability expert for hire
+Another thing to remember is that context really does matter. When writing page copy it’s more about location, design, formatting, and really conveying the message. With microcopy you also want to get the message across but it’s more contextual. This means you could use almost any design style(within reason) as long as the text is relatable to the situation.
+
+There’s also a reason this text is called “micro” copy. Yes the obvious answer is because the text is used in smaller areas of the page. But purposefully or ironically the text itself is typically microsized. Keep the word count low because users are more easily drawn towards quick snippets of text than large paragraphs.
+
+It shouldn’t matter whether you’re a published novelist or if you barely understand the difference between “you’re” and “your”. Stay in the mindset of a new user and think of what message would be the most useful in certain contexts. This train of thought will help you detach from the design and focus more on usability.
+
+Write for Common Sense
+
+Something that may be common sense to the designer or developer of a website is not always common sense to the user. Microcopy is made up of phrases – a few words or a sentence which completely changes the tone of user interaction. Clarification only gets annoying when it’s done repeatedly copying the same advice over and over.
+
+newsletter signup form psd microcopy sample
+newsletter signup form psd microcopy sample
+But clarifying a potentially confusing interface only reaps benefits. You might skim a related and useful microcopy article written by Joshua Porter which expands on a few ideas. The gist is to sleuth out problems with the experience that might cause users to hesitate or back out of the interaction. This could be with any type of webform from a signup page to a search field or profile update screen.
+
+Microcopy always relates to decision making. It’s a volatile moment when someone is debating whether to checkout with their shopping cart or just leave the page and purchase another day. Great microcopy will help customers build confidence with each purchase and leave with a smile on their face. It’s about building UX confidence and offering clarity to some of the more daunting tasks.
+
+Reducing Concerns
+
+Users who are more confident about their choices will leave your site with a delicious taste in their mouth. In contradistinction users who are concerned or confused with their actions might leave with a more anxious, bitter taste. Can you guess which option is better?
+
+The goal of microcopy is to streamline the user experience. This in turn builds confidence with each click or keystroke because the user’s concerns have been put to rest. Well-written microcopy will mitigate problems ranging from all areas of miscommunication. Remember to stay out of your head and get into the head of a typical visitor.
+
+mailchimp signup form microcopy helpful tips
+mailchimp signup form microcopy helpful tips
+If you’re researching ideas try interacting with a few different websites. You might try signing up for an account then editing your new profile to look for any problematic areas. Interact with a website that behaves similarly to your own – look at what they do right and what they do wrong. Avoiding bad microcopy is easier said than done. But once you recognize great microcopy it all becomes much clearer.
+
+Be efficient with your word choices and have a purpose for each phrase. You don’t need grammatically complete sentences for each piece of microcopy as long as you’re improving the user experience. We’re not writing a scientific dissertation on dark matter so there are no sacred grammatical rules when it comes to microcopy structure.
+
+Are You Human?
+
+We all love CAPTCHAs right? Well perhaps love isn’t the right word… more like tolerable. They’re tolerable because they provide a real solution to spam management. While there are other solutions beyond CAPTCHAs they aren’t as effective at stopping spam. However the problem with CAPTCHAs is that they’re not great at communicating with the user.
+
+If someone can’t read the CAPTCHA text they just need to guess and hope for the best. When it comes back incorrect they’ll need to guess again in a vicious cycle to complete a form they might not even care about. Spam management techniques may not be up for debate, but for every other part of a form you should endeavor towards a more humane experience.
+
+bootstrap alert boxes messages redesign concept
+bootstrap alert boxes messages redesign concept
+The best microcopy doesn’t sound like a computer-generated response. Quick little messages shouldn’t evoke frustration in the same vein of a PC load letter. Writing microcopy that relates to a user is as simple as treating them like humans. Write phrases and sentences that talk to the user as if they’re having a conversation with the interface.
+
+While this style of writing is relatable to the user it also provides evidence that a real human took the time to write and build the website. In our age of technological attachment sometimes it feels like our lives are surrounded by machines. It’s easy to forget that real people with feelings and underwear drawers created all of these machine interfaces. Microcopy written from the perspective of a human being provides a more authentic connection to the interface and user experience.
+
+Closing
+
+Overall the practice of writing microcopy is more intuitive than analytical. Yes there is a need to analyze each situation to find problematic areas. But thinking about what to write is difficult if you only focus on logic and rule out emotions. I hope these ideas can provide a springboard for designers looking to craft less bewildering and more usable interfaces. Microcopy isn’t always given the appreciation it deserves but it still plays a big part in the creation of usable websites.
+
+
+
+
+How to be web content agnostic (and why you should)
+webdesignerdepot.com
+You cannot design without content. It’s a mantra repeated by designers worldwide, it’s a plea in countless emails to clients, it’s a cornerstone of responsible design.
+
+One of the most respected names on the Web, Jeffrey Zeldman, summarises it neatly in a pinned tweet:
+
+Content precedes design. Design in the absence of content is not design, it’s decoration.
+— Jeffrey Zeldman (@zeldman) May 5, 2008
+This is because design is about solving problems. If content were a pill, design would be the sugar coating.
+
+However designing with content is contrary to the direction the Web is moving in, and may even be damaging for your clients…
+
+ 
+
+The myth of designing content
+
+The truth is, you aren’t designing with actual content.
+
+Let’s leave aside the idea that clients don’t deliver content on time — plenty do, and those that don’t simply need you to project manage — for the sake of discussion, let’s assume you begin the design process with a nice shiny email from your client with comprehensive content attached.
+
+You’re still not designing the actual content, because the nature of content on the Web is that it’s transient.
+
+changes in content should not necessitate a redesign
+
+When was the last time you worked on a website that didn’t run on a CMS? Did you think the company just wanted to keep their phone numbers up to date? Companies don’t change their phone numbers. What they do is let the VP of marketing run riot with the WordPress login the first weekend your back is turned.
+
+Content on the Web is always temporary. Natural changes in content should not necessitate a redesign.
+
+We’ve sold ourselves the myth of designing content because it syncs nicely with our view of good design being invisible. However, with this approach what we’re really designing is a single iteration of content, the lifecycle of which is undetermined. Designing content is damaging for clients if we allow ourselves to be seduced by the idea that we’re working with fixed content.
+
+Think of being content agnostic as responsive design, from the other direction: whilst still respecting content, we accept that it’s substantially unknowable and so our designs must adapt to whatever content is inserted.
+
+ 
+
+Designing dummy content
+
+Unless you’re typesetting an academic essay written entirely in latin, then lorem ipsum will not be representative of your content, and most web designers rightly avoid it. However, it’s wrong to say that dummy content serves no purpose. Dummy content can be valuable if it’s prototypical of site content. Ideally it will have three characteristics:
+
+it will be the same language as your content;
+it will be the approximate length and rhythm as your content;
+it will be on a similar subject to your content.
+These three characteristics will ensure you encounter the same problems in your design process, as your actual content will when live.
+
+Take for example a staff biography. Provided you know that it’s written in English, is the résumé of a senior manager with an engineering background, and will be a single paragraph of no more than 100 words, then you can design that element. Staff bios are frequently updated, and staff turnover is often high. Any solution you provide needs to be robust enough to adapt to these kinds of changes, or it’s not fit for purpose.
+
+Our work isn’t theoretical, but that doesn’t mean we need actual content to design. What we need are content models: accurate prototypes that allow us to explore design issues, without the restrictions of ‘final’ copy.
+
+ 
+
+Design precedes content
+
+When we expect content to change, we have to design not content, but placeholders for content.
+
+Take a look at a newspaper. It is a practical impossibility that the entire content be designed each night. Thousands of lines and hundreds of columns are slotted into a pre-designed structure. When the structure doesn’t fit the content, it’s the copy that is padded or truncated; not the design. Pt size on inserts can be tweaked, images can be scaled, but in general terms the design of a newspaper dictates its content.
+
+Happily we don’t face the same issue on the Web; we have scrolling. However, similar problems online are resolved with similar solutions.
+
+The Guardian newspaper has just launched an excellent responsive redesign of its website. When designing headlines, they’ve worked to ensure that a five word headline sits comfortably alongside a fourteen word headline. The approach is successful because the team at The Guardian have designed the site, not for content, but for a range of potential content. There are restrictions — you couldn’t insert a fifty word headline — but the solution is flexible enough to handle content growth.
+
+theguardian
+Because content is liable to change, design will inevitably precede content. The solution to this problem is to adopt a content agnostic approach using techniques such as Samantha Warren’s Style Tiles to design for models of content that are robust enough to survive in the wild.
+
+ 
+
+Design is content
+
+We know from eye-tracking research that the only time your content is read is when it’s parsed by Googlebot. Most human beings never read websites, they barely look at websites. You and I might, but we’re the exception. Most humans scan a page quickly, click something that looks interesting and repeat the process until they land on an approximation of what they were looking for.
+
+And so, the client’s core message isn’t conveyed by content, it’s conveyed by brand. The colors, type, imagery and a few snatches of content here and there, are what most users base decisions on.
+
+This is the main reason micro-copy is proving to be such a vital part of web design: you won’t make a sale with the opening paragraph of your ‘About Us’ page, but you might with the privacy statement above your contact form.
+
+what we’re really designing…is the framework within which to create content, not the content itself
+
+With the rise of SaaS, designers are increasingly finding that their design work, visual, UX, and strategic, is taking on the role of content. As the Web continues to move away from passive content delivery, to active content creation, design becomes increasingly important as the primary means of communicating.
+
+A product designer doesn’t need to know what words a pen will write in order to design it. He needs to know the general use — whether it will be a brush pen, fountain pen, or rollerball — but the words that it will write are irrelevant to the design process.
+
+The Web is increasingly becoming a place of content creation. We can provide parameters — a maximum 140 characters being the obvious example — but what we’re really designing, whether we do it for clients or their customers, is the framework within which to create content, not the content itself.
+
+ 
+
+Conclusion
+
+The myth that we’re designing content is rooted in print design, when content was final as soon as it was dispatched to the printers. Designing content for the Web requires that we embrace the inherent transient nature of our content, or risk limiting the content’s potential by imposing a rigid design on it.
+
+As the definition of what consitutes a website continues to evolve, design will continue to function as content, and content will continue to perform as a design solution. What we design is not a site’s content — which is transient — but rather its aims, its values, its aspirations; what we design is (for want of a better word) its soul.
+
+Far from being decoration, a content agnostic approach forces us to produce a robust design solution that doesn’t impose itself on future content.
+
+Design precedes content. Content in the absence of design is not content, it’s a brief.
+
+
+
+Prioritizing Structure in Web Content Projects
+A List Apart · by Eileen Webb
+The A List Apart Blog Presents:
+Prioritizing Structure in Web Content Projects
+
+by Eileen Webb · February 18, 2015 ·
+
+Article Continues Below
+Share This:
+
+Twitter
+Facebook
+Google+
+Bushel
+Manage and protect your Apple devices anytime from anywhere.
+
+Ad via The Deck
+
+Job Board
+
+Village Labs, LLC is looking for a iOS Developer.
+Job listings via We Work Remotely
+
+Most web content projects have both structural and editorial aspects: for example, the information needs to be structured to support the new responsive design, and the current copy needs an update so it adheres to messaging and brand guidelines.
+
+I’m often asked which is the best order to approach the work: structure first and then rewrites, or the reverse? I didn’t used to have a strong opinion, because it seemed to me like a chicken-and-egg problem. If the project starts with structure, I’m building content models off of bad information. If, instead, we start with rewrites, the writers don’t know what pieces we need to fill the models, because the models don’t exist yet. It felt like both directions were equally fraught, and I didn’t have any strong reasons to recommend one over the other.
+
+(Note that I’m not talking about starting without the editorial foundations of a project: understanding the business goals, establishing a message architecture, and knowing what the work is supposed to accomplish are core pieces of any project. I’m talking instead about rewriting poor content—editing and creating new copy based on those foundations.)
+
+I recently finished up the second phase of a project that we organized to focus on structure first, and reasons to stick with this approach piled up in my lap like turkeys going to roost. I think that a structure-first approach does make sense for the majority of my projects, and here’s why.
+
+Content models are based on what content is for, not what it says#section2
+
+On this particular project, the existing copy was horrible. Jargony, clichéd, and almost stubbornly unhelpful. How could I build a useful content model off of bad content?
+
+As I was working, I realized that the quality of the copy—even if it’s terrible—doesn’t really affect the models. I don’t build models off of the exact words in the content, but instead I build off of what purpose that copy serves. I don’t actually care if the restaurant description reads like teen poetry (sorry teens, sorry poets): it’s the restaurant description, and we need a short, teaser version and a long, full version. The banquet facilities should include well-lit photos taken within the last decade, and the captions should use the appropriate brand voice to describe how the rooms can be used. I don’t actually need to see decent photos or strong captions to build space for them into the models.
+
+Structure decisions influence development and design direction#section3
+
+A complex content model will help inform all kinds of site decisions, from CMS choice to data formatting. Developers can make better architecture decisions when they have a sense of what kinds of relationships exist between content types, and designers can organize a pattern library that matches the granularity of the content model. The earlier the structure work is done, the easier it is to build integrated design and development plans.
+
+Cramming bad content into strong models is an incredibly compelling argument for editorial intervention#section4
+
+When projects are focused on the structural aspects of the work—we want to recombine content for different channels, or make a clever responsive experience using structured fields—people often start out convinced that the current content is decent enough to do the job. “Sure, it could probably use some spiffing up, but that’s just not in the cards right now.”
+
+I have never seen a more effective argument for the importance of editorial work than taking existing copy and seeing how inadequately it fills a model that we’ve already agreed meets our business goals.
+
+A model I built recently had a content type for holding gushy snippets about the business’s amazing customer service. When we went to move the existing content into the new models, the only copy we could find to migrate amounted to “free ice water” and “polite employees.” We had already agreed that telling the story of the brand experience was a key job of the new website, and seeing how thoroughly their current content failed to do that was the kick in the pants they needed to find budget for an editorial assist.
+
+Content models are easy to iterate#section5
+
+Waterfall isn’t a great match for content development any more than it is for design and code, so editorial rewrites often trigger adjustments to the content models. I may split one large field into two smaller ones, or the writers will find a place where I left out an important piece of content altogether. Refining the models is an expected part of the process.
+
+On projects where editorial rewriting has been done first, though, I often end up with copy that, although now written beautifully, has no place in the model. In the course of structuring the information, we combined two pages into one, or are reusing the same description in three places, and so the editorial effort that went into fixing that copy is thrown out before it ever sees the light of day. That’s discouraging, and can lead to content creators feeling like I don’t value their time or their work.
+
+What works for you?#section6
+
+It’s nice to have some strong reasoning behind my structure-first leaning, but of course my experiences may not translate to your project needs at all.
+
+If you’ve worked on a project that organized structure work first, what advantages or drawbacks did that process uncover? From a design and development perspective, are there pros or cons to either direction that aren’t covered here?
+
+If you’re a writer, does creating copy within a content model free or stifle your best work? If you prefer to start with editorial rewrites, what are the hidden benefits for the structural side of the project?
+
+I believe there are real benefits to taking a structure-first approach to organizing content activities, and I’d love to hear how and if that works for your projects as well.
