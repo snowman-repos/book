@@ -240,3 +240,161 @@ Given this list, you will want to formulate questions that asses the client's pe
 * Any other comments?
 
 These questions should be specific and measurable. As you get more project notches on your client management bedpost, you will be able to review and consider your own performance.
+
+
+
+
+
+
+The Art of Creating Accurate Estimates
+A List Apart · by Matt Griffin
+ Matt Griffin on How We Work
+The Art of Creating Accurate Estimates
+
+June 18, 2015 · Published in Process, Business ·
+
+A note from the editors: Part three of a four-part series about the money side of businesses that build the web.
+
+The estimates. Good gravy, people, the estimates. Is there anything more terrifying in this business than when you have to go on record saying how long it’s going to take to do a thing that (frequently) you’ve never done before? Estimates, after all, are the logical result of a series of questions that raise more questions. “How much will this cost?” leads to “What is it we’re doing?” which is followed by “How long will it take?”
+
+Article Continues Below
+Share This:
+
+Twitter
+Facebook
+Google+
+Nest Thermostat
+Nest Thermostat - World’s 1st Learning Thermostat. Programs Itself. Free Shipping!
+
+Ad via The Deck
+
+Job Board
+
+Job listings via We Work Remotely
+
+And no matter how risky it may seem to come up with answers to this last question, it’s an expected part of the client services business. How else would our prospective clients know what they’re going to have to pay us? Without this knowledge, they’d likely never take the leap and agree to become actual clients. (Which, as you may know, is kind of important to this whole thing we do.)
+
+Likewise, without good estimates, we can’t schedule our time. We wouldn’t know when projects end and when new ones can begin. Kind of crucial, right?
+
+So why does estimating incite such raging fear in our hearts?
+
+Quick show of hands: who thinks they’re really good at creating consistently accurate estimates? Yep, that’s what I thought.
+
+The quality of an estimate stems primarily from how closely it represents reality. There are several challenges to creating accurate estimates.
+
+My experience is that most estimates (particularly those that are written with less experience to back up their assumptions) come from a place of optimism. We imagine doing a series of tasks in the best possible circumstances. We ignore unknowns, and all the resultant extra work that may arise from them.
+
+Sadly, this is rarely representative of the world we live in, and leads to underestimating.
+
+On the other hand, perhaps we’ve had a very difficult experience with a similar task. Perhaps it was due to circumstances that, though they were truly miserable, are unlikely to be repeated. In that case, our historical anxiety comes rushing to the fore and unrealistically colors our expectations, causing us to estimate far too high.
+
+Or—as is often the case with unique and complex problems—if we have very little experience to draw on, we may simply take a shot in the dark. Have we estimated too high? Too low? Who could possibly know?
+
+There are, thank goodness, a few things we can do to alleviate these problems. So let’s look at two possible ways to go about it, which I’ll refer to as “scope to time” and “time to scope.”
+
+Scope to time#section2
+
+The scope to time conversion is a pretty standard, traditional estimating exercise. Given some fixed scope of features and deliverables, how long will it take to perform each task? For websites, we try to understand scope-defining things like:
+
+How many templates are we designing?
+How many rounds of design revisions?
+What are the development features (e.g. is there a newsletter sign-up, a t-shirt purchasing system, integration with a fulfillment house API, etc.)?
+What are the limits of browser testing (e.g. IE6, IE7, IE8)?
+Once we think we understand all the things we’ll have to do, we try to make up numbers that represent how long it will take to do each thing. But before making a calculation (or guess), we must first think about what kind of timescale we want to work with.
+
+That timescale tho#section3
+
+Timescales are lenses through which we can look at a task. I’ve found that which lens we choose can have a profound effect on our estimations.
+
+Consider a task such as creating an element collage for a new client. We could potentially estimate time in terms of minutes, hours, days, weeks, months, or even years. Let’s take the extremes first. How many minutes does it take? I don’t know. Lots. How many years? I don’t know. Some small fraction, I guess. OK, how many hours? 10? 15 maybe? 8? Those all sound kind of right. Days? Well, 2 to 3 sounds good.
+
+But 2 to 3 days at 6 hours each is 12 to 18 hours. Which is higher than 10 to 15. So which is right? My hunch is that when we think about an hour, we’re not looking at the right scale. Because the difference between a good hour and a bad hour can be wildly different. I’ve had an hour where I’ve accomplished almost nothing tangible. I tried things that failed; I got stumped on some problem to which an answer revealed itself only later; I was maybe just in a bad mental space at that time. I’ve had other hours where I’ve had great insights, closed ticket after ticket, made a huge dent in a project. The thing is that every day is made up of some of both of these hours. So when I think about what I can get done in a certain timescale, I remember that a day or a week is made of good and bad hours, and what that averages out to. What can I do in an hour? Somewhere between very little and a lot. In a day? A reasonable chunk of a thing.
+
+On the other hand, at very large timescales—say months or years—my brain starts telling me that the chunk of time is approaching infinity. What can I do in a year? Everything! Which of course is not true, and is in fact a very dangerous assumption to make. Even very big numbers have an end. And to find those ends, we need to ratchet down our timescale.
+
+This is why, in general, I find the middle timescales (days and weeks) the best for conceptualizing how much we can get done. Questions like “How many days will it take to build out a feature?” or “How many wireframes can I complete in a week?” tend to get me on the right path.
+
+In addition to that, experience can help a lot. The more work we complete in our careers, the more data we potentially have to check our assumptions.
+
+Condemned to repeat it#section4
+
+So we think it takes two to three days to make an element collage. Great! But is this our first time at the rodeo? If we’ve done element collages before, and—here’s the kicker—if we’ve accurately tracked our time in the past, we can compare this estimate to our record of the actual hours we spent the last time.
+
+This is why I encourage a policy of tracking time spent on tasks. You can make a habit of running a timer (at Bearded, we use Harvest, but there are others, such as Freshbooks and TimeTracker), and switching that timer with every task switch. The motto is ABT—Always Be Tracking.
+
+Now if we think our mental model of how long it takes to do a thing is way off, we can confirm our hunch by looking at historical numbers, and correct that mental model for the future. It can keep us from under- or overestimating the same thing over and over again. Which is nice.
+
+Delta delta delta#section5
+
+Another way to check our assumptions, especially in larger groups, is to compare independent estimates done by multiple people. Seth Brown, COO of Lullabot, explains how he employs this approach:
+
+Typically we try to work either on a retainer or an hourly basis, however clients often need to have an understanding of what the retainer length might end up being. We tend to decompose projects into bite-sized chunks, first epics, and then tasks, and then estimate those with a group of developers on our team. Each developer does a blind estimate for each task and then we compare everyone’s guesstimates. If the “delta” between each developer’s guess is large we discuss assumptions, ask questions if we have to, and then re-estimate.
+This approach can certainly minimize risk. If two independent people think a task is easy or hard, it’s more likely to be the truth. And if they disagree, then a deeper discussion will likely lead to a better definition of scope.
+
+Things fitting into things#section6
+
+Some tasks scale up or down with the scale of the project. Project management and meetings are perfect examples. For instance, when we estimate an hourly project at Bearded, we like to add 15 percent for project management to the grand total estimate. That way, more project scope results in more hours to manage that scope. Seems reasonable, man.
+
+Time to scope#section7
+
+Defining scope and converting that to an amount of time is one way to do things. But you can also go the other way, and there are some very good reasons you might want do that.
+
+Constraints are your friend#section8
+
+When was the last time a client showed up on your doorstep with infinite weeks and infinite budget to complete a project? Usually at least one of these constraints is in place. Great! So if they only have eight weeks before some event requires the delivery of some solution, then that’s what you have to work with. You know how many people-hours you can devote in those eight weeks, and that time constraint determines the maximum effort and cost. The next question is: What’s the most valuable way for everyone to spend their time during that timeframe?
+
+Likewise if they have a budget of $100,000, just divide that by the team’s weekly rate and you know the maximum number of weeks they can afford. Then it’s time to answer that same question: How can we best spend our time to maximize value for that client?
+
+Talk it through#section9
+
+Not surprisingly, this often becomes a conversation. Though sometimes a client is reluctant to divulge their budget (often out of the belief that a vendor is just trying to get the biggest number possible out of them), I find that telling them our weekly rate up front engenders some initial trust. At that point the mechanics of our cost are exposed, and we’re simply trying to figure out—together—how many weeks of our time they feel comfortable paying for.
+
+It’s all about trust#section10
+
+In these scenarios, the scope and work products tend to be more open-ended. We’ll have a prioritized list of things to work on, and we’ll work our way down it—with the understanding that the list may change as we gain more knowledge and new facts present themselves throughout the project. Again, we’re always focused on maximizing our value to the client, so if something more important has appeared, we won’t just keep plugging away at a task because that’s what the contract has bound us to.
+
+This approach tends to bring us closer to an agile process, where our ship date is fixed, but the work product and deliverables are variable. This approach requires a certain amount of trust and empathy on both sides. Everyone needs to understand that none of us can guarantee exactly what’s going to be delivered at the end of the engagement. It may be scary, but this uncertainty is tempered by a different kind of increased control on the client side: they can continue to reprioritize and redirect us throughout the project, without negotiating change orders.
+
+That isn’t to say we rush into these projects with no plan. Far from it. But we admit that our plans are imperfect and subject to change. Frequently we begin these projects with a research phase to define the rest of the project (or perhaps to define a second phase).
+
+The big question in this kind of arrangement, then, isn’t “Will we ship that thing on time?” Rather, it’s “Is the work we’re doing worth more than the money our client is spending on us?” If the answer is yes, then the value is clear, and the details about the exact work product or deliverables become less important. If the answer is no, then it’s likely a bad match and you should shift your focus, or they should look for another vendor.
+
+Easing the pain#section11
+
+It’s not just in estimating scope that we encounter trouble. As Woody Allen famously said, “If you want to make God laugh, tell him about your plans.” No matter how we go about making estimates of things, it’s rarely foolproof.
+
+So what else can we do to ease the pain of estimating?
+
+Plan for the fan to be hit#section12
+
+For one thing, we can plan for what to do when things go worse than we imagined. In my experience, people who build things (web things included) are often optimists. Why else would we agree to dive into the unknown again and again with each project?
+
+Paul Ford’s epic article for Bloomberg, “What Is Code,” sums up the problem of estimation optimism fairly well:
+
+You ask the universal framing question: “Did you cost these options?”
+
+He gives you a number and a date. You know in your soul that the number is half of what it should be and that the project will go a year over schedule.
+Clearly, we must plan for when things go less than ideally.
+
+In hourly projects, we borrowed an idea from our friends at Sparkbox and include a 20 percent contingency budget on every project. The contingency budget is a line item like everything else, but we never track time against it. It just balances out against overages from other line items. It covers our butts when things take longer than expected.
+
+Likewise on weekly projects, it often makes sense to not densely pack every week of the schedule. Having a penultimate week on the project that’s focused on things like “polish” or “fit and finish” can keep you out of trouble when something goes awry. And if everything goes smoothly, great! When could you not use an extra week to tighten the screws, refine UIs and interactions, test on a few more devices, or create documentation for the client team and—heck—your future self?
+
+Reaching across the aisle#section13
+
+Something that makes almost any project better—regardless of process or format—is good, open client communication. Why not extend this approach to the estimating process?
+
+Says Ben Callahan, president of Sparkbox:
+
+Lately we’ve been experimenting with an idea called “Collaborative Pricing.” It typically starts with an email from a potential customer where they’re answering a few key questions about budget, timeline, and scope. Our next step is to clarify any major questions we have based on the information we’ve been given. Then we’ll quickly put together a Google Spreadsheet that breaks down the work in a way we believe is reasonable given our current understanding… The idea is that we can work with our clients to find a budget, scope, and timeline that is mutually beneficial. We use Google Spreadsheets because it allows real-time collaboration but is also intuitive for anyone familiar with Excel or Numbers. The most helpful part of estimating in this way is that it makes the very first interaction we have with our customer one of collaboration.
+Sounds pretty great, right? It encourages our clients to start prioritizing their resources (us) from the beginning. Do they want to pour extra hours into one feature instead of another? Do they want to cut something that doesn’t seem worth it, so they can add more budget to another area? Can they take a section or set of tasks off our plate (for instance, usability testing recruiting or QA) because they can assign internal resources to cover it?
+
+Exposing the machinery of an estimate helps to demystify the process. It sets up a more collaborative relationship from the beginning, discourages adversarial behavior, and builds trust. These, my friends, are things of which a good client relationship is made.
+
+Yeah great but how much does it cost?#section14
+
+Just as there is no single good way to set pricing, there is no single good way to estimate. You’ll need to do some trial and error to see what works for you, your communication style, your design and development process, and your clients.
+
+The web is always changing and so, it seems, is everything else in our industry. So don’t be afraid to experiment and try new things. If all goes well, you’ll have plenty of opportunities to try again, and refine your estimating process with each project. You may also find that as your organization grows, what worked before no longer does, and that a new approach is suddenly more suited to you.
+
+And oh hey, I’ll be damned if that doesn’t segue us quite neatly into the final installment in this series, where we’ll investigate how scale affects our web businesses. See you then!
