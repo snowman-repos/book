@@ -1642,3 +1642,85 @@ OK one more:
 
 Scott Jehl has a book on all this stuff as well: Responsible Responsive Design.
 
+
+
+
+
+Sass: Stop and Make a Comment
+createstopbecreative.com · by Jono Herrington · May 7, 2015
+In my last post, “Stop Defining Useless Color Variables”, I addressed the topic of our need to stop defining $white and $black inside of our Sass.
+
+There seemed to be many different opinions about this. In fact as me and Steven Harley, a designer at Thoughtbot, were debating back and forth about the post, he wrote a very insightful comment:
+
+I see your point, but this is kind of why SASS is so popular, you can write CSS how you like, for better or for worse.
+
+– Steven Harley
+I full heartedly agree with him on this. Sass, in many ways, fills the gaps that we have found in CSS. By using Sass we are able to write CSS more effectively, efficiently, and intuitively. With such a great language at our fingertips, we must strive to write the best markup with it that we can.
+
+With this in mind, my goal in this post is to continue to explore ways that we can make our Sass files even more effective and scalable. The way that we can do that is by using comments.
+
+* Gasp *
+
+Comments you say? What the heck are those?
+
+While these questions may or may not have rolled through your mind, the funny thing is that I have found many developers that often act this way. Don’t get me wrong, they don’t do it because they don’t know about them. Comments are, after all, one of the first things that you typically learn about when your are first starting to develop. The problem is that we don’t stop and take the time to make them.
+
+There are a couple of reasons that I know of, that we don’t do this:
+
+Laziness
+Not enough time
+If laziness is the issue with you not making comments in your Sass, then I don’t know how much I can help you besides telling you … stop it!
+
+Now that we got that over with… let’s talk about the other one: not enough time.
+
+Not Enough Time
+
+One thing that I have noticed when developers are not writing comments, is that they are worried about the time they have to work with. While that is an understandable concern, I think that it is a wrong mindset to have. In fact I would say (pardon my double negative) that we do not have time NOT to leave comments.
+
+The reason I am so bodacious and direct about this is that when we don’t leave comments, we are setting our code up for a number of problems:
+
+We make it harder to scale
+We make it harder to understand
+We make it harder to edit in the future
+We make it easier to create unorganized code
+We make it easier to create bloated code
+We make it easier to cause frustration in team members
+I don’t know about you, but that list alone is enough to make me want to make comments.
+
+The reason that comments are so integral to all these things is because they help us organize our code, make us think about that code that we are writing, and make things clearer for other developers.
+
+They Help Us Organize Our Code
+
+I think this is probably one of the most obvious benefits of writing comments. By writing comments it helps us keep our markup clean and concise. It allows us to annotate when classes and selectors end. It allows us to explain certain decisions we make while creating our markup. It allows us to group different classes and selectors together. It allows us to keep things tidy.
+
+But why is all that important?
+
+It’s important because the more organized and clear our code is, the easier it is to scale. The reason this is, is because we can actually see and find the markup we need.
+
+Trying to sift through Sass that does not have comments, is one of the most annoying things ever. Sure there are things like css maps that allow us to see what lines of code we are actually after in our Sass files to edit. Even with that, it is a pain in the arse to deal. Since it is such a pain, we often times become negligent and just write the properties we are trying to define off in their own little world.
+
+This can all be fixed by just writing comments.
+
+They Make Us Think
+
+The reason that comments make us think about what we are doing, is because they take us out of implementation mode, and they put us into reflection mode. Often times when we are developing we can get caught away with the task at hand. While this approach often makes us feel like we are being the most productive, it does not lead to the best markup.
+
+By stopping and making comments, we don’t only stop to write them, we stop to look at our code. This process allows us to question the decisions we are making when writing Sass. Some questions that it allows us to ask is:
+
+Are we nesting our classes to deep?
+Are there any patterns that we see that can be replaced by extends or mixins?
+How well are we doing at writing modular code?
+Is there a better way to do what we are doing?
+These are super important questions that we must continually be reflecting on. Comments help foster these questions into existence.
+
+They Make Things Clearer for Other Developers
+
+While none of us want to admit it, there is a big chance that we are not going to be the last one to touch our Sass files. Whether it be other team members, clients, or agencies, someone else is most likely going to touch our code. Due to this, I say let’s not be the jerks that make it super difficult to work with.
+
+Comments are one of the best ways to help ease this process. They allow things to be said to other developers that we might not be able to do in person. It stops other developers from just adding extra css to the end of a file because they are in a rush and don’t have time to sift through unorganized rubbish. It helps them understand the decisions we have made.
+
+Stop and Make a Comment
+
+All of this is to say … stop and make a comment. It will help you. It will help your team. It will help your company. It will help all of us.
+
+Here’s to leaving comments. Here’s to a better web.
