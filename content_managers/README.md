@@ -1089,3 +1089,96 @@ If you’ve worked on a project that organized structure work first, what advant
 If you’re a writer, does creating copy within a content model free or stifle your best work? If you prefer to start with editorial rewrites, what are the hidden benefits for the structural side of the project?
 
 I believe there are real benefits to taking a structure-first approach to organizing content activities, and I’d love to hear how and if that works for your projects as well.
+
+
+
+Never before in history has sending messages been as fast and broad as it is today. In an instant, you can message millions of people. Because of this fast paced message sending and receiving, there is little room for baloney. 
+
+Welcome to microcopy. Due to today's increased rate of messaging, people are now scan text for the take away -- the key points of action. 
+
+With microcopy, you can let people know what they need to know, and make sure they stay engaged with your page.
+
+Here's my definition of microcopy:
+
+Microcopy clearly communicates a unique message that keeps a user engaged in an experience while using as little words as possible.
+
+I use the word unique because writing microcopy is more than just instructional guidance; microcopy takes a call to action and frames it within the context of your business. Writing microcopy uses words in the message that are relevant to the user's culture, so they can become familiar with the instructional or informational microcopy.
+
+You see microcopy used in the following places:
+
+The footer's copywrite claim
+Loading screens
+Calls to action
+Form Instructions
+Thank yous/Confirmations
+Error messages/404's
+So Why is Microcopy Important?
+
+Imagine you're a guy taking a girl out on a dinner date.
+
+The product in this situation is you (I realize you're not an object, but bear with me).
+
+:-)
+
+Your outfit is the copy. You spent time getting all spiffy in order to present yourself well. 
+
+The thing you do to surprise her, like bring her roses or take her someone special after dinner, is part of the whole dating process. These are your headlines, subheads, transitions, and so on. 
+
+Now, let's talk about the subtle things you do, like opening up the door, pulling out her chair, complimenting her on something unique. This is microcopy. It's when you can communicate in short messages and lead someone toward a goal. 
+
+You've done a good job selling your product. 
+
+Congratulations. 
+
+By providing short "queues" of information, you keep a person engaged with the things you want to keep them engaged in. 
+
+Here's a way to write better microcopy.
+
+Create a Dialog
+
+People fail at microcopy when they treat people like pegs on a board. Users are people who want to trust you and use your product. 
+
+One of the ways to respect your user is to create a cleaner line of communication with them. You can do this by being suggestive instead of authoritative with your microcopy. For example, let's say you are writing microcopy on a form. Let's be honest, forms are boring. Going to the DMV or any other place where you have to fill out a form isn't exactly something to look forward to. But forms be slightly more interesting if they use microcopy that creates a dialog, rather than a one way form of communication.
+
+One way to create a dialog in forms is to ask questions instead of using authoritative statements. You can use "What is your name?" instead of "INPUT NAME HERE". You can use "What do you do?" instead of "INSERT JOB TITLE HERE". And lastly, you use "All Done?" as a submit button instead of "SUBMIT".
+
+Keep it Simple
+
+Keeping it simple is my favorite writing rule. And just because you keep it simple, it doesn't mean that it lacks depth. Take for example this six word story by Hemingway:
+
+For sale: baby shoes, never worn
+
+In as little as six words, your mind starts to think about what has happened. Writing microcopy for your business works well when you communicate effectively while using a small number of words.
+
+Here are some things that you should consider when it comes to writing better microcopy for your business
+
+If you can't describe your business in a tweet (140 characters), reconsider your business.
+If you can't summarize what your business does in 10 seconds, reconsider your business.
+And most importantly, when it comes to microcopy on your site, if you can't explain what you want the user to do at any point in your site in eight words or less, reconsider the design. 
+Writing effective and simple microcopy is about using it microcopy as a guide, not a guidebook. You want the microcopy to take you from place to place, not bombard you with too much information.
+
+Keep it in Sync
+
+One of the ways microcopy differs from site to site is it will use certain branding elements. Keeping microcopy in sync means that you should follow the brand's theme in the microcopy whenever possible, but you should keep in mind that it's important not to get too carried away. While writing branded microcopy is fun, you have to remember microcopy serves a higher goal.
+
+Places where you want to avoid over-branded microcopy:
+
+Navigation,
+Forms and Field Labels
+Instructions
+Selections (drop-downs, radio buttons, etc.)
+Buttons.
+Places where you can have fun with branded microcopy:
+
+Confirmations
+Rewards (points, etc.)
+404 Pages
+Server Errors
+Error Messaging
+Wrapping Up
+
+Having effective microcopy is just as important to your business as any other part of the copy. 
+
+When adding branding or humor into your microcopy, you are taking a risk. Too much branding/humor can make you appear as someone that doesn't their business seriously. A little is okay, but don't overdo it. If you decide to dress up your microcopy, understand that it may not please everyone.
+
+If you liked this post, join my email list so I can send you more. 
