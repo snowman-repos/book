@@ -151,3 +151,80 @@ You need to assess every opportunity careful in terms of your individual goals. 
 The great thing about the working with the web is that it's pretty low-risk these days. It's fairly easy to find work no matter where you live - if you don't live in a big city or tech hub then all you need is an internet connection and you can work remotely. You can afford to join a company and leave soon afterwards if you find it unsuitable. Just learn from the experience and try and think of ways to avoid making the same mistake again.
 
 Another part of the job-search than you need to be particularly critical of is interviews. Remember that when invited for an interview you are interviewing the interviewer or the company just as much as they are interviewing you. Again, if you think the interview process is weak then it suggests that the company's HR is weak; they don't care much about who they hire and they've probably not hired the best people or the kind of people you want to work with and learn from. If they focus on your academic credentials, give you some crappy little test, or just ask you generic interview questions like “where do you see yourself in 10 years?”, “what are your strengths and weaknesses” etc., just walk away.
+
+
+
+On being overwhelmed with our fast paced industry | Wes Bos
+wesbos.com · May 26, 2015
+Web tooling is changing at an extremely rapid pace right now and there is a sense of exhaustion, being overwhelmed and anxiety of becoming out of date. “Why is this stuff moving so fast?” cry the developers.
+
+Artboard 1
+Artboard 1
+JavaScript var is dead? We should use ES2015 let and const now?
+
+CSS is getting variables, nesting, scoping and custom selectors. Preprocessors like Sass and Stylus are dead, long live PostCSS.
+
+Just learned Grunt? Oh you should use Gulp – wait no, Webpack.
+
+Still laying out your sites using floats like a sucker? Flexbox is here!
+
+Just built a project using protocol relative // – that’s an anti-pattern now. Oh and jQuery .hide() is bad for performance, so cut that out.
+
+Finally dipping your toes in Angular? Oh, it’s totally changing in 2.0. Wait, shouldn’t you be using React? Haven’t you heard of Aurelia or JSBlocks?
+
+Whenever a new framework, tool or technique comes out, I hear more groans than celebrations.
+
+How are we supposed to get any work done when everything keeps changing?
+It’s going to keep changing
+
+It’s human nature to resist change, and it’s kind of a hard pill to swallow for some. Working on the web means that things change really quickly. We’re never to to settle on a technology stack and hang it out – we will always see innovation, people pushing the envelope on both what is possible and the best way to get things done.
+
+. @wesbos the web is just one big Agile process. There is no big reveal. We just keep iterating.
+
+— Micah Godbolt (@micahgodbolt) May 26, 2015
+It’s not really changing that fast
+
+What you see on twitter, HackerNews and in your newsletters isn’t necessarily what everyone is using. Companies make multi-year investments in technology and will stick to their stack for quite some time. So as much as you think that everyone scraps their current setup for a shiny new framework every 6 months, it isn’t the case at all.
+
+Would you guess that Spotify is built with LESS? Or TweetDeck is highly reliant on jQuery. Yuck, right? No – those were the technologies that were evaluated at the time. There are better options now, but it’s not causing their app to crash or business to fail.
+
+Wait it out and Evaluate
+
+Am I going to drop my JavaScript framework for JSBlocks today? No way! Am I going to keep my ear to the ground and see how people like it? Absolutely. We have all been burned by picking up technologies when they are too early, and it’s important to watch out for that.
+
+At JSConf two years ago, I was there when Facebook introduced React.js and they got laughed off the stage because they thought the idea of markup in your JS was ridiculous. Now I’m starting to swap my beloved Angular.js out for React.js. I waited for the community as a whole to test and embrace it. It’s at a point now where enough people I trust are using it, not because it’s new and cool, but because it’s the right tool for the job.
+
+I sure am glad that facebook decided to put out React.js and push how we think about these frameworks. We had Angular and Backbone at the time, and many would have said we had enough frameworks.
+
+Same goes for PostCSS – it’s a pretty new idea to ditch your Sass for PostCSS and CSS Next. Should you do today? Probably not. Should you keep your ears open and see if momentum for transpiled CSS picks up? Yes yes yes.
+
+Just Build Websites
+
+Making stuff is how you get better, so just build websites.
+In the wise words of Chris Coyier, just build websites. Don’t get me wrong, what you use to build them is really, really important, but it’s even more important to actually be continually building things and improving on your skill. That is how you get better, just do a lot of work.
+
+As you get better, these new frameworks and tools become way less daunting and the anxiety caused by things moving too fast will subside because you know that you can easily pick it up in a day or two.
+
+So how?
+
+So – to sum this up. Things are always going to change and that is fantastic news for our industry. You won’t become obsolete overnight if you keep your ear to the ground, honestly evaluate new technology and never stop building stuff. Here are a few tips:
+
+Newsletters
+
+Subscribe to weekly newsletters that give you a high level overview of what is new. Peter Cooper runs some of the best ones around. Take 5 minutes a week to read over the list – no need to click through to every link but keep tabs on what you keep hearing over and over. Chances are that if you hear about something every week, it’s starting to gain traction.
+
+Side Projects
+
+ABC – always be coding. If your work doesn’t allow you to try new things as frequently as you like, have a side project that you are invested in. You can use this to try out new tech you otherwise might not be able to.
+
+One New thing
+
+If you do regularly start new projects, make it a point to try one new thing in every project. It might just be trying Flexbox on a smaller part of a site, but you are making progress.
+
+Self Improvement
+
+There is a wealth of information out there and you should take advantage of it. Whether it’s taking a class at something like HackerYou, watching some free tutorial videos (like http://CommandLinePowerUser.com), or reading a book from someone in the industry (hint: https://SublimeTextBook.com), you should make a point to dedicate a few hours every week to self-improvement. You picked this industry, so it’s your responsibility to keep up.
+
+That’s it, That’s all
+
+TLDR; Yes our industry moves quickly, but that is because it’s getting better and better. If you are always iterating on your skillset in small ways, you will be just fine – don’t worry
