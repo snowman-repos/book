@@ -1186,3 +1186,403 @@ That’s not to say things can’t change. But establishing a design system now 
 As someone who helps organizations do better work, I’m absolutely thrilled to see more people embrace style guides as an effective way to create and maintain resilient design systems. If you have questions or are interested in a workshop about style guides and more, please do get in touch.
 
 
+Viewport sized typography with minimum and maximum sizes
+eduardoboucas.com · June 18, 2015
+Viewport units for typography are quite a cool toy to have in your responsive web design toolbox, as they allow you to size fonts relatively to the dimensions of the viewport. If you’ve never used them before, Chris Coyier’s article is probably a good place to start.
+
+These units can produce really interesting results, but they must be used with caution. From my experience, there’s always a point where the font becomes unreadable on small screens, and sometimes too big on large screens. I end up setting a couple of media queries to set some boundaries on where the viewport units kick in.
+
+As a result, I created a Sass mixin that abstracts what I wish you could more naturally in CSS: specify a minimum and a maximum size for the font while still using viewport based units. The mixin takes the viewport based size, a minimum value (in pixels), an optional maximum value (in pixels as well) and an optional fallback value, in whatever units you prefer, for browsers that don’t support viewport units.
+
+ 1 ///
+ 2 /// Viewport sized typography with minimum and maximum values
+ 3 ///
+ 4 /// @author Eduardo Boucas (@eduardoboucas)
+ 5 ///
+ 6 /// @param {Number}   $responsive  - Viewport-based size
+ 7 /// @param {Number}   $min         - Minimum font size (px)
+ 8 /// @param {Number}   $max         - Maximum font size (px)
+ 9 ///                                  (optional)
+10 /// @param {Number}   $fallback    - Fallback for viewport-
+11 ///                                  based units (optional)
+12 ///
+13 /// @example scss - 5vw font size (with 50px fallback), 
+14 ///                 minumum of 35px and maximum of 150px
+15 ///  @include responsive-font(5vw, 35px, 150px, 50px);
+16 ///
+17 @mixin responsive-font($responsive, $min, $max: false, $fallback: false) {
+18   $responsive-unitless: $responsive / ($responsive - $responsive + 1);
+19   $dimension: if(unit($responsive) == 'vh', 'height', 'width');
+20   $min-breakpoint: $min / $responsive-unitless * 100;
+21   
+22   @media (max-#{$dimension}: #{$min-breakpoint}) {
+23     font-size: $min;
+24   }
+25   
+26   @if $max {
+27     $max-breakpoint: $max / $responsive-unitless * 100;
+28     
+29     @media (min-#{$dimension}: #{$max-breakpoint}) {
+30       font-size: $max;
+31     }
+32   }
+33   
+34   @if $fallback {
+35     font-size: $fallback;
+36   }
+37   
+38   font-size: $responsive;
+39 }
+Caveat: vw or vh units work, vmin or vmax don’t.
+
+
+
+An Introduction to Mobile-First Media Queries
+sitepoint.com · May 6, 2015
+ New RelicMake your software run better, and look better (with a free nerdiffic t-shirt!) in the process. Yes, please x
+ New RelicGive your software the love it needs. And we’ll give you the new t-shirt you need. Create free account x
+HTML & CSS
+
+There is no denying the influence of responsive approaches in our design and implementation efforts. What was once new and unknown is now the assumed standard. When I started down the path of understanding the impact of responsive web design, I had an easy time finding out how to do something with media queries, but I had a harder time finding out why I should do it a certain way. This article is an attempt to remedy this situation.
+
+My intent is that it will serve as a helpful introduction for those of you attempting to understand the massive implications of the mobile-first approach and for those more experienced with the approach it can serve as a good refresher.
+
+I will focus on the details of writing mobile-first media queries, and this will also include why we should do this and close with guidance for starting out. However, first we should look at some important distinctions in the phrase “mobile-first”.
+
+Shades of Mobile-First
+
+It is important for our discussion to distinguish that “mobile-first” has two distinct senses. Some might see this as unnecessary, but for the guidance I will share at the end of the article it is important.
+
+Many are familiar with the philosophical approach put forth by Luke Wroblewski in his book entitled Mobile First. Luke writes about the design advantages of a mobile-first strategy, the biggest impact being the imposed constraints of mobile devices that force us to focus on the essentials. He also talks about how mobile devices have capabilities that allow us to enhance the experience (e.g. GPS, accelerometer, etc.). This is what I will refer to as mobile-first design.
+
+However, this is not the only sense, and this article will focus on the second sense. The second sense I will refer to as mobile-first implementation. This uses the technical tenets of responsive design, as coined by Ethan Marcotte. This means that when we actually implement the interface (prototype or production), we start out designing at the smallest viewport possible (which we will call a “mobile viewport,” but someday this might be “watch viewport” as the smallest) and we then progressively add styles and sometimes other enhancements as the viewport increases.
+
+Let’s now look at the how and the benefits of mobile-first media queries.
+
+Creating Mobile-First Media Queries
+
+Rather than explaining all the ins and outs of media queries in this section, I want to focus specifically on how the technique is technically accomplished. Let’s look at two different media queries and dissect their implementation. Please note that I’m keeping this simple so I will avoid any specific class naming structure or style.
+
+12345678910111213141516
+.sidebar {
+  float: left;
+  width: 25%;
+} 
+.content {
+  float: left;
+  width: 75%;
+} 
+@media (max-width: 40em) {
+  .sidebar, .content {
+     float: none;
+     width: auto;
+  }}
+You can see this simple example at work in this CodePen demo. Resize the window to see the change take place.
+
+In this sample, I have two elements that are using floats so that they are lined up horizontally, and I have percentage-based widths on both of them. Then I have a media query breakpoint where the floats are disabled and the width is restored to full width using the “auto” value.
+
+What are the problems with this approach?
+
+It forces us to “undo” styles through our media queries. This is not an efficient approach to managing your styles, but we should instead be adding styles.
+Our original float styles go against the natural flow of HTML elements. Block elements naturally clear on the top and bottom and flow at 100%, so the “undo” styles are merely declaring explicitly what the elements already do naturally.
+This does not allow us to embrace the same constraints that we may have used in our mobile-first design. We essentially are going in two different philosophical directions.
+You can usually spot the implementations that start at large viewports and go down by the presence of “max-width” in the media queries. This is not always the case, but it is usually a pretty strong indicator. Now let’s look at another example:
+
+1234567891011
+@media (min-width: 40em) {
+  .sidebar {
+     float: left;
+     width: 25%;
+  } 
+  .content {
+     float: left;
+     width: 75%;
+  }}
+Now let’s look at the advantages of this model, which are really the opposite of the problems we started with above (a demonstration of this is on CodePen as well).
+
+Instead of undoing the floats as we go down, we only need to add the floats when we need them. This reduces a lot of unnecessary CSS.
+In this instance we are taking what HTML gives us by default and not going against it unnecessarily. By default, browsers us give us what we want and need in smaller viewport so we utilize those defaults (i.e. block elements are set to width: auto by default).
+Using this method we are philosophically on the same page of our mobile-first design.
+Source Ordering: A More Complex Example
+
+The example above is very simple and on purpose, but let’s look at a more complex example. One of the first things you will learn about and have to deal with is the problem of DOM source ordering.
+
+Source ordering refers to how a document is rendered as a result of the DOM structure. The DOM renders top to bottom, and until the advent of flexbox we didn’t have a pure CSS method to decouple rendering from source order. Even though flexbox is exciting, we will never get away from considering source order as we create responsive interfaces.
+
+In this third CodePen example you can see priority highlighted from left to right.
+
+Source ordering is a very important concept to understand as you move into responsive web design. From the example above you can see when the viewport dips below 40em the most important content (labeled “first priority”) is on top. This is what we want to happen given the importance of limited space in small viewports.
+
+Now you could get something similar in the desktop-down implementation, but what I’ve seen people do is fall into old tendencies of not thinking first about the importance of source ordering. Mobile-first design and implementation makes it an inescapable reality, and when these are paired together the result is a powerful solution. Then technologies like flexbox can be used as an enhancement when needed if the need to change the rendering order exists.
+
+A Couple More Advantages
+
+The mobile-first code above is a great example of responsible implementation through progressive enhancement. It is important to note that there are still old mobile browsers that do not support media queries, and it is helpful that they will receive the smaller viewport layout. There are other browsers that have issues with media queries, most importantly IE8 and below. You can polyfill media queries, or use a preprocessor solution.
+
+Brad Frost on the advantages of mobile-first
+Mobile-First implementation is more efficient and future-friendly (Image credit)
+
+There is another important benefit to structure our media queries in this way, and that is performance. Tim Kadlec has done the research to show that using media queries in this manner can avoid unnecessary downloads. So, for instance, if you wanted to add a background image only at larger viewports or even swap out a smaller for a larger one, you save downloads and loading time. If I were to add an image to my sidebar in the example above, it would download and show up only when the viewport reaches at least 40em.
+
+Manage Your Media Queries with Sass
+
+Before I conclude, I recommend that you use a preprocessor to help you manage your media queries. There are countless options and even preprocessor syntaxes for handling this (Sass, Less, Stylus). I prefer a simpler approach and Chris Coyier has demonstrated a Sass mixin that I use in my projects. I will update it to use my preferred language.
+
+12345678910111213
+@mixin mquery($size) {
+  if $size == small {
+    @media (min-width: 30em) {
+      @content;
+    }  } 
+  else if $size == medium {
+    @media (min-width: 40em) {
+      @content;      
+    }  }}
+Then we can reference it this way.
+
+12345
+.sidebar, .content {
+  @include mquery(medium) {
+    float: left;
+  }}
+This is great because we can centrally control our media query values, and we can always see how our elements are changing throughout all of our media queries. It used to bother me that my compiled CSS output contained repetitive media query syntax, but with minification and GZIP it is not a big increase. If it really bothers you and you use Grunt then Grunt can combine your media queries after the Sass processing.
+
+Conclusion
+
+When you are ready to go further in your reading and studies, start with 7 Habits of Highly Effective Media Queries, a great post by Brad Frost.
+
+This article was meant to be a quick primer on the definitions, approach, and benefits to using mobile-first media queries. I wish you all the best as you continue to grow and embrace these new and exciting approaches that help better serve our clients and customers.
+
+
+
+3 responsive design disasters (and how to avoid them)
+webdesignerdepot.com
+Responsive design methods are very helpful to developers because they allow us to serve content to the widest range of devices without having to maintain separate versions of the site and without some of the negative drawbacks to other methods such as scaling and fluid layouts.
+
+This article will highlight the top 3 mistakes designers encounter with responsive designs, and will provide some strategies for avoiding these mistakes.
+
+ 
+
+Scaling vs. fluid vs. responsive
+
+There is a lot of confusion over these terms and designers often incorrectly use them interchangeably. In truth, each of these are distinct evolutionary steps in layout technique that have emerged over time in line with advances in technology.
+
+Scaling layouts are designed to scale every element relative to every other element. They are responsive in the sense that they will scale the content dynamically in response to changes in the size of the viewport. The layout itself remains static, changing the size of every element to maintain a consistent appearance.
+
+scale
+Above: example of a scaling layout at different resolutions: the design sacrifices readability for consistency.
+
+Fluid layouts are different because they scale container elements relative to the size of the viewport. This is achieved by using relative units such as ems to overcome the problem of shrinking text. The design can be broken by the user scaling it.
+
+fluid
+Above: example of a fluid layout at different resolutions: the design sacrifices consistency for readability.
+
+Responsive layouts don’t scale anything. Instead, they change what is displayed depending on the size of the viewport.
+
+responsive
+Above: an example of a responsive layout at different resolutions.
+
+ 
+
+Disaster 1) Wrapping menus
+
+If you use a navbar at the top of your page, a responsive design is supposed to “snap” it to a more compact format when the page is displayed on a small screen. But this does not always work perfectly if the display area is wider than the break point, but too small to display all the menu items in a single line. The result is a menu that wraps.
+
+wrap_menu
+There are several ways to solve this problem. The first is to reduce the number of items displayed horizontally on the navbar by sorting them into categories and sub-categories. You can then use drop-down items to display the sub-categories when a category is selected.
+
+The second way is to change the break point to a lower value. The actual number to use is the width at which your navbar starts to fail, not a specific device size.
+
+The third way is to use a different menu for devices, such as a sliding drawer.
+
+ 
+
+Disaster 2) Using fixed width images
+
+Content areas are usually set to a size relative to the viewport. So when a fixed-width image is wider than the size of the area, image cropping occurs.
+
+scroll
+Above: example of a bad fixed-width image that is too large: now it has scroll bars and content is pushed off-screen.
+
+You can avoid this problem by using relative units to set the width of the image, or if you use a framework that supports it (such as Bootstrap) you can use a responsive image class (eg: class=”img-responsive”).
+
+resize
+Above: The same element with a responsive image class approach: now scroll bar is gone.
+
+ 
+
+Disaster 3) Element distortion
+
+This one is a bit more obscure, but essentially what happens when your layout is displayed on a small viewport is that any unhandled columns behave like rows. This is a problem because the distortion of the content unintentionally changes the hierarchy of your design.
+
+wrap
+Above: column becomes a row, distorting content.
+
+The solution is obvious, yet it is surprising how many people struggle with it: simply set the height, width, and padding of the element explicitly. If it moves out of position and covers other elements, you can force it to be where you want by wrapping it in a div and setting margins.
+
+ 
+
+Planning helps avoid mistakes
+
+This article has discussed only the 3 most commonly encountered responsive design disasters, but there are plenty of other ways for a good design to go wrong. Preventing errors is not too difficult. Modern browsers have built-in responsive layout testing, so plan your design well and test often.
+
+
+
+Where Style Guides Fit Into Process | CSS-Tricks
+css-tricks.com
+Published April 20, 2015 by Chris Coyier
+
+<![CDATA[ div.bsap_1279518{width:100%;display:block;}div.bsap_1279518 a{width:200px;}div.bsap_1279518 a img{padding:0;}div.bsap_1279518 a em{font-style:normal;}div.bsap_1279518 a{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:0 4px 10px 0;text-align:center;text-decoration:none;overflow:hidden;float:left;} div.bsap_1279518 img{border:0;clear:right;} div.bsap_1279518 a.adhere{color:#666;font-weight:bold;font-size:12px;border:1px solid #ccc;background:#e7e7e7;text-align:center;} div.bsap_1279518 a.adhere:hover{border:1px solid #999;background:#ddd;color:#333;}div.bsap_1279518 a{line-height:100%;}div.bsap_1279518 a.adhere{width:200px;height:200px;line-height:1600%;}html>body div.bsap_1279518 a.adhere{width:198px;height:198px;}div.bsap_1279518 img.s{height:0;width:0;} ]]> 
+Brad Frost was showing me some slides from one of his talks recently. He had some graphics that demonstrated different approaches to where a style guide can fit into a team’s process. As you might imagine, it’s a matter of just having one or not that will determine its effectiveness.
+
+I thought I would attempt to explain my own thoughts on these approaches based on my own experiences.
+
+
+The Sidelines
+
+
+Or maybe we could call it the “after the fact” model. The idea is that you have a Style Guide, but it’s this separate thing that exists outside of the actual process. You have to maintain and update it separately. Changes to the site aren’t reflected in the Style Guide unless you take the time to do that. Changes to the Style Guide aren’t reflected in the site unless you do that.
+
+Useful as a reference, mayyyybe. I’ve worked on a Style Guide like this. It was slow to gain any use at all and was quick to be abandoned.
+
+The Dictator
+
+
+In this approach, the Style Guide is the law. Nothing goes into production that isn’t a part of the Style Guide. If something is needed on the site, it is integrated into the Style Guide then is available for use on the site.
+
+Adoption of the Style Guide, of course, is high because it has to be. Everything is documented. Those are potentially good things. This is also potentially frustrating - the process can be slower, which is sad since speed is a big reason to use a Style Guide in the first place.
+
+There is also a danger that you’re “designing a Style Guide”, not “designing a website”.
+
+The Hippie Colony
+
+
+Everything is connected, man. The Style Guide builds the website, but the website builds the Style Guide as well. It’s just one set of assets, packaged up in different ways. One way looks like a Style Guide, one way looks like a website.
+
+This can be nice, as you could work on either one and have the changes reflected in both. The only potential danger here is that it might be too good to be true. Discussions might become disjointed. The Style Guide might not stay as updated as you might assume it would.
+
+The Exhaust
+
+
+In this model, you generally work on the site itself. The Style Guide is built from production assets. It essentially becomes part of testing. “Does the Style Guide still look correct and cohesive after these changes?” The potential danger of this method is that people stop caring about the guide because of its placement at the end of the process.
+
+The CodePen Style Guide is a bit like this, but I’m hoping to make it more hippie-like.
+
+The Answer
+
+Never is one, I’m afraid.
+
+For a bunch more information, check out StyleGuides.io and Brad Frost and Anna Debenham’s podcast.
+
+
+
+
+Mobile-first is a great workflow | Donny Wals
+blog.donnywals.com · March 18, 2015
+One of the first questions a client might ask you when you start talking about his new website site is “Will it be responsive?”. And the answer to that question will more often than not be “Yes, it will”. Especially now that Google will penalize websites that aren’t mobile friendly it’s important that you make sure that your site works well on mobile devices. How do you approach responsive webdesign in a good way? Even though I am not a designer I’d say mobile-first.
+
+Different approaches to responsive web design
+
+When you’re doing a responsive webdesign there’s a couple of ways to do it. Some people use Photoshop and design three different versions of their website, one for mobile phones, one for tablets and one for the desktop. Others just make one of these three and design the rest during development in the browser.
+
+If you only design one of the three big options, which one should it be? And when you start to build the website, where do you start? Do you do the desktop version first since it’s easier for you as a developer? Or do you start with the tablet version because it’s in the middle of the spectrum? Or do you let the client decide and start with the one that makes them the happiest?
+
+These are just a few of the options you have when you’re doing responsive web design, there isn’t a way that is forced upon you by anybody and you’re free to choose whatever you feel is most efficient. But in practice there seems to be one approach in the development phase that works every time for me. That approach is mobile-first.
+
+What is mobile-first?
+
+Mobile-first means exactly what you probably think it means, it’s when you start your process with the mobile phone. Ideally you will start both the design and the development phase by thinking about mobile straight away. My experience is, however, that clients prefer to see designs for how the website will look on a big screen with all the bells and whistles you might add. So designers tend to not really work from a mobile first perspective because they focus on what the client likes to see. This probably doesn’t apply to every designer and every client but it does apply to most designers and clients I’ve worked with.
+
+When you enter the development phase, the approach you take is in your hands, you can decide where to start. And deciding to start mobile first isn’t just a matter of preference. There are very valid reasons to approach the development phase from a mobile-first perspective.
+
+Why mobile-first?
+
+When you are building a responsive website there’s a lot of things to consider, how does this look on a screen that is X wide? Should module Y be visible on that screen? Thinking about everything for every screen is overwhelming, there’s so much going on and you get so little for free when you’re building a website. So you’re going to have to start somewhere and I prefer that somewhere to be the smallest screen I will develop for.
+
+Constraints
+
+A mobile phone is not only the smallest, but also the most constraint and possibly even the most used device that people use to browse your website with. Obviously this doesn’t apply to every website in the world but do not underestimate the amount of mobile browsing people do. Because of these factors it makes sense to first perfect the browsing experience on the small screens.
+
+And since it’s also the most constrained browsing experience you will have to focus on the parts of your app that really matter to your users. This will make sure that you don’t just add a lot of noise because it might look cool or pretty.
+
+Development speed
+
+If you’ve made a responsive website before from a desktop first approach you probably noticed that you had to ‘undo’ a lot of your styling and scripting. I’d like to illustrate this with a little bit of code. The code will take an unsorted list and turn it into a nice navigation bar for the desktop view. On mobile the list will be shown as a list.
+
+123456789101112131415	.nav-list{list-style:none;margin:0;}.nav-listli{padding:0;display:inline-block;}@media(max-width:600px){.nav-listli{display:list-item;}}
+Do you notice how we first set .nav-list li to a non-default value, inline-block and then on screens smaller than 600 pixels we set .nav-list li back to it’s default value. Let’s rewrite this from a mobile-first perspective.
+
+1234567891011121314	.nav-list{list-style:none;margin:0;}.nav-listli{padding:0;}@media(min-width:600px){.nav-listli{display:inline-block;}}
+This is a small example so the difference isn’t dramatic but the implications are significant. Instead of adding and removing styles we are simply adding more styles when the screen is at least 600 pixels wide. By taking this approach it’s much more clear what’s going on and it’s also harder to make mistakes.
+
+With the navigation list example in mind, imagine that we want to add a border and some padding to the list items, but only for the desktop view. Let’s compare both approaches again, shall we?
+
+desktop first
+
+1234567891011121314151617181920	.nav-list{list-style:none;margin:0;}.nav-listli{padding:1em;border:1pxsolid#333;border-radius:.5em;display:inline-block;}@media(max-width:600px){.nav-listli{display:list-item;padding:0;border:none;border-radius:0;}}
+mobile first
+
+1234567891011121314151617	.nav-list{list-style:none;margin:0;}.nav-listli{padding:0;}@media(min-width:600px){.nav-listli{display:inline-block;padding:1em;border:1pxsolid#333;border-radius:.5em;}}
+As you can see the mobile first approach is a lot cleaner. Not only is it cleaner, it’s also safer. We don’t have to worry about resetting certain styles back to their defaults like we have to in our desktop-first approach.
+
+Of course you still have to keep an eye out for cascading accidents because sometimes you set something for mobile that will have to be reset for your desktop view. But in my experience this happens a lot less often with mobile-first than it does with desktop-first.
+
+Adding javascript is easier than removing it
+
+I just showed you that when it comes to css it’s a lot easier to stack on more styles than it is to reset them to defaults for mobile. The same applies for javascript. I usually find myself initializing a lot less (complex) modules for mobile. When you take a mobile-first approach with this you will not initialize certain things at first. Once you know that you’re on a large screen machine you can start initializing your larger, more complex modules that are intended for desktop use.
+
+Not only is it easier to initialize things when you know you need them, it’s also a lot faster. Imagine executing some heavy javascript on a mobile phone only to find out that the module won’t even be used because the target elements are hidden. That’s a waste of precious resources that you might have used to get your page up and running on the device really quick.
+
+Conclusion
+
+In this post I explained to you what a mobile-first approach is from the perspective of a developer. I also showed you how this impacts the process of writing code. Going in mobile-first will prevent you from having to write a lot of ‘reset this to default’ css. It’s also easier for the javascript part of your application. You won’t initialize thing that you don’t need and this generally makes your pages render faster as well.
+
+I’m not saying that a desktop-first approach is worst in every case or scenario, I’m also not saying that the design process has to be mobile first. But thinking about the smallest most constrained devices does seem to result in faster and more focused websites. It also seems to lead to a more solid code base and happier developers.
+
+
+
+Clarifying The 80/20 Hybrid Approach to Designing in the Browser - Inspect Element
+inspectelement.com · by Tom Kenny · March 11, 2015
+You’re risking the quality of your design work if you rely solely on designing in the browser. That’s what I said when I wrote about a more appropriate approach to designing in the browser, called The 80/20 Hybrid Approach to Designing in the Browser:
+
+Unless you think and dream in HTML and CSS, designing in the browser puts an unnecessary barrier between your great design ideas and the most effective way you can actually design them. You can’t manipulate your design directly with code. The HTML and CSS code effectively acts as a middleman between your brain and your design work. Why would you want something getting in the way of that?
+Feedback
+
+I had some fantastic feedback about that article, with the vast majority finding it useful. However, I did spot a fairly well known front-end developer (who I hadn’t heard of at the time) call it a certain word I won’t repeat here. Despite me saying the approach might not work for everyone, he still decided to attack it. If another process works for you, great, but I’m not going to hate the way someone else does something just because I disagree. I welcome constructive criticism as long as it is, well, contructive, but attacking it and using hateful words is pathetic.
+
+I don’t want to link to it due to the foul language but I do want to pull out a few quotes because I don’t really think he understood what I was saying and it will help explain the approach to you too.
+
+“You don’t actually design in the browser”
+I’m sure you’ll agree that seems a bit odd so we’re not off to a good start. Apparently, it’s more about “creating browser-based design mockups/comps, as opposed to static comps” which is something you can absolutely do with the 80/20 approach. I didn’t say you can’t. You don’t have to show the client your static mockups. I’m just putting forward the idea that designing in the browser exclusively can harm the creative process. You can absolutely present your work to the client in the form of HTML and CSS if you wish but that’s a topic for another time.
+
+Creating browser-based design mockups isn’t designing in the browser, it’s presenting in the browser which are clearly two different things.
+
+“Creating comps like this puts many designers out of their comfort zones. Many feel they have to learn to code, or “think in HTML and CSS”. Those who know that isn’t true can still feel awkward pairing up with a developer to visualize designs. That said, I think that learning CSS can be a useful addition to a designer’s toolbox.”
+I completely agree that web designers should learn CSS as it makes us better understand the environment we design for. Coding knowledge is implied in the 80/20 approach because 20% of the creative process happens when building the site.
+
+“We sure do like our comfort zones”
+Comfort zones can be dangerous but there’s nothing wrong with staying in your comfort zone in some areas. If you can stick in your comfort zone with your process, it frees you up to expand out of your comfort zone in other, more important areas. Right now I’m learning how to deliver much more value than the average web designer through more than just design. I’m going out of my comfort zone by learning copywriting to help my clients with another aspect of their websites. Clients don’t really care about your process, they care about results.
+
+The next two points were placed under the headline “Flimsy Arguments”. Everything I write on Inspect Element has to be substantial, so I’ll tell you why he is wrong.
+
+“The author states that the desire to increase the speed of design and development is the driving force behind designing in the browser. While speed may be a factor, it’s arguably not the main factor, and certainly not the only one. More important, for example, is bridging the traditional gap between what the client sees in a comp versus the end result.”
+It’s fair to say people want to show clients their designs in the browser which is relatively simple to do if you know HTML and CSS. The real problem is how responsive web design adds a significant amount of time to the process. In my experience of talking to other designers and researching this myself, I’ve found that this is the biggest issue. Like I said earlier, you can present your work as HTML and CSS no matter what approach you take.
+
+“The author then proceeds to make the case for Photoshop instead of code (albeit with an 80/20 split). Nothing wrong with that, but the author’s personal experience with code yielding “dull” designs does not mean that code yields dull designs. It most likely means that the author tried getting into code too soon, or skipped sketching altogether, or is simply not as comfortable in code. I would agree that might not work out well. But in that case it’s the design process at fault, not the fact that code is used at all.”
+Code doesn’t necessarily yield dull design but it’s much harder to be creative with the barrier of code. Moving elements on a page and experimenting is so much easier and quicker in a dedicated design tool than in CSS. If working in CSS comes easier to you than in a tool like Photoshop, then that’s amazing and I really mean it because it’s difficult. If you can truly create better work that way then you’ve got a major advantage over other designers in terms of speed.
+
+It’s not just my personal experience. It’s also the experience of other designers I’ve spoken to. I’ve tried many ways to make designing in the browser work and I’m perfectly comfortable in CSS but I, along with other designers, have found greater success desining in a dedicated design tool first.
+
+“Code can support the creative process”
+Of course. In the 80/20 approach, code absolutely supports the creative process as you do about 20% of the creative work in CSS. In fact you can decide how much. The 80/20 isn’t set in stone.
+
+It’s All About You
+
+Luckily, I’m not trying to appeal to this one guy. The real goal of writing this follow up is to help you. I know it works extremely well for me and I know it also works for other designers, so hopefully this follow up helps clarify the approach so you can take it, or parts of it, and make it your own to create better work.
+
+Design Websites People Will Love
+
+Learn why the best designers make the decisions they do to design successful websites people love in this FREE eBook with three in-depth case studies. I’ve spent hours studying what makes these websites amazing, so you can use what works and focus on your design work. Subscribe now to get it immediately.
+
+
+
