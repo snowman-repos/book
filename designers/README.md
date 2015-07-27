@@ -2005,3 +2005,111 @@ How does each step further the goals of the project?
 Invite questions and discussion.
 
 
+Client Relationship Management: Ending the Client vs. Designer Feud
+thinkapps.com
+Designer Dragan Babic shares first-hand advice on client relationship management
+
+When it comes to graphic design, it seems like there’s an age-old conflict between designer and client. It’s an ever-present battle of opinions, a tug-of-war.
+
+Designers are hired as an essential part of the project, so why are their decisions so often challenged and even overruled by the client and other stakeholders?
+
+As many things in design often do, it all comes down to psychology and history, to an extent. And no matter how beautiful the finished product turns out, client relationships can make or break business for both parties.
+
+Here’s some advice on client relationship management that can help end the designer vs. client feud.
+
+Client Relationship Management - Find Your Strengths
+Client Relationship Management - Find Your Strengths
+Find Your Strengths
+
+In my experience as a designer, even though both parties share the same end goal, there is a significant gap in the approach each takes, as well as the journey to get there.
+
+Designers must get out of their own way
+
+The designer’s approach is all too often set by his or her strengths: deep knowledge of typography, color theory, art history, and a hefty dose of experience working on similar projects. These become the designer’s tools to solve the problem, but often the tools themselves become part of the problem he or she is trying to solve.
+
+Too often designers succumb to their own visions of grandeur, shifting their attention away from the real problem at hand and focusing instead on issues of composition, layout, or various interactions that they want to be perfect.
+
+Significant time can be spent — I am not using the word “wasted” on purpose, although that’s something a client might say — perfecting a design for design’s sake.
+
+This is partly due to the way designers are taught to do things, especially in school where design is practiced in a bubble, free of constraints known to the rest of us as deadlines and budget.
+
+Bring in the client early
+
+Instead of approaching the project as just another reason to flex their design muscles, designers should use their clients’ domain knowledge to aid their design process.
+
+Including the client early on in the design process can save a lot of time and effort and help bring success to the project.
+
+Play your hand strategically
+
+Of course, no two projects are the same, and sometimes the designer just needs to play the hand he or she is dealt.
+
+Once the opinions start clashing, it’s best that the designer take one of two roads:
+
+1. Educate the client about your process and insist on factual backup of all design decisions made on the project. If that fails …
+
+2. Try to go with the flow. The client clearly has his mind set on a certain way of doing things (i.e. their way or the highway), so it’s best to concentrate on just getting the job done.
+
+Client Relationship Management - Know Your Weaknesses
+Client Relationship Management - Know Your Weaknesses
+Know Your Weaknesses
+
+On the other hand, sometimes it seems like clients are willing to sabotage their own projects if it means that they’ll get the last word.
+
+They offer insistent opinions on color choices, typography, and many other things they know next to nothing about, which is, in fact, the reason they hired a designer in the first place.
+
+Here’s where psychology comes in:
+
+Your clients are scared. They’re scared that you don’t know what you’re doing and you are on their playground. They’re reluctant to let go of control because they’re not convinced that you will make the right decisions, so they grip the wheel even harder.
+
+It’s a reflex; try not to be offended by it.
+
+Now, obviously a designer will see this kind of direct, imperative feedback as a negative thing. And ultimately it is negative but to the project, not the designer personally. This is an important distinction to make.
+
+Difference between success and failure
+
+In my personal experience, the most successful projects were the ones where clients have challenged their designers, instead of locking up when they see an approach they’re not convinced will work and taking the wheel away.
+
+A client’s main job on a design project is to point to the right problems, explain them the best he or she can, and provide as much information as possible for the designer to solve them.
+
+There are two universal facts all failed or poorly executed projects have in common:
+
+1. Designers don’t do their research at all or they don’t do it thoroughly enough. Sometime the clients don’t enable them to.
+
+2. Designers and/or clients let personal preferences impact project-related decisions. All project efforts should be aimed toward success for the business, not for one individual.
+
+Client Relationship Management - Say Thank You
+Client Relationship Management - Say Thank You
+
+Two-Way Tips for Client Relationship Management
+
+Here are a few bits of advice that can help both the designer and the client get through a project without becoming each other’s arch nemeses.
+
+For Designers
+
+~ Know your stuff: Get to know the matter and don’t skip over the discovery phase. You don’t have to become an expert, but you need to know the basics of the industry and the people it affects.
+
+~ Aesthetics are important, but not more important than the ultimate usefulness of the product you’re working on.
+
+~ Use your client’s domain knowledge to your advantage.
+
+~ It’s not about you.
+
+For Clients
+
+~ Don’t skimp on the discovery phase budget. Enable your designer to get to know the industry they are dealing with and help them do it.
+
+~ Don’t propose solutions, expose the problems.
+
+~ Remember that you don’t know everything. Let the people you’ve hired do their job.
+
+~ Aesthetics will not make up for the shortcomings of your product. A pretty turd is still a turd, no way around it.
+
+~ It’s not about you.
+
+The Take-Away
+
+The fact is, we shouldn’t be thinking of client relationship management in terms of one vs. the other.
+
+The designers should be able to see their clients as an indispensable source of information and knowledge about the project, and conversely the clients should be able to find a trustworthy partner in the designers they hire.
+
+Can’t we all just get along?
