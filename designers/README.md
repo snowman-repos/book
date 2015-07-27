@@ -1586,3 +1586,422 @@ Learn why the best designers make the decisions they do to design successful web
 
 
 
+
+How to work with developers without losing your soul — Medium
+https://medium.com/ · by Order Group · July 21, 2015
+How to work with developers without losing your soul.
+
+
+
+It’s hard, but it’s possible.
+
+Order Group Team
+We begin a series of short articles, in which we will feel sorry for ourselves as designers (but not only!). We’ll describe how our team deals with the implementation of individual projects. We’ll show you solutions to problems we encountered during design phase and development of production. We will also share the backstage of projects creation, starting from the brief, through the preliminary sketches, unused / discarded versions, up until the final feedback from the customer.
+
+At the beginning we want to point out some quick tips on one of the most important part of our work — how not to go completely MAD in one room with a developer.
+
+
+
+A developer?
+
+
+
+When designing websites, apps or anything that requires code, each designer is at the mercy of the developer — the enigmatic man that everyone rumors about. Some of them supposedly haven’t seen daylight for several years, others haven’t changed their flannel shirts over the last season. We even heard of those who feed themselves through the process of photosynthesis from the monitor, slowly sipping blood of designers who had any remarks to their work.
+
+In short they are specialists in their field, appreciating the accuracy and meticulously planning of every project that is entrusted to them.
+
+
+
+What designers need to understand at the very beginning of cooperation with a developer is that the process of creation of things in graphic design and programming is not symmetrical — we can’t expect that our developer will take exactly the same amount of time as we (designers) will, in order to introduce amendments in the layout (although this often happens).
+
+
+What you should look for and what to remember when working with developers? Here is a list made by us with the most important points that make life easier for both parties.
+
+
+
+1. Speak the same language
+
+The biggest challenge is to develop a common language and nomenclature which will help you to avoid unnecessary misunderstandings.
+Usability, Sass, Less, Compass, Bootstrap grids, RWD, break points, generic header, hover, margin, padding, hex, etc.. If a programmer says something you don’t understand and you’re just nodding your head — it doesn’t bode well. Don’t assume that everything can be programmed — yes, it can — but often it is simply unprofitable and too time-consuming. It is better for both parties to consult the feasibility of one solution before starting to design.
+
+
+
+2. The devil’s in the detail
+
+
+
+By providing a ready project to a developer you have to be careful what you say. Even a small misunderstanding while working on a slideshow can be a nail in the coffin for good relations between the two of you. Speak with the maximum precision and consider all the possibilities — whether something in the project scales, if so, in which way, how do you want your slide title to look like if it will be longer than provided space, how pictures inside the boxes will crop if they’re too large / disproportionate etc.
+
+There are many factors that make a designer’s and developer’s vision for the project quite different, so your common interest is to develop an universal alphabet and ways how to verify design with implementation.
+
+
+
+3. The developer is not your enemy
+
+We don’t like when someone pries into our work — it’s enough when our clients impose on us their brilliant ideas that we need to pursue with a smile on our faces and pain in our hearts.
+When there is an extra factor — stress — we become unpleasant to the environment. What our developer can know about design?!
+
+From our experience we ascertain you that he can know something. Even more than just something. Use the knowledge and advice of your developer. Don’t worry if he wears sandals and socks. Swallow your pride. The look from a developer’s perspective as well as revision of proposed solutions often saves a lot of time, tears, and sweat.
+
+
+
+4. Follow the latest webdesign trends and build with “good bricks”
+
+
+
+There is nothing that helps us more in creating a modern and fashionable project as tracking news about trends in design. However, the mere knowledge on the latest trends is only half the battle. Remember that the developer must meet every whim of yours. Keep in mind that knowledge about what can be used in a project as a timesaver is incredibly valuable for the whole team. It is always worth verifying your ideas with already existing solutions. You can go ahead and check sites such as unheap.com, where you can find ready-to-use scripts that can be successfully adapted to your project, or if you are looking for some web elements inspiration try calltoidea.com
+
+
+
+5. Notify up to date on changes in the project
+
+
+
+Supposedly there will be a disaster and the client comes up with another genius idea and it’s not just about making the logo bigger. We are talking about situations when the project suddenly turns around 180 degrees. Remember — always (always!) start your amendments by talking with your developer. Changing the project and submitting it without much explanation can be very annoying and will lead many men to blind rage. Take time to accurately describe changes that must be made, ask for expert opinion and start working with a clear conscience.
+
+
+
+6. Be neat
+
+
+
+Everyone designs in their own way. Thousands of layers without names doesn’t surprise anyone anymore, but the person finding and cutting that one tiny element will be screwed. Make sure to segregate and make descriptions — detailed documentation of typefaces letters, colors, RWD etc. accelerates work sufficiently. It can also help the dev in finding better solutions.
+
+If you‘re responsible for cutting graphics, set the rules for naming the layers in Photoshop. Here are some examples from our studio:
+
+image
+File naming only in English:
+banner.png | header.png | logo.png
+
+Each element of the name separated by hyphen:
+upper-menu.png
+
+States of elements (buttons, icons, etc.) separated by underscore:
+login.png | login_hover.png | login_active.png
+
+The order of words in the name of the file — first name of the object, then type, then state:
+arrow-left.png | arrow-right_hover.png
+
+This way of naming your files will also help you make rapid amendments directly on the files.
+
+Recently we started to use Creative Cloud Extract. It’s a nice tool that makes cutting elements and collaboration with developers less painful. Yet it’s still far from perfection.
+
+image
+Creative Cloud Extract
+7. Share knowledge and keep your finger on the pulse
+
+
+
+Usually the final webproject is the result of a great battle between the client’s remarks, ideas of a designer and skills of a developer.
+When this uneven fight ends, designer faces another challenge which is to control compliance of design and product (website or an app).
+
+It’s impossible to move the entire project pixel by pixel among dozens of pages and headings. (OK, it’s possible but it takes angelic patientce). Thoroughness of a designer has its limits, that’s why it is important to gradually educate developers a bit about the basics of composition, typography, color theory and visual hierarchy — of course without delving into details, because we will be laughed at ;) It takes some time, but effects in the form of lack of unnecessary questions such as: “Why is it like that and not otherwise?” are priceless.
+
+
+
+8. Trust your developer
+
+
+
+Trust is the key in any relationship. You won’t achieve anything beautiful while being skeptical on someone’s suggestions. If the developer tells you that certain solution will be perfect for your project — trust him. He may, of course, be wrong, but be aware of the fact that his intentions are good and ruining your work is not in his interest. Certainly, trust can’t be built in one day, but sometimes you should listen to a specialist in another field to ensure that the project in the final stage will satisfy the customer, developer and you.
+
+
+
+Summary
+
+
+
+These tips are based on our experiences and problems encountered while working with a whole team of developers. Unfortunately, the specificity of projects where each case requires a different approach and usage of new/ different technologies makes cooperation model changing all the time. Get to know the style of work and the “language” of your developer. Discuss with him as much as possible — solutions, new technologies, trends. If you find something useful on the web (interesting animations in CSS, unusual page) — share it! These little things will bring your relationship with a developer to a whole new level.
+
+
+
+We hope that you’ve found those tips helpful. If you know other advises on how to work with developers, feel free to share your thoughts!
+
+6 tips for successful design critiques
+webdesignerdepot.com
+Few things are more stressful than a design critique. From that pressure, though, comes new viewpoints, action items, and an overall tighter product.
+
+I believe a successful design incorporates lots of viewpoints, and critiques are a great way to collect those opinions. Design reviews should happen early and often.
+
+Collaboration is one of the hallmarks of the new design process. No longer can designers disappear into a hole for 6 months, reemerging only when a pristine set of PSDs is ready. Without a team to provide constant feedback, it can be hard to navigate in the dark. But there are plenty of ways to critique your own design as you go.
+
+Stopping to check the map is so much better than having to double-back after it seems like your trip is over.
+
+ 
+
+1) Stay current with trends
+
+Size up your design by measuring your work against successful products. Staying current with trends isn’t just about knowing what looks nice; it’s understanding why and how a solution is working for a product.
+
+One of my favorite places to dig up inspiration is Dribbble, the show-and-tell social network for designers. While the work on Dribbble is nice, the real magic comes when you look closely at a user; check out their blog; follow them on Twitter; look at their agency’s portfolio.
+
+A great rule of thumb when you encounter a design you love: don’t just remember it, remember why you liked it. Understanding the underlying math of any design and conversion trend is key to using it properly for yourself.
+
+ 
+
+2) Consider the questions
+
+Imagine questions your client might ask the first time they see your design. Now think of a way to prevent those questions from ever being asked to begin with. But don’t get tripped up in an explanation. Instead of using words to fix a shortcoming, fix it with design. It’ll go a lot further with your client (and their users).
+
+When working alone on a project, I’ll sometimes stop to make an outline for an imaginary presentation. It takes about 5 minutes, and it shows which areas of my work I think will need extra explanation. When I’m ready to get back to work, I know exactly which areas need targeting.
+
+Even more important than being in your client’s head? Being inside the head of your client’s customer. That’s user experience in a nutshell: squash the hurdles that might cost you a user.
+
+ 
+
+3) Consider the users
+
+One of my favorite time-tested UX techniques is the persona: an imaginary person who uses your product. Walk a mile in their shoes, and you’ll see things you otherwise might have missed.
+
+Not all projects have the budget and time to go deep with lots of personas and storyboards. When you’re flying solo, try collecting a go-to set of personas—a varied set of users you carry with you from project to project. My quick persona set includes some of my family members, since I’ve had the benefit of watching them interact with tech for years. Even better, it’s a seriously varied crowd, as any good persona set should be.
+
+My brother works in the mobile industry and understands apps like the back of his hand. My dad is an old-school computer networker, comfortable in a command line but new to touch devices. My mom is a kindergarten teacher, sharp as a whip but just getting comfortable with email and Facebook.
+
+A solid set of personas helps keep design accessible. Each time I hit a sticky situation in the design process, I try to consider things from every viewpoint. Would my mom know what this icon means? Would my brother care?
+
+ 
+
+4) Check with non-web friends
+
+Watching someone actually use your product (or prototype) is even better. Live user testing doesn’t have to be some big, complex process. Just whip out your phone at a party and ask your friend what they think.
+
+Sure, parties seem like a weird environment for light user testing, but hear me out: it’s your job, and people are generally interested in what you do. It takes less than a minute, and it’s way more fun than talking about the weather. As the night goes on, and perhaps a few drinks are consumed, the test results get even better. A drunk friend using your site is the perfect analogy for the confused, impatient user who leaves you a huffy 1-star review.
+
+Outside of parties, user experience makes for surprisingly good small talk. Most everyone you encounter nowadays has a smartphone in their pocket, and you’ll find many enjoy talking at length about their experiences.
+
+If you’re lucky enough to find someone that fits the bill, don’t be shy to ask about your project. Their responses might surprise you.
+
+ 
+
+5) Ask for feedback online
+
+If you’re working on a project alone, you’ve still got a worldwide team at your disposal: the Internet. Collect early feedback by posting progress to services like Dribbble and Behance. I often find myself sharing bits of a project online before I share with a client. It’s a chance to do some quick and dirty user testing, and a way to measure reactions with fairly minimal “risk”.
+
+Even funded startups have taken to sharing the design process online. ProductHuntposted interactive prototypes and invited their community of thousands to start aggressively critiquing. The outcome was a tight, focused product launch that met the community’s needs.
+
+Another one of my favorite trends I see emerging are public Slack teams. I’m currently in 3 or 4 Slack teams (1 for my job, 1 for a local group of startup workers, 1 for an online community of design folks, etc.). I’m finding these Slack teams function like a virtual coworking space. At any given time of day, there are dozens of nice people willing to answer questions, provide feedback, and take a peek at designs for a quick gut check.
+
+Bonus: I’ve found the local group great for taco recommendations.
+
+ 
+
+6) Take it to the team
+
+Critiques are meaningless if you don’t act. Which is why we need to critique early and critique often. Continually ask why. Fixing a problem before becoming overly invested saves time and stress.
+
+Even the best designers can benefit from a strong backing team. When you hit a wall, take it to the team, even if that team consists of imaginary people or an Internet message board.
+
+
+The Asset Handover | CSS-Tricks
+css-tricks.com
+When working in teams made up of designers and front-end developers, there can be a lot of frustration and confusion when it comes to handing assets over from one team member to another. These might be design mockups or icons or high fidelity imagery for banners and the like. Regardless of the content of these handovers, there can always be improvements to this process.
+
+Depending on the project, developers will often require certain materials in order to make development as smooth as possible. So, I’d like to review a couple of steps that designers might take in order to alleviate these pressure points.
+
+1. Talk to developers about what they need at the beginning of the project
+
+That sounds like an obvious statement, but in the past I’ve worked on teams where we haven’t had that conversation early enough in the process. This can lead to all sorts of failures in communication where developers don’t know which assets are the most recent ones. That can then lead to implementing features that aren’t even necessary.
+
+Here’s some questions that you might ask at the beginning:
+
+Are the front-end developers comfortable with Photoshop or Illustrator?
+Would it be best to give them mockups in a certain application, or can they build the website with simple images that have been exported?
+What image sizes do we need? How are we handling images in general? Is a build tool making all the various sizes we need?
+What sort of bug tracking tool are we using? And how should we describe, name, and label new components that need to be developed?
+2. Mockup handovers should be made of small, modular components
+
+If developers receive a Photoshop document that outlines the entire design of a template, such as an About or Home page, it’s more likely that they’ll write bad code that ties all these context-specific components together. As Harry Roberts argues, this is simply bad design:
+
+If you need to change the cosmetics of a UI component based on where it is placed, your design system is failing. It’s as simple as that. Things should be designed to be ignorant; things should be designed so that we always just have ‘this component’ and not ‘this component when inside…’.
+This means it’s best for developers to build independent components and then bundle them together into a specific view later, such as that About page. This isn’t a new idea—atomic design has been telling us this for years—but my point is that the handover process should reflect this change in thinking, too.
+
+3. Perform an interface inventory
+
+Before we add a new item to our team’s to-do list, we need to make sure that they won’t be going over every single mockup hunting for every modification of that new component. This process of collecting every button or icon in the design should be the role of the designer, as this will help other team members extrapolate visual design changes into code.
+
+Brad Frost has called this process an interface inventory and ideally it should document every modification and deviation of every component in the mockups:
+
+An interface inventory is similar to a content inventory, only instead of sifting through and categorizing content, you’re taking stock and categorizing the components making up your website […] An interface inventory is a comprehensive collection of the bits and pieces that make up your interface.
+After a designer has performed this interface inventory, they can begin to add all of these variations into an app like Trello, as previously we’ve mentioned how useful it is when designers can track bugs and define new features that need to be built. Instead of a block of text in our to-do list it would be best to attach those interface inventories onto the item itself, like this:
+
+
+As a front-end developer, I find this much more accessible than a big ol’ directory of mockups that I’ll need to review and pick out each component (especially if I’m unfamiliar with that particular designer’s layer structure). Speaking of which…
+
+4. If you must hand over a PSD then make sure to carefully describe each layer
+
+Not much to say about this one, besides that it makes a whole lot of sense to keep those layers organized if someone else has to navigate them in the future.
+
+5. Export the assets
+
+There’s been a lot of projects I’ve worked on in the past where it’s been the developer’s responsibility to receive the mockups from the handover and pour through each file to export everything, even if they’re unfamiliar with the design. These could be banner images or icons, or even the final drafts of the copy.
+
+However, if we have smaller handovers made up of modular components then there’s less chance for misinterpretation.
+
+6. Only export SVG assets
+
+Since developers now have plenty of build tools such as Grunt and Gulp at their disposal which will generate bitmap images, such as .png or .jpg’s on the fly, in certain circumstances developers will only need an SVG of a particular asset. For example, when developing a system of icons for the project. Adding these bitmap assets is probably a waste of the designer’s time in most cases, so all that’s needed is the original SVG exported from the designer’s app of choice.
+
+Similarly it’s not a good idea to optimize the images, because our build tools will likely deal with those modifications anyway. But, if in doubt, talk to a front end developer beforehand.
+
+7. Name icons, images, and place them in the right directory
+
+This one is a little tricky because it involves talking to the developers again. But, naming an icon image-1.svg or icon-13.svg is obviously less useful to a developer than person-running.svg or windmill.svg. In most cases there will be some kind of pre-existing naming system for these files, especially if we need multiple versions of them for some reason, take windmill--large.svg or windmill--small.svg as an example.
+
+Summing up
+
+There’s no right or wrong way to do this but it does require that everyone on the team is working to the same standard. If you have access to the repo then it might be a good idea to add some of these thoughts to the readme in order to help other designers and developers in the future.
+
+If you have any additional thoughts then be sure to add them as a comment below and I’ll add update this post for further reference.
+
+
+Tactics for a Successful Design Presentation
+Small changes to help make presentations more effective.
+Early in my career, I would get uncomfortable and nervous whenever I had to present my work. Especially in person. With sweaty palms, I would unveil the master work that I had crafted in secret and step back quickly with a "Well, what do you think?"
+
+I dreaded long pauses and the inevitable non-specific feedback. "Hmmm, do you think you could make the logo bigger?" "I don't know....It looks a little....too empty. Do you think you could add more ‘oomph’ to it?"
+
+Some of you are nodding your heads right now. You know exactly what I'm talking about.
+
+It can be easy to write off the client with "They just don't understand design." But in reality I was failing at a fundamental role of my profession:
+
+The work does not sell itself.
+
+The client, no matter how savvy, is not telepathic. They are concerned with how your design helps them achieve their goals. If you do not communicate this point clearly, you have devalued yourself and your work.
+
+Clear presentations will help close long feedback loops, which means fewer hours wasted and more projects delivered on time. Happy clients, happy bank accounts.
+
+Here are some pointers that I've found helpful over the years:
+
+Get in front of the client.
+An in-person meeting is ideal; it's much easier to react and respond in-person. You will pick up on unspoken cues that will help you understand your client,and it also works in reverse—the client will be more able to understand you! It can also provide instant feedback because you are in the room, watching their smiling (or perhaps unsmiling) faces.
+
+There are occasions where this is impossible, either for location or scheduling reasons. A web presentation is the next best, followed by a conference call while everyone looks at the designs on their own.
+
+Email by itself can be a terrible medium for expressing complex ideas. Many subtle cues can be lost (especially if you're a frequent user of sarcasm), and it can be easier for people to not respond to an email than if you're standing a few feet away. This is your last resort. It's workable, but takes much more effort and understanding from all parties involved.
+
+Thank them for their time.
+People are busy, attention is short. Remember this and be respectful of their time.
+
+Remind them why they're here.
+As important as you and your project obviously are, your audience may not exactly remember what they're going to be looking at that day. Remind them.
+
+"Today we're going to be looking at some possible directions for the checkout page flow and design."
+
+Update them on the current state of the project.
+Is this phase 2, phase 3? Has your audience seen the work before? Have you already collaborated on a strategy?
+
+"As you know, we've just completed our strategy phase and now we're entering the design phase where we will have two rounds of revisions."
+
+Tell them exactly what type of feedback you're looking for early on.
+This is the best way to avoid overly generic feedback. If you frame the format you're looking for early (as in one of the first items of the meeting, before they see anything), this will help your audience form feedback in their minds as you present.
+
+"I'm looking for feedback on the efficiency of the checkout process."
+
+You can phrase this as narrowly as you'd like. In the above example, you can deflect statements about photo treatments or font choices because you're only concerned with the flow right now. Log the other comments for the next phase, but keep redirecting your clients to what you want out of them.
+
+This gets easier if everyone has already agreed on a strategy for the project beforehand (remind your client of the goal here):
+
+"I'm looking for feedback on how this design fulfills our goal of decreasing time to purchase and boosting overall conversions by increasing the efficiency of the checkout process."
+
+Avoid saying: "What do you think?"
+
+It's a terrible lead-in (and yes, I've been guilty of this). When you ask this you put the burden back on the client to decipher your work and come up with a meaningful response to this question. You can get wildly different answers from this question.
+
+Imagine if the technician who installed your air conditioning and heating system asked you this question. What do you say? "I don't know," you might think, "both hot AND cool air comes out of the vents, right?" But he's waiting for an answer, so you look around to try and find something more meaningful to say.
+
+You're not going to notice the technician's excellent sheet metal fabrication, or the super-efficient way they've organized the wires and controls. You don't know (or perhaps care) about these things; it's why you hired someone in the first place to take care of it.
+
+Which brings me to my next point...
+
+Show how the client/user/audience goals are achieved.
+Frame things against the context of what your audience cares about: their goals for this project.
+
+Will the placement of the button in that particular spot drive higher conversions? Will removing other options increase the user's chance to complete a purchase? Will the treatment of the photos evoke the desired feel? Does the copy's tone drive the type of personality we want to convey?
+
+This is where you translate your designs into their native language.
+
+Avoid jargon.
+While you're explaining your designs, cut out jargon entirely. You will lose people quickly if you let your tongue waltz off into the design ether. Speak plainly.
+
+Which is better?
+
+"The page was conceived with a large amount of negative space and we used a geometric sans-serif font with a large x-height juxtaposed with a dynamic serif font to capture the blend of modern and traditional."
+
+or
+
+"We designed the page to feel light and airy to minimize distractions and picked readable but elegant fonts."
+
+The best case scenario with option 1 is a confused client. No one likes to feel like the student in the room. It can quickly thin their patience and erode their trust in you if you talk down to them.
+
+Trust is your most important asset in a relationship. Don't trade it away to make yourself feel better or hide your nerves.
+
+Make it entertaining.
+No one wants to watch a boring presentation.
+
+Monotone delivery, lack of visuals, or lots of nerves can suck the life out of your presentation. You'll have to gauge the humor level and type of your clients (mortgage bankers may require a different approach than a young tech startup founder), but allow your personality to show through.
+
+Ever heard of power posing before speaking in front of others?
+
+In a nutshell, it's purposely posing in a 'powerful' stance before at least 2 minutes before some sort of activity. It sounds like pseudoscience and feels a little weird but it WORKS for loosening up your body language. (Protip: don't do this in front of the client. Go do it in a private place beforehand.) When your posture is engaging you've got all sorts of sociological power juice working for you.
+
+Another thing that helps me is to be crazy excited to speak to your audience. Not fake-excited; people can see right through that. Find what makes you excited about the project and latch onto it. Let it carry your energy through the presentation. Genuine excitement is contagious and will help cover nerves or small mistakes.
+
+Don't run from conflict.
+Inevitably people will disagree with you. Sometimes directly, sometimes indirectly, sometimes strongly, sometimes only just a little This can be a A Good Thing™.
+
+How you deal with conflict is one of the most lasting impressions you can make in a social interaction. Did you deflect it entirely, failing to acknowledge the client's statements? Did you cave like almost immediately, labeling yourself a pushover? Did you get pissy and defensive or become belligerent?
+
+Think back to the last argument you had (with family, a significant other, whoever). What did you do? Now think back to what they did; how did it make you feel? We're not going to go too deep into soul searching here (yet), but identifying your tendencies for dealing with conflict is important to know before you enter a conflict because it will help you course correct on the fly.
+
+Good conflict resolution skills are like a super power, and very few people I've met are naturally good at it. If you can even get just a little better at this, it will help you tremendously, in all aspects. (I am no expert, but I have seen people who can do this well, it's amazing.)
+
+Here's a short framework I use for dealing with conflict (large or small) in client relations:
+
+Never assume they're “out to get you”. Move past your initial knee jerk reaction. (See Hanlon's Razor)
+Acknowledge that you heard them.
+This can help diffuse an initially strong reaction and start to move from statements to dialogue.
+Search for the meat of their statements, what are they really getting at.
+Reiterate what you really want and what you really don't want. Stay focused on those.
+"What I really want is for this checkout page to be really efficient, easy to use, and effective for your business. I'd hate for the user to get bogged down with too many options."
+Is there a way to satisfy both options?
+Invite the other party to participate in finding a solution.
+If someone is in attack/defense mode, critical thinking can pivot their behavior. Suddenly you're collaborators instead of opponents.
+Each conflict is different and this script may not always work. The main point is to stay calm, remind them that you're here to help and you want the project to succeed (help ME help YOU), and that you're willing to put in the work to see it happen. A well-handled conflict (where both parties walk away satisfied) will earn you nothing but mad props.
+
+(I strongly recommend the book Crucial Conversations for some of the more advanced conflict-management techniques. Buy it, borrow it, find it in the library — you won't regret it.)
+
+A short checklist:
+To summarize, here's my checklist before a major presentation:
+
+DO:
+
+Grab attention quickly (make something weird or funny happen early).
+SHOW don't TELL (when possible).
+Tell stories if possible (the more embarrassing the better).
+Show how you achieve the client's goals.
+Keep the client in their expertise comfort zone (their business).
+Be crazy excited to speak to the room.
+Do your homework; be prepared.
+DO NOT:
+
+Present things that are unreadable (“Can you see this in the back?”)
+Pre-apologize (“We whipped this together. Didn't sleep well last night.”)
+Fill the silences, especially when waiting for a response.
+Explain what they can see in front of them (Captain Obvious, "This is a form, this is a button”).
+Read a script (Boooooring!).
+Ask if they like it.
+Try to make them happy (That's a bad measure — do not avoid conflict).
+Take notes (someone not presenting should do it if possible).
+Get defensive.
+Get too deep into design minutiae (specific colors, typefaces).
+BASIC STRUCTURE:
+
+Thank them for their time.
+Tell them why they're here.
+Tell them what stage you're in, with a brief reminder of the last stage.
+Tell them what type of feedback you need.
+Walk through the design.
+How does each step further the goals of the project?
+Invite questions and discussion.
+
+
