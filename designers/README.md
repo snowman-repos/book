@@ -2382,3 +2382,140 @@ For example, a repetitive-use application with trained users (e.g., a medical ap
 Another example might be (as seen in the Facebook example above) truly secondary navigation items. Once the most important elements have been explicitly listed for the user, you can scoop up all the miscellaneous additional stuff that nobody’s going to look for anyway and throw it under a low-priority hamburger menu.
 
 Universally declaring hamburger menus to be totally terrible is as bad as declaring them to be always awesome. Rules are no replacement for thinking. Consider the user, do the math, and figure out what actually makes the most sense.
+
+******
+
+Thinking in Components | Hedley Smith
+hedleysmith.com · August 6, 2015
+Components and The Web
+
+Across disciplines of design, whether it's physical architecture, graphic design or software design - ideas, patterns and existing concepts are constantly reused and built on top of. The strongest fundamental design principles can cross-over between disciplines, they are universal and when understood and applied properly they can drive creativity and innovation.
+
+Front end web development and design is a hugely popular and rapidly growing area, it's exciting (although sometimes daunting) because of this and there are so many opportunities for new ways of thinking. One area in particular that I've found has a lot more to talk about is front end architecture - the way we organise our code and the relationships between different areas of our codebases.
+
+Much like building a house, when we design software systems, the way we structure things matters. It can be the difference between a project that's flexible, easy to come back to and expand - and an unmaintainable mess. Creating the right structure can open doors to new ways of working and push things forward into previously unexplored territory.
+
+In front end web development and design the word "component" has been popping up more and more, from React.js components to new CSS class naming conventions to web components to style guides.
+
+While the components which are now gaining in popularity are highly useful, the idea of breaking down systems into smaller, more modular parts (which is nothing new but is a fundamentally strong design pattern) can bring us huge benefits and allow for more unity between design and development. These concepts can stretch far and wide and are well worth exploring.
+
+So... what is a component?
+
+Component Theory
+
+The dictionary definition of a component is "A part or element of a larger whole".
+
+And in software engineering components are described as follows:
+
+"An individual software component is a software package, a web service, a web resource, or a module that encapsulates a set of related functions (or data).
+
+All system processes are placed into separate components so that all of the data and functions inside each component are semantically related (just as with the contents of classes). Because of this principle, it is often said that components are modular and cohesive." 
+-Wikipedia: Component-based software engineering
+
+In front end web development these ideas have been prevalent for many years in various places, for example:
+
+CSS methdologies - SMACSS defines "modules", BEM defines "blocks" and SUIT CSS defines "components".
+Front End Frameworks - Bootstrap & Foundation are two popular front end frameworks come with libraries of reusable interface components. Material Design Lite is a more recent library that splits code up into more neatly packaged components.
+JavaScript Interface Components - jQuery UI & YUI widgets were all the rage a few years ago!
+The JavaScript Module Pattern - A widely used set of patterns which help to keep code separated and organised as described here.
+JavaScript Libraries - React.js Components & Angular Directives are two good examples of modularising code and interface elements for reusability and cleaner organisation.
+Style Guides - an approach to web design that's becoming increasingly popular promotes breaking down design into smaller parts. This can be seen is systems such as Pattern Lab and throughout various other tools.
+And then there's the upcoming web components standards, but more on that later...
+
+Whether you're building a JavaScript application, crafting some CSS or designing a website there are common themes of what a component is. I think they can be broken down to the following:
+
+Independent - Components should be able to be used on their own and rely on only a limited set of dependencies. They should be built so they don't 'leak' or cross-over into other components.
+Clearly defined - Useful but limited scope - E.g a 'button' component + a 'search box' component is better than a 'navbar' component, but a search button and search input shouldn't be split up into two separate components if they'll never be used independently.
+Encapsulated - Components should 'wrap up' their functionality within themselves and provide set ways of implementation. E.g a button component could expose "size" and "colour" options.
+Reusable - Components are often built with reusability in mind, although they may initially only be implemented once.
+Componentising our front end has some immediate major advantages, such as:
+
+Consistency - Implementing reusable components helps keep design consistent and can provide clarity in organising code.
+Maintainability - A set of well organised components can be quick to update, and you can be more confident about which areas will and won't be affected.
+Scalability - Having a library of components to implement can make for speedy development, and ensuring components are properly namespaced helps to avoid styles and functionality leaking into the wrong place as projects scale.
+I use the term "component" in this article quite loosely and broadly to refer to anything which follows these general ideas. I think the word could be used interchangeably with "module" or "package", and I'm sure definitions will evolve.
+
+Interface Components
+
+Focusing in on the use of components in front end interface development (e.g writing CSS & HTML to implement a design and using JavaScript for interactions) there are various good examples of this in frameworks right now:
+
+In Bootstrap & Foundation components such as buttons, navbars, or modals are provided by using a specific HTML structure and classes e.g 'button button-primary'.
+In Material Design Lite various components are defined. The CSS & JavaScript for a particular component in MDL is kept in one folder which is handy for reusing these components independently.
+Reusable interface components have achieved widespread usage, and I think it's been established that using (or creating your own) set of interface components is a solid method when building on the web.
+
+When first approaching a project, from a design perspective it can also be a great idea to think about ways break-down part of the design into components. Using a style guide to document components and provide a references point for implementation can help with this.
+
+Thinking in components from the very beginning of a project can help unify the line between design, code and architecture - and this to me is very exciting.
+
+So, now we know that reusable interface components are a great idea, where else might we be able to apply these ideas when crafting our front end?
+
+Everything is a Component
+
+What if we extended the ideas of components beyond interface components? What other areas could we could apply these concepts to?
+
+So far components in front end web development have mostly been thought of as reusable user interface components - but we can move beyond this and start to think about non-UI elements as components. Google's Polymer project has some excellent examples of non-UI components such as the iron-ajax element. I think we could use this idea of non-UI components in codebases right now for things like configuration and utility functions.
+
+When using CSS pre-processors there's a trend to include all 'functions' (or 'mixins' as they're sometimes called) in one large file, as well as all configuration variables in another large file. Sometimes these functions and variables relate to a specific component, and sometimes they're used in a few specific places. This can lead to difficulties in scalability, maintainability and reuse. We can soon end up with a huge list of functions and variables with little idea about what specific parts of our codebase they relate to.
+
+If we think in components, putting functions and variables related to a component in the same places as the component and grouping similar 'helper' functions and variables in components themselves can lead to a much better organised and clearer architecture.
+
+Explicitly declaring dependencies can also be a huge help when re-using components between projects. While there isn't an easy way to do this with CSS at the moment, just listing out the dependencies in a comment block can save a lot of time down the road.
+
+Here are a few specific practical examples of how we can extend our use of components when building interfaces:
+
+Configuration & Base Components
+
+Configuration like colours, breakpoint definitions and typography can be separated out into individual 'configuration components'. These can be kept in one place, declared as dependenceis of other components and potentially reused as a starting point in future projects.
+
+Fully Encapsulated Interface Components
+
+Keeping configuration and functions related to a component in one place can help with reusability and scalability. So if you split up a CSS component into a single file, make sure the variables and functions specific to that component are declared in the file.
+
+Utility Components
+
+Grid systems, animations, useful classes for formatting text and layout - these are all things that are often used throughout codebases and interfaces. They could all be spit up into independent components so we end up with a set of utility components with clear definitions on what they provide and better organisation in our ever-growing codebase.
+
+One-off Components
+
+Some components are reusable, but some could be one-offs. For instance the 'homepage' component might only be used once, but by declaring dependencies explicitly,
+
+These are just a few ideas. By embracing this way of thinking across our whole front end interface architecture we create a much more clearly defined, easier to maintain and interchangeable codebase and design system.
+
+The Future
+
+There are a number of technologies on the horizon which encourage and enable a more component driven architecture. This will not only open up new ways to build things but presents us with an opportunity to align our way of working toward them right now. Lets take a look at a few of these:
+
+Web Components
+
+If you're not familiar with Web Components already you will be soon. They're an emerging specification that will essentially allow us to define our own custom HTML elements with custom attributes and behaviors, e.g:
+
+<custom-button style="secondary" size="large">I'm trapped in a web component!</button>
+While Web Components aren't mainstream at the moment, by embracing the theory now we can help make our codebase more future-friendly.
+
+Google's Polymer library is a good example of the power of web components and is production ready right now.
+
+CSS Scope
+
+One of the major hurdles with CSS is that everything is in a global scope, so if you write '.title' every element with a class of '.title' will inherit the same styling. This makes writing composable components difficult, and has resulted in class naming conventions like BEM.
+
+CSS Modules is a project which aims to solve this by making CSS local in scope by default - so .title might only apply to the component it's part of.
+
+This is made possible (in JavaScript templating only at the moment) by injecting a dynamically generated class. So the generated class might look like '.Pagetitle3xrQQ' with '.Page' being the component name.
+
+This is made possible by Interoperable CSS standard of which there are various implementations. See The End of Global CSS for more background information and to test out the Webpack Demo is quick and easy to test out.
+
+There is also some discussion on working with scoped CSS in React.js.
+
+Pre-processors & Build Tools
+
+There are various build tools emerging which are likely to provide ways to architect front end systems using
+
+Duo currently supports importing CSS dependencies alongside JS and processing them. This may open up the possibility of grouping Sass, JS & templates for a component into one folder much more easily.
+Post CSS provides new ways to process CSS and encourages supporting future features of CSS now. There's already a CSS Modules implementation for supporting local scope.
+Conclusion
+
+Breaking down systems into smaller, useful, clearly defined, independent parts can have many advantages. Using this idea in front end web development from the design stage through development can help with keeping things clearer to developers, more consistent and more easily maintainable.
+
+Whether you use existing user interface components provided by framework such as Bootstrap, Foundation or MDL or create your own they are a definitely a good idea. Extending this idea further and componentising other areas of CSS & front end codebases, such as utilities and configuration (and even one-off design implementations such as page layouts) can help keep a maintainable, scalable, consistent and well organised codebase.
+
+Thinking in components in front end web development and design is gaining momentum. With libraries like React.js and Angular, Web Components and advanced CSS & JS pre-processors gaining in popularity, thinking in this way can bring many advantages, help future-proof your code and and can be done right now.
