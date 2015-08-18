@@ -70,6 +70,8 @@ Generally speaking, the more communication the better; however, certain tasks, p
 
 Interruptions to certain tasks, particularly design and development tasks, as well as those of project managers juggling multiple projects simultaneously, kill productivity and waste time by introducing significant recovery times to “get back in the zone”. Interruptions may come in the form of a planned meeting or just by someone walking over to someone else's desk to talk to them (an incoming phone call is essentially the same thing). A planned meeting not only hinders productivity beforehand, as people try to plan their work around it, but also lasts longer and so increases the recovery time. A random interruption is equivalent to walking up to someone's sandcastle, kicking it down, and expecting them to continue building from where they left off.
 
+According to psychologist Mihaly Csikszentmihalyi, the following three conditions are required for smooth workflow (a.k.a getting in the zone):
+
 
 
 A lot of what we web professionals actually do is in our heads. We write code, plan tests, conceive and play with design ideas. This requires us to maintain a mental model of the work done so far and how work yet to be done can smoothly integrate. This requires a great deal of concentration that we need to maintain in order to solve the problem at hand. While we may at times appear unproductive, tapping keyboard and haphazardly moving things around an on-screen canvas, we're actually re-arranging of mental model of the project.
