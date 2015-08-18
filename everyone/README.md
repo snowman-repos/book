@@ -165,20 +165,3 @@ You need to assess every opportunity careful in terms of your individual goals. 
 The great thing about the working with the web is that it's pretty low-risk these days. It's fairly easy to find work no matter where you live - if you don't live in a big city or tech hub then all you need is an internet connection and you can work remotely. You can afford to join a company and leave soon afterwards if you find it unsuitable. Just learn from the experience and try and think of ways to avoid making the same mistake again.
 
 Another part of the job-search than you need to be particularly critical of is interviews. Remember that when invited for an interview you are interviewing the interviewer or the company just as much as they are interviewing you. Again, if you think the interview process is weak then it suggests that the company's HR is weak; they don't care much about who they hire and they've probably not hired the best people or the kind of people you want to work with and learn from. If they focus on your academic credentials, give you some crappy little test, or just ask you generic interview questions like “where do you see yourself in 10 years?”, “what are your strengths and weaknesses” etc., just walk away.
-
-
-
-
-
-
-
-
-*********************
-
-Conditions for Flow
-
-According to psychologist Mihaly Csikszentmihalyi, the following three conditions are required for flow (being in the zone):
-
-One must be involved in an activity with a clear set of goals and progress. This adds direction and structure to the task.
-The task at hand must have clear and immediate feedback. This helps the person negotiate any changing demands and allows them to adjust their performance to maintain the flow state.
-One must have a good balance between the perceived challenges of the task at hand and their own perceived skills. One must have confidence in one’s ability to complete the task at hand.
