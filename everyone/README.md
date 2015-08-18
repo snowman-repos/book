@@ -142,7 +142,9 @@ Obviously you should also watch what you eat. This is no diet book but too many 
 
 ## Finding the right work
 
-You know what you can do and what you want to do and only you can shape your career. Think about what kind of work you want to do then research what opportunities are out there. You could just browse job descriptions but even better would be to get in touch with people already doing the jobs you want to do for the kind of companies you want to work for. Reach out by email or social media and ask specific questions that will clarify what you need to do in order to get that kind of work. Maybe you are lacking in some skills or experience so that's what you need to focus on.
+You know what you can do and what you want to do, and only you can shape your career. The web will be a better place with projects for which you've applied your strongest skills. Find such projects where you have the opportunity to not only ace your work but enjoy it too.
+
+Think about what kind of work you want to do then research what opportunities are out there. You could just browse job descriptions but even better would be to get in touch with people already doing the jobs you want to do for the kind of companies you want to work for. Reach out by email or social media and ask specific questions that will clarify what you need to do in order to get that kind of work. Maybe you are lacking in some skills or experience so that's what you need to focus on.
 
 Try not to focus too much on a company's reputation. Especially big companies have numerous teams that all work in different ways on different kinds of projects. You'd be mistaken that just by joining such a company you'll be given the tasks or responsibilities that you crave or that it would surely be benefitial to your future career. Sure, a big-name always looks good on a CV but in future opportunities it might not help if you can't demonstrate your unique skills and experience or can't say you contributed directly on one of the company's more famous products.
 
