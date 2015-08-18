@@ -228,3 +228,27 @@ There is a wealth of information out there and you should take advantage of it. 
 That’s it, That’s all
 
 TLDR; Yes our industry moves quickly, but that is because it’s getting better and better. If you are always iterating on your skillset in small ways, you will be just fine – don’t worry
+
+
+
+
+
+
+*******************
+
+
+It was during the Boston stop of his visit, on May 17 of that year, that Einstein was asked to complete Edison’s questionnaire. Einstein and his wife Elsa had just disembarked from a train in South Station, where they drew a large crowd, eager to bask in his brilliance. Someone handed him the test. As Einstein knew little English at that point, the questions were translated into German. Nevertheless, even before completing the whole test, he failed. For example, he could not answer, “what is the speed of sound?” Why memorize such facts, he remarked, when one could easily look them up in a textbook?
+
+
+*******************
+
+
+I think about it whenever I read something that feels absolutist. You know the article. “AND LEMME TELL YA ANOTHER THING. HERE’S THE WAY IT OUGHTA BE OR THIS DANGED INDUSTRY IS GOING STRAIGHT DOWN THE TUBES.” Or your website is going to start on fire. Or you are wronging all of humanity.
+
+The truth, of course, is far more complicated.
+
+Being dogmatic (operating from beliefs you feel are incontrovertibly true) is funny (scary). It reeks of the confidence of youth. There are a million examples, but in recent history I’m sure you’ll remember: “Don’t use tools!”, “Web fonts aren’t worth it”, “Preprocessors make your code bloated”, “Progressive enhancement is the only way to work”, “Responsive web design is slow”, “Mobile web browsers have failed us”, “If your site doesn’t work without JavaScript you should eat dirt.”
+
+Discussions are always worth having. Weighing options is always interesting. Demonstrating what has worked (and what hasn’t) for you is always useful. There are ways to communicate that don’t resort to dogmatism.
+
+What’s tricky is that you have to grow out of it. Or otherwise find a way to relax your convictions. They don’t sell empathy pills.
