@@ -38,3 +38,18 @@ If my story made you curious about working in the Quality Assurance department, 
 Close cooperation is essential for good software testing. In this post, our Leader QA Specialist shares her thoughts on making QA specialists more efficient by... keeping them happy. Enjoy!
 
 In pursuit of technical prowess and knowledge of development processes Paweł began his adventure with Netguru as a junior QA specialist. The more he dabbled in codes and scripts, the larger his love for programming grew. Feeling the slow flow of time he tries to squeeze as many things into his brain as he can. In his free time Paweł explores the world of music, usually along with lifting something heavy above his head.
+
+
+**********
+
+We’re not too concerned with 100% test coverage.
+
+It’s more about using your best judgment on what’s really critical and what will break, and then add testing to it on that way.
+
+One of the things that we are very espoused to is the idea of testing first. There is very little that goes into our products that go public without a high standard of testing.
+
+I don’t think there is any way to make everything a hundred percent bug proof.
+
+- Morten Primdahl, CTO and Co-Founder at Zendesk
+
+***********
