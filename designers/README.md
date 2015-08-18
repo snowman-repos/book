@@ -2519,3 +2519,44 @@ Breaking down systems into smaller, useful, clearly defined, independent parts c
 Whether you use existing user interface components provided by framework such as Bootstrap, Foundation or MDL or create your own they are a definitely a good idea. Extending this idea further and componentising other areas of CSS & front end codebases, such as utilities and configuration (and even one-off design implementations such as page layouts) can help keep a maintainable, scalable, consistent and well organised codebase.
 
 Thinking in components in front end web development and design is gaining momentum. With libraries like React.js and Angular, Web Components and advanced CSS & JS pre-processors gaining in popularity, thinking in this way can bring many advantages, help future-proof your code and and can be done right now.
+
+*************
+
+A Checklist for Designing Mobile Input Fields
+nngroup.com · by Raluca Budiu · June 14, 2015
+Whether you're designing web pages, web-based applications (e.g., SaaS), or native mobile apps, one of the basic building blocks is the humble text-input field: a box where the user can enter some text. Uses of this widget are plenty and not the topic of this article. We should point out that there are many issues in application design relating to workflow and other big-picture questions that are important for good application user experience. (These topics are discussed in our full-day Application Design course.)
+
+In this article, we focus on the nitty-gritty of input fields. Each of these issues may seem minor, but we repeatedly see these usability guidelines violated — particularly in mobile user interfaces, where even the smallest annoyance grows from a molehill into a mountain in terms of its ability to delay users and prevent them completing tasks with your design.
+
+Here's how an input field should look:
+
+Here's a checklist of 14 guidelines to follow for mobile input field UX:
+
+Should it be there at all	
+Is this field absolutely necessary?
+Description	
+Is the label above it? (Not inside, not below)
+Is the field marked as required (*) or optional?
+Have you removed any placeholder from inside the field?
+Visibility	
+Is the field big enough so that most possible field values are visible?
+Is the field visible in both orientations when the keyboard is displayed?
+Filling it in for the user	
+Do you have any good defaults for this field?
+Any history available?
+Frequently used values?
+Can you use the phone features (camera, GPS, voice, contacts ) to populate it?
+Can you compute it for the user based on other info (e.g., state based on zip code, coupon field)?
+Typing	
+Do you support copy & paste into the field?
+What is the right keyboard for this field?
+Can you make suggestions/autocomplete based on the first letters typed?
+Do not autocorrect for names, addresses and email addresses.
+Do you allow typos or abbreviations?
+Do you allow users to enter it in whatever format they like? (e.g., phone numbers credit cards)
+You can autoformat it for them.
+Go through your design and complete the checklist for every single input field. Yes, this is work, but better you suffer than the users suffer.
+
+Ideally, you'll have 100% checklist compliance for 100% of the input fields in your site or app. Anything less, and you do have a substandard user experience.
+
+Pragmatically, you may not have resources to deliver 100% on these UX requirements. In that case, prioritize the fields so that the ones that are used the most or are the most critical for task completion get the highest scores.
