@@ -34,23 +34,13 @@ It can of course be quite overwhelming. You need to manage your time and resourc
 
 Indeed your time may even be better spent refreshing or expanding your knowledge on something that's not the latest technology or you're already familiar with. Just because you read about something on hacker news or social media it doesn't mean that everyone's using it. Website owners make long-term investments in tools and technologies. It's rare that underlying frameworks and libraries are regularly updated or replaced. At the time of production options are evaluated and decisions made. Sure, there are probably better options available now but that doesn't mean the website or app is now broken or failing to meet its business goals. As enthusiastic as you may be to learn and apply all the latest tricks, you should consider what would be most valuable for *you* to learn and apply to *your* projects. You may not drop your current toolset for the latest ones today, but by gauging what tools others are using and gauging their reactions you may be able to determine whether or not you would like to use it on a future project, in which case it's worth learning. Be careful not to get burned by picking up technologies too early. Only you can asses what are the right tools for you and your projects. Several years ago Facebook released a JavaScript framework called ReactJS. The audience scoffed at it because it had markup within the JavaScript, which was against best practice at the time. Skip to the current day and more and more trustworthy developers are embracing React, not because it's new and trendy, but because it's the right tool for the job.
 
+Ultimately, the best way to learn anything is through practice.
 
 
 
 
-Would you guess that Spotify is built with LESS? Or TweetDeck is highly reliant on jQuery. Yuck, right? No – those were the technologies that were evaluated at the time. There are better options now, but it’s not causing their app to crash or business to fail.
 
-Wait it out and Evaluate
 
-Am I going to drop my JavaScript framework for JSBlocks today? No way! Am I going to keep my ear to the ground and see how people like it? Absolutely. We have all been burned by picking up technologies when they are too early, and it’s important to watch out for that.
-
-At JSConf two years ago, I was there when Facebook introduced React.js and they got laughed off the stage because they thought the idea of markup in your JS was ridiculous. Now I’m starting to swap my beloved Angular.js out for React.js. I waited for the community as a whole to test and embrace it. It’s at a point now where enough people I trust are using it, not because it’s new and cool, but because it’s the right tool for the job.
-
-I sure am glad that facebook decided to put out React.js and push how we think about these frameworks. We had Angular and Backbone at the time, and many would have said we had enough frameworks.
-
-Same goes for PostCSS – it’s a pretty new idea to ditch your Sass for PostCSS and CSS Next. Should you do today? Probably not. Should you keep your ears open and see if momentum for transpiled CSS picks up? Yes yes yes.
-
-Just Build Websites
 
 Making stuff is how you get better, so just build websites.
 In the wise words of Chris Coyier, just build websites. Don’t get me wrong, what you use to build them is really, really important, but it’s even more important to actually be continually building things and improving on your skill. That is how you get better, just do a lot of work.
