@@ -53,3 +53,15 @@ I don’t think there is any way to make everything a hundred percent bug proof.
 - Morten Primdahl, CTO and Co-Founder at Zendesk
 
 ***********
+
+21. There’s a great trade off between complexity of testing and speed of testing
+
+One of the biggest trade-offs that we see is the trade-off between the complexity of test and the speed that you want to have.
+
+Best case, you want to test everything in every browser to make sure it work everywhere, and run the whole suite through everything. But that takes forever.
+
+That’s a very big trade-off to do and you have to find the right balance.
+
+- Florian Motlik, CTO at Codeship
+
+***********
