@@ -2385,6 +2385,22 @@ When we first launched in 2012 we were an English language site only. Our manage
 
 I wasn’t involved in coming up with any of the solutions above, I’m just writing about them. We were lucky enough to have some outstanding people to work with, James Lee, Neil Doughty, Simon Sinclair (@thatsbyme), James Offer, @bogdandogaru, @st_belloro, @jamesmockett and @jakedchampion are just a few of the people involved in the work described above. If you’ve enjoyed this blog post and like what we share on responsivenews.co.uk then please vote for us as your Team of the Year in the up coming Net Magazine 2015 Awards. Thank you.
 
+********************
 
+Standardise coding styles
+
+When migrating developers from creating short-lived marketing campaigns to long-lasting, always-on SAAS-solutions, it’s a big challenge to implement a complete new mindset regarding architecture, code and sustainability.
+
+The agency projects where often one-man-shows, where different coding styles were applied. Standardising these styles was one of the first efforts which paid out very quickly. Using tools like vagrant or continuous integration helped to focus on the product even more.
+
+18. Developers need to internalize testing
+
+In web development, as it’s not really a rocket science like managing a nuclear plant, I deeply believe in testing as “yet another discipline, every developer has to know and has to integrate in his/her workflow”.
+
+So, dedicated resources are a good way to maintain an already well-established testing environment. But it’s more important that every developer has internalized testing in his/her mindset before.
+
+
+
+Johannes Nagl, CTO at Swat.io
 
 
