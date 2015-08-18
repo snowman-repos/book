@@ -32,6 +32,8 @@ The truly awesome news, and it really is awesome in the true sense of the word, 
 
 It can of course be quite overwhelming. You need to manage your time and resources in a way that you benefit from the learning material in a tangible way. An article about a new JavaScript library may be very interesting, but unless you're going to put it into practice and commit it to memory then your time may be better spent reading something else.
 
+
+
 It's a singular phenomenon that in this industry people are so keen to share what they know. Perhaps it's because the career of every single web professional has at some stage benefitted from such free online information or resource, whether it be an open-source library or a podcast or a popular blog. Thus people have an ingrained sense of this intellectual philanthropy and are encouraged to give something back to the community. I think Dave Rupert put it best when he said he could never imagine a situation where's he's sitting in his rocking chair in his 80's, wagging his finger at his great grandchildren, and rasping...
 
 _“Don't make my mistake, don't share what you know!”_
@@ -156,35 +158,10 @@ Another part of the job-search than you need to be particularly critical of is i
 
 
 
-On being overwhelmed with our fast paced industry | Wes Bos
-wesbos.com · May 26, 2015
-Web tooling is changing at an extremely rapid pace right now and there is a sense of exhaustion, being overwhelmed and anxiety of becoming out of date. “Why is this stuff moving so fast?” cry the developers.
 
-Artboard 1
-Artboard 1
-JavaScript var is dead? We should use ES2015 let and const now?
 
-CSS is getting variables, nesting, scoping and custom selectors. Preprocessors like Sass and Stylus are dead, long live PostCSS.
 
-Just learned Grunt? Oh you should use Gulp – wait no, Webpack.
 
-Still laying out your sites using floats like a sucker? Flexbox is here!
-
-Just built a project using protocol relative // – that’s an anti-pattern now. Oh and jQuery .hide() is bad for performance, so cut that out.
-
-Finally dipping your toes in Angular? Oh, it’s totally changing in 2.0. Wait, shouldn’t you be using React? Haven’t you heard of Aurelia or JSBlocks?
-
-Whenever a new framework, tool or technique comes out, I hear more groans than celebrations.
-
-How are we supposed to get any work done when everything keeps changing?
-It’s going to keep changing
-
-It’s human nature to resist change, and it’s kind of a hard pill to swallow for some. Working on the web means that things change really quickly. We’re never to to settle on a technology stack and hang it out – we will always see innovation, people pushing the envelope on both what is possible and the best way to get things done.
-
-. @wesbos the web is just one big Agile process. There is no big reveal. We just keep iterating.
-
-— Micah Godbolt (@micahgodbolt) May 26, 2015
-It’s not really changing that fast
 
 What you see on twitter, HackerNews and in your newsletters isn’t necessarily what everyone is using. Companies make multi-year investments in technology and will stick to their stack for quite some time. So as much as you think that everyone scraps their current setup for a shiny new framework every 6 months, it isn’t the case at all.
 
