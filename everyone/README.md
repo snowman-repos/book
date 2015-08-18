@@ -32,6 +32,7 @@ The truly awesome news, and it really is awesome in the true sense of the word, 
 
 It can of course be quite overwhelming. You need to manage your time and resources in a way that you benefit from the learning material in a tangible way. An article about a new JavaScript library may be very interesting, but unless you're going to put it into practice and commit it to memory then your time may be better spent reading something else.
 
+Indeed your time may even be better spent refreshing or expanding your knowledge on something that's not the latest technology or you're already familiar with. Just because you read about something on hacker news or social media it doesn't mean that everyone's using it.
 
 
 It's a singular phenomenon that in this industry people are so keen to share what they know. Perhaps it's because the career of every single web professional has at some stage benefitted from such free online information or resource, whether it be an open-source library or a podcast or a popular blog. Thus people have an ingrained sense of this intellectual philanthropy and are encouraged to give something back to the community. I think Dave Rupert put it best when he said he could never imagine a situation where's he's sitting in his rocking chair in his 80's, wagging his finger at his great grandchildren, and rasping...
