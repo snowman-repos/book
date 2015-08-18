@@ -36,7 +36,7 @@ Indeed your time may even be better spent refreshing or expanding your knowledge
 
 Ultimately, the best way to learn anything is through practice. As Chris Coyier likes to say “Just build websites”. The tools and techniques you use are important, but not as important as constantly applying and improving your existing skills. As you improve, the new tools and techniques will become less overwhelming and any anxiety you have about the fast-changing industry will subside. Side projects are a great learning exercise and a superb opportunity to try out the new stuff. May you might even build something that others will also be able to learn from.
 
-It's a singular phenomenon that in this industry people are so keen to share what they know. Perhaps it's because the career of every single web professional has at some stage benefitted from such free online information or resource, whether it be an open-source library or a podcast or a popular blog. Thus people have an ingrained sense of this intellectual philanthropy and are encouraged to give something back to the community. I think Dave Rupert put it best when he said he could never imagine a situation where's he's sitting in his rocking chair in his 80's, wagging his finger at his great grandchildren, and rasping...
+It's a singular phenomenon that in this industry people are so keen to share what they know. Perhaps it's because the career of every single web professional has at some stage benefited from such free online information or resource, whether it be an open-source library or a podcast or a popular blog. Thus people have an ingrained sense of this intellectual philanthropy and are encouraged to give something back to the community. I think Dave Rupert put it best when he said he could never imagine a situation where's he's sitting in his rocking chair in his 80's, wagging his finger at his great grandchildren, and rasping...
 
 _“Don't make my mistake, don't share what you know!”_
 
@@ -173,19 +173,6 @@ Another part of the job-search than you need to be particularly critical of is i
 
 It was during the Boston stop of his visit, on May 17 of that year, that Einstein was asked to complete Edison’s questionnaire. Einstein and his wife Elsa had just disembarked from a train in South Station, where they drew a large crowd, eager to bask in his brilliance. Someone handed him the test. As Einstein knew little English at that point, the questions were translated into German. Nevertheless, even before completing the whole test, he failed. For example, he could not answer, “what is the speed of sound?” Why memorize such facts, he remarked, when one could easily look them up in a textbook?
 
-
-*******************
-
-
-I think about it whenever I read something that feels absolutist. You know the article. “AND LEMME TELL YA ANOTHER THING. HERE’S THE WAY IT OUGHTA BE OR THIS DANGED INDUSTRY IS GOING STRAIGHT DOWN THE TUBES.” Or your website is going to start on fire. Or you are wronging all of humanity.
-
-The truth, of course, is far more complicated.
-
-Being dogmatic (operating from beliefs you feel are incontrovertibly true) is funny (scary). It reeks of the confidence of youth. There are a million examples, but in recent history I’m sure you’ll remember: “Don’t use tools!”, “Web fonts aren’t worth it”, “Preprocessors make your code bloated”, “Progressive enhancement is the only way to work”, “Responsive web design is slow”, “Mobile web browsers have failed us”, “If your site doesn’t work without JavaScript you should eat dirt.”
-
-Discussions are always worth having. Weighing options is always interesting. Demonstrating what has worked (and what hasn’t) for you is always useful. There are ways to communicate that don’t resort to dogmatism.
-
-What’s tricky is that you have to grow out of it. Or otherwise find a way to relax your convictions. They don’t sell empathy pills.
 
 
 *********************
