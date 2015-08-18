@@ -76,7 +76,7 @@ According to psychologist Mihaly Csikszentmihalyi, the following three condition
 
   3. One must have a good balance between the perceived challenges of the task at hand and their own perceived skills. One must have confidence in one’s ability to complete the task at hand.
 
-We all need clear objectives in order to get started. If you're in a leadership role, in this book such 
+We all need clear objectives in order to get started. If you're in a leadership role, in this book such roles as project owners, directors, client managers, and project managers, then you dictate objectives to others. Meanwhile we also have our own objectives that we set ourselves - todo lists for instance.
 
 Interruptions to certain tasks, particularly design and development tasks, as well as those of project managers juggling multiple projects simultaneously, kill productivity and waste time by introducing significant recovery times to “get back in the zone”. Interruptions may come in the form of a planned meeting or just by someone walking over to someone else's desk to talk to them (an incoming phone call is essentially the same thing). A planned meeting not only hinders productivity beforehand, as people try to plan their work around it, but also lasts longer and so increases the recovery time. A random interruption is equivalent to walking up to someone's sandcastle, kicking it down, and expecting them to continue building from where they left off.
 
