@@ -165,16 +165,6 @@ Another part of the job-search than you need to be particularly critical of is i
 
 
 
-
-
-
-*******************
-
-
-It was during the Boston stop of his visit, on May 17 of that year, that Einstein was asked to complete Edison’s questionnaire. Einstein and his wife Elsa had just disembarked from a train in South Station, where they drew a large crowd, eager to bask in his brilliance. Someone handed him the test. As Einstein knew little English at that point, the questions were translated into German. Nevertheless, even before completing the whole test, he failed. For example, he could not answer, “what is the speed of sound?” Why memorize such facts, he remarked, when one could easily look them up in a textbook?
-
-
-
 *********************
 
 Conditions for Flow
