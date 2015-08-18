@@ -252,3 +252,14 @@ Being dogmatic (operating from beliefs you feel are incontrovertibly true) is fu
 Discussions are always worth having. Weighing options is always interesting. Demonstrating what has worked (and what hasn’t) for you is always useful. There are ways to communicate that don’t resort to dogmatism.
 
 What’s tricky is that you have to grow out of it. Or otherwise find a way to relax your convictions. They don’t sell empathy pills.
+
+
+*********************
+
+Conditions for Flow
+
+According to psychologist Mihaly Csikszentmihalyi, the following three conditions are required for flow (being in the zone):
+
+One must be involved in an activity with a clear set of goals and progress. This adds direction and structure to the task.
+The task at hand must have clear and immediate feedback. This helps the person negotiate any changing demands and allows them to adjust their performance to maintain the flow state.
+One must have a good balance between the perceived challenges of the task at hand and their own perceived skills. One must have confidence in one’s ability to complete the task at hand.
