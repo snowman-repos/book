@@ -14,4 +14,6 @@
 * [About the Author](about_the_author/README.md)
 * [Thanks](thanks/README.md)
 * [Appendix A - Business Analysis Document](appendix_a_-_business_analysis_document/README.md)
+* [Appendix B - Content Styleguide](appendix_b_-_content_+styleguide/README.md)
+* [Appendix C - Functional Specifications](appendix_c_-_functional_specifications/README.md)
 
