@@ -36,37 +36,6 @@ Indeed your time may even be better spent refreshing or expanding your knowledge
 
 Ultimately, the best way to learn anything is through practice. As Chris Coyier likes to say “Just build websites”. The tools and techniques you use are important, but not as important as constantly applying and improving your existing skills. As you improve, the new tools and techniques will become less overwhelming and any anxiety you have about the fast-changing industry will subside. Side projects are a great learning exercise and a superb opportunity to try out the new stuff.
 
-
-
-
-
-
-
-So – to sum this up. Things are always going to change and that is fantastic news for our industry. You won’t become obsolete overnight if you keep your ear to the ground, honestly evaluate new technology and never stop building stuff. Here are a few tips:
-
-Newsletters
-
-Subscribe to weekly newsletters that give you a high level overview of what is new. Peter Cooper runs some of the best ones around. Take 5 minutes a week to read over the list – no need to click through to every link but keep tabs on what you keep hearing over and over. Chances are that if you hear about something every week, it’s starting to gain traction.
-
-Side Projects
-
-ABC – always be coding. If your work doesn’t allow you to try new things as frequently as you like, have a side project that you are invested in. You can use this to try out new tech you otherwise might not be able to.
-
-One New thing
-
-If you do regularly start new projects, make it a point to try one new thing in every project. It might just be trying Flexbox on a smaller part of a site, but you are making progress.
-
-Self Improvement
-
-There is a wealth of information out there and you should take advantage of it. Whether it’s taking a class at something like HackerYou, watching some free tutorial videos (like http://CommandLinePowerUser.com), or reading a book from someone in the industry (hint: https://SublimeTextBook.com), you should make a point to dedicate a few hours every week to self-improvement. You picked this industry, so it’s your responsibility to keep up.
-
-That’s it, That’s all
-
-TLDR; Yes our industry moves quickly, but that is because it’s getting better and better. If you are always iterating on your skillset in small ways, you will be just fine – don’t worry
-
-
-
-
 It's a singular phenomenon that in this industry people are so keen to share what they know. Perhaps it's because the career of every single web professional has at some stage benefitted from such free online information or resource, whether it be an open-source library or a podcast or a popular blog. Thus people have an ingrained sense of this intellectual philanthropy and are encouraged to give something back to the community. I think Dave Rupert put it best when he said he could never imagine a situation where's he's sitting in his rocking chair in his 80's, wagging his finger at his great grandchildren, and rasping...
 
 _“Don't make my mistake, don't share what you know!”_
