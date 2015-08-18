@@ -32,11 +32,11 @@ The truly awesome news, and it really is awesome in the true sense of the word, 
 
 It can of course be quite overwhelming. You need to manage your time and resources in a way that you benefit from the learning material in a tangible way. An article about a new JavaScript library may be very interesting, but unless you're going to put it into practice and commit it to memory then your time may be better spent reading something else.
 
-Indeed your time may even be better spent refreshing or expanding your knowledge on something that's not the latest technology or you're already familiar with. Just because you read about something on hacker news or social media it doesn't mean that everyone's using it. Website owners make long-term investments in tools and technologies. It's rare that underlying frameworks and libraries are updated or replaced.
+Indeed your time may even be better spent refreshing or expanding your knowledge on something that's not the latest technology or you're already familiar with. Just because you read about something on hacker news or social media it doesn't mean that everyone's using it. Website owners make long-term investments in tools and technologies. It's rare that underlying frameworks and libraries are regularly updated or replaced. At the time of production options are evaluated and decisions made
 
 
 
-Companies make multi-year investments in technology and will stick to their stack for quite some time. So as much as you think that everyone scraps their current setup for a shiny new framework every 6 months, it isn’t the case at all.
+
 
 Would you guess that Spotify is built with LESS? Or TweetDeck is highly reliant on jQuery. Yuck, right? No – those were the technologies that were evaluated at the time. There are better options now, but it’s not causing their app to crash or business to fail.
 
