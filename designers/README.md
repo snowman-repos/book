@@ -2224,3 +2224,161 @@ You can read more about how to clean HTML and CSS with an eye on performance in 
 Even if your job title doesn’t include the word designer, if you are making decisions about the look and feel of a website, you are making decisions that directly impact the performance of that site. Performance is a shared responsibility, and everyone on your team impacts it. Considering performance when making design decisions will have an enormous impact on your users. Weighing aesthetics and performance should be paramount in your design workflow, which we will cover in Chapter 7. This is also a huge opportunity for various disciplines within an organization to collaborate; designers and developers can work together to create a phenomenal user experience.
 
 In the next chapter, we will walk through the basics of page load time, including how browsers fetch and render content. Understanding how your users’ browsers communicate with your hosted files, how the file size of your site’s files affect page load time, and how users perceive the performance of your site will significantly help you as you design a site and strive to find a balance between aesthetics and performance.
+
+*******
+
+The Language of Modular Design
+A List Apart · by Alla Kholmatova · August 11, 2015
+As many of us move away from designing pages toward designing systems, one concept keeps cropping up: modularity. We often hear about the benefits of a modular approach; modules are scalable, replaceable, reusable, easy to test, quick to put together—“They’re just like LEGO!”
+
+Modularity might appear to be a simple concept at first, but making it work for your team demands significant effort and commitment.
+
+The biggest challenges around modularity are all the decisions that need to be reached: when to reuse a module and when to design a new one, how to make modules distinct enough, how to combine them, how to avoid duplications with the modules other designers and teams create, and so on. When modularizing an existing design or building a new one, it’s not always clear where to begin.
+
+Start with language#section1
+Language is fundamental to collaboration. In her book How to Make Sense of Any Mess, Abby Covert says that the biggest obstacle teams face is the lack of a shared language. To help establish that shared language, she suggests that we discuss, vet, and document our ontological decisions in the form of “controlled vocabularies.”
+
+In short, we should start with language, not interfaces.
+
+For about a year now, our team at FutureLearn, an open education platform, has been experimenting with a modular approach. I’d like to share a few ways we have tried to hone a shared language to help our team transition into modular design.
+
+Build a pattern library as a team#section2
+
+One of our first experiments with modularity was an attempt to redesign our homepage. A visual designer created modular slices, and we then held a workshop where we tried to organize the modules into comps. That’s what we thought (perhaps naively) a “modular design process” would look like.
+
+Photograph of the team at FutureLearn organizing modules into comps.
+One of our first experiments with modularity.
+We ended up with three designs that eventually became fully functioning prototypes. But even though it was a useful exercise, the result we came up with wasn’t truly modular:
+
+Modules weren’t clearly defined.
+They didn’t have clear functions; the differences between them were often merely aesthetic.
+We didn’t standardize and name them.
+We didn’t put a lot of thought into how they would be reused.
+Ultimately, we decided not to use the resulting designs. These experiments were useful in propelling us into a modular mindset, but the defining step toward thinking modularly was going through the process of building a pattern library as a team, which took several months (and is still in progress).
+
+The atomic design methodology pioneered by Brad Frost served as our foundation. This is when we started looking closely at the UI, taking the interface apart, conducting inventories, and defining the core elements and patterns that we used to build new pages.
+
+Once we had a library, we were better prepared to think about design in terms of distinct reusable components. Until then—even after all of our experiments—we were still thinking in pages.
+
+Name things collaboratively, based on their high-level function#section3
+
+Once you lay the foundation, it’s important to build on it by evolving the language as a team. An important part of that is naming the things you create.
+
+Imagine you have a simple component whose function is to persuade people to take a specific online course. What would you call it?
+
+Screenshot of a module promoting an online course in cyber security.
+UI component promoting an online course on FutureLearn.
+The name depends on the component’s function and how and where it appears in the interface. Some people, for example, might call it “image header” or “course promo.”
+
+James Britton, a well-known British educator, explains in Language and Learning that by conferring names on objects, we engage in a “process of bringing [them] into existence,” just like children who use language to “call into existence, to draw out of nothingness,” the world around them. Similarly, if an object in the interface doesn’t have a name—a name that makes sense to your team, and is known and used by people on your team—then it doesn’t exist as a concrete, actionable module to work with.
+
+Once you name an object, you shape its future. For example, if you give it a presentational name, its future will be limited, because it will be confined by its style. A functional name might work better. But functional names require more thought and are harder to arrive at, because function can be relative. For example, we almost called the component above “course poster” because it had an image of the course in the background and its function was to promote the course. It wasn’t a bad name (it was quite functional, in fact), but it was also limiting.
+
+Around the same time, for another project, a different designer introduced a component that looked (apart from minor variations in layout and typography) quite similar to our “course poster.”
+
+Screenshot of a module inviting learners to take part in a discussion on brain activity.
+UI component inviting learners to take part in a discussion.
+The function of the new component was to invite people to take part in a discussion. So the first thought that came to mind was to call it “discussion.” No one made a connection with “course poster” at first, because its name limited it to one specific function—promoting courses—and the function of “discussion” had little to do with it.
+
+If we had given those components the names we initially thought of (“course poster” and “discussion”), we would have ended up with two named modules that were almost identical but non-reusable. Such oversights can lead to duplications and inconsistencies—which undermine modularity.
+
+Although their functions may appear different at first, if you look at multiple uses of these components in context, or even imagine potential use cases, it’s easier to see that they both do analogous things: they serve as attention-seeking slices. They command the core calls to action on those pages. In other words: their high-level function is to focus users’ attention on the most important action.
+
+Screenshots of multiple billboard components in use.
+A billboard component in use.
+In the end, we created a single component called a “billboard.” Billboards are not restricted by their position on the page, or by their content, or by their appearance. They can appear either with an image as the background or as part of the content. What matters is the high-level function, and that this high-level function is understood in the same way by different people on the team.
+
+Screenshot of a billboard component with an image of a hamburger inserted between the headline and the call to action.
+Example of a billboard component with an image as part of the content.
+In the process of naming an element, you work out the function as a group and reach an agreement. It’s not so much about giving something a great name (although, of course, that’s an ideal to aspire to), but agreeing on the name. That determines how the element will be used and helps to ensure that it’s used consistently by everyone.
+
+Make design language part of everyday culture#section4
+
+Naming things this way may take longer, at least initially, because it doesn’t yet feel habitual. It requires additional effort and commitment from the whole team to make the process more familiar.
+
+One way to make conversations about language happen is to create a physical space for them in the office.
+
+A photograph of two walls papered in printouts of modules and naming discussions.
+A space in our office where language conversations often take place.
+High-level functions are easier to define if you have the whole UI printed out and intelligible at a glance. It’s also a lot easier to spot any duplications and inconsistencies that way.
+
+Slack or other chat clients are also a viable way  to have these discussions. For example, it can help to post new elements you’ve just introduced, or existing ones that you suspect are inconsistent or potential duplicates, and then try to work out their function and find a suitable name. When thinking of names, it helps to have a common point of reference; our team often borrows terms from other industries, such as publishing or architecture, to give us ideas.
+
+Screenshot from a Slack discussion about potential names, such as 'bracket' or 'triglyph,' for a module with three content chunks.
+A typical naming discussion on Slack.
+Keeping design language alive by making it part of our day-to-day conversations, whether in-person or remote, plays a key role in maintaining modularity within our team.
+
+Define CSS architecture at the design stage#section5
+
+Needless to say, reaching consensus can be difficult. For example, we may disagree on whether we should reuse an existing module, customize it for a specific context, or create a new component.
+
+Several articles have been written about styling UI components based on context. But Harry Roberts has suggested that “having to change the cosmetics of a component in a certain context is a Design Smell”—a sign that your design is failing. How do you prevent this from happening?
+
+What helps us is trying to standardize elements at the design stage, before building them—in other words, starting with design language. This means that developers need to understand why things are designed in a certain way, and designers need to know how the modules are built so that they can make tweaks without having to create a different version of the module.
+
+Before writing the CSS, it’s useful for designers and developers to understand the purpose of every element they create. They might start by asking lots of questions: “Will this module always be full width? Why? Will it always include those buttons? Is the typography likely to change? Is the image background critical to the design? Are the horizontal rules part of the molecule?”
+
+Answering these questions helps to ensure that components follow through on design intent. For example, you might choose to specify some styles at the atomic level, instead of at the organism level, to make it easier to change those properties without changing the module itself.
+
+Involve users in the design process#section6
+
+Another critical aspect in establishing a shared understanding is involving people from different disciplines, as well as users, in the design process from the outset. When brainstorming and sketching together, we can’t help but talk about the design elements, so we inevitably make ontological decisions that help to strengthen and evolve the design language.
+
+Getting to the testing stage early is important, even if modules are presented as simple paper cards. Testing with ideas on cards is very different from our usual process, where we have a list of tasks and scenarios that we walk users through. Here, participants can pick up, move around, discuss, and scribble on the cards, actively becoming part of the design process. This gives us a chance to test our language choices and make sure that the functions we’ve defined make sense to our users.
+
+Three photographs of users reacting to large paper printouts of modules.
+User testing and participatory design with learners.
+Takeaways#section7
+A well-established language foundation is a powerful tool that allows teams to synthesize their efforts around implementing modular design. But the way a shared design language evolves is a piecemeal, gradual, and organic process. Every person on the team plays a role in making it more coherent. Going through the process of building a pattern library as a team is an effective way to establish a language foundation. Using a solid methodology, like atomic design, can speed up the process.
+
+Naming things together is a useful habit for your team to develop, because in the process of trying to give something a name that makes sense, you work out its function and, most importantly, reach consensus. The agreed-upon name determines how the element will be built and encourages consistent usage across the team. As Abby Coverts writes, “If you don’t get agreement up front, prepare for more work later.”
+
+Make an effort to refer to the elements by the name you agreed on—no matter how strange this might sound in everyday conversations. It takes more effort initially to call something a “whisper box” (yes, we have an element called “whisper box”) rather than “that thing with the lines and an icon in the middle.” But until you start referring to an element by its proper name, it doesn’t exist in your modular system as a solid, actionable block. Every time you use the name you agreed on, you strengthen the element you call on and evolve your design language.
+
+Put your language to the test outside of your team by using it throughout the company, with other teams, and with users. It’s always interesting to see what sticks—it’s a real kick when someone outside the product team starts using the name, too.
+
+Finally, remember that no language (aside from a few exceptions) exists in isolation. By evolving and strengthening your design language, you have an opportunity to contribute to the larger language of the web, and to help make it more consistent and coherent for everyone.
+
+**********
+
+The idea behind the hamburger menu is that you can use it to hide site navigation on smaller screens, showing it only when the user clicks the icon instead of always showing it (which was the previous norm).
+
+This design pattern accomplishes a major goal by preserving precious real estate on mobile, tablet, or other small screens, and it’s consistent with the logic of the progressive disclosure design pattern.
+
+Brilliant solution, right?
+
+The hamburger menu was so rapidly adopted and remains so beloved by digital designers that it may be too late to change course anytime soon. It’s built into every major front-end framework, every new WordPress theme, and pretty much every new site that’s been designed in the last couple of years.
+
+And that’s a really bad thing.
+
+Other designers often look at me like I’m crazy when I try to explain why the hamburger menu is often a bad idea. They take for granted that it’s the “One True Way” to handle navigation on small screens.
+
+In his article “Obvious Always Wins,” Luke Wroblewski, Product Director at Google, gives various before-and-after examples of the failures of apps that switched to hamburger-style navigation and the successes of those that switched away from it. 
+
+Probably the highest-profile case of hamburger failure came from NBC News, who got so excited about this hot (in 2014, anyway) navigation style that they used it on their desktop site as well, billing it as a triumph of “mobile first” design:
+
+But, as so often happens, the hamburger menu didn’t work.
+
+So they added an instructional overlay, to help users understand how to use their simple menu:
+
+As a last-ditch attempt to solve the problem, they made it yellow:
+
+Then, finally (as you can see on the promo at the bottom of the image above), they gave up and redesigned the navigation to a more traditional horizontal menu style, which has worked well for them and remains the same basic design they use today.
+
+Why is it so hard to shake the hamburger menu?
+
+Here are a few reasons why the design industry is having trouble giving up the hamburger menu:
+
+It’s a designer’s dream. What if we could take that awkward horizontal navigation and just make it disappear so we don’t have to deal with it on mobile devices? If it actually worked, it’d be heavenly.
+Designers are sometimes more focused on trends than logic. In 2014, all the sexy responsive sites jumped on the hamburger menu bandwagon, and it was proclaimed the next big thing. Anyone who was a cool designer started using it, because that’s what other cool designers used. (Not necessarily to be cool, because they assumed if someone big was using it, the thinking was already done.) They even started developing slick animations when perhaps they really should have been asking about the interaction logic and doing user testing.
+It’s built into everything now. The emergence of the hamburger menu icon coincided with the heavy adoption of front-end frameworks like Bootstrap and Foundation, both of which come with robust horizontal navigation solutions that default to a hamburger menu on mobile and even tablet form factors. To avoid using the hamburger menu when using these frameworks’ menu options, you’d actually have to hack the code to remove it, or custom code a new navigation setup from scratch.
+Unsexy news travels slowly. The news that we’d conquered the problem of converting navigation for mobile devices ripped through the industry like a zombie virus. It seemed like everyone started using it almost overnight. Unfortunately, interaction design theory, A/B testing, and metrics that challenge the mirage aren’t nearly as viral.
+Would anyone ever want this hamburger?
+
+It’s important to remember that there aren’t any universal rules in design. There are always exceptions.
+
+For example, a repetitive-use application with trained users (e.g., a medical application used by nurses throughout the course of the day) may be a valid scenario for using such an interface. “Power user” systems don’t always need to make things intuitive for new users, and sacrifices can and should sometimes be made in order to give additional benefits—such as information density—to experienced users.
+
+Another example might be (as seen in the Facebook example above) truly secondary navigation items. Once the most important elements have been explicitly listed for the user, you can scoop up all the miscellaneous additional stuff that nobody’s going to look for anyway and throw it under a low-priority hamburger menu.
+
+Universally declaring hamburger menus to be totally terrible is as bad as declaring them to be always awesome. Rules are no replacement for thinking. Consider the user, do the math, and figure out what actually makes the most sense.
