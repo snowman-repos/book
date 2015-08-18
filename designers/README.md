@@ -2113,3 +2113,114 @@ The fact is, we shouldn’t be thinking of client relationship management in ter
 The designers should be able to see their clients as an indispensable source of information and knowledge about the project, and conversely the clients should be able to find a trustworthy partner in the designers they hire.
 
 Can’t we all just get along?
+
+
+*********************
+
+Performance is User Experience | Designing for Performance
+designingforperformance.com
+Think about how you search for things on the Web. How quick are you to close a tab and go to the next search engine result if a site takes too long to load? If you’re searching for local weather or news, how likely is it that you’ll return to a site that waits forever to show relevant information on your screen? As you run errands and check your phone, how likely are you to have the patience to endure long load times as you try to check your email, compare prices, or search for directions? The less time you have, the higher your expectations are for a site to load quickly.
+
+Page speed is increasingly important for websites. If you’re looking for a page load time benchmark for your site, this is it: users expect pages to load in two seconds, and after three seconds, up to 40% of users will abandon your site. Moreover, 85% of mobile users expect sites to load at least as fast or faster than sites on their desktop. As you design and build a website, or as you examine your existing site, how are you stacking up against these expectations?
+
+Web performance is user experience. As you design and develop a new site, you’ll consider many components of its user experience: layout, hierarchy, intuitiveness, ease of use, and more. Your site’s experience determines how much your audience trusts your brand, returns to your site, and shares it with others. Page load time and how fast your site feels is a large part of this user experience and should be weighed equally with the aesthetics of your site.
+
+Let’s walk through some studies and data on how performance impacts end user experience.
+
+The overall user experience affects your audience’s impression of your brand. Akamai has reported that 75% of online shoppers who experience an issue such as a site freezing, crashing, taking too long to load, or having a convoluted checkout process will not buy from that site. Gomez studied online shopper behavior and found that 88% of online consumers are less likely to return to a site after a bad experience. The same study found that “at peak traffic times, more than 75% of online consumers left for a competitor’s site rather than suffer delays.” Are you losing users to your competitors’ sites as you compete in page load time and other aspects of your site’s user experience? Are you sure that your site is faster than your competitors’?
+
+Web performance impacts more than just ecommerce sites; improvements from page speed optimization apply to any kind of site. Users will return to faster sites, as evidenced in a study by Google that noted a decrease in searches by users who experienced a site slowdown. Users who experienced a 400-millisecond delay performed 0.44% fewer searches during the first three weeks and 0.76% fewer searches during the second three weeks of the experiment.
+
+Further, even when users who experienced the slowdown were removed from the experiment and saw the fast experience again, they took a while to return to their previous search usage level. The impact of page load time lasts even beyond the initial poor experience; users instinctively remember how it felt to browse that site and make choices about how often to return or use it afterward based on their experience.
+
+Additionally, page load time is factored into search engine results, bumping faster sites higher in the results list than slower sites. Google includes site speed in its search result ranking algorithm. Though Google makes it clear that it weighs content relevancy more heavily when ranking search results, page load time still contributes to the overall user experience of your site. Google wants to return results that are, overall, the best experience for its users.
+
+Ignoring the page speed of your site is more than just a missed opportunity; it could be detrimental to users remembering your brand. Microsoft conducted a study to see how users recall sites found in search results. A half hour after participants in the study entered a self-generated query into a search box, they received an emailed survey that asked them to recall the result list without referring back to it. The results of this survey showed that one of the two main factors affecting how likely a result was to be remembered was where in the result list it was ranked. Improving your page load time can improve your search engine result ranking, which is excellent for your brand.
+
+Brand and digital product designer Naomi Atkinson brilliantly describes how design agencies can leverage performance in their pitch to a client, saying, “a large percentage of agencies are missing out on a key selling point. Pitching how quick they plan on making their client’s website or service (and how), alongside their marketing and visual ideas, would make a world of difference. To their own success, and their clients.” Performance is part of the overall user experience, and can have a huge impact on a company’s brand.
+
+As more users move to mobile devices and more tasks move online, your site’s overall user experience increases in importance. When we look at data from StatCounter Global Stats, we can see that mobile is steadily increasing as a total percentage of Internet traffic (Figure 1-1).
+
+Some companies are already seeing this substantial increase in traffic from mobile devices; according to Mary Meeker’s Internet Trends report, 45% of transactions on Groupon came from mobile devices as of early 2013, which was up from less than 15% two years earlier. At Etsy, where I run the performance engineering team, 50% of user traffic comes from mobile devices as of early 2014.
+
+Figure 1-1
+Mobile % of Total Global Internet Traffic
+The percentage of mobile traffic is growing for nearly every site, and this will highlight page load time issues across the Internet, particularly for handset users. One study showed that handsets are the primary Internet access method for a vast number of global Internet users. Roughly 50% of Internet users in Africa and Asia are mobile-only, in contrast to 25% in the United States. This study classified “mobile-only” users as those who never or infrequently use the desktop Internet (the study included tablets in the “desktop” category). The bottom line: lots of people are primarily using handsets to access the Internet, and these devices present their own unique set of challenges.
+
+The first reason why handsets take longer to load web pages is how mobile data is transmitted. Before a mobile device can transmit or receive data, it has to establish a radio channel with the network (see Figure 1-2). This can take several seconds over a 3G connection. After the device talks to a radio tower to negotiate when it can transmit data, the network carrier must transmit data from the tower to its internal network and then to the public Internet. The combination of these steps can easily add tens to thousands of milliseconds of extra latency. Further, if there is no data transmitted or received on the radio channel, a timeout causes the channel to become idle. This requires a new channel to be established and the entire process to restart, potentially wreaking havoc on web page load times.
+
+Figure 1-2
+Mobile device connecting to a cell tower
+As Ilya Grigorik writes, “when it comes to your web browsing experience, it turns out that latency, not bandwidth, is likely the constraining factor today.” The more latency a user experiences, the longer it takes to make a round trip from the user’s device to get data, and the longer it will take for a page to completely load. We’ll walk through more about the basics of page speed in Chapter 2.
+
+What Are Latency and Bandwidth?
+
+Latency is the amount of time it takes for a packet of data to get from one point to another. For example, there is latency between the time it takes a host server to receive and process a request, and latency between the server sending an asset back and a browser receiving it. Latency is bound by fundamental physical properties (such as the speed of light). This delay is often measured in milliseconds (one millisecond is a thousandth of a second).
+
+Bandwidth is the maximum throughput of a communication path, such as how much data can be transferred at once over fiber-optic cables or your mobile carrier. As an analogy, a taxi and a bus on a shared route have the same latency, but the bus has higher bandwidth.
+
+While it’s true that networks are slowly getting faster over time, your users on mobile devices may currently have a painful experience trying to get your site to load. On a typical United States desktop using WiFi, a request’s average round trip takes just 50 milliseconds. This is the time it takes for a browser to send a request and the server to send a response over the network. However, on a mobile network, round-trip time can be more than 300 milliseconds. To get a feel for what this means: it’s about as slow as old dial-up connections.
+
+Add the round-trip time for each request it takes to load your site to the amount of time it takes to initially establish a radio channel with the network (potentially 1,000 to 2,000 milliseconds), and you can see how mobile network performance directly impacts your site’s user experience. Further, it’s hard to predict when wireless networks may be unreliable due to factors like a user being at a crowded event or in an area with poor reception.
+
+This means you really need to prioritize performance as you optimize your site’s design for mobile devices, as page load time has a significant impact on mobile users’ experience and how they choose to use your site. This is evidenced by a number of companies’ studies. My team at Etsy found an increased bounce rate of 12% on mobile devices when we added 160 KB of hidden images to a page. DoubleClick, a Google ad product, removed one client-side redirect and saw a 12% increase in click-through rate on mobile devices. One of the great parts about focusing on performance benefits for mobile users is that these optimizations will also benefit your users who visit your site on any kind of device.
+
+Your site’s user experience will be impacted by page load time, regardless of the type of device used to access it. However, a negative user experience due to slow load times will be exacerbated if your user is on a mobile device, thanks to poorer network speeds as well as the different behaviors that mobile users exhibit.
+
+A study by Google found that people use smartphones in the following contexts:
+
+On-the-go as well as at home
+To communicate and connect
+In short bursts of time
+When they need information quickly and immediately
+Tablets are similarly used for entertainment and browsing. Desktops, on the other hand, are used for more serious or research-intensive tasks. According to the study, smartphones are the most common starting place for the following online activities:
+
+Searching for specific information
+Browsing
+Shopping
+Social networking
+As you design a site, consider how easily users will be able to complete tasks like these given the amount of time they plan to spend on their device in this sitting, and how significantly their mobile network may affect their ability to do so. Also remember that mobile-only users have no choice but to use their phone for all types of tasks, and that all users dislike having their time wasted, regardless of the device they are using. Your design should be intuitive and easy to use, and it should also become interactive as quickly as possible, no matter the platform.
+
+Additionally, even when using WiFi on a handset, the user will likely have a slower experience due to antenna length and output power. WiFi can make use of more than one antenna at a time to send and receive signals; however, most smartphones aren’t configured to take advantage of the multipath technology. Further, the WiFi antennas in laptops and desktops are significantly longer than those in handsets.
+
+Handsets also attempt to be efficient with battery power (which is a big part of the smartphone user experience), and one way for them to conserve energy is by limiting the output of their radio. Desktops don’t run on battery power, so they are able to use WiFi without making the same modifications to WiFi strength. Lastly, most smartphones currently in circulation support older and slower WiFi standards, rather than the most recent standard, 802.11ac, which only newer handsets support.
+
+Many of the optimizations that improve page load time also improve device energy consumption, further improving the user experience. Things like WiFi signal strength, JavaScript rendering, and rendering of images all impact battery drain on mobile devices. In one study, researchers found that if Amazon converted all of its image files to JPEGs at 92% quality compression, it would save 20% of the energy needed to load its home page on an Android phone, and Facebook would save 30% doing the same. This change would positively impact the user experience by reducing energy consumption with no noticeable image quality loss. Another study found that up to 35% of page load time in the critical path is spent on computation like HTML parsing and JavaScript execution on mobile devices.
+
+The bottom line is that your efforts to optimize your site have an effect on the entire experience for your users, including battery life.
+
+The length of the delay between when users enter a URL, click a button, or select from a drop-down list and when the web page responds will affect their perception of the site. A delay of less than 100 milliseconds feels instant to a user, but a delay between 100 and 300 milliseconds is perceptible. A delay between 300 and 1,000 milliseconds makes the user feel like a machine is working, but if the delay is above 1,000 milliseconds, your user will likely start to mentally context-switch.
+
+These numbers matter because collectively we are designing sites with increasingly rich content: lots of dynamic elements, larger JavaScript files, beautiful animations, complex graphics, and more. You may focus on optimizing design and layout, but those can come at the expense of page speed. Some responsively designed sites are irresponsible with the amount of markup and images used to reformat a site for smaller screen sizes; they can unknowingly force their users to download unnecessary resources.
+
+Designers who implement responsive web design are already making decisions about how content is displayed across screen sizes; these kinds of decisions significantly impact page load time, and responsive web design is a huge opportunity to insert performance considerations into the design workflow.
+
+Think about your most recent design. How many different font weights were used? How many images did you use? How large were the image files, and what file formats did you use? How did your design affect the plan for markup and CSS structure?
+
+The decisions made by designers are what typically drive the rest of how a website is built. The initial design phase includes decisions about:
+
+Colors and gradients, which impact image format choices, transparency needs, how many sprites can be created, and how much CSS3 is used
+Layout, which impacts the HTML hierarchy, class and ID names, the repurposability of design patterns, and the organization of CSS
+Typography, which impacts the weight and number of included font files
+Design patterns, which impact what can be repurposed and cached across the site, how and when assets are loaded, and ease of editability by future designers or developers
+These kinds of decisions are often determined in the beginning of the product workflow, which is why they have a large impact on the final page load time. To illustrate this, let’s say we have an example logo that we are planning to overlay on a div with a light blue background, as shown in Figure 1-3.
+
+Figure 1-3
+Figure 1-3. This example logo has a transparent background, and will be overlaid on a div with a light blue background.
+The transparency and overlay requirements impact the file type and file size of this image. A designer who is considering page load time during the design stage can ask questions like, “What if I export it as a JPEG or PNG-8 with no transparency? What if I use a light blue matte on a PNG-8 file? How might that impact performance?” We can test exporting JPEG and PNG-8 versions and see the resulting file size for each in Figures 1-4 through 1-7.
+
+Figure 1-4. Original PNG-24 with transparency: 7.6 KB.
+Figure 1-5. PNG-8 with solid background: 5.0 KB.
+Figure 1-6. PNG-8 with matte: 2.7 KB.
+Figure 1-7. JPEG at 75% quality with solid background: 20.2 KB.
+In these tests we can see that the different file formats result in different sizes due to their solid backgrounds or transparency. We will cover more about image optimizations and weighing your options in Chapter 3.
+
+We have a huge opportunity to play around with potential performance wins and measure the impact of different design choices. In Chapter 3, we will cover how you can choose and compress a variety of image formats, and in Chapter 6 we’ll walk through how to measure and iterate on designs with page load time in mind.
+
+The performance of both new designs and redesigns are impacted by these kinds of decisions. Every existing site can be cleaned up and tested with performance in mind. On one site, I was able to cut page load time in half by cleaning CSS and optimizing images, normalizing site colors, and carefully reorganizing assets in an existing site template. Rather than redesigning the site, I simply focused on killing bloated HTML and CSS, which resulted in smaller HTML, CSS, and stylesheet image file sizes.
+
+You can read more about how to clean HTML and CSS with an eye on performance in Chapter 4.
+
+Even if your job title doesn’t include the word designer, if you are making decisions about the look and feel of a website, you are making decisions that directly impact the performance of that site. Performance is a shared responsibility, and everyone on your team impacts it. Considering performance when making design decisions will have an enormous impact on your users. Weighing aesthetics and performance should be paramount in your design workflow, which we will cover in Chapter 7. This is also a huge opportunity for various disciplines within an organization to collaborate; designers and developers can work together to create a phenomenal user experience.
+
+In the next chapter, we will walk through the basics of page load time, including how browsers fetch and render content. Understanding how your users’ browsers communicate with your hosted files, how the file size of your site’s files affect page load time, and how users perceive the performance of your site will significantly help you as you design a site and strive to find a balance between aesthetics and performance.
