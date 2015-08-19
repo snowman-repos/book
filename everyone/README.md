@@ -68,7 +68,7 @@ Generally speaking, the more communication the better; however, certain tasks, p
 
 #### Getting (and staying) in the Zone
 
-According to psychologist Mihaly Csikszentmihalyi, the following three conditions are required for smooth flow (a.k.a getting in the zone):
+According to psychologist Mihaly Csikszentmihalyi, the following three conditions are required for smooth flow (a.k.a being in the zone):
 
   1. One must be involved in an activity with a clear set of goals and progress. This adds direction and structure to the task.
 
