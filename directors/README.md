@@ -188,7 +188,7 @@ You represent the production team so you need to be acutely aware of how your cl
 
 For getting feedback from project owners, a phone call may suffice. However this is a very direct and personal form of communication so people may feel under pressure to provide overly-positive or dishonest feedback. It also means the feedback is more difficult to document. Of course positive feedback is great and you want to be able to share it with your team. But remember you're also looking for negative feedback. You can only learn from your mistakes so it's important to try and identify points of weakness in your service.
 
-A great way of getting useful and constructive feedback is to conduct quick stakeholder surveys. Project owners are likely to be busy and may consider your relationship over once the project is complete, so try to keep it short. You may consider running feedback surverys both during and after the project to compare how their opinions change.
+A great way of getting useful and constructive feedback is to conduct quick stakeholder surveys. Project owners are likely to be busy and may consider your relationship over once the project is complete, so try to keep it short. You may consider running feedback surveys both during and after the project to compare how their opinions change.
 
 Remember, as with any survey, to be specific. Refer directly to the original project goals and find ways to tease out quantifiable answers: yes or no answers to specific questions, ratings from 1 to 5 about areas of your service. By all means allow them to add more details if they are so inclined, but unless answers can be quantified then you'll have no way of measuring progress or improvement.
 
