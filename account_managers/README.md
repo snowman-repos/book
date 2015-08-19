@@ -157,7 +157,7 @@ You might want to break down the cost into design & development phases, costs fo
 So how can you accurately assess how much to charge the client? Whatever you do, don't charge hourly rates. This limits your potential revenue and presents plenty of other problems:
 * hourly rates have a ceiling - you can only charge so much until the client pushes back, regardless of whether the work is finished or not
 * hourly rates are limited by the fact that there are only so many billable hours in a year
-* hourly rates are too easy to compare but offer no reflection of the quality of services offered (e.g. you might charge $100 / hour compared with someone else who charges $95 / hour - on paper $95 seems more tempting, even though the production team may vary wildly.) - this may lead to clients trying to low ball you
+* hourly rates are too easy to compare but offer no reflection of the quality of services offered (e.g. you might charge $100 / hour compared with someone else who charges $95 / hour - on paper $95 seems more tempting, even though the production team may vary wildly.) - this may lead to clients trying to low-ball you
 * hourly rates mean you're selling time, not results, and it's results that clients care about
 * clients may become stressed as they worry about every single hour you and your team are working
 
