@@ -250,13 +250,7 @@ These questions should be specific and measurable. As you get more project notch
 
 
 The Art of Creating Accurate Estimates
-A List Apart · by Matt Griffin
- Matt Griffin on How We Work
-The Art of Creating Accurate Estimates
 
-June 18, 2015 · Published in Process, Business ·
-
-A note from the editors: Part three of a four-part series about the money side of businesses that build the web.
 
 The estimates. Good gravy, people, the estimates. Is there anything more terrifying in this business than when you have to go on record saying how long it’s going to take to do a thing that (frequently) you’ve never done before? Estimates, after all, are the logical result of a series of questions that raise more questions. “How much will this cost?” leads to “What is it we’re doing?” which is followed by “How long will it take?”
 
