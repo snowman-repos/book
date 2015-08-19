@@ -91,7 +91,7 @@ Ultimately, your organisation has to be aware of its overall customer/user exper
 
 ## Know your users/customers
 
-Your web project needs to target a specific set of the population. You need to learn about them and understand their behaviour in order to make your project appeal to them specifically. So before you can learn about them, you need to find out who they are.
+Your web project needs to target a specific set of the population. You may decide to build a prototype first and use that to gather data about your users that you can then use to incrementally improve it, or alternatively you may conduct surveys before even engaging a production team. Either way, at some point you certainly need to learn about your users and understand their behaviour in order to make your project appeal to them specifically. So before you can learn about them, you need to find out who they are.
 
 ### Find out who they are
 
