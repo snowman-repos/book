@@ -169,7 +169,7 @@ Better still is a way that's also perhaps easier to estimate and is known as val
 
 At the very least, you should offer a fixed price on a per-project basis. The client knows the cost up-front, which also makes it easier for them to compare you with other vendors. Meanwhile you can focus your offering around the return on investment so that the client focuses on the result and not on the time or cost.
 
-Estimating costs can 
+Estimating costs can be made easier through time tracking.
 
 Always get a deposit at the start of a project. A deposit shows that the client is willing and able to pay, and tells them that you won't work without being paid. The size of deposit you ask for depends on the size of the project. Very big or lengthy projects may require ongoing payment instalments. If a client is reluctant to pay a deposit, then you shouldn't work with them, plain and simple. Chances are they aren't serious and probably won't pay later anyway.
 
