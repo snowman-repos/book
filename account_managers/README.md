@@ -177,7 +177,7 @@ The big question is whether the work you are producing is worth more than the mo
 
 No matter what method you use to determine pricing, you must admit that you're not going to get it right all of the time; it takes good ol' trial and error. There will inevitably changes to the scope, some projects more than others, and the different projects and project owners will present different challenges. It may be a good idea, particularly if you're quoting a fixed fee, to add a 10-20% contingency.
 
-Remember that the changing industry is not just the design tools and development practices.
+Remember that the changing industry is not just the design tools, the coding languages, and development practices.
 
 Always get a deposit at the start of a project. A deposit shows that the client is willing and able to pay, and tells them that you won't work without being paid. The size of deposit you ask for depends on the size of the project. Very big or lengthy projects may require ongoing payment instalments. If a client is reluctant to pay a deposit, then you shouldn't work with them, plain and simple. Chances are they aren't serious and probably won't pay later anyway.
 
