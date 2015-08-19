@@ -249,35 +249,9 @@ These questions should be specific and measurable. As you get more project notch
 **************
 
 
-The Art of Creating Accurate Estimates
 
 
-The estimates. Good gravy, people, the estimates. Is there anything more terrifying in this business than when you have to go on record saying how long it’s going to take to do a thing that (frequently) you’ve never done before? Estimates, after all, are the logical result of a series of questions that raise more questions. “How much will this cost?” leads to “What is it we’re doing?” which is followed by “How long will it take?”
 
-Article Continues Below
-Share This:
-
-Twitter
-Facebook
-Google+
-Nest Thermostat
-Nest Thermostat - World’s 1st Learning Thermostat. Programs Itself. Free Shipping!
-
-Ad via The Deck
-
-Job Board
-
-Job listings via We Work Remotely
-
-And no matter how risky it may seem to come up with answers to this last question, it’s an expected part of the client services business. How else would our prospective clients know what they’re going to have to pay us? Without this knowledge, they’d likely never take the leap and agree to become actual clients. (Which, as you may know, is kind of important to this whole thing we do.)
-
-Likewise, without good estimates, we can’t schedule our time. We wouldn’t know when projects end and when new ones can begin. Kind of crucial, right?
-
-So why does estimating incite such raging fear in our hearts?
-
-Quick show of hands: who thinks they’re really good at creating consistently accurate estimates? Yep, that’s what I thought.
-
-The quality of an estimate stems primarily from how closely it represents reality. There are several challenges to creating accurate estimates.
 
 My experience is that most estimates (particularly those that are written with less experience to back up their assumptions) come from a place of optimism. We imagine doing a series of tasks in the best possible circumstances. We ignore unknowns, and all the resultant extra work that may arise from them.
 
