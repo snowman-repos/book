@@ -24,7 +24,7 @@ Examples of good project KPIs might be:
 
 * increase conversions by 5%
 * reduce time spent by customer service responding to inquiries
-* increase subsciptions
+* increase subscriptions
 * generate 10% more traffic
 * improve Google search results position for X keyword
 
