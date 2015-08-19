@@ -258,7 +258,7 @@ The big question in this kind of arrangement, then, isn’t “Will we ship that
 contingency budget. 10-20%?
 
 collaborative pricing:, e.g. Ben Callahan, president of Sparkbox
-Then we’ll quickly put together a Google Spreadsheet that breaks down the work in a way we believe is reasonable given our current understanding… The idea is that we can work with our clients to find a budget, scope, and timeline that is mutually beneficial.
+Then we’ll quickly put together a Google Spreadsheet that breaks down the work in a way we believe is reasonable given our current understanding… The idea is that we can work with our clients to find a budget, scope, and timeline that is mutually beneficial. The most helpful part of estimating in this way is that it makes the very first interaction we have with our customer one of collaboration.
 
 **change requests:**
 
