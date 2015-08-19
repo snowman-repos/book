@@ -189,7 +189,7 @@ Support usually involves setting an example. Your team puts together the initial
 
 By fostering collaboration post-hand-off, you help the project owner use the product more effectively and grow their business. This also helps to alleviate the panic that naturally comes with going live because they know you'll be on hand to fix, test, and tweak. You may even find that gradually support agreements start make up a core part of your organisation's revenue and help to bring in repeat work as you are engaged to continuously update the products you build. As well as helping your clients' businesses to succeed, this makes the web a better place as a whole as those parts of it that you have put online always remain the best they can be. It's evolution, not revolution, as constant updates keep the product ahead of the curve rather than allowing it to become decrepit, forcing a difficult and expensive overhaul or redesign.
 
-## Working Colaboratively
+## Working Collaboratively
 
 As we've already stated, the success of the web project depends on the project owner's ongoing investment. A good way to make them more personally invested, having a true sense of ownership, is having them involved in the actual production work. By this we mean sitting down with them and your production team together, at least during the planning stage of each project phase. Your team have the technical expertise and are the ones putting everything together, but by having your client, the one with the business expertise, physically present you can make use of your insight while they gain a better understanding of all strategic decisions that will equip them to maintain the product going forward.
 
