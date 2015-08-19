@@ -104,7 +104,7 @@ The best way to learn is through practice and so side projects should be encoura
 
 ### Feedback
 
-Just like you want to know what the project owners think about the work you produce, your team wants to know what _you_ think about the work they produce. Afterall, how can they improve their work without qualified feedback? Providing feedback not only helps people focus their learning activities and consider more their own performance, it also makes them feel valued. It shows them that you are interested in their performance and you want to invest in their improvement.
+Just like you want to know what the project owners think about the work you produce, your team wants to know what _you_ think about the work they produce. After all, how can they improve their work without qualified feedback? Providing feedback not only helps people focus their learning activities and consider more their own performance, it also makes them feel valued. It shows them that you are interested in their performance and you want to invest in their improvement.
 
 Of course, like we talking about throughout this book, feedback needs to be structured. Start off with a job description or an explicit list of expectations in terms of tasks and responsibilities. Use the job description to asses how the person is performing those tasks and undertaking those responsibilities. If you are not in a position to assess every aspect of the person's performance, then delegate to somebody who is; for example, code reviews should be done by someone who has at least an equal understanding of the code the person has written. Also consider what practical advice you may be able to give the person in order to improve their performance, even if they are already outstanding.
 
