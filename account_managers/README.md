@@ -257,6 +257,9 @@ The big question in this kind of arrangement, then, isn’t “Will we ship that
 
 contingency budget. 10-20%?
 
+collaborative pricing:, e.g. Ben Callahan, president of Sparkbox
+Then we’ll quickly put together a Google Spreadsheet that breaks down the work in a way we believe is reasonable given our current understanding… The idea is that we can work with our clients to find a budget, scope, and timeline that is mutually beneficial.
+
 **change requests:**
 
 In these scenarios, the scope and work products tend to be more open-ended. We’ll have a prioritized list of things to work on, and we’ll work our way down it—with the understanding that the list may change as we gain more knowledge and new facts present themselves throughout the project. Again, we’re always focused on maximizing our value to the client, so if something more important has appeared, we won’t just keep plugging away at a task because that’s what the contract has bound us to.
