@@ -205,7 +205,7 @@ In your initial meetings with or spec document for your production team, you sho
 * what kind of design style or theme you're hoping for, what you like or dislike about your competitors' styles and themes
 * what specific features or functionality you need them to produce
 * any hard deadlines you may have for certain features
-* how you will measure success of the product they build - e.g. site visits, customer acquisition rate, revenue etc.
+* how you intend to measure success of the product they build - e.g. site visits, customer acquisition rate, revenue etc.
 
 For an example of a requirements document to pass to your production team, please see _**Appendix A** - Requirements Document_.
 
