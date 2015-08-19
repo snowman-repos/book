@@ -255,7 +255,7 @@ time tracker. past experience doesn't necessarily indicate the time required for
 
 The big question in this kind of arrangement, then, isn’t “Will we ship that thing on time?” Rather, it’s “Is the work we’re doing worth more than the money our client is spending on us?” If the answer is yes, then the value is clear, and the details about the exact work product or deliverables become less important. If the answer is no, then it’s likely a bad match and you should shift your focus, or they should look for another vendor.
 
-contingency budget.
+contingency budget. 10-20%?
 
 **change requests:**
 
