@@ -173,6 +173,8 @@ Estimating costs can be made easier through time tracking. While past experience
 
 The big question is whether the work you are producing is worth more than the money your client is spending. If yes then the value is clear and the details about what exactly your team is going to do become less important. If no then perhaps you need to shift your focus or the client needs to find someone else to undertake their project.
 
+No matter what method you use to determine pricing
+
 Always get a deposit at the start of a project. A deposit shows that the client is willing and able to pay, and tells them that you won't work without being paid. The size of deposit you ask for depends on the size of the project. Very big or lengthy projects may require ongoing payment instalments. If a client is reluctant to pay a deposit, then you shouldn't work with them, plain and simple. Chances are they aren't serious and probably won't pay later anyway.
 
 ***
