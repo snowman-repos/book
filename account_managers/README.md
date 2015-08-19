@@ -272,18 +272,6 @@ This approach tends to bring us closer to an agile process, where our ship date 
 
 
 
-For one thing, we can plan for what to do when things go worse than we imagined. In my experience, people who build things (web things included) are often optimists. Why else would we agree to dive into the unknown again and again with each project?
-
-Paul Ford’s epic article for Bloomberg, “What Is Code,” sums up the problem of estimation optimism fairly well:
-
-You ask the universal framing question: “Did you cost these options?”
-
-He gives you a number and a date. You know in your soul that the number is half of what it should be and that the project will go a year over schedule.
-Clearly, we must plan for when things go less than ideally.
-
-In hourly projects, we borrowed an idea from our friends at Sparkbox and include a 20 percent contingency budget on every project. The contingency budget is a line item like everything else, but we never track time against it. It just balances out against overages from other line items. It covers our butts when things take longer than expected.
-
-Likewise on weekly projects, it often makes sense to not densely pack every week of the schedule. Having a penultimate week on the project that’s focused on things like “polish” or “fit and finish” can keep you out of trouble when something goes awry. And if everything goes smoothly, great! When could you not use an extra week to tighten the screws, refine UIs and interactions, test on a few more devices, or create documentation for the client team and—heck—your future self?
 
 Reaching across the aisle#section13
 
