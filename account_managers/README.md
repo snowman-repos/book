@@ -258,7 +258,7 @@ The big question in this kind of arrangement, then, isn’t “Will we ship that
 contingency budget. 10-20%?
 
 collaborative pricing:, e.g. Ben Callahan, president of Sparkbox
-Then we’ll quickly put together a Google Spreadsheet that breaks down the work in a way we believe is reasonable given our current understanding… The idea is that we can work with our clients to find a budget, scope, and timeline that is mutually beneficial. The most helpful part of estimating in this way is that it makes the very first interaction we have with our customer one of collaboration.
+Then we’ll quickly put together a Google Spreadsheet that breaks down the work in a way we believe is reasonable given our current understanding… The idea is that we can work with our clients to find a budget, scope, and timeline that is mutually beneficial. The most helpful part of estimating in this way is that it makes the very first interaction we have with our customer one of collaboration. Exposing the machinery of an estimate helps to demystify the process. It sets up a more collaborative relationship from the beginning, discourages adversarial behavior, and builds trust. These, my friends, are things of which a good client relationship is made.
 
 **change requests:**
 
@@ -276,13 +276,6 @@ This approach tends to bring us closer to an agile process, where our ship date 
 
 
 
-
-Says Ben Callahan, president of Sparkbox:
-
-Lately we’ve been experimenting with an idea called “Collaborative Pricing.” It typically starts with an email from a potential customer where they’re answering a few key questions about budget, timeline, and scope. Our next step is to clarify any major questions we have based on the information we’ve been given. Then we’ll quickly put together a Google Spreadsheet that breaks down the work in a way we believe is reasonable given our current understanding… The idea is that we can work with our clients to find a budget, scope, and timeline that is mutually beneficial. We use Google Spreadsheets because it allows real-time collaboration but is also intuitive for anyone familiar with Excel or Numbers. The most helpful part of estimating in this way is that it makes the very first interaction we have with our customer one of collaboration.
-Sounds pretty great, right? It encourages our clients to start prioritizing their resources (us) from the beginning. Do they want to pour extra hours into one feature instead of another? Do they want to cut something that doesn’t seem worth it, so they can add more budget to another area? Can they take a section or set of tasks off our plate (for instance, usability testing recruiting or QA) because they can assign internal resources to cover it?
-
-Exposing the machinery of an estimate helps to demystify the process. It sets up a more collaborative relationship from the beginning, discourages adversarial behavior, and builds trust. These, my friends, are things of which a good client relationship is made.
 
 Yeah great but how much does it cost?#section14
 
