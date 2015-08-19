@@ -112,7 +112,7 @@ It's important to clearly and precisely state who will contribute what to the pr
 
 Similarly you must agree with the client when they will provide feedback to you. If your team are forced to proceed with their work without having had feedback then they are at risk of producing new features based on outdated requirements that may be subject to change. The client must be made to understand this and commit to a regular communication schedule. If you have already done the same then it goes a long way towards building a mutual trust relationship.
 
-Aside from you and your client, all team members should be listed along with their specific responsibilities. This makes it clear to everyone involved in the project exactly who needs to do what.
+Aside from you, your client, and all project stakeholders, all production team members should be listed along with their specific responsibilities. This makes it clear to everyone involved in the project exactly who needs to do what.
 
 In cases where there is a gap in your team's available roles and you are unable to fulfill the requirements, you may need to consider outsourcing. It's always better to be up front about this front the start. There's no shame in temporarily extending your team to meet the requirements, as long as you can assure quality control. Going back to communication, you will need to reassure your client if you need to outsource part of the project. The very word "outsource" portrays connotations of cheapness, like you are taking part of their project and sending it somewhere else without much oversight. Make sure you outsource only to people you trust who possess skills that are on a par with those of your team.
 
