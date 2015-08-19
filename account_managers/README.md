@@ -181,9 +181,7 @@ Always get a deposit at the start of a project. A deposit shows that the client 
 
 ***
 
-
-collaborative pricing:, e.g. Ben Callahan, president of Sparkbox
-Then we’ll quickly put together a Google Spreadsheet that breaks down the work in a way we believe is reasonable given our current understanding… The idea is that we can work with our clients to find a budget, scope, and timeline that is mutually beneficial. The most helpful part of estimating in this way is that it makes the very first interaction we have with our customer one of collaboration. Exposing the machinery of an estimate helps to demystify the process. It sets up a more collaborative relationship from the beginning, discourages adversarial behavior, and builds trust. These, my friends, are things of which a good client relationship is made.
+Exposing the machinery of an estimate helps to demystify the process. It sets up a more collaborative relationship from the beginning, discourages adversarial behavior, and builds trust. These, my friends, are things of which a good client relationship is made.
 
 Just as there is no single good way to set pricing, there is no single good way to estimate. You’ll need to do some trial and error to see what works for you, your communication style, your design and development process, and your clients.
 
