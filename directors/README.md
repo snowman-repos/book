@@ -140,7 +140,7 @@ Finally, make a note of each training session, including the date, the topic, wh
 
 #### Execute
 
-It's important that training is carried out with a certain measure of discipline to highlight its importance. It requires a suitable environment, preferably one separate from people's ordinary work environment. A quiet cafe, bar or restaurant could work, but a closed off meeting or conference room is ideal. Let everyone know that training sessions should not be interrupted; just as with working on a complex problem, even minor distractions can turn out to be a major disruption. Everyone should agree that attendance is mandatory and exceptions or rescheduling should only happen in extreme circumstances. Any distractions such as phones and laptops should be turned off.
+It's important that training is carried out with a certain measure of discipline to highlight its importance. It requires a suitable environment, preferably one separate from people's ordinary work environment. A quiet café, bar or restaurant could work, but a closed off meeting or conference room is ideal. Let everyone know that training sessions should not be interrupted; just as with working on a complex problem, even minor distractions can turn out to be a major disruption. Everyone should agree that attendance is mandatory and exceptions or rescheduling should only happen in extreme circumstances. Any distractions such as phones and laptops should be turned off.
 
 If you're working in a distributed team or have off-site team members, you could share the benefit of training with them by recording it or providing a live feed via Skype or Google Hangouts or some such. Encourage them to also take part or watch whilst in a quiet and comfortable environment.
 
