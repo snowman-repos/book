@@ -103,13 +103,13 @@ Note that any surveys or questions you ask potential users need to be constraine
 
 Remember to ask open-ended questions that encourage people to share as much as possible. If you are testing users in front of a live product then ask them to demonstrate their experience and difficulties. Ask them to explain their experiences with competitor organisations.
 
-The objective here is to gain a fundemental understanding of potential users, not to be exhaustive. From this basic information your production team should be able to extrapolate more details later. By gathering this information about your potential users, the users are by proxy involved in the project's design and build process.
+The objective here is to gain a fundamental understanding of potential users, not to be exhaustive. From this basic information your production team should be able to extrapolate more details later. By gathering this information about your potential users, the users are by proxy involved in the project's design and build process.
 
 The user data you've collected will form representations of various types of user that your production team can use. These representations are called _“personas”_.
 
 ### Developing personas
 
-For each persona, create a document that your production team may reference. By all means personalise the personas - give them names and make them sound like real, interesting people. Maybe even provide photos and personal naratives for each persona? You are sharing with your team the knowledge you have about your potential users and so it needs to be engaging; those potential users need to constantly be in the minds of your designers and developers to ensure that what they are creating is going to be exactly what your users will want. Of course, it's up to you whether you want to hire an outside agency or consultant to do this for you. Each persona document should have the following sections:
+For each persona, create a document that your production team may reference. By all means personalise the personas - give them names and make them sound like real, interesting people. Maybe even provide photos and personal narratives for each persona? You are sharing with your team the knowledge you have about your potential users and so it needs to be engaging; those potential users need to constantly be in the minds of your designers and developers to ensure that what they are creating is going to be exactly what your users will want. Of course, it's up to you whether you want to hire an outside agency or consultant to do this for you. Each persona document should have the following sections:
 
 * **Overview**
 
@@ -128,7 +128,7 @@ For each persona, create a document that your production team may reference. By 
 
 * **Attitudes and motivations**
 
-  Why are they choosing to enage with your website or app? Why not competitors? Are they also engaging with competitors? What do they think about your organisation and your competitors?
+  Why are they choosing to engage with *your* website or app? Why not competitors? Are they also engaging with competitors? What do they think about your organisation and your competitors?
 
 
 * **Processes**
