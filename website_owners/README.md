@@ -4,13 +4,13 @@ _Reading time ~ 35 minutes_
 
 Your role is the most important. You may think that you're paying a production team to do all the hard work and take it out of your hands but unfortunately that simply isn't the case. If you were opening a shop you wouldn't expect the painters & decorators to establish your product display, prices, general business practices, hire staff etc. Before embarking on this project you need to have a detailed plan, not just about what kind of web project you want but how you plan to use it, how you plan to maintain and grow it, who will use it, and what they will use it for. There is an awful lot to think about and you need to accurately convey those thoughts to your production team.
 
-The ultimate success of the web project starts and ends with you. How much you care about it, and how much resources you spend on it will be obvious to the end user. Even a brilliant production team using rhobust technology may produce a failed project if there are organisational issues at your end.
+The ultimate success of the web project starts and ends with you. How much you care about it, and how much resources you spend on it will be obvious to the end user. Even a brilliant production team using robust technology may produce a failed project if there are organisational issues at your end.
 
 ## What is a web project?
 
 Wait... didn't we cover this in the first chapter? Yes, but that was more of a cold and impersonal definition. Here we're talking about what a web project could be in the context of your business or organisation. Websites were once seen as simply a marketing tool but are increasingly becoming more business-critical and central to many organisations.
 
-Your web project is a longterm investment in your organisation. Indeed it's not a cheap investment and so does need to be vigilantly cared for and maintained in order to maximise the return on that investment.
+Your web project is a long-term investment in your organisation. Indeed it's not a cheap investment and so does need to be vigilantly cared for and maintained in order to maximise the return on that investment.
 
 Seth Godin came up with a brilliant analogy that a website is not like a building, with rigid timelines within which architects draw up plans and engineers build a fixed solid structure. A website, he says, is more like a garden. It develops over a long time, getting better with more time and care. They grow and have to be trimmed, pruned, and replanted. They change with the seasons, gain personality, and reflect their environment. They can never be perfect and may always have messy or dirty bits, but ultimately with a little light, good drainage, and a passionate gardener they can be a thing of beauty. It really is a great analogy - by all means build but never finish or walk away.
 
@@ -33,7 +33,7 @@ Available features need to be closely aligned with your business goals. There is
 
 Data drives business decisions and so the earlier you can collect data and the more data you can collect, the more successful the project will be for your business or organisation.
 
-A web project requires **continued investment** in order to be successul. Until your project is launched you won't be able to learn anything about your real users or their behaviour. You won't be able to identify your project's strengths and weaknesses.
+A web project requires **continued investment** in order to be successful. Until your project is launched you won't be able to learn anything about your real users or their behaviour. You won't be able to identify your project's strengths and weaknesses.
 
 ### What is it all for?
 
