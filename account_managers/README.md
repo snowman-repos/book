@@ -268,13 +268,7 @@ This approach tends to bring us closer to an agile process, where our ship date 
 
 
 
-Easing the pain#section11
 
-It’s not just in estimating scope that we encounter trouble. As Woody Allen famously said, “If you want to make God laugh, tell him about your plans.” No matter how we go about making estimates of things, it’s rarely foolproof.
-
-So what else can we do to ease the pain of estimating?
-
-Plan for the fan to be hit#section12
 
 For one thing, we can plan for what to do when things go worse than we imagined. In my experience, people who build things (web things included) are often optimists. Why else would we agree to dive into the unknown again and again with each project?
 
