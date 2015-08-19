@@ -142,7 +142,8 @@ There are various solutions. You may want to state a specific number of permitte
 
 If of course you and a client are not a good fit, you may find yourself faced with multiple revision requests to the point where it is no longer worth your time. It is important to recognize when to walk away from a project.
 
-It's important that both sides recognise 
+It's important that both sides recognise that ultimately scope is open-ended. You'll start off with a list of things to work on but there should be a mutual understanding that 
+
 In these scenarios, the scope and work products tend to be more open-ended. We’ll have a prioritized list of things to work on, and we’ll work our way down it—with the understanding that the list may change as we gain more knowledge and new facts present themselves throughout the project. Again, we’re always focused on maximizing our value to the client, so if something more important has appeared, we won’t just keep plugging away at a task because that’s what the contract has bound us to.
 
 This approach tends to bring us closer to an agile process, where our ship date is fixed, but the work product and deliverables are variable. This approach requires a certain amount of trust and empathy on both sides. Everyone needs to understand that none of us can guarantee exactly what’s going to be delivered at the end of the engagement. It may be scary, but this uncertainty is tempered by a different kind of increased control on the client side: they can continue to reprioritize and redirect us throughout the project, without negotiating change orders.
