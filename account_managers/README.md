@@ -251,7 +251,7 @@ These questions should be specific and measurable. As you get more project notch
 
 
 
-time tracker. past experience doesn't necessarily indicate the time required for similar tasks/projects.
+time tracker. past experience doesn't necessarily indicate the time required for similar tasks/projects. question all guesstimates.
 
 
 
