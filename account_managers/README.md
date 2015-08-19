@@ -253,39 +253,7 @@ These questions should be specific and measurable. As you get more project notch
 
 
 
-My experience is that most estimates (particularly those that are written with less experience to back up their assumptions) come from a place of optimism. We imagine doing a series of tasks in the best possible circumstances. We ignore unknowns, and all the resultant extra work that may arise from them.
 
-Sadly, this is rarely representative of the world we live in, and leads to underestimating.
-
-On the other hand, perhaps we’ve had a very difficult experience with a similar task. Perhaps it was due to circumstances that, though they were truly miserable, are unlikely to be repeated. In that case, our historical anxiety comes rushing to the fore and unrealistically colors our expectations, causing us to estimate far too high.
-
-Or—as is often the case with unique and complex problems—if we have very little experience to draw on, we may simply take a shot in the dark. Have we estimated too high? Too low? Who could possibly know?
-
-There are, thank goodness, a few things we can do to alleviate these problems. So let’s look at two possible ways to go about it, which I’ll refer to as “scope to time” and “time to scope.”
-
-Scope to time#section2
-
-The scope to time conversion is a pretty standard, traditional estimating exercise. Given some fixed scope of features and deliverables, how long will it take to perform each task? For websites, we try to understand scope-defining things like:
-
-How many templates are we designing?
-How many rounds of design revisions?
-What are the development features (e.g. is there a newsletter sign-up, a t-shirt purchasing system, integration with a fulfillment house API, etc.)?
-What are the limits of browser testing (e.g. IE6, IE7, IE8)?
-Once we think we understand all the things we’ll have to do, we try to make up numbers that represent how long it will take to do each thing. But before making a calculation (or guess), we must first think about what kind of timescale we want to work with.
-
-That timescale tho#section3
-
-Timescales are lenses through which we can look at a task. I’ve found that which lens we choose can have a profound effect on our estimations.
-
-Consider a task such as creating an element collage for a new client. We could potentially estimate time in terms of minutes, hours, days, weeks, months, or even years. Let’s take the extremes first. How many minutes does it take? I don’t know. Lots. How many years? I don’t know. Some small fraction, I guess. OK, how many hours? 10? 15 maybe? 8? Those all sound kind of right. Days? Well, 2 to 3 sounds good.
-
-But 2 to 3 days at 6 hours each is 12 to 18 hours. Which is higher than 10 to 15. So which is right? My hunch is that when we think about an hour, we’re not looking at the right scale. Because the difference between a good hour and a bad hour can be wildly different. I’ve had an hour where I’ve accomplished almost nothing tangible. I tried things that failed; I got stumped on some problem to which an answer revealed itself only later; I was maybe just in a bad mental space at that time. I’ve had other hours where I’ve had great insights, closed ticket after ticket, made a huge dent in a project. The thing is that every day is made up of some of both of these hours. So when I think about what I can get done in a certain timescale, I remember that a day or a week is made of good and bad hours, and what that averages out to. What can I do in an hour? Somewhere between very little and a lot. In a day? A reasonable chunk of a thing.
-
-On the other hand, at very large timescales—say months or years—my brain starts telling me that the chunk of time is approaching infinity. What can I do in a year? Everything! Which of course is not true, and is in fact a very dangerous assumption to make. Even very big numbers have an end. And to find those ends, we need to ratchet down our timescale.
-
-This is why, in general, I find the middle timescales (days and weeks) the best for conceptualizing how much we can get done. Questions like “How many days will it take to build out a feature?” or “How many wireframes can I complete in a week?” tend to get me on the right path.
-
-In addition to that, experience can help a lot. The more work we complete in our careers, the more data we potentially have to check our assumptions.
 
 Condemned to repeat it#section4
 
