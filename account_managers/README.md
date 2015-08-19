@@ -253,15 +253,20 @@ These questions should be specific and measurable. As you get more project notch
 
 time tracker. past experience doesn't necessarily indicate the time required for similar tasks/projects. question all guesstimates. client-given constraints may relieve you of the need to create this kind of estimate - things like budget and hard deadlines - just find out what features you can confidently build within those constraints. with experience you may have an average weekly/monthly rate. clients may feel uncomfortable sharing budgets - you'll just ask for it all right? explain to them why you need these constraints. explain the mechanics of your cost and that you need to determine how much of your team's time they are able/comfortable to pay for.
 
+The big question in this kind of arrangement, then, isn’t “Will we ship that thing on time?” Rather, it’s “Is the work we’re doing worth more than the money our client is spending on us?” If the answer is yes, then the value is clear, and the details about the exact work product or deliverables become less important. If the answer is no, then it’s likely a bad match and you should shift your focus, or they should look for another vendor.
+
 **change requests:**
 
 In these scenarios, the scope and work products tend to be more open-ended. We’ll have a prioritized list of things to work on, and we’ll work our way down it—with the understanding that the list may change as we gain more knowledge and new facts present themselves throughout the project. Again, we’re always focused on maximizing our value to the client, so if something more important has appeared, we won’t just keep plugging away at a task because that’s what the contract has bound us to.
 
 This approach tends to bring us closer to an agile process, where our ship date is fixed, but the work product and deliverables are variable. This approach requires a certain amount of trust and empathy on both sides. Everyone needs to understand that none of us can guarantee exactly what’s going to be delivered at the end of the engagement. It may be scary, but this uncertainty is tempered by a different kind of increased control on the client side: they can continue to reprioritize and redirect us throughout the project, without negotiating change orders.
 
-That isn’t to say we rush into these projects with no plan. Far from it. But we admit that our plans are imperfect and subject to change. Frequently we begin these projects with a research phase to define the rest of the project (or perhaps to define a second phase).
 
-The big question in this kind of arrangement, then, isn’t “Will we ship that thing on time?” Rather, it’s “Is the work we’re doing worth more than the money our client is spending on us?” If the answer is yes, then the value is clear, and the details about the exact work product or deliverables become less important. If the answer is no, then it’s likely a bad match and you should shift your focus, or they should look for another vendor.
+
+
+
+
+
 
 Easing the pain#section11
 
