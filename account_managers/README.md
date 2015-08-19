@@ -242,26 +242,3 @@ Given this list, you will want to formulate questions that asses the client's pe
 * Any other comments?
 
 These questions should be specific and measurable. As you get more project notches on your client management bedpost, you will be able to review and consider your own performance.
-
-
-
-
-
-
-**************
-
-
-**budgets:**
-
-time tracker. past experience doesn't necessarily indicate the time required for similar tasks/projects. question all guesstimates. client-given constraints may relieve you of the need to create this kind of estimate - things like budget and hard deadlines - just find out what features you can confidently build within those constraints. with experience you may have an average weekly/monthly rate. clients may feel uncomfortable sharing budgets - you'll just ask for it all right? explain to them why you need these constraints. explain the mechanics of your cost and that you need to determine how much of your team's time they are able/comfortable to pay for.
-
-The big question in this kind of arrangement, then, isn’t “Will we ship that thing on time?” Rather, it’s “Is the work we’re doing worth more than the money our client is spending on us?” If the answer is yes, then the value is clear, and the details about the exact work product or deliverables become less important. If the answer is no, then it’s likely a bad match and you should shift your focus, or they should look for another vendor.
-
-contingency budget. 10-20%?
-
-collaborative pricing:, e.g. Ben Callahan, president of Sparkbox
-Then we’ll quickly put together a Google Spreadsheet that breaks down the work in a way we believe is reasonable given our current understanding… The idea is that we can work with our clients to find a budget, scope, and timeline that is mutually beneficial. The most helpful part of estimating in this way is that it makes the very first interaction we have with our customer one of collaboration. Exposing the machinery of an estimate helps to demystify the process. It sets up a more collaborative relationship from the beginning, discourages adversarial behavior, and builds trust. These, my friends, are things of which a good client relationship is made.
-
-Just as there is no single good way to set pricing, there is no single good way to estimate. You’ll need to do some trial and error to see what works for you, your communication style, your design and development process, and your clients.
-
-The web is always changing and so, it seems, is everything else in our industry. So don’t be afraid to experiment and try new things. If all goes well, you’ll have plenty of opportunities to try again, and refine your estimating process with each project. You may also find that as your organization grows, what worked before no longer does, and that a new approach is suddenly more suited to you.
