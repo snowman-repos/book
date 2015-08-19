@@ -181,7 +181,7 @@ Always get a deposit at the start of a project. A deposit shows that the client 
 
 ***
 
-Exposing the machinery of an estimate helps to demystify the process. It sets up a more collaborative relationship from the beginning, discourages adversarial behavior, and builds trust. These, my friends, are things of which a good client relationship is made.
+
 
 Just as there is no single good way to set pricing, there is no single good way to estimate. You’ll need to do some trial and error to see what works for you, your communication style, your design and development process, and your clients.
 
