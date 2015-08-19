@@ -163,7 +163,7 @@ So how can you accurately assess how much to charge the client? Whatever you do,
 * hourly rates mean you're selling time, not results, and it's results that clients care about
 * clients may become stressed as they worry about every single hour you and your team are working
 
-A better way would be to charge on a weekly or monthly basis, as long as the focus is on the outcome or the project deliverables and not the time spent. Monthly billing is more appropriate for ongoing maintenance retainers, and through experience you'll become more familiar with what your team as a whole can produce 
+A better way would be to charge on a weekly or monthly basis, as long as the focus is on the outcome or the project deliverables and not the time spent. Monthly billing is more appropriate for ongoing maintenance retainers, and through experience you'll become more familiar with what your team as a whole can produce within these larger time intervals.
 
 Better still is a way that's also perhaps easier to estimate and is known as value-based pricing. Essentially you determine a number based around what the project is worth to the client. In order to be able to determine this, you need to obviously understand the project requirements in detail (_see above!_). For example, if the goal is to increase revenue of an online store by $1,000,000 per year, why not charge a one-off cost of $100,000? The client gets a good return on their investment and your organisation gets paid enough to cover costs and turn a profit yourselves.
 
