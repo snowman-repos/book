@@ -171,6 +171,8 @@ At the very least, you should offer a fixed price on a per-project basis. The cl
 
 Estimating costs can be made easier through time tracking. While past experience doesn't offer guaranteed information about how long certain tasks will take - different people work at different speeds and have good and bad days - it does at least narrow down your guesstimates. Time tracking can be annoying and disruptive but there are a multitude of tools and apps available that are specifically designed to integrate smoothly into any workflow, minimising the disruption. Costs can also me estimated more accurately by getting constraints from the project owner, for instance a hard deadline or a maximum budget. Rather than plucking a number out of the air, you can more easily determine what you can confidently build within those constraints. They may be reluctant to offer budgets - surely you'll just take however much they've got, right? This actually gives you an opportunity to explain the mechanics of your cost and determine how much of your team's time they are comfortable with paying for.
 
+
+
 The big question is whether the work you are producing is worth more than the money your client is spending. If yes then the value is clear and the details about what exactly your team is going to do become less important. If no then perhaps you need to shift your focus or the client needs to find someone else to undertake their project.
 
 No matter what method you use to determine pricing, you must admit that you're not going to get it right all of the time. There will inevitably changes to the scope, some projects more than others. It may be a good idea, particularly if you're quoting a fixed fee, to add a 10-20% contingency.
@@ -179,10 +181,6 @@ Always get a deposit at the start of a project. A deposit shows that the client 
 
 ***
 
-
-The big question in this kind of arrangement, then, isn’t “Will we ship that thing on time?” Rather, it’s “Is the work we’re doing worth more than the money our client is spending on us?” If the answer is yes, then the value is clear, and the details about the exact work product or deliverables become less important. If the answer is no, then it’s likely a bad match and you should shift your focus, or they should look for another vendor.
-
-contingency budget. 10-20%?
 
 collaborative pricing:, e.g. Ben Callahan, president of Sparkbox
 Then we’ll quickly put together a Google Spreadsheet that breaks down the work in a way we believe is reasonable given our current understanding… The idea is that we can work with our clients to find a budget, scope, and timeline that is mutually beneficial. The most helpful part of estimating in this way is that it makes the very first interaction we have with our customer one of collaboration. Exposing the machinery of an estimate helps to demystify the process. It sets up a more collaborative relationship from the beginning, discourages adversarial behavior, and builds trust. These, my friends, are things of which a good client relationship is made.
