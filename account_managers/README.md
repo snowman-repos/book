@@ -249,14 +249,11 @@ These questions should be specific and measurable. As you get more project notch
 **************
 
 
-
+**budgets:**
 
 time tracker. past experience doesn't necessarily indicate the time required for similar tasks/projects. question all guesstimates. client-given constraints may relieve you of the need to create this kind of estimate - things like budget and hard deadlines - just find out what features you can confidently build within those constraints. with experience you may have an average weekly/monthly rate. clients may feel uncomfortable sharing budgets - you'll just ask for it all right? explain to them why you need these constraints. explain the mechanics of your cost and that you need to determine how much of your team's time they are able/comfortable to pay for.
 
-
-
-
-
+**change requests:**
 
 In these scenarios, the scope and work products tend to be more open-ended. We’ll have a prioritized list of things to work on, and we’ll work our way down it—with the understanding that the list may change as we gain more knowledge and new facts present themselves throughout the project. Again, we’re always focused on maximizing our value to the client, so if something more important has appeared, we won’t just keep plugging away at a task because that’s what the contract has bound us to.
 
