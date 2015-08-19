@@ -142,7 +142,7 @@ There are various solutions. You may want to state a specific number of permitte
 
 If of course you and a client are not a good fit, you may find yourself faced with multiple revision requests to the point where it is no longer worth your time. It is important to recognize when to walk away from a project.
 
-It's important that both sides recognise that ultimately scope is open-ended. You'll start off with a list of things to work on but there should be a mutual understanding that the list will change.
+It's important that both sides recognise that ultimately scope is open-ended. You'll start off with a list of things to work on but there should be a mutual understanding that the list will change. New ideas and challenges will undoubtedly present themselves throughout the project lifecycle.
 
 In these scenarios, the scope and work products tend to be more open-ended. We’ll have a prioritized list of things to work on, and we’ll work our way down it—with the understanding that the list may change as we gain more knowledge and new facts present themselves throughout the project. Again, we’re always focused on maximizing our value to the client, so if something more important has appeared, we won’t just keep plugging away at a task because that’s what the contract has bound us to.
 
