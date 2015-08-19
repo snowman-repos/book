@@ -256,22 +256,6 @@ time tracker. past experience doesn't necessarily indicate the time required for
 
 
 
-Delta delta delta#section5
-
-Another way to check our assumptions, especially in larger groups, is to compare independent estimates done by multiple people. Seth Brown, COO of Lullabot, explains how he employs this approach:
-
-Typically we try to work either on a retainer or an hourly basis, however clients often need to have an understanding of what the retainer length might end up being. We tend to decompose projects into bite-sized chunks, first epics, and then tasks, and then estimate those with a group of developers on our team. Each developer does a blind estimate for each task and then we compare everyone’s guesstimates. If the “delta” between each developer’s guess is large we discuss assumptions, ask questions if we have to, and then re-estimate.
-This approach can certainly minimize risk. If two independent people think a task is easy or hard, it’s more likely to be the truth. And if they disagree, then a deeper discussion will likely lead to a better definition of scope.
-
-Things fitting into things#section6
-
-Some tasks scale up or down with the scale of the project. Project management and meetings are perfect examples. For instance, when we estimate an hourly project at Bearded, we like to add 15 percent for project management to the grand total estimate. That way, more project scope results in more hours to manage that scope. Seems reasonable, man.
-
-Time to scope#section7
-
-Defining scope and converting that to an amount of time is one way to do things. But you can also go the other way, and there are some very good reasons you might want do that.
-
-Constraints are your friend#section8
 
 When was the last time a client showed up on your doorstep with infinite weeks and infinite budget to complete a project? Usually at least one of these constraints is in place. Great! So if they only have eight weeks before some event requires the delivery of some solution, then that’s what you have to work with. You know how many people-hours you can devote in those eight weeks, and that time constraint determines the maximum effort and cost. The next question is: What’s the most valuable way for everyone to spend their time during that timeframe?
 
