@@ -273,9 +273,6 @@ This approach tends to bring us closer to an agile process, where our ship date 
 
 
 
-Reaching across the aisle#section13
-
-Something that makes almost any project better—regardless of process or format—is good, open client communication. Why not extend this approach to the estimating process?
 
 Says Ben Callahan, president of Sparkbox:
 
