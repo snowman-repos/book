@@ -175,7 +175,7 @@ At the start of your proposal or agreement you are stating the business goals - 
 
 As with gathering any feedback, these measures should be specific and carefully considered to measure the explicitly stated goals. It's like setting up a scientific experiment - your hypothesis is that the project is successful so what conditions can you establish to test the hypothesis. This is of course easier if you have specific goals to start off with.
 
-You could gather statistics about the website's usage based on its functionality, e.g. sales data, contact forms, or user-submitted content, or even by conducting user surveys from the product itself. The most common way to measure a website or app's success though is through the use of website analytics. There are various tools for doing this, most notably Google Analytics, but all of them require someone to set-up what user behaviour should be tracked and then be able to interpret the data. You should arrange with the project owner who should cover this role, and it may be a chance to upsell more work in the form of ongoing support.
+You could gather statistics about the website's usage based on its functionality, e.g. sales data, contact forms, or user-submitted content, or even by conducting user surveys from the product itself. The most common way to measure a website or app's success though is through the use of website analytics. There are various tools for doing this, most notably Google Analytics, but all of them require someone to set-up what user behaviour should be tracked and then be able to interpret the data. You should arrange with the project owner who should cover this role, and it may be a chance to up-sell more work in the form of ongoing support.
 
 #### Ongoing support
 
