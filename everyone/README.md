@@ -80,7 +80,7 @@ We all need clear objectives in order to get started. If you're in a leadership 
 
 Feedback doesn't necessarily come from others, although it's always helpful to have a fresh set of eyes. With experience we become able to make snap judgements about the quality of our own work. The more comfortable we become in our workflow the less time we waste pondering over a decision we've made, allowing us to continue working without breaking flow.
 
-Through regular learning and practice we may also gain confidence in our abilities. If a task is too challenging then we get frustrated.
+Through regular learning and practice we may also gain confidence in our abilities. If a task is too challenging then we get frustrated, so we must first equip ourselves with the skills we need to get the job done.
 
 Interruptions to certain tasks, particularly design and development tasks, as well as those of project managers juggling multiple projects simultaneously, kill productivity and waste time by introducing significant recovery times to “get back in the zone”. Interruptions may come in the form of a planned meeting or just by someone walking over to someone else's desk to talk to them (an incoming phone call is essentially the same thing). A planned meeting not only hinders productivity beforehand, as people try to plan their work around it, but also lasts longer and so increases the recovery time. A random interruption is equivalent to walking up to someone's sandcastle, kicking it down, and expecting them to continue building from where they left off.
 
