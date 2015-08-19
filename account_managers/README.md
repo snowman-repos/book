@@ -144,7 +144,7 @@ If of course you and a client are not a good fit, you may find yourself faced wi
 
 It's important that both sides recognise that ultimately scope is open-ended. You'll start off with a list of things to work on but there should be a mutual understanding that the list will change. New ideas and challenges will undoubtedly present themselves throughout the project life-cycle and you have to be prepared. Keep in mind that you must maximise your value to the client. That means that if something important crops up, even if it it was outside of original scope, give it priority over the tasks of features that were originally agreed upon.
 
-In these scenarios, the scope and work products tend to be more open-ended. We’ll have a prioritized list of things to work on, and we’ll work our way down it—with the understanding that the list may change as we gain more knowledge and new facts present themselves throughout the project. Again, we’re always focused on maximizing our value to the client, so if something more important has appeared, we won’t just keep plugging away at a task because that’s what the contract has bound us to.
+
 
 This approach tends to bring us closer to an agile process, where our ship date is fixed, but the work product and deliverables are variable. This approach requires a certain amount of trust and empathy on both sides. Everyone needs to understand that none of us can guarantee exactly what’s going to be delivered at the end of the engagement. It may be scary, but this uncertainty is tempered by a different kind of increased control on the client side: they can continue to reprioritize and redirect us throughout the project, without negotiating change orders.
 
