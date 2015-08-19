@@ -280,7 +280,7 @@ The final part of your role is to gather data by which to measure success agains
 
 At all stages of the project, during production and after release throughout the project lifetime, you should continuously measure how well the service is working for your users. You need to have a way of monitoring and recording user behaviour in real time. A common tool for doing this is Google Analytics, which can be integrated into any website or application, although there are alternatives. Establish with your production team how feedback and monitoring tools can be integrated with the project.
 
-Someone in your organisation should be responsible for watching these metrics to pro-actively identify and react to potential issues and areas for improvement. This will also highlight which areas of the project should be prioritised.
+Someone in your organisation should be responsible for watching and analysing these metrics to pro-actively identify and react to potential issues and areas for improvement. This will also highlight which areas of the project should be prioritised.
 
 In addition to automated tools, you should have a mechanism in place for users to offer direct feedback. This may be an online survey, social media platform, a contact form or even just an email address so that users can get in touch. App stores usually have their own feedback and rating system which you can put to good use. Remember that your web project is a form of customer service as much as anything else so you need to think about how you can measure customer/user satisfaction.
 
