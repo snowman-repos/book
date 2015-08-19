@@ -230,7 +230,7 @@ Just like every other role, you too must gather feedback. The feedback you gathe
 
 Given this list, you will want to formulate questions that asses the client's perception of how you and your team have handled the project in this context. For example:
 
-* Did we fulfill the following requirements...
+* Did we fulfil the following requirements...
 * To what extent have the deliverables met the expectations set in our original proposal [1-5]
 * To what extent were we on shedule? How happy were you with the time we took to deliver each stage of the project? [1-5]
 * How happy were you with the project updates I sent? Were they frequent enough? Detailed enough?
