@@ -251,7 +251,7 @@ These questions should be specific and measurable. As you get more project notch
 
 
 
-time tracker. past experience doesn't necessarily indicate the time required for similar tasks/projects. question all guesstimates. client-given constraints may relieve you of the need to create this kind of estimate - things like budget and hard deadlines - just find out what features you can confidently build within those constraints. with experience you may have an average weekly/monthly rate.
+time tracker. past experience doesn't necessarily indicate the time required for similar tasks/projects. question all guesstimates. client-given constraints may relieve you of the need to create this kind of estimate - things like budget and hard deadlines - just find out what features you can confidently build within those constraints. with experience you may have an average weekly/monthly rate. clients may feel uncomfortable sharing budgets - you'll just ask for it all right? explain to them
 
 
 
