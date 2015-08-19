@@ -179,18 +179,6 @@ No matter what method you use to determine pricing, you must admit that you're n
 
 Remember that the changing industry is not just the design tools, the coding languages, and development practices. Everything is changing, so don't be afraid to experiment with changing the way you do things. Hopefully you'll always have plenty of opportunities to try again and keep refining your cost estimating process. As your organisation and team changes, you may find that what you were doing before no longer works and that a new approach would be more suitable.
 
-Always get a deposit at the start of a project. A deposit shows that the client is willing and able to pay, and tells them that you won't work without being paid. The size of deposit you ask for depends on the size of the project. Very big or lengthy projects may require ongoing payment instalments. If a client is reluctant to pay a deposit, then you shouldn't work with them, plain and simple. Chances are they aren't serious and probably won't pay later anyway.
-
-***
-
-
-
-
-
-The web is always changing and so, it seems, is everything else in our industry. So don’t be afraid to experiment and try new things. If all goes well, you’ll have plenty of opportunities to try again, and refine your estimating process with each project. You may also find that as your organization grows, what worked before no longer does, and that a new approach is suddenly more suited to you.
-
-
-
 #### The Measure of Success
 
 At the start of your proposal or agreement you are stating the business goals - what the product is expected to achieve. If you want repeat work from the client then you'll need to prove than any previous work has indeed achieved its intended goals. Therefore towards the end of the proposal you should outline what the success measures are, or how you will have determined if goals have been achieved.
