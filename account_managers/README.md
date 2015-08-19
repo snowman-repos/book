@@ -246,6 +246,9 @@ These questions should be specific and measurable. As you get more project notch
 
 
 
+**************
+
+
 The Art of Creating Accurate Estimates
 A List Apart · by Matt Griffin
  Matt Griffin on How We Work
