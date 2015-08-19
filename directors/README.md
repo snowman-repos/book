@@ -96,7 +96,7 @@ Firstly, the obvious, you need to ensure your team have everything they need to 
 
 ### Time
 
-Even if you have a huge project deadline or looming deadlines, it's crucial that your team is resourced not just with adequate equipment but also with time. The web is moving forward at astonishing pace and it takes a great deal of time for web professionals to stay on top of the latest tools, techniques, and best practice. We need time to research, study, and practice. We need to be able to experiment and make mistakes.
+Even if you have looming project deadlines, it's crucial that your team is resourced not just with adequate equipment but also with time. The web is moving forward at astonishing pace and it takes a great deal of time for web professionals to stay on top of the latest tools, techniques, and best practice. We need time to research, study, and practice. We need to be able to experiment and make mistakes.
 
 It's always apparent in the final product when the team has been rushed to finish a project, hasn't had the time to properly learn about the technology they've applied, or have implemented something inappropriate because they lacked the time to learn about the potential alternatives. The design becomes inconsistent and the code becomes messy and difficult to manage.
 
