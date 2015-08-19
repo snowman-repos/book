@@ -174,7 +174,7 @@ Estimating costs can be made easier through time tracking. While past experience
 Always get a deposit at the start of a project. A deposit shows that the client is willing and able to pay, and tells them that you won't work without being paid. The size of deposit you ask for depends on the size of the project. Very big or lengthy projects may require ongoing payment instalments. If a client is reluctant to pay a deposit, then you shouldn't work with them, plain and simple. Chances are they aren't serious and probably won't pay later anyway.
 
 ***
-explain the mechanics of your cost and that you need to determine how much of your team's time they are able/comfortable to pay for.
+
 
 The big question in this kind of arrangement, then, isn’t “Will we ship that thing on time?” Rather, it’s “Is the work we’re doing worth more than the money our client is spending on us?” If the answer is yes, then the value is clear, and the details about the exact work product or deliverables become less important. If the answer is no, then it’s likely a bad match and you should shift your focus, or they should look for another vendor.
 
