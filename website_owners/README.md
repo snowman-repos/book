@@ -61,7 +61,7 @@ A web project demands leadership. There should be someone senior in your organis
 
 Therefore you need some kind of decision-making structure in place so that you can provide the production team with what they need. Likewise you need to be able to demand from your production team the data or information you need to make those decisions.
 
-So you will need to establish a leadership person in your organisation who is solely responsible for setting up and then maintaining the website as part of the business. As a representation of your organisation, it's important that the website maintains a consistent tone and personality that matches your real-world organisation. This can't be done if everyone in your organisation is making changes or posting content haphazardly, so you may need to put together a dedicated team.
+So you will need to establish a leadership person in your organisation who is solely responsible for setting up and then maintaining the website as part of the business. As a representation of your organisation, it's important that the website maintains a consistent tone and personality that matches your real-world organisation. This can't be done if everyone in your organisation is making changes or posting content haphazardly, so you may need to delegate a dedicated person or team.
 
 ### Your internal team
 
