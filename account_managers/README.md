@@ -142,6 +142,11 @@ There are various solutions. You may want to state a specific number of permitte
 
 If of course you and a client are not a good fit, you may find yourself faced with multiple revision requests to the point where it is no longer worth your time. It is important to recognize when to walk away from a project.
 
+It's important that both sides recognise 
+In these scenarios, the scope and work products tend to be more open-ended. We’ll have a prioritized list of things to work on, and we’ll work our way down it—with the understanding that the list may change as we gain more knowledge and new facts present themselves throughout the project. Again, we’re always focused on maximizing our value to the client, so if something more important has appeared, we won’t just keep plugging away at a task because that’s what the contract has bound us to.
+
+This approach tends to bring us closer to an agile process, where our ship date is fixed, but the work product and deliverables are variable. This approach requires a certain amount of trust and empathy on both sides. Everyone needs to understand that none of us can guarantee exactly what’s going to be delivered at the end of the engagement. It may be scary, but this uncertainty is tempered by a different kind of increased control on the client side: they can continue to reprioritize and redirect us throughout the project, without negotiating change orders.
+
 #### Budgets
 
 Don't shy away from bringing up money right at the start. Everyone knows that money is going to need to change hands so there's no point beating around the bush. Budgeting is hard. You essentially have to guess how long the project or feature set is going to take, or guess the value of the work to the client, in order to calculate how much to charge. Like with any difficult problem, it's easier to try and break it down as much as possible. Ensure that you consider time for research, planning, discovery, admin, prototyping, design, development, testing, fixes & revisions, and deployment. Typically 10% might be added for project management, but consider anything that might require more time or commitment - dealing with multiple stakeholders for instance, increasing the management time, might encourage you to increase your fee as well.
@@ -263,9 +268,3 @@ Then we’ll quickly put together a Google Spreadsheet that breaks down the work
 Just as there is no single good way to set pricing, there is no single good way to estimate. You’ll need to do some trial and error to see what works for you, your communication style, your design and development process, and your clients.
 
 The web is always changing and so, it seems, is everything else in our industry. So don’t be afraid to experiment and try new things. If all goes well, you’ll have plenty of opportunities to try again, and refine your estimating process with each project. You may also find that as your organization grows, what worked before no longer does, and that a new approach is suddenly more suited to you.
-
-**change requests:**
-
-In these scenarios, the scope and work products tend to be more open-ended. We’ll have a prioritized list of things to work on, and we’ll work our way down it—with the understanding that the list may change as we gain more knowledge and new facts present themselves throughout the project. Again, we’re always focused on maximizing our value to the client, so if something more important has appeared, we won’t just keep plugging away at a task because that’s what the contract has bound us to.
-
-This approach tends to bring us closer to an agile process, where our ship date is fixed, but the work product and deliverables are variable. This approach requires a certain amount of trust and empathy on both sides. Everyone needs to understand that none of us can guarantee exactly what’s going to be delivered at the end of the engagement. It may be scary, but this uncertainty is tempered by a different kind of increased control on the client side: they can continue to reprioritize and redirect us throughout the project, without negotiating change orders.
