@@ -87,7 +87,7 @@ One of the primary ways users contact web project owners is via Social Media. No
 
 Again, like with content, this has to be handled responsibly. Someone should be charged with being your social media voice, maintaining the same consistent tone and style across the board. This person should make use of knowledge about your users to find ways to engage them across different channels. Like with content, if anyone in your organisation could represent you on social media then this engagement wouldn't be focused and the style wouldn't be consistent. There is the added risk that your social media channels may just end up being a boring list of company anouncements or press releases.
 
-Ultimately, your orgnisation has to be aware of its overal customer/user experience both on and offline. If you have a great product or service offline then users of your website will expect the same quality standard online. Similarly, if you have a great website or app then you will also need to be great at social media and offline customer service to ensure overall success, for if people dislike the service they receive offline, they're unlikely to return to your website no matter how great it is.
+Ultimately, your organisation has to be aware of its overal customer/user experience both on and offline. If you have a great product or service offline then users of your website will expect the same quality standard online. Similarly, if you have a great website or app then you will also need to be great at social media and offline customer service to ensure overall success, for if people dislike the service they receive offline, they're probably less likely to return to your website no matter how great it is.
 
 ## Know your users/customers
 
