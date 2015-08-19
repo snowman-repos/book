@@ -257,15 +257,6 @@ time tracker. past experience doesn't necessarily indicate the time required for
 
 
 
-When was the last time a client showed up on your doorstep with infinite weeks and infinite budget to complete a project? Usually at least one of these constraints is in place. Great! So if they only have eight weeks before some event requires the delivery of some solution, then that’s what you have to work with. You know how many people-hours you can devote in those eight weeks, and that time constraint determines the maximum effort and cost. The next question is: What’s the most valuable way for everyone to spend their time during that timeframe?
-
-Likewise if they have a budget of $100,000, just divide that by the team’s weekly rate and you know the maximum number of weeks they can afford. Then it’s time to answer that same question: How can we best spend our time to maximize value for that client?
-
-Talk it through#section9
-
-Not surprisingly, this often becomes a conversation. Though sometimes a client is reluctant to divulge their budget (often out of the belief that a vendor is just trying to get the biggest number possible out of them), I find that telling them our weekly rate up front engenders some initial trust. At that point the mechanics of our cost are exposed, and we’re simply trying to figure out—together—how many weeks of our time they feel comfortable paying for.
-
-It’s all about trust#section10
 
 In these scenarios, the scope and work products tend to be more open-ended. We’ll have a prioritized list of things to work on, and we’ll work our way down it—with the understanding that the list may change as we gain more knowledge and new facts present themselves throughout the project. Again, we’re always focused on maximizing our value to the client, so if something more important has appeared, we won’t just keep plugging away at a task because that’s what the contract has bound us to.
 
