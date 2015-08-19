@@ -255,13 +255,6 @@ time tracker. past experience doesn't necessarily indicate the time required for
 
 
 
-Condemned to repeat it#section4
-
-So we think it takes two to three days to make an element collage. Great! But is this our first time at the rodeo? If we’ve done element collages before, and—here’s the kicker—if we’ve accurately tracked our time in the past, we can compare this estimate to our record of the actual hours we spent the last time.
-
-This is why I encourage a policy of tracking time spent on tasks. You can make a habit of running a timer (at Bearded, we use Harvest, but there are others, such as Freshbooks and TimeTracker), and switching that timer with every task switch. The motto is ABT—Always Be Tracking.
-
-Now if we think our mental model of how long it takes to do a thing is way off, we can confirm our hunch by looking at historical numbers, and correct that mental model for the future. It can keep us from under- or overestimating the same thing over and over again. Which is nice.
 
 Delta delta delta#section5
 
