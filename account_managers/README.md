@@ -215,7 +215,7 @@ So you've reached the end and it's time to hand over your team's work. It's the 
 
 In fact, rather than delivering everything at the end of the project you're probably actually delivering throughout. Or at least you should be. For instance designs should be provided in the form of a style guide or pattern library than can be easily referenced, re-used, and updated either by your team, the client's in-house team, or by another team the client may wish to engage in the future, ensuring ongoing consistency throughout the project. Code modules might be delivered to internal teams in stages, allowing them to learn about the style and how it can be integrated into their codebase. Speaking of code, it's important that it be modular and reusable for the same reasons as we provide style guides.
 
-The final point in this section is that you should see delivery as just the start of a project lifecycle. As you've hopefully convinced your client by now, a web project is an ongoing one. There are always changes to be made and new features to be applied, content to be refreshed and new platforms to explore. If it's a brand new project then this is at least the beginning of a test or beta phase after which strategic decisions need to be revisted.
+The final point in this section is that you should see delivery as just the start of a project lifecycle. As you've hopefully convinced your client by now, a web project is an ongoing one. There are always changes to be made and new features to be applied, content to be refreshed and new platforms to explore. If it's a brand new project then this is at least the beginning of a test or beta phase after which strategic decisions need to be revisited.
 
 ## Gathering Feedback
 
