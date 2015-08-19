@@ -183,7 +183,7 @@ Always get a deposit at the start of a project. A deposit shows that the client 
 
 
 
-Just as there is no single good way to set pricing, there is no single good way to estimate. You’ll need to do some trial and error to see what works for you, your communication style, your design and development process, and your clients.
+
 
 The web is always changing and so, it seems, is everything else in our industry. So don’t be afraid to experiment and try new things. If all goes well, you’ll have plenty of opportunities to try again, and refine your estimating process with each project. You may also find that as your organization grows, what worked before no longer does, and that a new approach is suddenly more suited to you.
 
