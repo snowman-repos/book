@@ -974,23 +974,11 @@ It's also useful as an internal communication tool. If you're spending time putt
 
 Status reports highlight the inevitable issues that arise during the production of web projects. Therefore it can serve as a launchpad for conversations about finding solutions. Just like in your daily standup meetings, if everyone is made aware of a problem then everyone can do what they can to resolve it. There's the added advantage that issues are collated and communicated all at once rather than in various email threads, which may be a more eddficient way of dealing with them. It's a form of issue log that both your team and the project owner's team can be held accountable for.
 
-The report should always include the latest project schedule. In fact the report's very raison d'être is to let everyone know whether the project is ahead of or behind schedule and why. The schedule will undoubtedly be updated regularly and so it would be a mistake to only show it to people at or just after the kick-off meeting, or to leave it languishing and ignored on a shared server somewhere. It's also a bad idea to leave communicated schedules until milestones, which may be weeks or months in the future, because web projects may change on a daily basis.
+The report should always include the latest project schedule. In fact the report's very raison d'être is to let everyone know whether the project is ahead of or behind schedule and why. The schedule will undoubtedly be updated regularly and so it would be a mistake to only show it to people at or just after the kick-off meeting, or to leave it languishing and ignored on a shared server somewhere. It's also a bad idea to leave communicated schedules until milestones, which may be weeks or months in the future, because web projects may change on a daily basis. Scheduling issues may highlight cause to secure more resources or de-prioritise requirements in order to stay on track. If the project owner is regularly updated on the project's timings, then should you need any difficult conversations about extensions you will have a series or shared documents to back you up. Changes to the schedule become easier to sell as a regular progression of schedule revisions higlights how the situation has come about.
 
 
 
-WEB PROJECT SCHEDULE VISIBILITY
-It should go without saying why everyone involved in a web project would want a regularly updated understanding of if it’s ahead, on or behind schedule and why. But all too often I see one or two project schedules created (as I described in Part 3 of my Pragmatic Web Project Planning series), in the proposal and for the kick-off meeting, and that’s it for a while – this is a mistake.
 
-What often happens next is milestones are dated, the work begins and the schedule is not communicated again to the client until the first milestone is approaching, which could be weeks from the start of the project – and as we all know, a lot can happen in web projects on a daily basis, let alone weeks.
-
-An image showing two Star Wars toy Stormtroopers presenting an idea on a whiteboard for a solar powered Death Star to toy Darth Vader toy figureSelling a project is only the first part of a successful project
-There are clear benefits to providing a weekly schedule update for agency and client alike.
-
-For both parties it provides the obvious view into the status of the project’s progress and allows decisions to be made on a regular basis that allows for the smoothest path to completion, including needing to secure more resource or de-prioritise requirements to stay on track.
-
-But crucially for the agency and client, a weekly update will aid any conversations that need to be had with regards to schedule revisions, as opposed to ringing the client weeks after starting and trying to explain why you need an extension to a particular phase or task.
-
-As with web project budgets discussed below, if a client is updated on a weekly basis, any changes to the initial project schedule are far easier to sell if they’ve been fully aware of the road that led to this request.
 
 WEB PROJECT BUDGET VISIBILITY
 The web project budget update again is pretty self-explanatory and project management 101, but the real benefit of providing regular budget updates is best seen when, like with schedule, budget revisions are needed.
