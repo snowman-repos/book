@@ -893,6 +893,18 @@ By now the benefits of a close-knit team working together iteratively towards th
 By this stage, you've been learning and thinking a lot about this project. You know exactly what needs to be done and how your team might be able do it.
 
 
+
+This meeting is important to web development projects because:
+
+It familiarizes all the individuals involved in the project with each other
+It extracts important details from the appropriate individuals to avoid information silos
+It gives everyone clarity about the core objectives of the project
+It gets everyone on the same page
+It promotes active communication lines
+It gets the project off to a great start
+
+
+
 Step 1: Develop the project goals and deliverables
 Defining these elements will drive the decisions you must make for staffing the project and developing the project plan. Write them down and validate your definitions with the project owners (whoever justified and initiated the project).
 
