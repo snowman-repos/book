@@ -927,7 +927,9 @@ Ensure that you maintain a contact list containing everyone's names and contact 
 
 #### What to Cover
 
-Start with the intended results and outcomes, what you're going to be handing over to the project owner. Briefly go through the project background if you think you have time and it would be useful, otherwise refer people to your documentation. You need to keep the pace and try not to waster anybody's time - the point is to assign tasks to individual people so that everyone knows what they and others need to do to pull the project off. In that case, try and dive straight into the task or features list as soon as possible. For each feature, explain what's involved, answer questions or note them down to answer later when you have more information, and at the same time try and tease out information about timings. The team will hopefully have lots of feedback and questions so you should be taking notes as you go along.
+Start with the intended results and outcomes, what you're going to be handing over to the project owner. Tell everybody the explicit objectives - the project KPIs we discussed earlier. You need to be sure that everyone has been made aware of these and by stating them explicitly at the start of the meeting you are highlighting their importance.
+
+Briefly go through the project background if you think you have time and that it would be useful, otherwise refer people to your documentation. You need to keep the pace and try not to waste anybody's time - the point is to assign tasks to individual people so that everyone knows what they and others need to do to pull the project off. In that case, try and dive straight into the task or features list as soon as possible. For each feature, explain what's involved, answer questions or note them down to answer later when you have more information, and at the same time try and tease out information about timings. The team will hopefully have lots of feedback and questions so you should be taking notes as you go along.
 
 
 
@@ -935,15 +937,6 @@ Start with the intended results and outcomes, what you're going to be handing ov
 
 
 
-As you work through the meeting structure, you should be assigning responsibilities to your client and to your team.
-
-After each task assignment, you should be asking the person being assigned the task, "When can you have that by?"
-
-What I typically do is have a calendar nearby and I give them a little more time than they suggest. Typically, the client is eager to please and is sometimes unrealistic. Give them a little more time if you can spare it.
-
-I do gently remind clients that if their deliverable is late, all dates are pushed back and we typically will charge extra unless given 15 days notice. It’s harsh, but it keeps people accountable and, in the end, makes them a happier customer because their project is on time.
-
-I like to start my kickoff meeting like a thesis statement in a scientific paper: I state the primary goal of the project and provide a brief summary.
 
 The SMARTer the primary goal, the better. For example, depending on the scale of the project, it might even be as specific as: "The goal of the project is to drive traffic to the site’s contact form and have users fill it out."
 
