@@ -911,7 +911,7 @@ Things you will want to discuss in the meeting are:
 
 #### Be Prepared
 
-Whether you already have basic functional specifications put together or not, you need to come into the meeting with as much useful information as possible. At the very least you should be aware of the project goals and deliverables.
+Whether you already have basic functional specifications put together or not, you need to come into the meeting with as much useful information as possible. At the very least you should be aware of the project goals and deliverables, enough to know who on your team needs to be involved.
 
 Step 1: Develop the project goals and deliverables
 Defining these elements will drive the decisions you must make for staffing the project and developing the project plan. Write them down and validate your definitions with the project owners (whoever justified and initiated the project).
