@@ -337,7 +337,7 @@ Exactly what they need. Nothing more, nothing less. At the start of each project
 
 #### Everyone
 
-* What's the deadline?!?
+* What are the deadlines?!?
 
 You'll note that of the requirements listed above, the content managers will need the most up-front, because their work will be the bulk of the beginning phase of the project. Content first, remember. Following that is the designers' requirements, followed by the developers' and testers'. That is because design is to some extent dependent on content, and development is similarly dependent on design, while testing is of course dependent on everything. That is not to say though they they are not all interdependent, nor that they should be executed independently in a waterfall model, but we'll get to that later.
 
