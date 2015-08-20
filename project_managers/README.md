@@ -236,7 +236,7 @@ You have to expect a lot of support from your team, but that means you have to p
  
 Thank them and recognise their efforts publicly, but always offer your own criticism and advice privately. Even if they are performing well, it's your job to push them to always be better. Constantly encourage them to learn new tools and techniques, give them the time for training to practice what they've learned. Of course, you need to take this into account when formulating schedules and conjuring deadlines. It will pay off in the long run as they learn to work more efficiently and can accommodate a greater variety of requests. That means fewer bottlenecks for you.
 
-Ultimately, no matter whether you always manage to hire industry wizards or not, your team will only ever be as productive are you enable them to be, which leads us nicely onto the next section.
+Ultimately, no matter whether you always manage to hire industry wizards or not, your team will only ever be as productive as you enable them to be, which leads us nicely onto the next section.
 
 #### Suitable Tools
 
