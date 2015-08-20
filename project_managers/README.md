@@ -900,7 +900,7 @@ Resources will vary according to the product’s size and complexity. Make sure 
 Develop a rough product plan.
 Clarify the risks and opportunities. This will help validate whether you have the right resources and help you determine timelines for tasks and milestones.
 Define the key success factors.
-Why is the product valuable to the company, and how will you know you’ve succeeded? Define your particular success criteria, and validate these with stakeholders.
+Why is the product valuable to the company, and how will you know you’ve succeeded? Define your particular success criteria, and validate these with stakeholders.Once you’ve done all the preparation, it’s time to gather the gang. In theory, the kickoff meeting should have plenty of energy and excitement, and team members should leave full of ideas and with a desire to explore solutions. In practice, however, kickoff meetings can be sleep-inducing and even totally awkward.
 
 - before hand - while you're planning get everyone's feedback
 - who to invite
