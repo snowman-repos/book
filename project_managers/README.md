@@ -945,13 +945,10 @@ Maybe you think these are silly ideas, but you may find that people appreciate a
 
 Even if you decide to incorporate some fun activities into the kick-off, you need to ensure you stay on track and achieve the objectives of the meeting - making key decisions and gathering the required information. You also need to ensure you can do all this in as little time as possible so as not to disrupt people's work. It's especially difficult to stay on track when you have lots of people in the room.
 
-
-
-Base the agenda on the research.
-Ideas and challenges that surface during research or stakeholder interviews should be front and center on the agenda.
-The kickoff process should explore the full potential of what is possible. So, leave egos at the door.
+You'll want to have a meeting agenda, listing discussion points in order, and constantly reference the project objectives throughout each discussion. You'll need also to find a way to steer the conversation if it's veering off-topic or to help someone try and summarise their point if they're talking for too long. You may also have to face down arguments by again summarising the key points on either side and pushing to move on.
 
 #### Review
+
 
 it’s a good exercise to quickly run through the deliverables, due dates, and a summary of the key points discussed in the kickoff meeting.
 Update documentation, calendars etc. update the client/client manager. thank everyone.
