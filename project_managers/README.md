@@ -530,7 +530,7 @@ Taking one of the examples from the list above, if you want to try a new technol
 
 > _English.com_
 
-Luckily, at the time of writing anyway, the devil doesn't exist. The details however are ever-present. You should already know from the outset the project owner's budget. If you don't, you really need to so start pestering your client or client manager. Even a rough budget or a budget range might be enough for you to work with.
+Luckily, at the time of writing anyway, the devil doesn't exist. The details however are ever-present. You should hopefully already know from the outset the project owner's budget. If you don't, you really need to so start pestering your client or client manager. Even a rough budget or a budget range might be enough for you to work with.
 
 Start off by breaking the project into general, high-level, potentially overlapping, phases (i.e. task categories) and gradually get more granular and identify the distinct tasks:
 
