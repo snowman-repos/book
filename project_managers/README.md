@@ -931,49 +931,7 @@ Start with the intended results and outcomes, what you're going to be handing ov
 
 Briefly go through the project background if you think you have time and that it would be useful, otherwise refer people to your documentation. You need to keep the pace and try not to waste anybody's time - the point is to assign tasks to individual people so that everyone knows what they and others need to do to pull the project off. In that case, try and dive straight into the task or features list as soon as possible. For each feature, explain what's involved, answer questions or note them down to answer later when you have more information, and at the same time try and tease out information about timings. The team will hopefully have lots of feedback and questions so you should be taking notes as you go along.
 
-
-
-
-
-
-
-
-The SMARTer the primary goal, the better. For example, depending on the scale of the project, it might even be as specific as: "The goal of the project is to drive traffic to the site’s contact form and have users fill it out."
-
-Then I review the scope of work that has been signed by the client. This allows you to set the stage and confirm what it is you are building, while refreshing everyone on what the project is all about.
-
-Your technical discussion will absolutely take the most of the time.
-
-This portion defines the project and you may need more than just the half sheet of space so have some scrap paper ready.
-
-What you ultimately want to walk away with are three important pieces of information that everyone should agree on:
-
-What are the primary and secondary goals of the project?
-What do we want people to do?
-What features will the project have to support these goals?
-Copy and Media
-
-Content, imagery, and rich media (like videos) is a subject neglected in a lot in planning meetings, but it’s one of the most expensive and time-consuming things to produce so it should be covered as soon as possible.
-
-For example, most companies that I work with that produce video don’t do it quickly or cheaply. Get the ball rolling early on any video production needed, as well as reinforce who is purchasing any needed stock photography (it was in your contract right?).
-
-The look and feel of a site is tough to nail down.
-
-Early in my career, the conversation usually went something like this: "How did you envision your site looking?" That question would be followed by the client mentioning five of their competitors’ websites — all which would typically looked horrible.
-
-You are the professional. You know what looks good and what doesn’t.
-
-Instead of having them start and govern the conversation about the look-and-feel of the website project, ask them a few questions about how they want their site to feel and the general style. They hired you to figure out the rest.
-
-When and how a site will launch seems like an obvious thing you will want to establish as soon as possible. The "when" is usually covered by the contract, but the "how" is sometimes forgotten.
-
-Will there be a beta testing period prior to launch? How about slowly rolling it out to gain interest and test the load on our servers? These are some things to cover in the kickoff meeting.
-
-This is a great discussion that can potentially generate recurring revenue for your company.
-
-How do they plan on updating the site after it has launched? What if the web server crashes? What about additional features? What happens if a great idea comes up in the middle of the project that requires augmenting the original scope of work — how do we deal with that?
-
-What type of marketing materials need to be prepared for this project? Do social media accounts need to be set up? What about traditional marketing methods? Do any parts of the marketing campaign need assets from our creative department? When and how should these efforts go live?
+As well as going through each task or feature, you'll want some more open discussions about general topics. For instance, you'll need to discuss the most appropriate technology stack, the logistical requirements, the copy and media requirements, the look & feel, and how the project is to be deployed and delivered. If you know already, you should also make everyone aware of any hard deadlines as well as ongoing support requirements.
 
 #### Make it Fun
 
