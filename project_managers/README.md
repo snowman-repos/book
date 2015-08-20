@@ -914,6 +914,12 @@ Things you will want to discuss in the meeting are:
 Whether you already have basic functional specifications put together or not, you need to come into the meeting with as much useful information as possible. At the very least you should be aware of the project goals and deliverables, enough to know who on your team needs to be involved. Ideally you'll have detailed information from the project owner about their background, business needs, users or customers. You'll have stakeholder interviews, style and content guidlines, a feature list, technical requirements, server and domain information, analytics data, required deliverables, and anything that will help your team to get started. Gather as much information as possible, even if you don't plan to formally present it someone on the team might ask a question and you'll be prepared.
 
 
+
+
+I find the more prepared I am for the kickoff meeting, the more likely the client will follow my lead and trust my judgment during the meeting as well as throughout the lifecycle of the project.
+
+
+
 Step 3: Develop a project assumptions list
 It’s important for project team members to be aware of major assumptions that apply to the project. For example, spell out the assumption that each team member has been selected and made available to the project by their manager to ensure its success. That assumption means that their assigned tasks must take priority, and each participant must be committed to the success of the project if they are to participate.
 
