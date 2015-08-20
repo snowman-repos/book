@@ -897,7 +897,7 @@ The kick-off meeting is your opportunity to run everything by your team and conf
 * Everyone can become clear about the core objectives
 * Everyone on the team becomes familiar to each other
 * You can get important details from every team member and make everyone aware of it
-* 
+* It promotes active communication among team members
 
 
 
