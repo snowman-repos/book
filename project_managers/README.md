@@ -935,19 +935,12 @@ As well as going through each task or feature, you'll want some more open discus
 
 #### Make it Fun
 
-Sequentially going through features and assigning tasks all sounds very dull. It won't be easy to make people feel engaged or excited about the project when you're just piling work on them and asking how long it's going to take.
+Sequentially going through features and assigning tasks all sounds very dull. It won't be easy to make people feel engaged or excited about the project when you're just piling work on them and asking how long it's going to take. Find ways to involve others as much as possible and try not to do most of the talking. Certainly don't just make this meeting about reviewing your documents - people can go away and do that in their own time!
+
+Don't be afriad to force people out of their comfort zone. When discussing the design for example, perhaps have a brainstorming session involving the developers; they may even know about some handy new tools or libraries that could excite the designers. How about preparing screenshots of similar products that everyone can discuss and asses, giving each their own ratings. You could try and devise some sort of diagrams or charts to draw on a whiteboard that can represent task priorities or feasibility. Maybe write down tasks and associated names on index cards and have everyone try and sort them in order.
 
 
-Build activities around collaboration and “no risk” exploration. This is the time to explore the full potential for what is possible. Even if you venture out of the previously discussed scope, you are still fermenting ideas that could build a road map for additional work in the future.
-Introduce fun, creativity, and energy into to your process! Don’t be afraid to force people outside of their comfort zone. Attendees will be thrilled to break from a more traditional meeting agenda, anyway.
 
-Whether you’re a startup or an enterprise, the key to a great kickoff meeting is involving people, rather than merely reviewing your pre-kickoff documents. 
-Priority and feasibility plot
-Plot the features you’ve discussed on a chart according to feasibility versus business value.
-Card-sorting
-Write the discussed features and functionality on index cards (ideally, fewer than 20), and then have each person sort the deck in order of priority, with the highest on top and the lowest on bottom.
-20-second gut test
-Collect screenshots of web pages or product images, and show them in a presentation to the group. Each member should give each image a score between 1 and 5. This will tell you everyone’s aesthetic preferences.
 Fishbowl conversations
 
 #### Stay Focused
