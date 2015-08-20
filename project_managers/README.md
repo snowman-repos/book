@@ -924,11 +924,6 @@ Clarify the risks and opportunities. This will help validate whether you have th
 Define the key success factors.
 Why is the product valuable to the company, and how will you know you’ve succeeded? Define your particular success criteria, and validate these with stakeholders.Once you’ve done all the preparation, it’s time to gather the gang. In theory, the kickoff meeting should have plenty of energy and excitement, and team members should leave full of ideas and with a desire to explore solutions. In practice, however, kickoff meetings can be sleep-inducing and even totally awkward.
 
-
-
-
-
-
 Open up your kickoff process to as many people as possible. It’s better to include too many people up front than find out you overlooked a valuable player late in the game.
 If you are going to have multiple activities at a kickoff meeting, or even multiple meetings, it’s important to have a good facilitator that remains a constant, and understands how it all fits together.
 Build activities around collaboration and “no risk” exploration. This is the time to explore the full potential for what is possible. Even if you venture out of the previously discussed scope, you are still fermenting ideas that could build a road map for additional work in the future.
