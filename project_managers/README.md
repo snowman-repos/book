@@ -913,6 +913,9 @@ Things you will want to discuss in the meeting are:
 
 Whether you already have basic functional specifications put together or not, you need to come into the meeting with as much useful information as possible.
 
+Step 1: Develop the project goals and deliverables
+Defining these elements will drive the decisions you must make for staffing the project and developing the project plan. Write them down and validate your definitions with the project owners (whoever justified and initiated the project).
+
 
 
 
@@ -926,8 +929,7 @@ Introduce fun, creativity, and energy into to your process! Don’t be afraid to
 
 
 
-Step 1: Develop the project goals and deliverables
-Defining these elements will drive the decisions you must make for staffing the project and developing the project plan. Write them down and validate your definitions with the project owners (whoever justified and initiated the project).
+
 
 Step 2: Identify the project team members and their responsibilities
 Resource needs vary based upon the size, complexity, and nature of the project. Include resources from four key groups, as needed, to fully support your project.
