@@ -966,7 +966,7 @@ Immediately following the meeting, you'll have some action items. You'll have to
 
 ### Status Reports
 
-Whether you're following a pseudo-agile methodology or not, you should provide status reports at the end of each week or sprint.
+Whether you're following a pseudo-agile methodology or not, it's a good idea to provide status reports at the end of each week or sprint.
 
 WHY A WEEKLY WEB PROJECT REPORT?
 Well first of all it should be said that a web project report does not necessarily have to be compiled and sent to the client on a weekly basis, however I believe this only applies to large projects with big budgets that are spanning over more than six months, but even then the web project report should be sent out once every other week at least!
