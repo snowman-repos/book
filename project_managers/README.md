@@ -900,7 +900,26 @@ Resources will vary according to the product’s size and complexity. Make sure 
 Develop a rough product plan.
 Clarify the risks and opportunities. This will help validate whether you have the right resources and help you determine timelines for tasks and milestones.
 Define the key success factors.
-Why is the product valuable to the company, and how will you know you’ve succeeded? Define your particular success criteria, and validate these with stakeholders.Once you’ve done all the preparation, it’s time to gather the gang. In theory, the kickoff meeting should have plenty of energy and excitement, and team members should leave full of ideas and with a desire to explore solutions. In practice, however, kickoff meetings can be sleep-inducing and even totally awkward.
+Why is the product valuable to the company, and how will you know you’ve succeeded? Define your particular success criteria, and validate these with stakeholders.Once you’ve done all the preparation, it’s time to gather the gang. In theory, the kickoff meeting should have plenty of energy and excitement, and team members should leave full of ideas and with a desire to explore solutions. In practice, however, kickoff meetings can be sleep-inducing and even totally awkward.Whether you’re a startup or an enterprise, the key to a great kickoff meeting is involving people, rather than merely reviewing your pre-kickoff documents. Kevin Hoffman, a design consultant at Rosenfeld Media, believes in taking a “design studio” approach to fostering creativity. A classic approach to ideation in industrial design and architecture, this technique is all about building relationships with coworkers, and it can be executed with groups of between 10 to 60 people in under a few hours. Here are some useful activities for the group to get started:
+Priority and feasibility plot
+Plot the features you’ve discussed on a chart according to feasibility versus business value.
+Card-sorting
+Write the discussed features and functionality on index cards (ideally, fewer than 20), and then have each person sort the deck in order of priority, with the highest on top and the lowest on bottom.
+20-second gut test
+Collect screenshots of web pages or product images, and show them in a presentation to the group. Each member should give each image a score between 1 and 5. This will tell you everyone’s aesthetic preferences.
+Fishbowl conversations
+When discussing the pre-kickoff documents or doing group activities, arrange the seats in a circle (like a fishbowl) to give everyone in the group face-to-face contact and an opportunity to contribute.
+Of course, there’s no denying that an agenda and/or kickoff document are necessary to keep the activities on track. You can either use Usability.gov’s question-driven kickoff document or a more lightweight option, like Mozilla’s kickoff wiki or Pivotal Labs’ “Product Definition Exercise” (PDF).
+GUIDING PRINCIPLES LINK
+Adhering to a set of principles will keep you from going off track. Kevin Hoffman again provides a framework that will help whether your kickoff is in-person or remote:
+Base the agenda on the research.
+Ideas and challenges that surface during research or stakeholder interviews should be front and center on the agenda.
+Be as inclusive as possible.
+Including too many people up front is better than forgetting a stakeholder until you’re close to launch.
+Build activities around risk-free exploration.
+The kickoff process should explore the full potential of what is possible. So, leave egos at the door.
+Incorporate fun and creativity.
+Don’t be afraid to make it weird. Besides, team members might be thrilled to break from a traditional format.
 
 - before hand - while you're planning get everyone's feedback
 - who to invite
