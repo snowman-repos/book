@@ -272,7 +272,7 @@ Let's pigeonhole your production team into content managers, designers, develope
 
 Of course there are times when everyone is going to have to do minor tasks in support of project management. Yes, timesheets, but also planning meetings, their own internal schedules, answering phone calls and emails etc. You have to do everything you can to minimise the impact of such tasks so that they don't cause people to get sidetracked such that quality is reduced and the project momentum is dampened. Even if just one person is suffering more than others under the weight of unread emails, the effectiveness of the entire team is affected.
 
-So how can you help? Be a stress sponge. Back to the e-mail example, ensure you are copied in on all project-related e-mails. Yep, all of them. That way you have an eye on to whom issues are being directed and can step in if needs be. By reducing their stress, they work better, which means that eventually you have less to be stressed about. So the stress dividends pay off later.
+So, how can you help? Be a stress sponge. Back to the e-mail example, ensure you are copied in on all project-related e-mails. Yep, all of them. That way you have an eye on to whom issues are being directed and can step in if needs be. By reducing their stress, they work better, which means that eventually you have less to be stressed about. So the stress dividends pay off later.
 
 > It should be assumed that part of the role is to basically take crap on behalf of your team in such a way that they don’t even get a whiff of it, even if they’re the cause of it. Your job is to keep your team positive, motivated and focussed on their job – and if this means taking some crap you know you don’t deserve then so be it.
 
