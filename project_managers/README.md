@@ -909,22 +909,6 @@ Things you will want to discuss in the meeting are:
 
 
 
-When running kick-off meetings we’re trying to answer the basic questions:
-Why – Why are we doing this project in the first place? What business need does it satisfy? How does this project meet a consumer need?
-What – What’s the solution? What are we going to do / make?
-How – How are we going to work together to make the project happen?
-When – When are we going to do it?
-Where/Who – Where is the starting point for kicking things off? Who’s going to do what?
-
-
-This meeting is important to web development projects because:
-
-It familiarizes all the individuals involved in the project with each other
-It extracts important details from the appropriate individuals to avoid information silos
-It gives everyone clarity about the core objectives of the project
-It gets everyone on the same page
-It promotes active communication lines
-It gets the project off to a great start
 
 
 
