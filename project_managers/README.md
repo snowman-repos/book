@@ -220,6 +220,22 @@ As with web designers and developers, if we have enough time to do our jobs prop
 
 As we discussed above, trust from the client, the client manager, your boss, and every member of the production team is crucial. You are on the front-lines, making critical decisions on a daily basis. The success or failure of the entire project largely falls on your shoulders and yet your job relies on so many uncontrollable factors. Good project management doesn't necessarily lead to project success, but bad project management always leads to project failure. Trust can only be gained and isn't given blindly. You gain it by demonstrating that you can do your job effectively, take control, and always, always accept responsibility.
 
+#### Suitable Tools
+
+You're going to have a lot on your plate so you should make use of the myriad of tools available to make your work more efficient. We're not going to recommend any specific ones here but if it's your first day on the job then you're going to want to set yourself up with some or all of the following:
+
+* A easy to use task planner that syncs across all your devices
+* A note taking tool that syncs across all your devices
+* A timeline tool
+* A project planner, e.g. a kanban board or gant chart
+* Somewhere to store important details about each project
+* A shared calendar
+* A shared chatroom
+* A code editor
+* Whatever software you need to open design documents
+
+Use whatever you're most comfortable with, beit a notebook and a whiteboard or one of these all-encompassing bells-and-whistles SaaS platforms of which there are many many paid and open-source options. Having a physical kanban board is a great idea because it's easily visible and accessible to the production team, but bear in mind that most of your work will need to be easily documented and shared.
+
 #### A Capable Production Team
 
 In your role you simply don't have the time to do everything yourself, or even to help out with content, design, development and testing, on top of everything else. You need to be able to confidently delegate tasks and know that they will be completed to your standards of quality, and also resist the temptation to even think that something would have been done better if you'd just done it yourself. Relying on the skills of your team is essential and so that means not just hiring well but also maintaining and developing skills - the better your team gets the easier your job becomes and the better your products are.
@@ -237,22 +253,6 @@ You have to expect a lot of support from your team, but that means you have to p
 Thank them and recognise their efforts publicly, but always offer your own criticism and advice privately. Even if they are performing well, it's your job to push them to always be better. Constantly encourage them to learn new tools and techniques, give them the time for training to practice what they've learned. Of course, you need to take this into account when formulating schedules and conjuring deadlines. It will pay off in the long run as they learn to work more efficiently and can accommodate a greater variety of requests. That means fewer bottlenecks for you.
 
 Ultimately, no matter whether you always manage to hire industry wizards or not, your team will only ever be as productive as you enable them to be, which leads us nicely onto the next section.
-
-#### Suitable Tools
-
-You're going to have a lot on your plate so you should make use of the myriad of tools available to make your work more efficient. We're not going to recommend any specific ones here but if it's your first day on the job then you're going to want to set yourself up with some or all of the following:
-
-* A easy to use task planner that syncs across all your devices
-* A note taking tool that syncs across all your devices
-* A timeline tool
-* A project planner, e.g. a kanban board or gant chart
-* Somewhere to store important details about each project
-* A shared calendar
-* A shared chatroom
-* A code editor
-* Whatever software you need to open design documents
-
-Use whatever you're most comfortable with, beit a notebook and a whiteboard or one of these all-encompassing bells-and-whistles SaaS platforms of which there are many many paid and open-source options. Having a physical kanban board is a great idea because it's easily visible and accessible to the production team, but bear in mind that most of your work will need to be easily documented and shared.
 
 ## Facilitating Others
 
