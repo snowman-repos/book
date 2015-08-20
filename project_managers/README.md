@@ -915,10 +915,6 @@ Whether you already have basic functional specifications put together or not, yo
 
 
 
-We are going to need technical information from the client such as server info, domain information, analytics data, previous SEO campaigns, and so forth.
-
-
-If enough time is given (1 week is enough time in my experience) it’s a good litmus test on how responsive and communicative your client is going to be throughout the web development project. Of course, this isn’t always guaranteed, but I like to use it as an indicator.
 
 
 Step 1: Develop the project goals and deliverables
