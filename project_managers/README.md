@@ -916,10 +916,6 @@ Whether you already have basic functional specifications put together or not, yo
 
 
 
-I find the more prepared I am for the kickoff meeting, the more likely the client will follow my lead and trust my judgment during the meeting as well as throughout the lifecycle of the project.
-
-
-
 Step 3: Develop a project assumptions list
 It’s important for project team members to be aware of major assumptions that apply to the project. For example, spell out the assumption that each team member has been selected and made available to the project by their manager to ensure its success. That assumption means that their assigned tasks must take priority, and each participant must be committed to the success of the project if they are to participate.
 
