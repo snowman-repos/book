@@ -937,13 +937,13 @@ As well as going through each task or feature, you'll want some more open discus
 
 Sequentially going through features and assigning tasks all sounds very dull. It won't be easy to make people feel engaged or excited about the project when you're just piling work on them and asking how long it's going to take. Find ways to involve others as much as possible and try not to do most of the talking. Certainly don't just make this meeting about reviewing your documents - people can go away and do that in their own time!
 
-Don't be afriad to force people out of their comfort zone. When discussing the design for example, perhaps have a brainstorming session involving the developers; they may even know about some handy new tools or libraries that could excite the designers. How about preparing screenshots of similar products that everyone can discuss and asses, giving each their own ratings. You could try and devise some sort of diagrams or charts to draw on a whiteboard that can represent task priorities or feasibility. Maybe write down tasks and associated names on index cards and have everyone try and sort them in order.
+Don't be afriad to force people out of their comfort zone. When discussing the design for example, perhaps have a brainstorming session involving the developers; they may even know about some handy new tools or libraries that could excite the designers. How about preparing screenshots of similar products that everyone can discuss and asses, giving each their own ratings. You could try and devise some sort of diagrams or charts to draw on a whiteboard that can represent task priorities or feasibility. Maybe write down tasks and associated names on index cards and have everyone try and sort them in order. Or another idea is fishbowl conversations, discussions about a particular topic in which only people sitting in particular chairs are allowed to speak. If anyone wants to join the conversation they must claim a chair and someone else must vacate it. You could enforce time limits on speaking and force everyone to take a turn in the chair. Meanwhile a moderator, you in this case, guides the discussion and summarises it at the end.
 
-
-
-Fishbowl conversations
+Maybe you think these are silly ideas, but what's crucially important is that everyone is engaged and involved. You don't want anyone walking out of the meeting having not said or contributed anything. They were in there for a reason.
 
 #### Stay Focused
+
+
 
 When discussing the pre-kickoff documents or doing group activities, arrange the seats in a circle (like a fishbowl) to give everyone in the group face-to-face contact and an opportunity to contribute.
 Of course, there’s no denying that an agenda and/or kickoff document are necessary to keep the activities on track. You can either use Usability.gov’s question-driven kickoff document or a more lightweight option, like Mozilla’s kickoff wiki or Pivotal Labs’ “Product Definition Exercise” (PDF).
