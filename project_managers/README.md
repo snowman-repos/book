@@ -943,12 +943,10 @@ Maybe you think these are silly ideas, but you may find that people appreciate a
 
 #### Stay Focused
 
+Even if you decide to incorporate some fun activities into the kick-off, you need to ensure you stay on track and achieve the objectives of the meeting - making key decisions and gathering the required information. You also need to ensure you can do all this in as little time as possible so as not to disrupt people's work. It's especially difficult to stay on track when you have lots of people in the room.
 
 
 
-Of course, there’s no denying that an agenda and/or kickoff document are necessary to keep the activities on track. You can either use Usability.gov’s question-driven kickoff document or a more lightweight option, like Mozilla’s kickoff wiki or Pivotal Labs’ “Product Definition Exercise” (PDF).
-
-Adhering to a set of principles will keep you from going off track.
 Base the agenda on the research.
 Ideas and challenges that surface during research or stakeholder interviews should be front and center on the agenda.
 The kickoff process should explore the full potential of what is possible. So, leave egos at the door.
