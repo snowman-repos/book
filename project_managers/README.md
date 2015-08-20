@@ -472,7 +472,7 @@ Some project owners will of course just want to leave you to it and wait for the
 
 ### Timing
 
-Now that you have a clear list of resource-allocated feature-based tasks you can start to plan who should do what when. Aside from those tasks, you'll also need to plan for client tasks, changes and revisions, depdencies, lag times, resource availability, and milestones. This may just sound like jargon, but they are things that inevitably act as hurdles in every single project.
+Now that you have a clear list of resource-allocated feature-based tasks you can start to plan who should do what when. Aside from those tasks, you'll also need to plan for client tasks, changes and revisions, dependencies, lag times, resource availability, and milestones. This may just sound like jargon, but they are things that inevitably act as hurdles in every single project.
 
 #### Client Tasks
 
