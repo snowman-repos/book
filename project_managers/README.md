@@ -978,7 +978,9 @@ The report should always include the latest project schedule. In fact the report
 
 As with schedules, keeping the project owner regularly updated on the budget will reassure them. If it's looking like the budget may be overrun, then they will be able to react early or extend the budget, having been kept informed along the way as to how this happened.
 
-The status report doesn't really have to take much time to compile. Once you have a template from the first one, all you need to do is quickly update the information each week. You should already have the latest schedule and budget figures to hand anyway.
+It's not just about providing the latest information either. The report should also include a list of high-level action items, a general weekly to-do list for both your team and the project owner's team, which supports project momentum and accountability. If someone fails to complete a stated task one week, then you can highlight here how it has affected the timeline.
+
+The status report doesn't really have to take much time to compile. Once you have a template from the first one, all you need to do is quickly update the information each week. You should already have the latest schedule and budget figures to hand anyway. It's a constant challenge for a web project manager, juggling so many things, to stick to these formal processes. Project status reports may be deemed unimportant and may be one of the first things cast aside once Friday afternoon rolls around. However it does force good project management practice and it needs to become habitual It just takes discipline..
 
 
 
@@ -987,21 +989,6 @@ The status report doesn't really have to take much time to compile. Once you hav
 
 
 
-
-ACTIONS ENCOURAGE MOMENTUM AND ACCOUNTABILITY
-Part of the weekly web project report should be actions. This part will list actions for both agency and client, at a high-level, which were completed in the previous week, and actions for both parties to be completed in the following week.
-
-The reason for including actions is simply for web project momentum and accountability.
-
-By this I mean that although a web project schedule may have been produced that has a zillion tasks on it, many clients will be busy with other work and a short list of ‘things they need to do this week’ can be a handy tool for them.
-
-As well as a makeshift to do list, these action lists can also serve as conversations linked to the web project schedule, for example, if in one weekly report a client has an action to deliver content to you and fails to do so and you know this affects the schedule, you can point to specific un-completed actions as causes for slips – again, this transparency and communication helps you out too!
-
-FORCES GOOD WEB PROJECT MANAGEMENT PRACTICE
-As busy chainsaw juggling Web Project Managers, one of our constant challenges is sticking to processes when time is short. At times like this it’s all too easy to cut corners and the weekly report is understandably one of the first things deemed as not critical.
-
-A photograph of a man in a shirt and trousers juggling three handheld food blenders lit by a stage spotlight in front of a red stage-like curtainSome Web Project Managers like to exaggerate
-However discipline is something that separates average web project managers from great ones.
 
 Not only will the weekly report prove its weight in gold when things don’t go to plan, it also forces the web project manager to keep an eye on every project they’re running and trust me, to effectively stay on top of the multitude of projects you’re likely to have on at any one time you really have to be aware of the most minute detail on a regular basis.
 
