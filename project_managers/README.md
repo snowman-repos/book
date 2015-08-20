@@ -916,11 +916,7 @@ Whether you already have basic functional specifications put together or not, yo
 All the information you have is probably compiled into some kind of project plan or functional specifications outlining all the tasks, responsibilities, and timeframes. It's important to realise that such a plan is, at this stage, not set in stone. You'll undoubtedly have a list of questions or assumptions that you must also bring to this meeting.
 
 
-Step 3: Develop a project assumptions list
-It’s important for project team members to be aware of major assumptions that apply to the project. For example, spell out the assumption that each team member has been selected and made available to the project by their manager to ensure its success. That assumption means that their assigned tasks must take priority, and each participant must be committed to the success of the project if they are to participate.
 
-Step 4: Develop the preliminary project plan
-You can save a lot of time by going ahead and developing the tasks, responsibilities, and timeframes of the project plan. Going through this exercise will help you validate whether you have the right resources, identify risks, and determine the appropriate timelines for tasks and milestones.
 
 Use whatever resources you need to help you create the initial project plan. The point here is that when you go into the kickoff meeting, you will already have a plan drafted. Doing so will save time and get the project off to a faster start. (To develop a project plan, download this project-planning template.)
 
