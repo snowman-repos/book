@@ -567,7 +567,7 @@ And just keep going until you can't think of any more smaller tasks:
     * Requirements Gathering
     * Functional Specifications
         * Sitemap
-        * Wireframes
+        * Feature List & Wireframes
         * Performance Budget
         * Technology Decisions
     * Timelines
