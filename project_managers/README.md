@@ -892,7 +892,15 @@ By now the benefits of a close-knit team working together iteratively towards th
 
 By this stage, you've been learning and thinking a lot about this project. You kn ow exactly what needs to be done and how your team can do it. Now it's time to share with them.
 
-The kickoff meeting covers a high-level outline of the product’s purpose, who is involved in designing and developing the product, how they’ll work together and stay up to date on progress, and what the intended results or success metrics are. The kickoff meeting is the equivalent of a grand opening, bringing all key players together in one room to share information and align to a common purpose. Take advantage of this one-time opportunity to energize the group, set expectations and set guidelines to complete the project on time and on budget.
+The kickoff meeting covers a high-level outline of the product’s purpose, who is involved in designing and developing the product, how they’ll work together and stay up to date on progress, and what the intended results or success metrics are. The kickoff meeting is the equivalent of a grand opening, bringing all key players together in one room to share information and align to a common purpose. Take advantage of this one-time opportunity to energize the group, set expectations and set guidelines to complete the project on time and on budget.When speaking with stakeholders prior to the kickoff, break the ice and then dive right into the hard questions. What is the one thing that must be done right to make the product worthwhile? How would your wildest dreams be exceeded? Assure them that certain questions are “off the record” so that you can better draw out their hopes and fears for the product. These stakeholder interviews also help to accumulate a list of high-level functional requirements.
+Identify the project’s goals and deliverables.
+Defining these elements will help you decide on resources and a plan for the product. Why do stakeholders care, and why are you building this product at this particular time?
+Identify team members and their responsibilities.
+Resources will vary according to the product’s size and complexity. Make sure to consider what’s needed from the design, marketing, development, support and operations teams.
+Develop a rough product plan.
+Clarify the risks and opportunities. This will help validate whether you have the right resources and help you determine timelines for tasks and milestones.
+Define the key success factors.
+Why is the product valuable to the company, and how will you know you’ve succeeded? Define your particular success criteria, and validate these with stakeholders.
 
 - before hand - while you're planning get everyone's feedback
 - who to invite
