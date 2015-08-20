@@ -920,13 +920,6 @@ The final preparation step is actually scheduling the meeting at a time that bes
 #### Who should you invite?
 
 
-Step 6: Schedule the project kickoff meeting
-It is important for all project team members to participate in the kickoff meeting. Send a communication to each participant with a preferred time and date and include options in case they are unavailable. Even if someone is “out of pocket,” he or she can participate by phone.
-
-
-
-
-
 Identify team members and their responsibilities.
 Resources will vary according to the product’s size and complexity. Make sure to consider what’s needed from the design, marketing, development, support and operations teams.
 Develop a rough product plan.
