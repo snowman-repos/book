@@ -909,6 +909,8 @@ Things you will want to discuss in the meeting are:
 * How? How are we going to work together to make it happen?
 * When? How long do we need to make it?
 
+#### Be Prepared
+
 
 
 
