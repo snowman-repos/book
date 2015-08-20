@@ -902,11 +902,10 @@ The kick-off meeting is your opportunity to run everything by your team and conf
 Things you will want to discuss in the meeting are:
 
 * Why? What are the project objectives? How should the project meet user/consumer needs?
-* Who? Who is the project owner and why do this need it?
+* Who? Who is going to do what?
 * What? What are we going to do/make?
 * How? How are we going to work together to make it happen?
 * When? How long do we need to make it?
-* 
 
 
 
