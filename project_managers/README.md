@@ -824,7 +824,7 @@ Earlier we talked about timeline diagrams, otherwise known as gantt charts, and 
 1. Open a maps app
 2. Find the nearest tall building, cliff, or bridge. Ideally it should be at least 80m high.
 3. Go to the top of that tall building, cliff, or bridge.
-4. Stand on the edge, facing the abyss
+4. Stand right on the edge, facing the abyss
 5. Jump forward
 
 **Option 2**
