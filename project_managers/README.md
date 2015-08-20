@@ -914,6 +914,24 @@ Things you will want to discuss in the meeting are:
 Whether you already have basic functional specifications put together or not, you need to come into the meeting with as much useful information as possible. At the very least you should be aware of the project goals and deliverables, enough to know who on your team needs to be involved. Ideally you'll have detailed information from the project owner about their background, business needs, users or customers. You'll have stakeholder interviews, style and content guidlines, a feature list, technical requirements, server and domain information, analytics data, required deliverables, and anything that will help your team to get started. Gather as much information as possible, even if you don't plan to formally present it someone on the team might ask a question and you'll be prepared.
 
 
+Step 3: Develop a project assumptions list
+It’s important for project team members to be aware of major assumptions that apply to the project. For example, spell out the assumption that each team member has been selected and made available to the project by their manager to ensure its success. That assumption means that their assigned tasks must take priority, and each participant must be committed to the success of the project if they are to participate.
+
+Step 4: Develop the preliminary project plan
+You can save a lot of time by going ahead and developing the tasks, responsibilities, and timeframes of the project plan. Going through this exercise will help you validate whether you have the right resources, identify risks, and determine the appropriate timelines for tasks and milestones.
+
+Use whatever resources you need to help you create the initial project plan. The point here is that when you go into the kickoff meeting, you will already have a plan drafted. Doing so will save time and get the project off to a faster start. (To develop a project plan, download this project-planning template.)
+
+Realize that the plan is not carved in stone at this point. Actually, it should never be. Up until the kickoff meeting, it is a knowledgeable draft. Once you have the team assembled and assign clear responsibilities, you should ask team members to validate their task responsibilities and timeframes for reasonability, completeness, and accuracy. The plan will become more established at the first project status meeting.
+
+Step 5: Define key success factors
+Every project team member needs to know what it takes to have a successful project. Take the time to define in specific terms each item that will be required for success. Validate your list with the project owner(s).
+
+Step 6: Schedule the project kickoff meeting
+It is important for all project team members to participate in the kickoff meeting. Send a communication to each participant with a preferred time and date and include options in case they are unavailable. Even if someone is “out of pocket,” he or she can participate by phone.
+
+
+
 
 
 Defining these elements will help you decide on resources and a plan for the product. Why do stakeholders care, and why are you building this product at this particular time?
@@ -943,21 +961,7 @@ Technical
 
 Develop a project team contact list that includes the name, responsibility, department, physical location, phone number, fax number, and e-mail address for each member. You’ll want to distribute this to the team.
 
-Step 3: Develop a project assumptions list
-It’s important for project team members to be aware of major assumptions that apply to the project. For example, spell out the assumption that each team member has been selected and made available to the project by their manager to ensure its success. That assumption means that their assigned tasks must take priority, and each participant must be committed to the success of the project if they are to participate.
 
-Step 4: Develop the preliminary project plan
-You can save a lot of time by going ahead and developing the tasks, responsibilities, and timeframes of the project plan. Going through this exercise will help you validate whether you have the right resources, identify risks, and determine the appropriate timelines for tasks and milestones.
-
-Use whatever resources you need to help you create the initial project plan. The point here is that when you go into the kickoff meeting, you will already have a plan drafted. Doing so will save time and get the project off to a faster start. (To develop a project plan, download this project-planning template.)
-
-Realize that the plan is not carved in stone at this point. Actually, it should never be. Up until the kickoff meeting, it is a knowledgeable draft. Once you have the team assembled and assign clear responsibilities, you should ask team members to validate their task responsibilities and timeframes for reasonability, completeness, and accuracy. The plan will become more established at the first project status meeting.
-
-Step 5: Define key success factors
-Every project team member needs to know what it takes to have a successful project. Take the time to define in specific terms each item that will be required for success. Validate your list with the project owner(s).
-
-Step 6: Schedule the project kickoff meeting
-It is important for all project team members to participate in the kickoff meeting. Send a communication to each participant with a preferred time and date and include options in case they are unavailable. Even if someone is “out of pocket,” he or she can participate by phone.
 
 
 
