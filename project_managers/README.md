@@ -897,7 +897,6 @@ The kick-off meeting is your opportunity to run everything by your team and conf
 
 
 
-Your goal here is to assemble the entire team so they all hear the same message at the start of the project. Instruct all participants to look for meeting materials on a specified date and to prepare for the meeting by reviewing them.
 
 When running kick-off meetings we’re trying to answer the basic questions:
 Why – Why are we doing this project in the first place? What business need does it satisfy? How does this project meet a consumer need?
