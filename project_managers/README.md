@@ -945,7 +945,7 @@ Maybe you think these are silly ideas, but what's crucially important is that ev
 
 
 
-When discussing the pre-kickoff documents or doing group activities, arrange the seats in a circle (like a fishbowl) to give everyone in the group face-to-face contact and an opportunity to contribute.
+
 Of course, there’s no denying that an agenda and/or kickoff document are necessary to keep the activities on track. You can either use Usability.gov’s question-driven kickoff document or a more lightweight option, like Mozilla’s kickoff wiki or Pivotal Labs’ “Product Definition Exercise” (PDF).
 
 Adhering to a set of principles will keep you from going off track. Kevin Hoffman again provides a framework that will help whether your kickoff is in-person or remote:
