@@ -887,7 +887,7 @@ Also relating to the project owner's bank balance is the fact that changes, bein
 * they reluctantly pay you but have to pay you more to make the changes, souring the relationship and probably destroying their ongoing commitment to the product you've built
 * they insist on the changes but don't pay you anymore, so you have to slave away for free
 
-All of these things are bad for the web.
+All of these things are bad for the web because nobody likes or cares about the project anymore.
 
 Advantages rarely come without disadvantages so we'd be remiss to not cover those too. The adaptability of the approach and responsiveness to changes brings an inherent risk. Changes can become tooooo easy, too tempting. It comes back to a good plan and good project management control to ensure that the final product matches what was originally proposed. As you go along, maybe you, your team, or the client will have some great ideas that you have chance to implement. But if they take you further away from the original business goals then they should be given serious consideration and probably stay on the table for a future upgrade project. Similarly the added flexibility allows for potential scope creep. Try to resist the temptation to add features that are beyond the original scope, even if you have time and budget available, unless there is a solid business case for them. Instead explain to the project owner that this feature can be considered after the final milestone for this project.
 
