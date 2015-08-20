@@ -915,8 +915,9 @@ Whether you already have basic functional specifications put together or not, yo
 
 All the information you have is probably compiled into some kind of project plan or functional specifications outlining all the tasks, responsibilities, and timeframes. While this should get you off to a good start, it's important to realise that such a plan is, at this stage, not set in stone. In fact it should never be. You'll undoubtedly have a list of questions or assumptions that you must also bring to this meeting. In presenting the plan to the team, asking questions, and gathering feedback, you'll be able to refine and validate it.
 
+The final preparation step is actually scheduling the meeting at a time that best suits everyone. But who is everyone?
 
-
+#### Who should you invite?
 
 
 Step 6: Schedule the project kickoff meeting
