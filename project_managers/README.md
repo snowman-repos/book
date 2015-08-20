@@ -911,7 +911,7 @@ Things you will want to discuss in the meeting are:
 
 #### Be Prepared
 
-Whether you already have basic functional specifications put together or not, you need to come into the meeting with as much useful information as possible. At the very least you should be aware of the project goals and deliverables, enough to know who on your team needs to be involved. Ideally you'll have detailed information from the project owner about their background, business needs, users or customers. You'll have stakeholder interviews, style and content guidlines, a feature list, technical requirements, server and domain information, analytics data, and anything that will help your team to get started. Gather as much information as possible, even if you don't plan to formally present it someone on the team might ask a question and you'll be prepared.
+Whether you already have basic functional specifications put together or not, you need to come into the meeting with as much useful information as possible. At the very least you should be aware of the project goals and deliverables, enough to know who on your team needs to be involved. Ideally you'll have detailed information from the project owner about their background, business needs, users or customers. You'll have stakeholder interviews, style and content guidlines, a feature list, technical requirements, server and domain information, analytics data, required deliverables, and anything that will help your team to get started. Gather as much information as possible, even if you don't plan to formally present it someone on the team might ask a question and you'll be prepared.
 
 
 
