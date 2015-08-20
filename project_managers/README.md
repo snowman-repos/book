@@ -892,7 +892,14 @@ By now the benefits of a close-knit team working together iteratively towards th
 
 By this stage, you've been learning and thinking a lot about this project. You hopefully have some background information, a feature list, maybe even stakeholder interviews. You have a pretty good idea of what needs to be done and how your team might be able do it.
 
-The kick-off meeting is your opportunity to run everything by your team and confirm or change any assumptions you have. It informs the entire project plan as laid out in the functional specifications. You're going to assemble the entire team so they can all hear the same message, get the same documentation and information, and review the requirements. It's important to have a kick-off meeting for the following reasons:
+The kick-off meeting is your opportunity to run everything by your team and confirm or change any assumptions you have. It informs the entire project plan as laid out in the functional specifications. You're going to assemble the entire team so they can all hear the same message, get the same documentation and information, and review the requirements.
+
+
+The kickoff meeting covers a high-level outline of the product’s purpose, who is involved in designing and developing the product, how they’ll work together and stay up to date on progress, and what the intended results or success metrics are. The kickoff meeting is the equivalent of a grand opening, bringing all key players together in one room to share information and align to a common purpose. Take advantage of this one-time opportunity to energize the group, set expectations and set guidelines to complete the project on time and on budget.When speaking with stakeholders prior to the kickoff, break the ice and then dive right into the hard questions. What is the one thing that must be done right to make the product worthwhile? How would your wildest dreams be exceeded? Assure them that certain questions are “off the record” so that you can better draw out their hopes and fears for the product. These stakeholder interviews also help to accumulate a list of high-level functional requirements.
+
+
+
+It's important to have a kick-off meeting for the following reasons:
 
 * Everyone can become clear about the core objectives
 * Everyone on the team becomes familiar to each other
