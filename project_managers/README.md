@@ -976,23 +976,9 @@ Status reports highlight the inevitable issues that arise during the production 
 
 The report should always include the latest project schedule. In fact the report's very raison d'être is to let everyone know whether the project is ahead of or behind schedule and why. The schedule will undoubtedly be updated regularly and so it would be a mistake to only show it to people at or just after the kick-off meeting, or to leave it languishing and ignored on a shared server somewhere. It's also a bad idea to leave communicated schedules until milestones, which may be weeks or months in the future, because web projects may change on a daily basis. Scheduling issues may highlight cause to secure more resources or de-prioritise requirements in order to stay on track. If the project owner is regularly updated on the project's timings, then should you need any difficult conversations about extensions you will have a series or shared documents to back you up. Changes to the schedule become easier to sell as a regular progression of schedule revisions higlights how the situation has come about.
 
+As with schedules, keeping the project owner regularly updated on the budget will reassure them. If it's looking like the budget may be overrun, then they will be able to react early or extend the budget, having been kept informed along the way as to how this happened.
 
 
-
-
-WEB PROJECT BUDGET VISIBILITY
-The web project budget update again is pretty self-explanatory and project management 101, but the real benefit of providing regular budget updates is best seen when, like with schedule, budget revisions are needed.
-
-Again, you’ll find it far easier to negotiate additional funding if the client has received a weekly update on budget and was always kept informed of any phases or tasks that were potentially running over, and why – as opposed to if you get to 90% of your design budget after allowing more changes than you wanted and then suddenly drop the “we need more money” line.
-
-A photograph of an Angry Bird toy from the popular iOS game series looking angry with a web designer in the backgroundClients have a subtle way of showing their anger
-With web project schedules and budgets, the key thing to understand is at the start of a project they should both be thought of as ‘initial’ and that only at the end of the project will you know the actual!
-
-Its how you navigate to those ‘actual’ numbers, how happy the client is at the end and how effective your solution has been that really are the true measures of a successful web project.
-
-I’ve witnessed web projects where the solution was delivered a week or two late and only a little over budget, but where the client was left feeling thoroughly in the dark and unloved and thus it felt like a failed project.
-
-However I’ve also seen instances where timelines overran by months and budgets doubled, but because the client had been kept well in the loop and understood along the way why these situations had happened, they were happy bunnies by the end and this was a successful project.
 
 ACTIONS ENCOURAGE MOMENTUM AND ACCOUNTABILITY
 Part of the weekly web project report should be actions. This part will list actions for both agency and client, at a high-level, which were completed in the previous week, and actions for both parties to be completed in the following week.
