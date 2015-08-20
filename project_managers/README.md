@@ -953,18 +953,20 @@ Before the meeting closes, run through with everyone the deliverables, due dates
 
 ### Daily Meetings
 
-Assuming the kick-off went well and the project has now begun smoothly, your ongoing role in this project is one of an overseer and facilitator. That means you'll require constant updates about project status and will need to identify and resolve any potential issues. You could send out a list of questions in emails to each team member individually, but that would take a lot of time (that you undoubtedly don't have!) and create information silos - only you will have a clear overall picture.
+Assuming the kick-off went well and the project has now begun smoothly, your ongoing role in this project is one of an overseer and facilitator. That means you'll require constant updates about project status and will need to identify and react to any potential issues. You could send out a list of questions in emails to each team member individually, but that would take a lot of time (that you undoubtedly don't have!) and create information silos - only you will have a clear overall picture.
 
+A great way to do this is to have a quickly daily standup meeting. This is where everyone gathers in one area and each person in turn says a few sentences about:
+* What they are currently working on
+* What might be blocking them, if anything
+* What they will be moving onto next, and when
 
-- find everyone's status
-- quick daily standup
-- non-intrusive
-- provide updates to client manager, get feedback from client
-- identify and react to risks
+This kind of open meeting allows everyone to learn about what everyone else is doing, enforcing team solidarity and a sense of collaborative progress. Everyone must have a turn at speaking, even if they are not busy or have nothing to do. You can also take this opportunity to provide any updates or feedback from the project owner. Realistically, everyone can probably provide you an update in 20-30 seconds (not even enough time to sit down, hence the name “daily standup”), making for a very quick, non-disruptive meeting. Also in the interest of being non-disruptive, you'll probably want to schedule such meetings for first thing in the morning before everyone settles down to get in the zone, or just after lunchtime, etc. It can be tricky to find a good time, especially if anyone on your team is working remotely, but this meeting is just to help your work, so try to be as understanding and accommodating as possible.
 
-after each meeting go back and adjust your plan
+Immediately following the meeting, you'll have some action items. You'll have to update your plan, update the client or client manager, seek the answers to any questions that were raised, and chase up anyone who's work is blocking someone else's to see if any help can be offered or tasks rearranged.
 
 ### Status Reports
+
+Whether you're following a pseudo-agile methodology or not, you should provide status reports at the end of each week or sprint.
 
 WHY A WEEKLY WEB PROJECT REPORT?
 Well first of all it should be said that a web project report does not necessarily have to be compiled and sent to the client on a weekly basis, however I believe this only applies to large projects with big budgets that are spanning over more than six months, but even then the web project report should be sent out once every other week at least!
