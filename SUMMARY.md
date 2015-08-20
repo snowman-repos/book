@@ -16,4 +16,5 @@
 * [Appendix A - Business Analysis Document](appendix_a_-_business_analysis_document/README.md)
 * [Appendix E - Content Styleguide](appendix_e_-_content_+styleguide/README.md)
 * [Appendix C - Functional Specifications](appendix_c_-_functional_specifications/README.md)
+* Appendix B - Scope of Work
 
