@@ -935,7 +935,9 @@ As well as going through each task or feature, you'll want some more open discus
 
 #### Make it Fun
 
-If you are going to have multiple activities at a kickoff meeting, or even multiple meetings, it’s important to have a good facilitator that remains a constant, and understands how it all fits together.
+Sequentially going through features and assigning tasks all sounds very dull. It won't be easy to make people feel engaged or excited about the project when you're just piling work on them and asking how long it's going to take.
+
+
 Build activities around collaboration and “no risk” exploration. This is the time to explore the full potential for what is possible. Even if you venture out of the previously discussed scope, you are still fermenting ideas that could build a road map for additional work in the future.
 Introduce fun, creativity, and energy into to your process! Don’t be afraid to force people outside of their comfort zone. Attendees will be thrilled to break from a more traditional meeting agenda, anyway.
 
