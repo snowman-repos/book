@@ -234,7 +234,7 @@ You're going to have a lot on your plate so you should make use of the myriad of
 * A code editor
 * Whatever software you need to open design documents
 
-Use whatever you're most comfortable with, beit a notebook and a whiteboard or one of these all-encompassing bells-and-whistles SaaS platforms of which there are many many paid and open-source options. Having a physical kanban board is a great idea because it's easily visible and accessible to the production team, but bear in mind that most of your work will need to be easily documented and shared.
+Use whatever you're most comfortable with, beit a notebook and a whiteboard or one of these all-encompassing bells-and-whistles SaaS platforms of which there are many, many paid and open-source options. Having a physical kanban board is a great idea because it's easily visible and accessible to the production team, but bear in mind that most of your work will need to be easily documented and shared.
 
 #### A Capable Production Team
 
