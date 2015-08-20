@@ -913,7 +913,11 @@ Things you will want to discuss in the meeting are:
 
 Whether you already have basic functional specifications put together or not, you need to come into the meeting with as much useful information as possible.
 
-Do as much research as you can before your kickoff meeting, and design your meeting agenda to strategically address the ideas and challenges you learn from that research. For more insight into stakeholder interviews and requirements gathering, check out Exploring Requirements: Quality Before Design by Gause and Weinberg, and Putting Context into Context, by Jared Spool.
+
+
+
+
+
 Open up your kickoff process to as many people as possible. It’s better to include too many people up front than find out you overlooked a valuable player late in the game.
 If you are going to have multiple activities at a kickoff meeting, or even multiple meetings, it’s important to have a good facilitator that remains a constant, and understands how it all fits together.
 Build activities around collaboration and “no risk” exploration. This is the time to explore the full potential for what is possible. Even if you venture out of the previously discussed scope, you are still fermenting ideas that could build a road map for additional work in the future.
