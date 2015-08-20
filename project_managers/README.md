@@ -760,7 +760,7 @@ You'll also want to include specific rules, as with the performance budget, that
 
 #### Design Guidelines
 
-Designers face the daunting challenge ot starting with a completely blank canvas. We can make that challenge less daunting perhaps by filling in the canvas with things like colours or wireframe diagrams.
+Designers face the daunting challenge of starting with a completely blank canvas. We can make that challenge less daunting perhaps by filling in the canvas with things like colours or wireframe diagrams.
 
 Branding and colours is probably the best place to start and can often be easily extracted from the project owner's existing branding. They probably have a logo, some corporate typefaces, colours, even perhaps a brand style guide. These may not all be easily translatable to the web but that's a problem that the designer should resolve - this will at least get them started.
 
