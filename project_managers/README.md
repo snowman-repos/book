@@ -974,7 +974,7 @@ It's also useful as an internal communication tool. If you're spending time putt
 
 Status reports highlight the inevitable issues that arise during the production of web projects. Therefore it can serve as a launchpad for conversations about finding solutions. Just like in your daily standup meetings, if everyone is made aware of a problem then everyone can do what they can to resolve it. There's the added advantage that issues are collated and communicated all at once rather than in various email threads, which may be a more eddficient way of dealing with them. It's a form of issue log that both your team and the project owner's team can be held accountable for.
 
-
+The report should always include the latest project schedule. In fact the report's very raison d'être is to let everyone know whether the project is ahead of or behind schedule and why. The schedule will undoubtedly be updated regularly and so it would be a mistake to only show it to people at or just after the kick-off meeting, or to leave it languishing and ignored on a shared server somewhere. It's also a bad idea to leave communicated schedules until milestones, which may be weeks or months in the future, because web projects may change on a daily basis.
 
 
 
