@@ -850,7 +850,7 @@ Finally the most heinous crime of waterfall model adherents is that testing is n
 
 So what's the alternative?
 
-You've no doubt heard of “agile”. It's mostly a popular buzz word that many agencies surely throw about without really understanding it or properly adhering to the methodology. Agile came about in the 1990s as a methodology for software development. It places an emphasis on self-organising cross-functional teams who work on short, fast, flexible iterations. Following agile methodologies is actually a proven best practice for building digital services. This is the official _Agile Manifesto_:
+You've no doubt heard of “agile”. It's mostly a popular buzz word that many agencies surely throw about without really understanding it or properly adhering to the methodology. Agile came about in the 1990s as a methodology for software development. It places an emphasis on self-organising cross-functional teams who work on short, fast, flexible iterations. Following agile methodologies is actually a proven best practice for building software. This is the official _Agile Manifesto_:
 
 * Individuals and interactions over Processes and tools
 * Working software over Comprehensive documentation
