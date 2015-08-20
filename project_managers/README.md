@@ -647,7 +647,7 @@ For example:
     * Testing
     * ...
 
-This is surely much better than just saying “hmm... list feature... 6 hours outta do it”. Instead you're building the feature in your head and breaking it down step by step. So we need to be able to add an item. How? What kind of item can we add? How can we make it easy and performant? What else might need to be considered for this seemingly simple task?
+This is surely much better than just saying “hmm... contact form feature... 6 hours outta do it”. Instead you're building the feature in your head and breaking it down step by step. So we need to be able to add an item. How? What kind of item can we add? How can we make it easy and performant? What else might need to be considered for this seemingly simple task?
 
 Every project will have different task requirements but following this process not only forces you to consider everything that may be required to successfully deliver this project but also makes it easier to plan and assign individual tasks and assess timings. When considering each task, you're placing yourself in the position of the person you're going to be assiging it to, thinking about what they need to do, what problems or questions they might raise, what they might need before they can start this tasks, heping you to clarify issues before work begins. Another added benefit is that it demonstrates to the project owner the scale of the work required so may also be helpful in justifying costs.
 
