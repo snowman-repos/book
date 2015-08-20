@@ -890,7 +890,10 @@ By now the benefits of a close-knit team working together iteratively towards th
 
 ### The Kick-Off Meeting
 
+
+
 - before hand - while you're planning get everyone's feedback
+- who to invite
 - what's the point - deliver the requirements
 - explain the plan
 - choose a technology stack
