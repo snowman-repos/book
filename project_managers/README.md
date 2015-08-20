@@ -656,7 +656,7 @@ By increasing the accuracy of your timing estimates in this way, you can more ea
 So in summary, now you have your granular task list for planning time, you have:
 
 * An instant and clearly defined scope of work
-* Timings you need to formulate and accurate schedule with reasonable milestones
+* Timings you need to formulate an accurate schedule with reasonable milestones
 * Clearly set project owner expectations
 * Demonstrated your thoroughness and understanding to both the project owner and your team, giving everyone confidence that there are fewer chances of problems further down the line
 
