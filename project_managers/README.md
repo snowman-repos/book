@@ -897,6 +897,8 @@ The kick-off meeting is your opportunity to run everything by your team and conf
 
 
 
+Your goal here is to assemble the entire team so they all hear the same message at the start of the project. Instruct all participants to look for meeting materials on a specified date and to prepare for the meeting by reviewing them.
+
 When running kick-off meetings we’re trying to answer the basic questions:
 Why – Why are we doing this project in the first place? What business need does it satisfy? How does this project meet a consumer need?
 What – What’s the solution? What are we going to do / make?
@@ -944,7 +946,7 @@ Every project team member needs to know what it takes to have a successful proje
 Step 6: Schedule the project kickoff meeting
 It is important for all project team members to participate in the kickoff meeting. Send a communication to each participant with a preferred time and date and include options in case they are unavailable. Even if someone is “out of pocket,” he or she can participate by phone.
 
-Your goal here is to assemble the entire team so they all hear the same message at the start of the project. Instruct all participants to look for meeting materials on a specified date and to prepare for the meeting by reviewing them.
+
 
 
 The kickoff meeting covers a high-level outline of the product’s purpose, who is involved in designing and developing the product, how they’ll work together and stay up to date on progress, and what the intended results or success metrics are. The kickoff meeting is the equivalent of a grand opening, bringing all key players together in one room to share information and align to a common purpose. Take advantage of this one-time opportunity to energize the group, set expectations and set guidelines to complete the project on time and on budget.When speaking with stakeholders prior to the kickoff, break the ice and then dive right into the hard questions. What is the one thing that must be done right to make the product worthwhile? How would your wildest dreams be exceeded? Assure them that certain questions are “off the record” so that you can better draw out their hopes and fears for the product. These stakeholder interviews also help to accumulate a list of high-level functional requirements.
