@@ -892,7 +892,7 @@ By now the benefits of a close-knit team working together iteratively towards th
 
 By this stage, you've been learning and thinking a lot about this project. You hopefully have some background information, a feature list, maybe even stakeholder interviews. You have a pretty good idea of what needs to be done and how your team might be able do it.
 
-The kick-off meeting is your opportunity to run everything by your team and confirm or change any assumptions you have. It informs the entire project plan as laid out in the functional specifications.
+The kick-off meeting is your opportunity to run everything by your team and confirm or change any assumptions you have. It informs the entire project plan as laid out in the functional specifications. You're going to 
 
 
 
