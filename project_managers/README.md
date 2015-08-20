@@ -966,31 +966,14 @@ Immediately following the meeting, you'll have some action items. You'll have to
 
 ### Status Reports
 
-Whether you're following a pseudo-agile methodology or not, it's a good idea to provide status reports at the end of each week or sprint.
+Whether you're following a pseudo-agile methodology or not, it's a good idea to provide status reports at the end of each week or sprint. But why? You're already busy enough as it is, right?
 
-WHY A WEEKLY WEB PROJECT REPORT?
-Well first of all it should be said that a web project report does not necessarily have to be compiled and sent to the client on a weekly basis, however I believe this only applies to large projects with big budgets that are spanning over more than six months, but even then the web project report should be sent out once every other week at least!
+Firstly, it conveys professionalism and will make the project owner, as well as your perhaps client manager, feel valued and respected. You may consistently deliver stunning projects, but if during the course of delivering those projects you leave your clients hanging, unaware of what's going on, or less than 100% confident that you're going to be on time and on budget, then they will not value your approach to business and may be reluctant to give you further work or recommendations.
 
-But let’s assume we’re all talking about your bog standard website or web application project (if there is such a thing), isn’t sending a weekly web project a little too over the top?
+It's also useful as an internal communication tool. If you're spending time putting together such a report then why not send it to your boss and evryone on your team? They should also be interested in the information it contains and may even be able to point out if there are mistakes before you submit it to the project owner.
 
-Well quite frankly, no.
 
-I’ve lost count of the number of times this approach has made certain conversations with clients infinitely easier, which I’ll explain below, but there are other beneficial reasons too.
 
-CONVEYS PROFESSIONALISM
-When it comes to web industry (or any industry for that matter) there are varying quality levels amongst us suppliers, some great and some absolute cowboys – a key part of maturing as a business is to make clients feel looked after to the point where they give you repeat business and referrals to others.
-
-A 1970's style photograph of a man with an oversized foam cowboy hat on sitting on the sofaI’ll build you a website pilgrim
-Achieving these key points come from a multitude of factors but consistently coming across as professional when it comes to web project management is one of the most important.
-
-You can deliver the most amazing looking or functionally cutting edge product to your client, but if the road to that delivery leaves the client feeling anything less than 100% confident in your approach to business in general, they could very well think twice before giving you more work or staking their reputation with peers by recommending you.
-
-You’d be surprised how organised ‘paperwork’ (or lack thereof) can influence a client’s impression of you – weekly web project reports contribute to that professional approach that is not only beneficial for you but also your agency.
-
-INTERNAL WEB PROJECT STATUS COMMUNICATION
-As you’re going to all that trouble of compiling this ‘easy to digest’ web project report, why not send it to your boss and project team also. By all rights it will contain exactly the information both of them should be interested in and you need to keep them regularly updated on.
-
-A spoof picture of a TPS report from the movie Office SpaceUse your red stapler for multi-paged web project reports
 
 HIGHLIGHTS ISSUES
 For anyone involved in running web projects you know that on a daily basis any number of issues can rear their ugly head no matter how well it was planned. The weekly web project report can highlight these issues and instigate the conversations that need to happen in order to find a solution.
