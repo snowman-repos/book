@@ -933,8 +933,13 @@ Develop a project team contact list that includes the name, responsibility, depa
 Resources will vary according to the product’s size and complexity. Make sure to consider what’s needed from the design, marketing, development, support and operations teams.
 
 
-
 Open up your kickoff process to as many people as possible. It’s better to include too many people up front than find out you overlooked a valuable player late in the game.
+
+
+
+
+
+
 If you are going to have multiple activities at a kickoff meeting, or even multiple meetings, it’s important to have a good facilitator that remains a constant, and understands how it all fits together.
 Build activities around collaboration and “no risk” exploration. This is the time to explore the full potential for what is possible. Even if you venture out of the previously discussed scope, you are still fermenting ideas that could build a road map for additional work in the future.
 Introduce fun, creativity, and energy into to your process! Don’t be afraid to force people outside of their comfort zone. Attendees will be thrilled to break from a more traditional meeting agenda, anyway.
