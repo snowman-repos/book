@@ -917,6 +917,15 @@ Step 1: Develop the project goals and deliverables
 Defining these elements will drive the decisions you must make for staffing the project and developing the project plan. Write them down and validate your definitions with the project owners (whoever justified and initiated the project).
 
 
+Defining these elements will help you decide on resources and a plan for the product. Why do stakeholders care, and why are you building this product at this particular time?
+Identify team members and their responsibilities.
+Resources will vary according to the product’s size and complexity. Make sure to consider what’s needed from the design, marketing, development, support and operations teams.
+Develop a rough product plan.
+Clarify the risks and opportunities. This will help validate whether you have the right resources and help you determine timelines for tasks and milestones.
+Define the key success factors.
+Why is the product valuable to the company, and how will you know you’ve succeeded? Define your particular success criteria, and validate these with stakeholders.Once you’ve done all the preparation, it’s time to gather the gang. In theory, the kickoff meeting should have plenty of energy and excitement, and team members should leave full of ideas and with a desire to explore solutions. In practice, however, kickoff meetings can be sleep-inducing and even totally awkward.
+
+
 
 
 
@@ -960,14 +969,11 @@ It is important for all project team members to participate in the kickoff meeti
 
 
 
-Identify the project’s goals and deliverables.
-Defining these elements will help you decide on resources and a plan for the product. Why do stakeholders care, and why are you building this product at this particular time?
-Identify team members and their responsibilities.
-Resources will vary according to the product’s size and complexity. Make sure to consider what’s needed from the design, marketing, development, support and operations teams.
-Develop a rough product plan.
-Clarify the risks and opportunities. This will help validate whether you have the right resources and help you determine timelines for tasks and milestones.
-Define the key success factors.
-Why is the product valuable to the company, and how will you know you’ve succeeded? Define your particular success criteria, and validate these with stakeholders.Once you’ve done all the preparation, it’s time to gather the gang. In theory, the kickoff meeting should have plenty of energy and excitement, and team members should leave full of ideas and with a desire to explore solutions. In practice, however, kickoff meetings can be sleep-inducing and even totally awkward.Whether you’re a startup or an enterprise, the key to a great kickoff meeting is involving people, rather than merely reviewing your pre-kickoff documents. Kevin Hoffman, a design consultant at Rosenfeld Media, believes in taking a “design studio” approach to fostering creativity. A classic approach to ideation in industrial design and architecture, this technique is all about building relationships with coworkers, and it can be executed with groups of between 10 to 60 people in under a few hours. Here are some useful activities for the group to get started:
+
+
+
+
+Whether you’re a startup or an enterprise, the key to a great kickoff meeting is involving people, rather than merely reviewing your pre-kickoff documents. Kevin Hoffman, a design consultant at Rosenfeld Media, believes in taking a “design studio” approach to fostering creativity. A classic approach to ideation in industrial design and architecture, this technique is all about building relationships with coworkers, and it can be executed with groups of between 10 to 60 people in under a few hours. Here are some useful activities for the group to get started:
 Priority and feasibility plot
 Plot the features you’ve discussed on a chart according to feasibility versus business value.
 Card-sorting
