@@ -918,7 +918,6 @@ All the information you have is probably compiled into some kind of project plan
 
 
 
-Use whatever resources you need to help you create the initial project plan. The point here is that when you go into the kickoff meeting, you will already have a plan drafted. Doing so will save time and get the project off to a faster start. (To develop a project plan, download this project-planning template.)
 
 Realize that the plan is not carved in stone at this point. Actually, it should never be. Up until the kickoff meeting, it is a knowledgeable draft. Once you have the team assembled and assign clear responsibilities, you should ask team members to validate their task responsibilities and timeframes for reasonability, completeness, and accuracy. The plan will become more established at the first project status meeting.
 
