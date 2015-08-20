@@ -920,12 +920,19 @@ The final preparation step is actually scheduling the meeting at a time that bes
 #### Identify the Project Team
 
 
-Identify team members and their responsibilities.
+Step 2: Identify the project team members and their responsibilities
+Resource needs vary based upon the size, complexity, and nature of the project. Include resources from four key groups, as needed, to fully support your project.
+Operations
+Corporate support
+Management
+Technical
+
+Develop a project team contact list that includes the name, responsibility, department, physical location, phone number, fax number, and e-mail address for each member. You’ll want to distribute this to the team.
+
+
 Resources will vary according to the product’s size and complexity. Make sure to consider what’s needed from the design, marketing, development, support and operations teams.
-Develop a rough product plan.
-Clarify the risks and opportunities. This will help validate whether you have the right resources and help you determine timelines for tasks and milestones.
-Define the key success factors.
-Why is the product valuable to the company, and how will you know you’ve succeeded? Define your particular success criteria, and validate these with stakeholders.Once you’ve done all the preparation, it’s time to gather the gang. In theory, the kickoff meeting should have plenty of energy and excitement, and team members should leave full of ideas and with a desire to explore solutions. In practice, however, kickoff meetings can be sleep-inducing and even totally awkward.
+
+
 
 Open up your kickoff process to as many people as possible. It’s better to include too many people up front than find out you overlooked a valuable player late in the game.
 If you are going to have multiple activities at a kickoff meeting, or even multiple meetings, it’s important to have a good facilitator that remains a constant, and understands how it all fits together.
@@ -937,14 +944,6 @@ Introduce fun, creativity, and energy into to your process! Don’t be afraid to
 
 
 
-Step 2: Identify the project team members and their responsibilities
-Resource needs vary based upon the size, complexity, and nature of the project. Include resources from four key groups, as needed, to fully support your project.
-Operations
-Corporate support
-Management
-Technical
-
-Develop a project team contact list that includes the name, responsibility, department, physical location, phone number, fax number, and e-mail address for each member. You’ll want to distribute this to the team.
 
 
 
