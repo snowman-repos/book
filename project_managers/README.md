@@ -419,7 +419,7 @@ Which approach is better is largely irrelevant as it's beyond your control. You 
 
 ### Key Performance Indicators
 
-Earlier we talked about the KPIs for your role and the benefit being that you remain focused on what's important to be successful and your decisions can be guided by clear objectives. Similarly when it comes to planning project you need to determine what are its measures of success. What should your production team stay focused on at all times throughout the project lifecycle. These project-specific KPIs should be documented at the top of your plan before project kickoff and shared among all project stakeholders, which of course includes your team. 
+Earlier we talked about the KPIs for your role and the benefit being that you remain focused on what's important to be successful and your decisions can be guided by clear objectives. Similarly when it comes to planning projects you need to determine what are its measures of success. What should your production team stay focused on at all times throughout the project lifecycle. These project-specific KPIs should be documented at the top of your plan before project kickoff and shared among all project stakeholders, which of course includes your team. 
 
 In fact, these KPIs should be listed on all project documentation, including not just your plan but also on specifications, creative briefs, sitemaps, even somewhere in the source code comments. They should be verbally reiterated in meetings at the start of each project phase, and also when dicussing any new feature or change requests. All assigned tasks should be framed in the context of KPIs. Why are we bulding this feature? To achieve target X. Why do we have to remove that section? Because it doesn't meet condition X.
 
