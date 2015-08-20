@@ -892,6 +892,8 @@ By now the benefits of a close-knit team working together iteratively towards th
 
 By this stage, you've been learning and thinking a lot about this project. You kn ow exactly what needs to be done and how your team can do it. Now it's time to share with them.
 
+The kickoff meeting covers a high-level outline of the product’s purpose, who is involved in designing and developing the product, how they’ll work together and stay up to date on progress, and what the intended results or success metrics are.
+
 - before hand - while you're planning get everyone's feedback
 - who to invite
 - what's the point - deliver the requirements
