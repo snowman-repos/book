@@ -1,5 +1,5 @@
 # Appendix A
-## Requirements Document
+## Business Analysis Document
 
 ### Busines Goals
 
