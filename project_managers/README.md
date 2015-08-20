@@ -980,7 +980,7 @@ As with schedules, keeping the project owner regularly updated on the budget wil
 
 It's not just about providing the latest information either. The report should also include a list of high-level action items, a general weekly to-do list for both your team and the project owner's team, which supports project momentum and accountability. If someone fails to complete a stated task one week, then you can highlight here how it has affected the timeline.
 
-The status report doesn't really have to take much time to compile. Once you have a template from the first one, all you need to do is quickly update the information each week. You should already have the latest schedule and budget figures to hand anyway. It's a constant challenge for a web project manager, juggling so many things, to stick to these formal processes. Project status reports may be deemed unimportant and may be one of the first things cast aside once Friday afternoon rolls around. However it does force good project management practice and it needs to become habitual It just takes discipline..
+The status report doesn't really have to take much time to compile. Once you have a template from the first one, all you need to do is quickly update the information each week. You should already have the latest schedule and budget figures to hand anyway. It's a constant challenge for a web project manager, juggling so many things, to stick to these formal processes. Project status reports may be deemed unimportant and may be one of the first things cast aside once Friday afternoon rolls around. However it does force good project management practice and it needs to become habitual It just takes discipline. By compiling these reports you are forced to review all the information yourself on a regular basis, reinforcing your control over the project. If you allow yourself to leave it for a week, two weeks, a month, then not only will it take longer but you'll be at a loss.
 
 
 
@@ -990,29 +990,12 @@ The status report doesn't really have to take much time to compile. Once you hav
 
 
 
-Not only will the weekly report prove its weight in gold when things don’t go to plan, it also forces the web project manager to keep an eye on every project they’re running and trust me, to effectively stay on top of the multitude of projects you’re likely to have on at any one time you really have to be aware of the most minute detail on a regular basis.
 
-The weekly report forces you to catch up with everyone and analyse the numbers when without you may take the “I’ll review it next week” approach and then one week becomes two – and then the earth falls in on itself and suddenly you’ve lost control of the project.
+Remember, these reports can be delivered in any format you feel is appropriate – some like to use a slide deck or PDF template, but you may find a message template on Basecamp or e-mail template work just as well. As long as the format remains consistent and clear you’re all good to go!
 
-…and if you don’t believe it’s possible to lose control of a web project a little bit by taking your eye off the ball just for a week or two, you’re sorely mistaken!
 
-WEEKLY WEB PROJECT STATUS REPORT CONTENTS
-From the previous section it should be somewhat clear as to what should be included in a weekly web project report, but below is an example list of contents.
 
-Client, web project name, date range the report covers
-Actions completed last week
-Actions to be completed this week
-Web project schedule update
-Web project budget update
-Complete budget and broken budget down by phase
-Questions, comments
-Remember, these reports can be delivered in any format you feel is appropriate – some like to use a slide deck or PDF template, but you may find a message template on Basecamp or e-mail template work just as well.
 
-Dilbert would make a great Web Project ManagerDilbert would make a great Web Project Manager
-As long as the format remains consistent and clear you’re all good to go!
-
-PRODUCING WEEKLY WEB PROJECT REPORTS
-There are many reasons why keeping disciplined enough to produce weekly web project status reports can be a complete ball ache and so below are a few tips that may help you.
 
 YOU DON’T HAVE TO CREATE THE REPORT YOURSELF
 Many Web Project Managers have executives or support staff, use them. You setup the template, you create and send the first three or four, but after that there is no reason why a competent executive couldn’t be the ones to dig out the data for you leaving you to adjust schedules, polish up and send on.
