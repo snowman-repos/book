@@ -690,7 +690,7 @@ Designing a good functional spec is a skill in itself. The information needs to 
 
 Finally the specs should be easily shareable and accessible. They could be composed in many different forms or document formats but make sure it's one that everybody, every project stakeholder, can download and open whenever and wherever they are using any device. Something like a shared Google doc might be a good idea, but you'd want to restrict editing access - only you should have control over it. Otherwise a PDF on a shared server directory or web link. If it's 300MB you might want to break it up into more manageable sections.
 
-For an example functional specification document template, see _Appendix C: Functional Specifications_.
+For an example functional specification document template, see _Appendix D: Functional Specifications_.
 
 #### The Users
 
