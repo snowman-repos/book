@@ -911,12 +911,9 @@ Things you will want to discuss in the meeting are:
 
 #### Be Prepared
 
-Whether you already have basic functional specifications put together or not, you need to come into the meeting with as much useful information as possible. At the very least you should be aware of the project goals and deliverables, enough to know who on your team needs to be involved.
+Whether you already have basic functional specifications put together or not, you need to come into the meeting with as much useful information as possible. At the very least you should be aware of the project goals and deliverables, enough to know who on your team needs to be involved. Ideally you
 
-The project’s primary goals
-Your project manager’s contact information
-Secondary contact’s information in case the project manager is unavailable
-Gather Basic Client Information
+
 
 We are going to need technical information from the client such as server info, domain information, analytics data, previous SEO campaigns, and so forth.
 
