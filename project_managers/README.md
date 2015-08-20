@@ -917,7 +917,7 @@ All the information you have is probably compiled into some kind of project plan
 
 The final preparation step is actually scheduling the meeting at a time that best suits everyone. But who is everyone?
 
-#### Who should you invite?
+#### Identify the Project Team
 
 
 Identify team members and their responsibilities.
