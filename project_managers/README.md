@@ -926,7 +926,6 @@ It is important for all project team members to participate in the kickoff meeti
 
 
 
-Defining these elements will help you decide on resources and a plan for the product. Why do stakeholders care, and why are you building this product at this particular time?
 Identify team members and their responsibilities.
 Resources will vary according to the product’s size and complexity. Make sure to consider what’s needed from the design, marketing, development, support and operations teams.
 Develop a rough product plan.
