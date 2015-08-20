@@ -978,6 +978,14 @@ The report should always include the latest project schedule. In fact the report
 
 As with schedules, keeping the project owner regularly updated on the budget will reassure them. If it's looking like the budget may be overrun, then they will be able to react early or extend the budget, having been kept informed along the way as to how this happened.
 
+The status report doesn't really have to take much time to compile. Once you have a template from the first one, all you need to do is quickly update the information each week. You should already have the latest schedule and budget figures to hand anyway.
+
+
+
+
+*****
+
+
 
 
 ACTIONS ENCOURAGE MOMENTUM AND ACCOUNTABILITY
