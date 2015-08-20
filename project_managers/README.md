@@ -888,7 +888,7 @@ It takes a big commitment by all stakeholders to make this kind of pseudo-agile 
 
 By now the benefits of a close-knit team working together iteratively towards the best possible solution should be clear. Undoubtedly you find the idea quite daunting as it depends on you being able to maintain strict control over the project. That's where good planning, documentation, regular status meetings come in, and also a good solid kick-off.
 
-### The Kick-Off Meeting
+### The Project Kick-Off Meeting
 
 By this stage, you've been learning and thinking a lot about this project. You hopefully have some background information, a feature list, maybe even stakeholder interviews. You have a pretty good idea of what needs to be done and how your team might be able do it.
 
@@ -913,7 +913,7 @@ Things you will want to discuss in the meeting are:
 
 Whether you already have basic functional specifications put together or not, you need to come into the meeting with as much useful information as possible. At the very least you should be aware of the project goals and deliverables, enough to know who on your team needs to be involved. Ideally you'll have detailed information from the project owner about their background, business needs, users or customers. You'll have stakeholder interviews, style and content guidlines, a feature list, technical requirements, server and domain information, analytics data, key performance indicators, required deliverables, and anything that will help your team to get started. Gather as much information as possible, even if you don't plan to formally present it someone on the team might ask a question and you'll be prepared. You could even get feedback from certain team members while you're in this information gathering phase to learn more about what they might need to know. The more prepared you are the more likely it is that the team will trust your judgement and follow your lead throughout the life cycle of the project.
 
-All the information you have is probably compiled into some kind of project plan or functional specifications outlining all the tasks, responsibilities, and timeframes. While this should get you off to a good start, it's important to realise that such a plan is, at this stage, not set in stone. In fact it should never be. You'll undoubtedly have a list of questions or assumptions that you must also bring to this meeting. In presenting the plan to the team, asking questions, and gathering feedback, you'll be able to refine and validate it.
+All the information you have is probably compiled into some kind of project plan or functional specifications outlining all the tasks, responsibilities, and timeframes. While this should get you off to a good start, it's important to realise that such a plan is, at this stage, not set in stone. In fact it should never be. You'll undoubtedly have a list of questions or assumptions that you must also bring to this meeting. In presenting the plan to the team, asking questions, and gathering feedback, you'll be able to refine and validate it. Given that the outcome of the meeting will allow you to furnish your plan, ensure you arrange it well enough in advance of the project start date so that you can compile the information for everyone before they begin. Early scheduling will also ensure that everyone is available and that the meeting itself doesn't eat into the project work time.
 
 The final preparation step is actually scheduling the meeting at a time that best suits everyone. But who is everyone?
 
@@ -949,14 +949,12 @@ You'll want to have a meeting agenda, listing discussion points in order, and co
 
 #### Review
 
-
-it’s a good exercise to quickly run through the deliverables, due dates, and a summary of the key points discussed in the kickoff meeting.
-Update documentation, calendars etc. update the client/client manager. thank everyone.
-
-
-
+Before the meeting closes, run through with everyone the deliverables, due dates, and a summary of the key points discussed. Before you go away and update the documenation, calendars etc. make a note of next steps and what will be required of everyone before the project starts, as well as where they might find any and all relevant information and documentation pertaining to the project. Finally, thank everyone for their help and their time.
 
 ### Daily Meetings
+
+Assuming the kick-off went well
+
 
 - find everyone's status
 - quick daily standup
