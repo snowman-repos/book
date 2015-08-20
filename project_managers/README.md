@@ -894,9 +894,10 @@ By this stage, you've been learning and thinking a lot about this project. You h
 
 The kick-off meeting is your opportunity to run everything by your team and confirm or change any assumptions you have. It informs the entire project plan as laid out in the functional specifications. You're going to assemble the entire team so they can all hear the same message, get the same documentation and information, and review the requirements. It's important to have a kick-off meeting for the following reasons:
 
+* Everyone can become clear about the core objectives
 * Everyone on the team becomes familiar to each other
 * You can get important details from every team member and make everyone aware of it
-* Everyone can become clear about the core objectives
+* 
 
 
 
