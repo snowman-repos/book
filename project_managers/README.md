@@ -890,7 +890,7 @@ By now the benefits of a close-knit team working together iteratively towards th
 
 ### The Kick-Off Meeting
 
-By this stage, you've been learning and thinking a lot about this project. You kn ow exactly what needs to be done and how your team can do it. Now it's time to tell them.
+By this stage, you've been learning and thinking a lot about this project. You kn ow exactly what needs to be done and how your team can do it. Now it's time to share with them.
 
 - before hand - while you're planning get everyone's feedback
 - who to invite
