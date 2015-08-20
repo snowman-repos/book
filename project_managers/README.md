@@ -894,6 +894,15 @@ By this stage, you've been learning and thinking a lot about this project. You k
 
 
 
+
+When running kick-off meetings we’re trying to answer the basic questions:
+Why – Why are we doing this project in the first place? What business need does it satisfy? How does this project meet a consumer need?
+What – What’s the solution? What are we going to do / make?
+How – How are we going to work together to make the project happen?
+When – When are we going to do it?
+Where/Who – Where is the starting point for kicking things off? Who’s going to do what?
+
+
 This meeting is important to web development projects because:
 
 It familiarizes all the individuals involved in the project with each other
