@@ -917,8 +917,7 @@ All the information you have is probably compiled into some kind of project plan
 
 The final preparation step is actually scheduling the meeting at a time that best suits everyone. But who is everyone?
 
-#### Identify the Project Team
-
+#### Identify Attendees
 
 Step 2: Identify the project team members and their responsibilities
 Resource needs vary based upon the size, complexity, and nature of the project. Include resources from four key groups, as needed, to fully support your project.
@@ -929,14 +928,74 @@ Technical
 
 Develop a project team contact list that includes the name, responsibility, department, physical location, phone number, fax number, and e-mail address for each member. You’ll want to distribute this to the team.
 
-
 Resources will vary according to the product’s size and complexity. Make sure to consider what’s needed from the design, marketing, development, support and operations teams.
-
 
 Open up your kickoff process to as many people as possible. It’s better to include too many people up front than find out you overlooked a valuable player late in the game.
 
+When it was time for the meeting, ten people attended. That translated to ten opinions, ten people interrupting one another, ten potential bathroom breaks — ten cooks in the kitchen spoiling the broth.
 
+It was a nightmare and we accomplished nothing but frustrating our brand new client.
 
+When scheduling your first meeting, be sure to indicate that only the decision maker needs to attend. And if ten people make the decision, put your boots on and start walking because you should have never accepted the project under those terms.
+
+I would suggest one or two people max come to your kickoff meeting. You will get more done, have less interruption, and have one or two people accountable for deliverables you will be requesting. Guess what? The finger pointing just got reduced as well.
+
+#### What to Cover
+
+State the Intended Results and Outcome
+
+Open your meeting with what you’ll be going over, and what the client will be walking away with.
+
+Setting expectations is something you should try to do every time you meet with a client to maintain efficiency and to show that you take their time seriously.
+
+Most importantly, they will understand why they are meeting and be in the right mental state for your chat.
+
+As you work through the meeting structure, you should be assigning responsibilities to your client and to your team.
+
+After each task assignment, you should be asking the person being assigned the task, "When can you have that by?"
+
+What I typically do is have a calendar nearby and I give them a little more time than they suggest. Typically, the client is eager to please and is sometimes unrealistic. Give them a little more time if you can spare it.
+
+I do gently remind clients that if their deliverable is late, all dates are pushed back and we typically will charge extra unless given 15 days notice. It’s harsh, but it keeps people accountable and, in the end, makes them a happier customer because their project is on time.
+
+I like to start my kickoff meeting like a thesis statement in a scientific paper: I state the primary goal of the project and provide a brief summary.
+
+The SMARTer the primary goal, the better. For example, depending on the scale of the project, it might even be as specific as: "The goal of the project is to drive traffic to the site’s contact form and have users fill it out."
+
+Then I review the scope of work that has been signed by the client. This allows you to set the stage and confirm what it is you are building, while refreshing everyone on what the project is all about.
+
+Your technical discussion will absolutely take the most of the time.
+
+This portion defines the project and you may need more than just the half sheet of space so have some scrap paper ready.
+
+What you ultimately want to walk away with are three important pieces of information that everyone should agree on:
+
+What are the primary and secondary goals of the project?
+What do we want people to do?
+What features will the project have to support these goals?
+Copy and Media
+
+Content, imagery, and rich media (like videos) is a subject neglected in a lot in planning meetings, but it’s one of the most expensive and time-consuming things to produce so it should be covered as soon as possible.
+
+For example, most companies that I work with that produce video don’t do it quickly or cheaply. Get the ball rolling early on any video production needed, as well as reinforce who is purchasing any needed stock photography (it was in your contract right?).
+
+The look and feel of a site is tough to nail down.
+
+Early in my career, the conversation usually went something like this: "How did you envision your site looking?" That question would be followed by the client mentioning five of their competitors’ websites — all which would typically looked horrible.
+
+You are the professional. You know what looks good and what doesn’t.
+
+Instead of having them start and govern the conversation about the look-and-feel of the website project, ask them a few questions about how they want their site to feel and the general style. They hired you to figure out the rest.
+
+When and how a site will launch seems like an obvious thing you will want to establish as soon as possible. The "when" is usually covered by the contract, but the "how" is sometimes forgotten.
+
+Will there be a beta testing period prior to launch? How about slowly rolling it out to gain interest and test the load on our servers? These are some things to cover in the kickoff meeting.
+
+This is a great discussion that can potentially generate recurring revenue for your company.
+
+How do they plan on updating the site after it has launched? What if the web server crashes? What about additional features? What happens if a great idea comes up in the middle of the project that requires augmenting the original scope of work — how do we deal with that?
+
+What type of marketing materials need to be prepared for this project? Do social media accounts need to be set up? What about traditional marketing methods? Do any parts of the marketing campaign need assets from our creative department? When and how should these efforts go live?
 
 #### Make it Fun
 
@@ -952,9 +1011,12 @@ Write the discussed features and functionality on index cards (ideally, fewer th
 20-second gut test
 Collect screenshots of web pages or product images, and show them in a presentation to the group. Each member should give each image a score between 1 and 5. This will tell you everyone’s aesthetic preferences.
 Fishbowl conversations
+
+#### Stay Focused
+
 When discussing the pre-kickoff documents or doing group activities, arrange the seats in a circle (like a fishbowl) to give everyone in the group face-to-face contact and an opportunity to contribute.
 Of course, there’s no denying that an agenda and/or kickoff document are necessary to keep the activities on track. You can either use Usability.gov’s question-driven kickoff document or a more lightweight option, like Mozilla’s kickoff wiki or Pivotal Labs’ “Product Definition Exercise” (PDF).
-GUIDING PRINCIPLES LINK
+
 Adhering to a set of principles will keep you from going off track. Kevin Hoffman again provides a framework that will help whether your kickoff is in-person or remote:
 Base the agenda on the research.
 Ideas and challenges that surface during research or stakeholder interviews should be front and center on the agenda.
@@ -965,140 +1027,13 @@ The kickoff process should explore the full potential of what is possible. So, l
 Incorporate fun and creativity.
 Don’t be afraid to make it weird. Besides, team members might be thrilled to break from a traditional format.
 
+#### Review
 
+it’s a good exercise to quickly run through the deliverables, due dates, and a summary of the key points discussed in the kickoff meeting.
+Update documentation, calendars etc. update the client/client manager. thank everyone.
 
 
 
-
-
-
-So, how can we guarantee a great kickoff meeting planning session?
-
-Limit the Number of Attendants
-
-Early in my career, I was working on a project for the board of education for a county near my hometown. We had just won the job and I was told the client’s team was coming into the office to meet with our staff.
-
-When it was time for the meeting, ten people attended. That translated to ten opinions, ten people interrupting one another, ten potential bathroom breaks — ten cooks in the kitchen spoiling the broth.
-
-It was a nightmare and we accomplished nothing but frustrating our brand new client.
-
-When scheduling your first meeting, be sure to indicate that only the decision maker needs to attend. And if ten people make the decision, put your boots on and start walking because you should have never accepted the project under those terms.
-
-I would suggest one or two people max come to your kickoff meeting. You will get more done, have less interruption, and have one or two people accountable for deliverables you will be requesting. Guess what? The finger pointing just got reduced as well.
-
-State the Intended Results and Outcome
-
-Open your meeting with what you’ll be going over, and what the client will be walking away with.
-
-Setting expectations is something you should try to do every time you meet with a client to maintain efficiency and to show that you take their time seriously.
-
-Most importantly, they will understand why they are meeting and be in the right mental state for your chat.
-
-The Kickoff Meeting
-
-Here is my meeting structure for kickoff meetings.
-
-As you work through the meeting structure, you should be assigning responsibilities to your client and to your team.
-
-After each task assignment, you should be asking the person being assigned the task, "When can you have that by?"
-
-What I typically do is have a calendar nearby and I give them a little more time than they suggest. Typically, the client is eager to please and is sometimes unrealistic. Give them a little more time if you can spare it.
-
-I do gently remind clients that if their deliverable is late, all dates are pushed back and we typically will charge extra unless given 15 days notice. It’s harsh, but it keeps people accountable and, in the end, makes them a happier customer because their project is on time.
-
-In general, a good kickoff meeting can be accomplished in 2 hours.
-
-
-
-Scope and Goal Review
-
-I like to start my kickoff meeting like a thesis statement in a scientific paper: I state the primary goal of the project and provide a brief summary.
-
-The SMARTer the primary goal, the better. For example, depending on the scale of the project, it might even be as specific as: "The goal of the project is to drive traffic to the site’s contact form and have users fill it out."
-
-Then I review the scope of work that has been signed by the client. This allows you to set the stage and confirm what it is you are building, while refreshing everyone on what the project is all about.
-
-Mechanical
-
-
-
-Get the server, email, and analytics information out of the way early. You don’t want to be two weeks away from launch and have to set up a server.
-
-Technical
-
-
-
-Your technical discussion will absolutely take the most of the time.
-
-This portion defines the project and you may need more than just the half sheet of space so have some scrap paper ready.
-
-What you ultimately want to walk away with are three important pieces of information that everyone should agree on:
-
-What are the primary and secondary goals of the project?
-What do we want people to do?
-What features will the project have to support these goals?
-Copy and Media
-
-
-
-Content, imagery, and rich media (like videos) is a subject neglected in a lot in planning meetings, but it’s one of the most expensive and time-consuming things to produce so it should be covered as soon as possible.
-
-For example, most companies that I work with that produce video don’t do it quickly or cheaply. Get the ball rolling early on any video production needed, as well as reinforce who is purchasing any needed stock photography (it was in your contract right?).
-
-Aesthetic
-
-
-
-The look and feel of a site is tough to nail down.
-
-Early in my career, the conversation usually went something like this: "How did you envision your site looking?" That question would be followed by the client mentioning five of their competitors’ websites — all which would typically looked horrible.
-
-You are the professional. You know what looks good and what doesn’t.
-
-Instead of having them start and govern the conversation about the look-and-feel of the website project, ask them a few questions about how they want their site to feel and the general style. They hired you to figure out the rest.
-
-Release
-
-
-
-When and how a site will launch seems like an obvious thing you will want to establish as soon as possible. The "when" is usually covered by the contract, but the "how" is sometimes forgotten.
-
-Will there be a beta testing period prior to launch? How about slowly rolling it out to gain interest and test the load on our servers? These are some things to cover in the kickoff meeting.
-
-Support and Revisions
-
-
-
-This is a great discussion that can potentially generate recurring revenue for your company.
-
-How do they plan on updating the site after it has launched? What if the web server crashes? What about additional features? What happens if a great idea comes up in the middle of the project that requires augmenting the original scope of work — how do we deal with that?
-
-Marketing
-
-
-
-What type of marketing materials need to be prepared for this project? Do social media accounts need to be set up? What about traditional marketing methods? Do any parts of the marketing campaign need assets from our creative department? When and how should these efforts go live?
-
-Review
-
-By this time, your customer (and you) are probably exhausted, but it’s a good exercise to quickly run through the deliverables, due dates, and a summary of the key points discussed in the kickoff meeting.
-
-After the Kickoff Meeting
-
-After the client has left, what I typically do is I will punch in the due dates into our project management software (we use activeCollab).
-
-
-
-Then I’ll run a quick report. I’ll send the report to the client via email as a reminder of the things we’ve discussed, along with a note thanking them for the time they have invested into the kickoff meeting.
-
-
-- before hand - while you're planning get everyone's feedback
-- who to invite
-- what's the point - deliver the requirements
-- explain the plan
-- choose a technology stack
-- listen to concerns
-- set to work
 
 ### Daily Meetings
 
