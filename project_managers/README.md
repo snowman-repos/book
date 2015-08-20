@@ -919,9 +919,6 @@ All the information you have is probably compiled into some kind of project plan
 
 
 
-Step 5: Define key success factors
-Every project team member needs to know what it takes to have a successful project. Take the time to define in specific terms each item that will be required for success. Validate your list with the project owner(s).
-
 Step 6: Schedule the project kickoff meeting
 It is important for all project team members to participate in the kickoff meeting. Send a communication to each participant with a preferred time and date and include options in case they are unavailable. Even if someone is “out of pocket,” he or she can participate by phone.
 
