@@ -890,7 +890,7 @@ By now the benefits of a close-knit team working together iteratively towards th
 
 ### The Kick-Off Meeting
 
-By this stage, you've been learning and thinking a lot about this project. You know exactly what needs to be done and how your team might be able do it.
+By this stage, you've been learning and thinking a lot about this project. You hopefully have some background information, a feature list, maybe even stakeholder interviews. You have a pretty good idea of what needs to be done and how your team might be able do it.
 
 
 
