@@ -916,11 +916,6 @@ Whether you already have basic functional specifications put together or not, yo
 
 
 
-
-Step 1: Develop the project goals and deliverables
-Defining these elements will drive the decisions you must make for staffing the project and developing the project plan. Write them down and validate your definitions with the project owners (whoever justified and initiated the project).
-
-
 Defining these elements will help you decide on resources and a plan for the product. Why do stakeholders care, and why are you building this product at this particular time?
 Identify team members and their responsibilities.
 Resources will vary according to the product’s size and complexity. Make sure to consider what’s needed from the design, marketing, development, support and operations teams.
