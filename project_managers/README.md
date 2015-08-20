@@ -788,7 +788,7 @@ This should probably take the form of a table, where each feature has a name or 
 
 As with wireframes, a picture speaks a thousand words. For complex features it's a good idea to provide an accompanying user flow diagram that will help reinforce the reader's mental model of how that feature should work. This will hopefully get people thinking about the implementation details - maybe there will need to be success/failure notifications? Should it be animated? Do we need a loading indicator? etc.
 
-Also just as wireframes are not a design tool, a features list is not concerned with technical aspects; it's up to the developer how to best implement a feature.
+Also just as wireframes are not a design tool, a features list is not concerned with technical aspects; it's up to the developer how to best implement a feature. Note that in the features list we do not talk about design issues either. We don't mention a “blue” button or a “small image”. We keep the language, simple, informal, and easy for everyone to understand.
 
 #### Timings
 
