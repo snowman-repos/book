@@ -919,14 +919,10 @@ The final preparation step is actually scheduling the meeting at a time that bes
 
 #### Identify Attendees
 
-Step 2: Identify the project team members and their responsibilities
-Resource needs vary based upon the size, complexity, and nature of the project. Include resources from four key groups, as needed, to fully support your project.
-Operations
-Corporate support
-Management
-Technical
+Who you willl need on your project depends entirely on the requirements. Certainly if you have a client liaison you'll want them there to represent the project owner's requirements and expand on those if necessary, also to gather any questions they may need to take back to the client. You'll also want people in senior roles involved - team leaders and managers, so that they can get a good overview of the project's scope and how it might impact them. Obviously you'll need every single person who may be working on the project. Ensure that you maintain a contact list containing everyone's names and contact details that you can share out; everyone needs to get to know eachother and understand how responsibilities are going to be shared out.
 
-Develop a project team contact list that includes the name, responsibility, department, physical location, phone number, fax number, and e-mail address for each member. You’ll want to distribute this to the team.
+
+
 
 Resources will vary according to the product’s size and complexity. Make sure to consider what’s needed from the design, marketing, development, support and operations teams.
 
