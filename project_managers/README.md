@@ -939,7 +939,7 @@ Sequentially going through features and assigning tasks all sounds very dull. It
 
 Don't be afriad to force people out of their comfort zone. When discussing the design for example, perhaps have a brainstorming session involving the developers; they may even know about some handy new tools or libraries that could excite the designers. How about preparing screenshots of similar products that everyone can discuss and asses, giving each their own ratings. You could try and devise some sort of diagrams or charts to draw on a whiteboard that can represent task priorities or feasibility. Maybe write down tasks and associated names on index cards and have everyone try and sort them in order. Or another idea is fishbowl conversations, discussions about a particular topic in which only people sitting in particular chairs are allowed to speak. If anyone wants to join the conversation they must claim a chair and someone else must vacate it. You could enforce time limits on speaking and force everyone to take a turn in the chair. Meanwhile a moderator, you in this case, guides the discussion and summarises it at the end.
 
-Maybe you think these are silly ideas, but what's crucially important is that everyone is engaged and involved. You don't want anyone walking out of the meeting having not said or contributed anything. They were in there for a reason.
+Maybe you think these are silly ideas, but you may find that people appreciate a break from the traditional meeting format. What's crucially important is that everyone is engaged and involved. You don't want anyone walking out of the meeting having not said or contributed anything. They were in there for a reason.
 
 #### Stay Focused
 
@@ -948,15 +948,10 @@ Maybe you think these are silly ideas, but what's crucially important is that ev
 
 Of course, there’s no denying that an agenda and/or kickoff document are necessary to keep the activities on track. You can either use Usability.gov’s question-driven kickoff document or a more lightweight option, like Mozilla’s kickoff wiki or Pivotal Labs’ “Product Definition Exercise” (PDF).
 
-Adhering to a set of principles will keep you from going off track. Kevin Hoffman again provides a framework that will help whether your kickoff is in-person or remote:
+Adhering to a set of principles will keep you from going off track.
 Base the agenda on the research.
 Ideas and challenges that surface during research or stakeholder interviews should be front and center on the agenda.
-Be as inclusive as possible.
-Including too many people up front is better than forgetting a stakeholder until you’re close to launch.
-Build activities around risk-free exploration.
 The kickoff process should explore the full potential of what is possible. So, leave egos at the door.
-Incorporate fun and creativity.
-Don’t be afraid to make it weird. Besides, team members might be thrilled to break from a traditional format.
 
 #### Review
 
