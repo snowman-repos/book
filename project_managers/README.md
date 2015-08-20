@@ -919,24 +919,11 @@ The final preparation step is actually scheduling the meeting at a time that bes
 
 #### Identify Attendees
 
-Who you willl need on your project depends entirely on the requirements. Certainly if you have a client liaison you'll want them there to represent the project owner's requirements and expand on those if necessary, also to gather any questions they may need to take back to the client. You'll also want people in senior roles involved - team leaders and managers, so that they can get a good overview of the project's scope and how it might impact them. Obviously you'll need every single person who may be working on the project. It's a good idea to try and invole as many people as possible; it's better to have someone there that you might not need that miss someone important who may need to be involved further down the line.
+Who you willl need on your project depends entirely on the requirements. Certainly if you have a client liaison you'll want them there to represent the project owner's requirements and expand on those if necessary, also to gather any questions they may need to take back to the client. You'll also want people in senior roles involved - team leaders and managers, so that they can get a good overview of the project's scope and how it might impact them. You'll want operations people - anyone who might be involved in providing logistical support such as setting up servers and code repositories. Obviously you'll need every single person who may be working on the project. It's a good idea to try and invole as many people as possible; it's better to have someone there that you might not need that miss someone important who may need to be involved at some later stage.
+
+The thing to be wary of with such a potentially big meeting is that the more people you have the more risk there is of interruptions and conflicting opinions. Therefore you'll need to establish protocols, perhaps arranging short breaks in which people can go to the bathroom or check their emails, as well as chairing discussions yourself, gathering and collating opinions separately then making decisions yourself after the meeting.
 
 Ensure that you maintain a contact list containing everyone's names and contact details that you can share out; everyone needs to get to know eachother and understand how responsibilities are going to be shared out.
-
-
-
-
-Resources will vary according to the product’s size and complexity. Make sure to consider what’s needed from the design, marketing, development, support and operations teams.
-
-Open up your kickoff process to as many people as possible. It’s better to include too many people up front than find out you overlooked a valuable player late in the game.
-
-When it was time for the meeting, ten people attended. That translated to ten opinions, ten people interrupting one another, ten potential bathroom breaks — ten cooks in the kitchen spoiling the broth.
-
-It was a nightmare and we accomplished nothing but frustrating our brand new client.
-
-When scheduling your first meeting, be sure to indicate that only the decision maker needs to attend. And if ten people make the decision, put your boots on and start walking because you should have never accepted the project under those terms.
-
-I would suggest one or two people max come to your kickoff meeting. You will get more done, have less interruption, and have one or two people accountable for deliverables you will be requesting. Guess what? The finger pointing just got reduced as well.
 
 #### What to Cover
 
