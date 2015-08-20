@@ -774,7 +774,7 @@ As with any attempt at clear communication, consistency is key. Make sure each d
 
 Wireframes are not a design tool. They should not convey colours, styles, sizes, or even layout. A designer may use them to determine what they should put on their canvas, not where nor how it should look. A modal or popup window should never feature in a wireframe diagram. Instead the popup content should be placed in its own wireframe diagram and then the designer can determine where it is best displayed, be that inside a popup window or not. Likewise any labels should not impose design decisions and words like full-screen, expandable, blue, big, hover, animated etc. should be avoided. 
 
-The wireframe diagrams show only content and functionality features, and how they are organised and prioritised, that a designer can then style and move into place.
+The wireframe diagrams show only content and functionality features, and how they are organised and prioritised, that a designer can then style and move into place. Ideally, interactive wireframes could be generated directly using HTML & CSS, allowing for a rapid start to design and development.
 
 #### Feature List
 
