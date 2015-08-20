@@ -892,7 +892,7 @@ By now the benefits of a close-knit team working together iteratively towards th
 
 By this stage, you've been learning and thinking a lot about this project. You hopefully have some background information, a feature list, maybe even stakeholder interviews. You have a pretty good idea of what needs to be done and how your team might be able do it.
 
-The kick-off meeting is your opportunity to run everything by your team, a high-level outline, and confirm or change any assumptions you have. It informs the entire project plan as laid out in the functional specifications. You're going to assemble the entire team so they can all hear the same message, set expectations, get the same documentation and information, and review the requirements. It's also a great opportunity to energise them and get them excited about the project. Too often kickoff meetings can be dull and uninspiring, or people can't get enthused about a new project because they're already so busy with another one. That's why it's important to first consider the purpose of the meeting and how you can make the most of it.
+The kick-off meeting is your opportunity to run everything by your team, a high-level outline, and confirm or change any assumptions you have. It informs the entire project plan as laid out in the functional specifications. You're going to assemble the entire team so they can all hear the same message, set expectations, get the same documentation and information, and review the requirements. Ultimately, it's about assigning work. It's also a great opportunity to energise them and get them excited about the project. Too often kickoff meetings can be dull and uninspiring, or people can't get enthused about a new project because they're already so busy with another one. That's why it's important to first consider the purpose of the meeting and how you can make the most of it.
 
 It's important to have a kick-off meeting for the following reasons:
 
@@ -927,13 +927,13 @@ Ensure that you maintain a contact list containing everyone's names and contact 
 
 #### What to Cover
 
-State the Intended Results and Outcome
+Start with the intended results and outcomes, what you're going to be handing over to the project owner. Briefly go through the project background if you think you have time and it would be useful, otherwise refer people to your documentation. You need to keep the pace and try not to waster anybody's time - the point is to assign tasks to individual people so that everyone knows what they and others need to do to pull the project off. In that case, try and dive straight into the task or features list as soon as possible. For each feature, explain what's involved, answer questions or note them down to answer later when you have more information, and at the same time try and tease out information about timings. The team will hopefully have lots of feedback and questions so you should be taking notes as you go along.
 
-Open your meeting with what you’ll be going over, and what the client will be walking away with.
 
-Setting expectations is something you should try to do every time you meet with a client to maintain efficiency and to show that you take their time seriously.
 
-Most importantly, they will understand why they are meeting and be in the right mental state for your chat.
+
+
+
 
 As you work through the meeting structure, you should be assigning responsibilities to your client and to your team.
 
