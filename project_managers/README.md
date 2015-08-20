@@ -998,15 +998,6 @@ Don’t be afraid to make it weird. Besides, team members might be thrilled to b
 
 
 
-Before getting into the specifics of the kickoff meeting, I’d like to first share some basic tips about meetings in general.
-
-Fundamental Kickoff Meeting Tips
-
-Your project kickoff meeting is an exciting time. Deposits have been paid, and the client is ready to get started on their project ASAP.
-
-I find the more prepared I am for the kickoff meeting, the more likely the client will follow my lead and trust my judgment during the meeting as well as throughout the lifecycle of the project.
-
-
 
 So, how can we guarantee a great kickoff meeting planning session?
 
