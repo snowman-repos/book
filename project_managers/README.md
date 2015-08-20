@@ -953,7 +953,7 @@ Before the meeting closes, run through with everyone the deliverables, due dates
 
 ### Daily Meetings
 
-Assuming the kick-off went well
+Assuming the kick-off went well and the project has now begun smoothly, your ongoing role in this project is one of an overseer and facilitator. That means you'll require constant updates about project status and will need to identify and resolve any potential issues. You could send out a list of questions in emails to each team member individually, but that would take a lot of time (that you undoubtedly don't have!) and create information silos - only you will have a clear overall picture.
 
 
 - find everyone's status
