@@ -972,6 +972,8 @@ In this role it's unlikely that you'll get away with one meeting per day, it's j
 
 2) Record meetings. Scruffy scribblings on easy-to-lose bits of paper are unlikely to serve you as well as you think they might later on. Instead of trying to dual-focus on what's being discussed _and_ on taking down the important points, just use a recording app on your phone. Be honest and open about the fact that you're recording and note that you'll do it discretely. Name your archived recordings in a way that make sense. Don't record when it's unnecessary or inappropriate, e.g. budget discussions, conflict resolutions, pre-sales, etc.
 
+3) Try to minimise context-switching. By that we mean disrupting people's momentum by randomly calling meetings or interrupting them at their desks. Schedule meetings in advanced or wait until people take a break or appear available before going to them for quick updates.
+
 ### Status Reports
 
 Whether you're following a pseudo-agile methodology or not, it's a good idea to provide status reports at the end of each week or sprint. But why? You're already busy enough as it is, right?
@@ -999,76 +1001,11 @@ It's important that the status reports don't contain any major surprises. If the
 
 
 
-THE CONTEXT SWITCHING ARGUMENT
-As a Web Project Manager I’ve heard the two-pronged ‘context switching’ argument a billion times:
-
-More efficient working:
-If there wasn’t so much context switching due to meetings and people coming over to me I would work more efficiently.
-Reason for poor quality or late delivery:
-It’s taken longer due to all of the context switching I experienced.
-As someone who, albeit unbelievable to some these days, genuinely used to code for a living, I can completely testify that both of these positions are 100% valid. When you’re coding, designing, or even writing a functional specification or creating a big project schedule – being in ‘the zone’ with no distractions is a must, and distractions are such a pain in the arse for momentum.
-
-Is this the solution? Neat idea, or not practical as not everyone can always help with all queries equally?
 
 
 
-However, the point to which I elude to above is that it’s not just coders who work better when context switching is kept to a minimum, but it does seem that these are who you hear about from the most – why is that?
 
-And why is it that having a Twitter client permanently on-screen where Tweets are popping up every second, distracting you unexpectedly from your work is considered to be not context switching?
 
-PERSONAL EXPERIENCE
-The only reason I’m genuinely curious to hear answers from people on this is because I personally find having things such constantly open on my screen to be a terrible distraction that seriously impedes my productivity and focus.
-
-In fact I find it worse because it tends to be a more frequent occurrence than someone coming over to me or a short-notice meeting being arranged. If I can see a meeting is arranged for two hours time, I’ll tend to work around this necessity rather than complain about it like it’s some big surprise I wasn’t expecting, as do pretty much all other Web Project Managers I’ve worked with – incidentally these people rarely seem to have Twitter open permanently, even the ones who used to design or code.
-
-Is it that I’m just useless as being able to balance these things with my work focus, or is it that it distracts developers just as much as me but they wouldn’t like to admit it in case this culture is stopped dead in its tracks?
-
-DEVELOPER’S JUSTIFICATION
-I’ve discussed this subject for quite a few years with developers in various workplaces and forums, and the common reasons given for this culture being a beneficial one tend to boil down to:
-
-It enables me to keep up to date with the latest goings on in the industry.
-Having a five minute break to browse Twitter or YouTube helps me relax.
-I can’t be expected to work every minute of every day.
-My answers to these have remained fixed over the years:
-
-Is there really any industry news that you or the company will benefit from by you knowing about it now as opposed to in a few hours when it’s your lunch, or after work that day?
-Fair enough, but often it seems more like more than five minutes, just saying…
-Why not, I do (*kind of)
-*Caveat: I fully admit I think I talk more than I should at work, usually distracting my very hard working Web Project Manager colleague, and I also take 2-3 cigarette breaks a day, but you know what, many developers do these things also, on top of the ‘Twitter-thang’.
-
-So is it that it’s simply a case that this culture is beneficial to companies, or is it one that isn’t from a commercial perspective, but is just what we’ve all become conditioned to over the years?
-
-A BENEFICIAL CULTURE OR MERELY TOLERATED?
-As an employer or Web Project Manager this is ultimately the big question. I don’t know the answer to this, but as far as I see the point and counterpoints are clear.
-
-POINT
-Digital folk are a unique bunch of people who generally have a passion for the industry that exceeds the boundaries and hours of their day job.
-
-A photo of Moss from The IT Crowd in a scene where he’s dressed as a barman saying Yes Miss?Most people just don’t understand us and our ways
-More to the point, an employer or Web Project Manager, would rather have people with this passion on their team than those who do not as they’ll tend to go above and beyond, stay up to date with the latest trends and technologies and be more dedicated to the solutions they provide, as opposed to those who see their job as just a job and clock off on time every night.
-
-By promoting a culture where they’re allowed to have Twitter open all day long and read blog posts during work hours means you attract and retain the passionate people in the industry rather than the clock watchers.
-
-Developers can choose when to context switch to Twitter, YouTube or blog posts, as opposed to ad hoc disruptions from Web Project Managers, this timing makes all the difference.
-
-Not permitting this culture would result in the passionate people leaving and a ‘corporate’ environment ensuing, and who wants to work in a corporate environment where every minute of every day is tracked.
-
-COUNTERPOINT
-If developers spent less time looking at Twitter, YouTube and blog posts throughout the day more work would get done. If more work gets done, the company is more productive and generally more profitable, which means salaries, perks and benefits go up, not to mention the entire team is trusted more and slowly but surely allowed to run things how they want rather than being micro-managed.
-
-By all means watch videos and Tweet during lunch, and maybe a few times during the day, but abusing this culture really impacts on the perception of how hard you’re working, or highlights the fact that perhaps you aren’t. This in turn de-motivates those who feel they’re working harder than you and to bosses who don’t understand the culture, it re-enforces their perception of you being rebellious teenagers who makez web pagez.
-
-A photo of the manager in the TV show The IT Crowd shouting Standard Nerdz!Bosses sometimes subtly stereotype people
-The argument that developers deploy, saying that choosing when to context switch makes all the difference seems to fall flat on its face when you cannot predict what or when a Tweet will appear and they’ll inevitably click through to read no matter what they’re doing at the time.
-
-Each time a mistake is made, delivery is late or budgets overrun, if you cite context switching as being a primary reason, to some this will seem tantamount to insulting given that you visibly spent what seems like ‘too long’ on Twitter during either the early phases of the project of launch week.
-
-MY EXPERIENCE, AGAIN
-Having worked with and for companies that both promote and discourage this culture, I’ve not seen any major differences between attracting quality staff and/or retaining them.
-
-The only difference I’ve seen is in the attitudes of those at companies who discourage it, and it seems a little more commercially minded and contains a lot less ‘divas’.
-
-On the flipside, companies who encourage or permit it tend to seem much ‘cooler’ and more akin to the Google and Facebook-esque era that we now live in.
 
 A WEB PROJECT MANAGER’S PERSPECTIVE
 It will be pretty obvious what side of the argument I personally come down on, but the truth is that’s down to utter selfishness.
