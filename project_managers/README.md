@@ -1016,6 +1016,8 @@ If you notice the same kind of issues popping up time and time again, then that 
 
 ### Project Reviews
 
+Otherwise known as a “post-mortem”, this is where the entire production team come together at the end of a project and discuss what went well and what didn't. It's basically a useful learning exercise that shouldn't take up too much of anyone's time.
+
 - discuss good and bad points
 - strategy to tackle problems before meeting is over. when set goal, set deadline, assign to people
 - ideas to make it better that an be sold to client
