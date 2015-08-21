@@ -1099,7 +1099,7 @@ A Github account is not expensive and also comes with an integrated issue tracke
 
 
 
-WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
+### Issue Tracking
 
 
 The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
@@ -1115,19 +1115,10 @@ However, like any tool there are a couple of drawbacks. I have had to continue u
 
 Lastly, there is no easy way to prioritise issues. For ODI we’ve added priority 1 and priority 2 tags which work well but i’d like the open issues to work more like a physical backlog where you can click and drag issues to prioritise.
 
-In conclusion, I would recommend using GitHub to other Project Managers, particularly if you’re happy to track project progress outside of GitHub and just embrace it for the ace collaboration tool it is.
 
-A screenshot of the Huboard tool showing a Kanban board.Web project management things in GitHub? Developers, you cannot escape it! :)
-If you’re thinking of using GitHub you may want to look at Huboard, a lightweight Kaban board which integrates with GitHub issues.
 
-If that doesn’t fulfil your requirements you may find something that does on this Quora question “Which project management tools are deeply integrated with GitHub?”
 
-Not convinced yet? Why not do some further reading, here are couple of other great blog post on the topic.
 
-Using GitHub issues to manage projects by Z Porter.
-Managing projects with GitHub by Jerad Bitner.
-
-Ever since version control systems such as Git have become widely-known and well-used, modern development processes have radically changed.
 
 Here are some reasons why Git has the power to improve your development workflow.
 
