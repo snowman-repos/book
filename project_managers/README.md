@@ -1012,27 +1012,7 @@ Exactly what you analyse and measure depends on you and your projects; you will 
 
 Let's take performance as just one example, one that is all too often overlooked and considered the responsibility of someone else. Let's say you realise a particular module is too slow to load or too large a download. It's understandable because performance is notoriously difficult to stay on top of. New performance techniques are emerging all the time. The project's hardware and software is likely to change, just as web standards and browser technology continue to change. First let's go to the developers and ask their advice to see if there's any tricks we can apply, any quick wins. If not then we may have to adjust the content or design. Work with them to find a solution and avoid throwing blame around. Certainly don't take matters into your own hands and try to fix anything yourself. The team will resent your interference and lack of transparency - “Why didn't you just ask us to fix it?” - and by always spending your time delving into other people's work you'll be putting yourself at risk of burnout. By all means help directly if the team is too busy or lacks the knowledge or skills, but always keep them informed of what you're doing and why.
 
-
-
-
-If other designers and developers who shape the site aren’t educated on performance, how can they make the best decisions about user experience? How can they weigh the balance between aesthetics and page speed? If they aren’t empowered to make improvements, any performance champions will simply be playing cleanup after other people’s work. Spending your time cleaning up other people’s work (especially when it’s preventable) is a one-way ticket to burnout.
-
-A dedicated performance team can focus on:
-
-Giving lectures, lunch-and-learns, and workshops to educate others about performance
-Celebrating the good work of designers and developers on other teams who improve site speed
-Building tools to surface performance data in others’ daily workflows to help them understand how they are directly impacting performance in their current work
-Learning about emerging technology and new methods of improving performance
-Communicating publicly about changes in site performance and recent experiments and learnings, as shown in Figure 8-1
-Etsy Performance
-
-Figure 8-1. Etsy’s performance report details load time for top pages and what changes contributed to the load time each quarter.
-
-Having an individual or team care deeply about performance is important for all of the aforementioned purposes. These champions can stay on top of how performance is being handled sitewide; they can keep an eye on problem areas, look for areas to improve, and raise suggestions to the other people contributing to the site’s design and development. But the work to be done to actually improve and maintain performance needs to be owned and shared across your organization, rather than lie with an individual or single team.
-
-
-
-
+If you notice the same kind of issues popping up time and time again, then that suggests areas where you team's skills may be lacking and where education and training is required. Converseley if requirements in a particlar area are consistently met, they should be celebrated and recognised publicly.
 
 ### Project Reviews
 
