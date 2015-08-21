@@ -1030,6 +1030,8 @@ Even though by now they may be bored of this project or tired of working on it, 
 
 At the start of this chapter we described your role as “the enabler”. That means you are also responsible for ensuring that everyone on the team has everything they need in order to carry out the project work. What they will need depends on who you have in your team and what roles they fulfil, as well as what the project work entails. In all likeliness, most of your projects will be similar enough that these things may already be set up or that setting them up will be easy. Perhaps you have a dedicated operations person or support team to handle things like this, or otherwise you might have to do it yourself. Make sure that you check first with each team member what they need and have it set up for them *before* the project work is scheduled to begin.
 
+Things like software, hardware, ergonomic furniture, or service subscriptions usually come with some non-trivial cost that you may need to justify to your boss.
+
 ### Software
 
 teams should consider using open source, cloud based, and commodity solutions across the technology stack, as these solutions have seen widespread adoption and support by the most successful private-sector consumer and enterprise software technology companies.
