@@ -1058,6 +1058,8 @@ Indeed naming conventions should extend to the code and graphics files as well i
 
 It's always up to you to establish best practice and enforce it. Consider things like mobile-first and progressive enhancement that determine the way work is carried out. People on your team have their own limited subset of tasks and so may not consider these over-arching protocols as much as someone in your role with a view on the big picture
 
+As you are overseeing entire projects, keep on eye on the work to ensure that people are starting simple and gradually adding complexity. Remind people at the start of each project that they are building *systems*, not sites, or screens, or pages. For instance they should begin designing and building the reusable stuff - the typography, buttons, form inputs, grid systems, tables, etc. - the building blocks for all other components and modules. They should start off ensuring the basic feature requirements are met on the minimum system requirements - the oldest browsers and the smallest screens - before gradually enhancing the experience for more capable devices.
+
 - methodologies
 
 building blocks, start simple and add complexity. start with reusable stuff - check bootstrap's basic css documentation - things like typography, buttons, form inputs, tables, grid system, the building blocks for all other components/modules.
