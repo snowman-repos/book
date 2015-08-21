@@ -1006,7 +1006,7 @@ Don't worry, this isn't another type of meeting you have to have. This is just f
 * **Code**: is it clean, modular, re-usable, semantic, well-documented? are there any bugs or memory leaks? does animation run smoothly?
 * **Test coverage**: were all the test cases completed? were any missing? will it stand up to scrutiny? how likely is it to break under certain conditions?
 * **Feedback**: has analytics tracking been implemented? do the team have any concerns or questions of their own about a particular feature or feature set?
-* **Performance**: how's the load time? what about the total payload? is the payload optimised for different devices or connections? have we made the best use of caching and data storage? are animations running at at least 60fps? 
+* **Performance**: how's the load time? what about the total payload? is the payload optimised for different devices or connections? have we made the best use of caching and data storage? are animations running at least 60fps? 
 
 Exactly what you analyse and measure depends on you and your projects. The reason we do these reviews at the end of each sprint is to avoid disrupting project momentum. If you decide you want to change something on a previous feature, you don't want to interrupt the work on the current feature. You may decide however, especially for large or complex projects, to spend part of each day continuously reviewing the work rather than all at once at the end of each sprint. You may also decide not to do it alone, incolving the client or client manager for their business knowledge, or the rest of the production team themselves if they have time. Bear in mind that if you do come away with any problems or recommendations for improvement, the project owner should be consulted before you start adding work that may impact budgets and timelines, or changing the requirements. It may very well be the case that your team, no matter how good their skills or expert their knowledge or how hard they worked, have produced a solution that doesn't work or doesn't meet the requirements. You are ultimately responsible for ensuring requirements are met, so in such cases you will need to offer constructive feedback and suggestions.
 
@@ -1022,6 +1022,7 @@ New designers and/or developers are hired.
 Existing designers and/or developers with great performance habits leave.
 Browsers continue to evolve.
 Web standards evolve, such as HTTP/2, which eradicates some existing performance constraints.
+
 Having a dedicated team of people responsible for keeping track of these kinds of evolutions is important. A performance champion, or a team of performance champions, is an excellent tool for a company to lean on as the Web changes. But the responsibility for maintaining a high-performing site should not solely rest on the shoulders of these individuals. Everyone who works on the site should buy in to the importance of performance and understand what they can do to improve it.
 
 If other designers and developers who shape the site aren’t educated on performance, how can they make the best decisions about user experience? How can they weigh the balance between aesthetics and page speed? If they aren’t empowered to make improvements, any performance champions will simply be playing cleanup after other people’s work. Spending your time cleaning up other people’s work (especially when it’s preventable) is a one-way ticket to burnout.
@@ -1031,7 +1032,6 @@ A dedicated performance team can focus on:
 Giving lectures, lunch-and-learns, and workshops to educate others about performance
 Celebrating the good work of designers and developers on other teams who improve site speed
 Building tools to surface performance data in others’ daily workflows to help them understand how they are directly impacting performance in their current work
-Defining baseline requirements for performance, such as a performance budget for each new project or a maximum page load time across the site
 Learning about emerging technology and new methods of improving performance
 Communicating publicly about changes in site performance and recent experiments and learnings, as shown in Figure 8-1
 Etsy Performance
@@ -1039,6 +1039,9 @@ Etsy Performance
 Figure 8-1. Etsy’s performance report details load time for top pages and what changes contributed to the load time each quarter.
 
 Having an individual or team care deeply about performance is important for all of the aforementioned purposes. These champions can stay on top of how performance is being handled sitewide; they can keep an eye on problem areas, look for areas to improve, and raise suggestions to the other people contributing to the site’s design and development. But the work to be done to actually improve and maintain performance needs to be owned and shared across your organization, rather than lie with an individual or single team.
+
+
+
 
 
 ### Project Reviews
