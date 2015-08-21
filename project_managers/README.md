@@ -998,6 +998,8 @@ It's important that the status reports don't contain any major surprises. If the
 
 ### Sprint Reviews
 
+Don't worry, this isn't another type of meeting you have to have. This is just for you. As a web project manager, you'll likely be spending most of your time gathering data and applying it to detailed documentation. That's because data is used to drive decisions. At all stages of a web project we should be measuring how well we're coming along, not just in terms of adherence to schedule and budget, but to what extent we're on track to meet the project goals. At the end of each sprint you have the opportunity to 
+
 - design review
 - code review
 - test coverage
@@ -1006,7 +1008,7 @@ It's important that the status reports don't contain any major surprises. If the
 - keep an eye on responsiveness
 - keep an eye on performance
 
-Use data to drive decisionsAt all stages of a digital project, we should measure how well our service is working for our users. This includes measuring how well a system performs and how people are interacting with the system in real time. Our teams and agency leadership should carefully watch these metrics to proactively spot issues and identify which improvements should be prioritized. In addition to monitoring tools, a feedback mechanism should be in place for people to report issues directly.
+Our teams and agency leadership should carefully watch these metrics to proactively spot issues and identify which improvements should be prioritized. In addition to monitoring tools, a feedback mechanism should be in place for people to report issues directly.
 
 - performance
 
