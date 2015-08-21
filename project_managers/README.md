@@ -1098,10 +1098,7 @@ Graduating from being the sole architect of your codebase to contributing to a s
 Richard Rutter of Clearleft sees clear advantages for the client, too. He recommends using source control “preferably in some sort of collaborative environment that you can open up or hand over to the client” – a feature found with hosted services such as GitHub.
 
 WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
-- January 13, 2014 - by thesambarnes, in Digital Project Management, with 9 comments -
 
-Bio picture of Holly Davis
-Holly is a Certified Scrum Master and Agile Project Manager at Award winning web agency White October. We’re currently recruiting a new Project Manager to join the team, feel free to get in touch if you’re interested. You can find Holly on Twitter @ProjectDavis.
 A year ago, I had never heard of GitHub and now I’m using it on several of my biggest projects and to my surprise, enjoying doing so!
 
 A cropped version of the GitHub 404 page banner showing it's Octocat character dressed as ObiWan from Star Wars in a desert scene in front of a land speeder and hut.It’s worth using GitHub if only for this each time you type with chubby fingers.
