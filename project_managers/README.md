@@ -996,37 +996,6 @@ You can deliver status reports in whatever format you feel is appropriate, depen
 
 It's important that the status reports don't contain any major surprises. If there are major issues that need to be raised, do so immediately, not at the end of the week as a footnote in a summary.
 
-*****
-
-
-
-
-
-
-
-
-
-
-A WEB PROJECT MANAGER’S PERSPECTIVE
-It will be pretty obvious what side of the argument I personally come down on, but the truth is that’s down to utter selfishness.
-
-By that I mean, I too love what I do, I’m a Web Project Manager and my job boils down to delivering web projects on time, on budget and to a good quality standard. There are things that happen during every single web project that seem to be demanded by the Gods to prevent me, and everyone else in the web project management world, from achieving that.
-
-I expect it to happen, I plan for it, I fight for contingency budget to cater for it – I do lots of things, and sometimes even consider praying to the Gods, but obviously don’t – that discussion is for another time – but I don’t blame you in any way, that’s just how web projects go.
-
-A screenshot of Twitter use GrumpyPM saying if you spend less time moaning and more time doing we can wrap this project up.Behold the Grumpy PM and his infinite wisdom
-But while I’m doing all of this to try and make everything run smoothly, as things start to go wrong and the whiners start to whine, I often grumble to myself and others at how the whiners can complain about lack of time or context switching when they’ve found the time to read every Tweet that day, click through to a few links, read the posts and watch several funny videos – it infuriates me – but – I’m ready to understand…
-
-THE BIG FIVE QUESTIONS
-If you’ve made it this far or just skipped to the end like Simon Pegg in Spaced, I’m ready to listen, and I want you to help me understand by answering these questions:
-
-Why do you feel context switching when designing or coding is harder than any other context switching for others doing work that requires focussed concentration that perhaps isn’t designing or coding?
-Why do you find it acceptable and possible to easily context switch between work and Twitter, blog posts etc. when you say you can’t possibly context switch for pre-planned meetings and general day-to-day disruptions that happen during the average working day?
-Why do you quickly click off Twitter, Amazon, Facebook etc. back to work when you see a manager approaching if you don’t think it’s naughty?
-Have you ever worked anywhere where this culture was discouraged? What were the big differences?
-Do you believe there is real commercial value in this culture? If so can you articulate what it is?
-C’mon, sell it to me; sell it to our bosses, please. There must be some Web Project Managers our there who also stay on Twitter all day and read blog posts etc. Why do you find it beneficial? Or, in what way do you see it as a beneficial thing for your project team to be doing?
-
 ### Scrum Reviews
 
 - design review
