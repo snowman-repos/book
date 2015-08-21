@@ -1034,9 +1034,8 @@ Things like software, hardware, ergonomic furniture, or service subscriptions us
 
 ### Software
 
-The kinds of software tools we need are generally fairly limited. We need code editors, graphics manipulation tools, office packages, compilers, version control, deployment and file-sharing tools, etc.. Always consider using open-source or cloud-based software when available. Such software often has widespread adoption, precisely because they're free or cheap, and therefore active communities around them, which means they are regularly updated and there are plenty of learning and support materials available.
+The kinds of software tools we need are generally fairly limited. We need code editors, graphics manipulation tools, office packages, compilers, version control, deployment and file-sharing tools, etc.. Always consider using open-source or cloud-based software when available. Such software often has widespread adoption, precisely because they're free or cheap, and therefore active communities around them, which means they are regularly updated and there are plenty of learning and support materials available. Choose software or frameworks that are commonly used by industry peers that do similar work to you. By all means if your organisation has some niche requirement that requires specific tooling then seek it out, but 
 
-Choose software frameworks that are commonly used by private-sector companies creating similar services
 
 - seating arrangements
 - tools
