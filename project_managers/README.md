@@ -1010,7 +1010,7 @@ Don't worry, this isn't another type of meeting you have to have. This is just f
 
 Exactly what you analyse and measure depends on you and your projects. The reason we do these reviews at the end of each sprint is to avoid disrupting project momentum. If you decide you want to change something on a previous feature, you don't want to interrupt the work on the current feature. You may decide however, especially for large or complex projects, to spend part of each day continuously reviewing the work rather than all at once at the end of each sprint. You may also decide not to do it alone, incolving the client or client manager for their business knowledge, or the rest of the production team themselves if they have time. Bear in mind that if you do come away with any problems or recommendations for improvement, the project owner should be consulted before you start adding work that may impact budgets and timelines, or changing the requirements. It may very well be the case that your team, no matter how good their skills or expert their knowledge or how hard they worked, have produced a solution that doesn't work or doesn't meet the requirements. You are ultimately responsible for ensuring requirements are met, so in such cases you will need to offer constructive feedback and suggestions.
 
-Let's take performance as just one example, one that is all too often overlooked.
+Let's take performance as just one example, one that is all too often overlooked and considered the responsibility of someone else.
 
 
 
