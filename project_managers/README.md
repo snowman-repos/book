@@ -1034,7 +1034,7 @@ Things like software, hardware, ergonomic furniture, or service subscriptions us
 
 ### Software
 
-teams should consider using open source, cloud based, and commodity solutions across the technology stack, as these solutions have seen widespread adoption and support by the most successful private-sector consumer and enterprise software technology companies.
+The kinds of software tools we need are generally fairly limited. We need code editors, graphics manipulation tools, office packages, compilers, version control, deployment and file-sharing tools, etc.. Always consider using open-source or cloud-based software when available. Such software often has widespread adoption, precisely because they're free or cheap, and therefore active communities around them, which means they are regularly updated and there are plenty of learning and support materials available.
 
 Choose software frameworks that are commonly used by private-sector companies creating similar services
 
