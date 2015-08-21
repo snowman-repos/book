@@ -1043,7 +1043,8 @@ Don't be afraid to swap out software when the industry starts to shift, or when 
 ### Systems & Protocols
 
 - naming conventions
-- 
+- communication tools
+
 BUILD SYSTEMS, NOT SITES
 One big theme arising this year was that of building websites as systems, not as individual pages.
 
@@ -1069,6 +1070,14 @@ Trent Walton adds:
 
 The more you can test and sort of skew your perception for what is typical on the web, the better. 4k displays hooked up to 100Mbps connections can make one extremely unsympathetic.
 
+Tim Kadlec adds a word on performance planning:
+
+I think having a performance budget in place should now be a given on any project. We’ve proven pretty conclusively through a hundred and one case studies that performance matters. And over the last year or so, we’ve really seen a lot of great tools emerge to help track and enforce performance budgets. There’s not really a good excuse for not using one any more.
+
+It’s clear that in the four years since Ethan Marcotte’s Responsive Web Design article the diversity of screen sizes, network connection speeds and input methods has only increased. New web projects should presume visitors will be using anything from a watch up to a big screen desktop display, and from being offline, through to GPRS, 3G and fast broadband.
+
+Will it take more time to design and build for those constraints? Yes, it most likely will. If Internet Explorer is brave enough to ask to be your default browser, you can be brave enough to tell your client they need to build responsively.
+
 ### Version Control
 
  a revision control system enables you to keep track of changes, revert anything that breaks, and keep rolling backups of your project.
@@ -1080,97 +1089,6 @@ Noting the benefits when collaborating with other developers, he adds:
 Graduating from being the sole architect of your codebase to contributing to a shared codebase is a huge leap for a developer. Perhaps a practical way for people who tend to work on their own to do that would be to submit a pull request or a patch to an open source project or plugin.”
 
 Richard Rutter of Clearleft sees clear advantages for the client, too. He recommends using source control “preferably in some sort of collaborative environment that you can open up or hand over to the client” – a feature found with hosted services such as GitHub.
-
-### Servers
-
-To the extent practical, ensure that software can be deployed on a variety of commodity hardware types
-
-Deploy in a flexible hosting environmentOur services should be deployed on flexible infrastructure, where resources can be provisioned in real time to meet spikes in user demand. Our digital services are crippled when we host them in data centers which market themselves as “cloud hosting” but require us to manage and maintain hardware directly. This outdated practice wastes time, weakens our disaster recovery plans, and results in significantly higher costs.
-Resources are provisioned on demand
-Resources scale based on real-time user demand
-Resources are provisioned through an API
-Resources are available in multiple regions
-We pay only for the resources we use
-Static assets are served through a content delivery network
-Application is hosted on commodity hardware
-disaster recovery.
-
-Create a stable development environment
-There’s little more likely to send a web developer into a wild panic and a client into a wild rage than making a new site live and things just not working. That’s why it’s important to have realistic development and staging environments that mimic the live server as closely as possible.
-
-Are you in the habit of developing new sites right on the client’s server? Or maybe in a subfolder on your local machine? It’s time to reconsider.
-
-Charlie Perrins writes:
-
-Don’t work on a live server – this feels like one of those gear-changing moments for a developer’s growth. Build something that works just as well locally on your own machine as it does on a live server, and capture the differences in the code between the local and live version in a single config file. Ultimately, if you can get all the differences between environments down to a config level then you’ll be in a really good position to automate the deployment process at some point in the future.
-
-Anything that creates a significant difference between the development and the live environments has the potential to cause problems you won’t know about until the site goes live – and at that point the problems are very public and very embarrassing, not to mention unprofessional.
-
-A reasonable solution is to use a tool like MAMP PRO which enables you to set up an individual local website for each project you work on. Importantly, individual sites give you both consistency of paths between development and live, but also the ability to configure server options (like PHP versions and configuration, for example) to match the live site.
-
-Better yet is to use a virtual machine, managed with a tool such as Vagrant. If you’re interested in learning more about that, we have an article on that subject later in the series.
-
-### Testing & Deployment Solutions
-
-A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
-
-Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners
-
-Automate testing and deploymentsToday, developers write automated scripts that can verify thousands of scenarios in minutes and then deploy updated code into production environments multiple times per day. They use automated performance tests which simulate surges in traffic to identify performance bottlenecks. While manual tests and quality assurance is still necessary, automated tests provide consistent and reliable protection against unintentional regressions, and make it possible for developers to confidently release frequent updates to the service.checklist
-Create automated tests that verify all user-facing functionality
-Create unit and integration tests to verify modules and components
-Run tests automatically as part of the build process
-Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques
-Conduct load and performance tests at regular intervals, including before public launch
-
-Tim Kadlec is a big proponent of automating your build process:
-
-I’ve been hammering that home to every client I’ve had this year. It’s amazing how many companies don’t really have a formal build/deployment process in place. So many issues on the web (performance, accessibility, etc.) can be greatly improved just by having a layer of automation involved.
-
-For example, graphic editing software spits out ridiculously bloated images. Very frequently, that’s what ends up getting put on a site. If you have a build process, you can have the compression automated and start seeing immediate gains for no effort. On a recent project, they were able to shave around 1.5MB from their site weight simply by automating compression.
-
-Once you have your code in source control, some of that automation can be made easier. Brian Suda writes:
-
-We have a few bash scripts that run on git commit: they compile the less, jslint and remove white-space, basically the 3 Cs, Compress, Concatenate, Combine. This is now part of our workflow without even realising it.
-
-One great way to get started with a build process is to use a tool like Grunt, and a great way to get started with Grunt is to read Chris Coyier’s Grunt for People Who Think Things Like Grunt are Weird and Hard.
-
-Tim reinforces:
-
-Issues like [image compression] — or simple accessibility issues like alt tags on images — should never be able to hit a live server. If you can detect it, you can automate it. And if you can automate it, you can free up time for designers and developers to focus on more challenging — and interesting — problems.
-
-A clear call to arms to tighten up and formalise development and deployment practices. The less that has to be done manually or is susceptible to change, the less that can go wrong when a site is built and deployed. Any procedures that are automated are no longer dependant on a single person’s knowledge, making it easier to build your team or just cope when someone important is out of the office or leaves.
-
-### Bug Tracking
-
-### Seating Arrangements
-
-
-- user data (analytics, user testing tools)
-
-
-
-
-
-
-
-
-
-
-The value of testing with real devices is something Ruth John appreciates. She wrote:
-
-I still have my own small device lab at home, even though I work permanently for a well-established company (which has a LOT of devices at its disposal) – it just means I can get a good overview of how things are looking during development.
-
-And speaking of systems, Mark Norman Francis recommends the use of measuring tools to aid the design process; “[U]se analytics and make decisions from actual data” he suggests, rather than relying totally on intuition.
-
-Tim Kadlec adds a word on performance planning:
-
-I think having a performance budget in place should now be a given on any project. We’ve proven pretty conclusively through a hundred and one case studies that performance matters. And over the last year or so, we’ve really seen a lot of great tools emerge to help track and enforce performance budgets. There’s not really a good excuse for not using one any more.
-
-It’s clear that in the four years since Ethan Marcotte’s Responsive Web Design article the diversity of screen sizes, network connection speeds and input methods has only increased. New web projects should presume visitors will be using anything from a watch up to a big screen desktop display, and from being offline, through to GPRS, 3G and fast broadband.
-
-Will it take more time to design and build for those constraints? Yes, it most likely will. If Internet Explorer is brave enough to ask to be your default browser, you can be brave enough to tell your client they need to build responsively.
-
 
 WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
 - January 13, 2014 - by thesambarnes, in Digital Project Management, with 9 comments -
@@ -1274,6 +1192,95 @@ If your backups break down, losing data isn’t even a possibility when using Gi
 
 How to Use Git Today
 Git has stepped out of being a technology for early-adopters. Today, more and more developers are using it to improve the quality of their code and workflow.
+
+### Servers
+
+To the extent practical, ensure that software can be deployed on a variety of commodity hardware types
+
+Deploy in a flexible hosting environmentOur services should be deployed on flexible infrastructure, where resources can be provisioned in real time to meet spikes in user demand. Our digital services are crippled when we host them in data centers which market themselves as “cloud hosting” but require us to manage and maintain hardware directly. This outdated practice wastes time, weakens our disaster recovery plans, and results in significantly higher costs.
+Resources are provisioned on demand
+Resources scale based on real-time user demand
+Resources are provisioned through an API
+Resources are available in multiple regions
+We pay only for the resources we use
+Static assets are served through a content delivery network
+Application is hosted on commodity hardware
+disaster recovery.
+
+Create a stable development environment
+There’s little more likely to send a web developer into a wild panic and a client into a wild rage than making a new site live and things just not working. That’s why it’s important to have realistic development and staging environments that mimic the live server as closely as possible.
+
+Are you in the habit of developing new sites right on the client’s server? Or maybe in a subfolder on your local machine? It’s time to reconsider.
+
+Charlie Perrins writes:
+
+Don’t work on a live server – this feels like one of those gear-changing moments for a developer’s growth. Build something that works just as well locally on your own machine as it does on a live server, and capture the differences in the code between the local and live version in a single config file. Ultimately, if you can get all the differences between environments down to a config level then you’ll be in a really good position to automate the deployment process at some point in the future.
+
+Anything that creates a significant difference between the development and the live environments has the potential to cause problems you won’t know about until the site goes live – and at that point the problems are very public and very embarrassing, not to mention unprofessional.
+
+A reasonable solution is to use a tool like MAMP PRO which enables you to set up an individual local website for each project you work on. Importantly, individual sites give you both consistency of paths between development and live, but also the ability to configure server options (like PHP versions and configuration, for example) to match the live site.
+
+Better yet is to use a virtual machine, managed with a tool such as Vagrant. If you’re interested in learning more about that, we have an article on that subject later in the series.
+
+### Testing & Deployment Solutions
+
+A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
+
+Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners
+
+Automate testing and deploymentsToday, developers write automated scripts that can verify thousands of scenarios in minutes and then deploy updated code into production environments multiple times per day. They use automated performance tests which simulate surges in traffic to identify performance bottlenecks. While manual tests and quality assurance is still necessary, automated tests provide consistent and reliable protection against unintentional regressions, and make it possible for developers to confidently release frequent updates to the service.checklist
+Create automated tests that verify all user-facing functionality
+Create unit and integration tests to verify modules and components
+Run tests automatically as part of the build process
+Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques
+Conduct load and performance tests at regular intervals, including before public launch
+
+Tim Kadlec is a big proponent of automating your build process:
+
+I’ve been hammering that home to every client I’ve had this year. It’s amazing how many companies don’t really have a formal build/deployment process in place. So many issues on the web (performance, accessibility, etc.) can be greatly improved just by having a layer of automation involved.
+
+For example, graphic editing software spits out ridiculously bloated images. Very frequently, that’s what ends up getting put on a site. If you have a build process, you can have the compression automated and start seeing immediate gains for no effort. On a recent project, they were able to shave around 1.5MB from their site weight simply by automating compression.
+
+Once you have your code in source control, some of that automation can be made easier. Brian Suda writes:
+
+We have a few bash scripts that run on git commit: they compile the less, jslint and remove white-space, basically the 3 Cs, Compress, Concatenate, Combine. This is now part of our workflow without even realising it.
+
+One great way to get started with a build process is to use a tool like Grunt, and a great way to get started with Grunt is to read Chris Coyier’s Grunt for People Who Think Things Like Grunt are Weird and Hard.
+
+Tim reinforces:
+
+Issues like [image compression] — or simple accessibility issues like alt tags on images — should never be able to hit a live server. If you can detect it, you can automate it. And if you can automate it, you can free up time for designers and developers to focus on more challenging — and interesting — problems.
+
+A clear call to arms to tighten up and formalise development and deployment practices. The less that has to be done manually or is susceptible to change, the less that can go wrong when a site is built and deployed. Any procedures that are automated are no longer dependant on a single person’s knowledge, making it easier to build your team or just cope when someone important is out of the office or leaves.
+
+The value of testing with real devices is something Ruth John appreciates. She wrote:
+
+I still have my own small device lab at home, even though I work permanently for a well-established company (which has a LOT of devices at its disposal) – it just means I can get a good overview of how things are looking during development.
+
+### Bug Tracking
+
+### Seating Arrangements
+
+
+- user data (analytics, user testing tools)
+
+And speaking of systems, Mark Norman Francis recommends the use of measuring tools to aid the design process; “[U]se analytics and make decisions from actual data” he suggests, rather than relying totally on intuition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
