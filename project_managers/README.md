@@ -1039,14 +1039,18 @@ The kinds of software tools we need are generally fairly limited. We need code e
 Don't be afraid to swap out software when the industry starts to shift, or when a team member suggests something different. Ultimately, you have to support whatever will make your team members, both present and future, work most effectively. Similarly, don't shy away from dropping a software package, even if it is industry standard, if it's just not the right tool for the job. The industry hasn't always been right and hasn't always been quick to react to changes, a classic example being the number of organisations still using Adobe Photoshop for web design, despite it never having been appropriate - it's a complicated package that requires a huge time investment to learn and user, making people reluctant to drop it. In fact actively seeking out new software options can be a good exercise and opportunity for team training sessions.
 
 ### Storage, Version Control & Naming Conventions
+
+ a revision control system enables you to keep track of changes, revert anything that breaks, and keep rolling backups of your project.
+
+The benefits only start there, and Charlie Perrins recommends using source control “not just as a personal backup of your code, but as a way to play nicely with other developers.“
+
+Noting the benefits when collaborating with other developers, he adds:
+
+Graduating from being the sole architect of your codebase to contributing to a shared codebase is a huge leap for a developer. Perhaps a practical way for people who tend to work on their own to do that would be to submit a pull request or a patch to an open source project or plugin.”
+
+Richard Rutter of Clearleft sees clear advantages for the client, too. He recommends using source control “preferably in some sort of collaborative environment that you can open up or hand over to the client” – a feature found with hosted services such as GitHub.
+
 ### Servers
-### Testing & Deployment Solutions
-### Seating Arrangements
-
-- seating arrangements
-
-
-
 
 To the extent practical, ensure that software can be deployed on a variety of commodity hardware types
 
@@ -1059,25 +1063,6 @@ We pay only for the resources we use
 Static assets are served through a content delivery network
 Application is hosted on commodity hardware
 disaster recovery.
-
-- github
-- testing / continuous integration
-
-Automate testing and deploymentsToday, developers write automated scripts that can verify thousands of scenarios in minutes and then deploy updated code into production environments multiple times per day. They use automated performance tests which simulate surges in traffic to identify performance bottlenecks. While manual tests and quality assurance is still necessary, automated tests provide consistent and reliable protection against unintentional regressions, and make it possible for developers to confidently release frequent updates to the service.checklist
-Create automated tests that verify all user-facing functionality
-Create unit and integration tests to verify modules and components
-Run tests automatically as part of the build process
-Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques
-Conduct load and performance tests at regular intervals, including before public launch
-
-
-- bug tracking system
-- user data (analytics, user testing tools)
-
-A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
-
-Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners
-
 
 Create a stable development environment
 There’s little more likely to send a web developer into a wild panic and a client into a wild rage than making a new site live and things just not working. That’s why it’s important to have realistic development and staging environments that mimic the live server as closely as possible.
@@ -1094,24 +1079,19 @@ A reasonable solution is to use a tool like MAMP PRO which enables you to set up
 
 Better yet is to use a virtual machine, managed with a tool such as Vagrant. If you’re interested in learning more about that, we have an article on that subject later in the series.
 
-Use source control
-Trent Walton writes:
+### Testing & Deployment Solutions
 
-We use source control, and it’s become the centerpiece for how we handle collaboration, enhancements, and issues. It drives our process.
+A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
 
-I’m hoping by now that you’re either using source control for all your work, or feeling a nagging guilt that you should be. Be it Git, Mercurial, Subversion (name your poison), a revision control system enables you to keep track of changes, revert anything that breaks, and keep rolling backups of your project.
+Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners
 
-The benefits only start there, and Charlie Perrins recommends using source control “not just as a personal backup of your code, but as a way to play nicely with other developers.“
+Automate testing and deploymentsToday, developers write automated scripts that can verify thousands of scenarios in minutes and then deploy updated code into production environments multiple times per day. They use automated performance tests which simulate surges in traffic to identify performance bottlenecks. While manual tests and quality assurance is still necessary, automated tests provide consistent and reliable protection against unintentional regressions, and make it possible for developers to confidently release frequent updates to the service.checklist
+Create automated tests that verify all user-facing functionality
+Create unit and integration tests to verify modules and components
+Run tests automatically as part of the build process
+Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques
+Conduct load and performance tests at regular intervals, including before public launch
 
-Noting the benefits when collaborating with other developers, he adds:
-
-Graduating from being the sole architect of your codebase to contributing to a shared codebase is a huge leap for a developer. Perhaps a practical way for people who tend to work on their own to do that would be to submit a pull request or a patch to an open source project or plugin.”
-
-Richard Rutter of Clearleft sees clear advantages for the client, too. He recommends using source control “preferably in some sort of collaborative environment that you can open up or hand over to the client” – a feature found with hosted services such as GitHub.
-
-If you’d like to hone your Git skills, Emma Jane Westby wrote Git for Grown-ups in last year’s 24 ways.
-
-Don’t repeat, automate!
 Tim Kadlec is a big proponent of automating your build process:
 
 I’ve been hammering that home to every client I’ve had this year. It’s amazing how many companies don’t really have a formal build/deployment process in place. So many issues on the web (performance, accessibility, etc.) can be greatly improved just by having a layer of automation involved.
@@ -1130,7 +1110,19 @@ Issues like [image compression] — or simple accessibility issues like alt tags
 
 A clear call to arms to tighten up and formalise development and deployment practices. The less that has to be done manually or is susceptible to change, the less that can go wrong when a site is built and deployed. Any procedures that are automated are no longer dependant on a single person’s knowledge, making it easier to build your team or just cope when someone important is out of the office or leaves.
 
-If you’re interested in kicking the FTP habit and automating your site deployments, we have an article later in the series just for you.
+### Bug Tracking
+
+### Seating Arrangements
+
+
+- user data (analytics, user testing tools)
+
+
+
+
+
+
+
 
 BUILD SYSTEMS, NOT SITES
 One big theme arising this year was that of building websites as systems, not as individual pages.
