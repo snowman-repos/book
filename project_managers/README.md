@@ -969,7 +969,8 @@ Immediately following the meeting, you'll have some action items. You'll have to
 In this role it's unlikely that you'll get away with one meeting per day, it's just something you'll have to get accustommed to. All meetings have the e same basic objectives - to gather information and make decisions. You'll also be accustomed to taking notes and documenting everything. So what advice can we offer here?
 
 1) Try not to let meetings descend into idle chit-chat. You need to get in, get what you came for, and get out, without coming across as rude, of course.
-2) Record meetings. Scruffy scribblings on easy-to-lose bits of paper are unlikely to serve you as well as you think they might later on. Instead of trying to dual-focus on your meeting _and_ on taking down the important points, just use a recording app on your phon
+
+2) Record meetings. Scruffy scribblings on easy-to-lose bits of paper are unlikely to serve you as well as you think they might later on. Instead of trying to dual-focus on your meeting _and_ on taking down the important points, just use a recording app on your phone.
 
 ### Status Reports
 
