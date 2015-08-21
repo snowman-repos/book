@@ -1094,17 +1094,13 @@ By far the most popular version control system is git, with the most popular rem
 
 You can set up a paid account on Guthub for your organisation or provide a server where you store git repositories for each project. Everyone on the team should either have a github account or access to the server, and everyone, be they designers, developers, content people, or testers, should be trained on how to use git. It is useful for every role and the risks of not using version control are simply too great. If anyone is unfamiliar with git then a practical way for them to experiment with it and learn is by submitting a pull request to an open-source project on Github.
 
-
+A Github account is not expensive and also comes with an integrated issue tracker that can be used to assign tasks and report bugs.
 
 
 
 
 WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
 
-
-It started just under a year ago when I asked my project team what their preference would be for tracking issues, and the developers were almost evangelical about GitHub. I was aware that most of our active projects were being hosted and deployed from GitHub but didn’t realise it could be used for managing projects too!
-
-So, we took the leap and instead of introducing something new into the mix we started using it to manage tasks, releases and bugs.
 
 The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
 
