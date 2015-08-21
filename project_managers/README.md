@@ -970,7 +970,7 @@ In this role it's unlikely that you'll get away with one meeting per day, it's j
 
 1) Try not to let meetings descend into idle chit-chat. You need to get in, get what you came for, and get out, without coming across as rude, of course.
 
-2) Record meetings. Scruffy scribblings on easy-to-lose bits of paper are unlikely to serve you as well as you think they might later on. Instead of trying to dual-focus on your meeting _and_ on taking down the important points, just use a recording app on your phone.
+2) Record meetings. Scruffy scribblings on easy-to-lose bits of paper are unlikely to serve you as well as you think they might later on. Instead of trying to dual-focus on what's being discussed _and_ on taking down the important points, just use a recording app on your phone. Be honest and open about the fact that you're recording and note that you'll do it discretely. Name your archived recordings in a way that make sense. Don't record when it's unnecessary or inappropriate, e.g. budget discussions, conflict resolutions, pre-sales, etc.
 
 ### Status Reports
 
@@ -995,67 +995,6 @@ You can deliver status reports in whatever format you feel is appropriate, depen
 It's important that the status reports don't contain any major surprises. If there are major issues that need to be raised, do so immediately, not at the end of the week as a footnote in a summary.
 
 *****
-
-
-
-
-
-
-
-In all seriousness, when I’m talking to a client about their business, project and requirements I genuinely want to immerse myself into the process and really get down and dirty in the details, for two main reasons:
-
-I know off the back of the meeting I will have to probably create a sitemap, functional specification and creative brief and I will need to get the details right
-I want the meeting to flow smoothly and be an organic conversation. I find this type of meeting to be brilliantly productive and invariably ends up with both parties getting excited about the web project
-Once the meeting is over, I press ‘Stop’ and head on back to the office. I know all that detailed goodness is captured and will be there for me when I need to sit down and write some documents or brief the team – in fact, the team can also listen to the meeting themselves – double efficiency bonus points!
-
-I won’t drone on much more about the why, needless to say the number of times I’ve sat with headphones writing a big functional specification and literally enjoyed capturing a complex piece of functionality perfectly, first time – high bloody five!
-
-ALTERNATIVE RECORDING SOLUTIONS
-Of course nowadays digital voice recorders look a little archaic and alternative solutions are available for all you smartphone and tablet people.
-
-A picture of two iOS app icons with a little Yoda cuddly toy face poking out from the bottom-right corner“Clever iOS note taking apps are”
-These range from simple voice recorders to awesome apps that let you record a meeting, type notes, draw diagrams, and even highlight the notes and drawings you made in sync with the playback. A few decent ones for the iPad are:
-
-Audionote
-Noteability
-However, I did try using these and personally found it a little more cumbersome than pen and paper and also made me come across slightly detached from the client, like typing away on a laptop does – but maybe this type of solution will work for you.
-
-NAVIGATING THE EXCALIBUR UNVEILING
-
-Although the theory and practice of recording web project meetings is solid, it’s still a little bit of a taboo when you mention the idea to a client, and to be honest I’m not surprised – it’s not exactly standard practice and there are confidentiality concerns.
-
-But I find, as always with clients, honesty is the best policy and by simply explaining that you want to concentrate 100% on the meeting itself and not note taking, and that it will ensure you capture all the fine detail and enable more efficient briefing and web project documents, you’ll generally get agreement.
-
-In fact clients tend to fall into three camps when they see Excalibur, the:
-
-Happy and understanding type who say “Ooo good idea!”
-Tentative but accommodating type who say something along the lines of “Ok, but I won’t see this posted on YouTube will I?” while laughing nervously
-Very freaked out type who simply say they do not want to be recorded
-The first two types of clients end up not thinking about the recorder 30 seconds into the meeting, and the third type, if you’re smart, you’ll identify before even being silly enough to get the recorder out.
-
-A picture of an oil painting of ex-US President Richard NixonSometimes, recording is just a bad idea
-But in case you’re not too smart (like me, trust me I learnt the hard way) here’s a few handy tips on when to suggest recording and when not too.
-
-THE DOS AND DON’TS OF RECORDING
-
-DO
-Be completely honest about the fact you’d like to record the meeting, even if it’s a conference call
-Make the point to mention you will be discreet with the recording
-Name your recordings semantically so you don’t have to trawl through “untitled.mp3″ only to find out it wasn’t the meeting you needed after all
-Use your instinct to determine if it would feel appropriate to get the recorder out
-
-DON’T
-Try to record pre-sales meetings and conflict resolution meetings
-Record meetings where it isn’t necessary e.g. budget discussions
-Ever use recordings to try and settle web project disputes
-Send recordings to non-employees
-Covertly record, ever – it’s just plain wrong and illegal I think
-But come on, I’m probably just a bit rubbish when it comes to note taking, and because it’s just not always appropriate to record web project management meetings…
-
-…what are your tips for note taking in web project management meetings?
-
-The ‘rules’ I’m referring to are specifically surrounding the use of Twitter, blog reading, YouTube, Facebook, flexitime and all of the other things that now seem to be a widely expected, and to some extent, accepted part of everyday life in many digital agencies out there i.e. things that many view as a sign of people not doing the job they’re being paid to.
-
 
 
 
