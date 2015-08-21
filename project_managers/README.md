@@ -1060,35 +1060,18 @@ It's always up to you to establish best practice and enforce it. Consider things
 
 As you are overseeing entire projects, keep on eye on the work to ensure that people are starting simple and gradually adding complexity. Remind everyone at the start of each project that they are building *systems*, not sites, or screens, or pages. You want your web projects to be stable, future-friendly, scalable, and extensible. For instance they should begin designing, building, and testing the most basic and reusable stuff - the typography, buttons, form inputs, grid systems, tables, etc. - the building blocks for all other components and modules. They should start off ensuring the basic feature requirements are met on the minimum system requirements - the oldest browsers and the smallest screens - before gradually enhancing the experience for more capable devices. This forces them to keep performance in mind and consider users who are not sitting at a comfortable desk like they are, on a fast wifi connection and using a high-end laptop. By facing the constraints head on from the start, designers and developers are forced to really think about the problems and how to solve them. It also ensures that time will be saved later on as they are able to re-use and build on previous work that's been tested and signed off.
 
-One of the most important project deliverables, even if it hasn't been specifically requested, is a style guide. It's one of the things you should be demanding of your team and making standard practice for all projects. It's ok to be dogmatic about this because the benefits are clear.
+One of the most important project deliverables, even if it hasn't been specifically requested, is a style guide. It's one of the things you should be demanding of your team and making standard practice for all projects. Like with enforcing performance budgets, it's ok to be dogmatic about this because the benefits are clear.
 
 
+- get your head around the look and feel
+- maintainability
+- consistency
+- 
 
 
+Mobile first: force everyone to think about it, especially project owners, skew perceptions about what is typical on the web. responsive = device agnostic.
 
-Consider adding on a style guide/UI library to your project as a deliverable for maintainability and thinking through all UI elements and components.
 
-Val Head agrees: “build and maintain a style guide for each project” she wrote. On the subject of approaching a redesign, she added:
-
-A UI inventory goes a long way to helping get your head around what a design system needs in the early stages of a redesign project.
-
-So what about that old chestnut, responsive web design? Should we be making sites responsive by default? How about mobile first?
-
-Richard Rutter:
-
-Think mobile first unless you have a very good reason not to. Remember to take the client with you on this principle, otherwise it won’t work as a convincing piece of design.
-
-Trent Walton adds:
-
-The more you can test and sort of skew your perception for what is typical on the web, the better. 4k displays hooked up to 100Mbps connections can make one extremely unsympathetic.
-
-Tim Kadlec adds a word on performance planning:
-
-I think having a performance budget in place should now be a given on any project. We’ve proven pretty conclusively through a hundred and one case studies that performance matters. And over the last year or so, we’ve really seen a lot of great tools emerge to help track and enforce performance budgets. There’s not really a good excuse for not using one any more.
-
-It’s clear that in the four years since Ethan Marcotte’s Responsive Web Design article the diversity of screen sizes, network connection speeds and input methods has only increased. New web projects should presume visitors will be using anything from a watch up to a big screen desktop display, and from being offline, through to GPRS, 3G and fast broadband.
-
-Will it take more time to design and build for those constraints? Yes, it most likely will. If Internet Explorer is brave enough to ask to be your default browser, you can be brave enough to tell your client they need to build responsively.
 
 ### Version Control
 
