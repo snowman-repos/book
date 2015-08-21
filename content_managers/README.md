@@ -5,6 +5,8 @@ Your role is the most important.
 emails
 
 
+http://styleguide.mailchimp.com/voice-and-tone/
+
 
 
 How To Run A Content-Planning Workshop
