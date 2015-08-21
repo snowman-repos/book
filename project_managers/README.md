@@ -1068,16 +1068,19 @@ As we just mentioned, “responsive design” does not mean separate versions of
 
 ### Deliverables
 
-One of the most important project deliverables, even if it hasn't been specifically requested, is a style guide. This is essentially a library of all the project's style information, such as colours and typefaces, as well as all the individual components, from the most basic to the complex. There are many great examples online. It's one of the things you should be demanding of your team and making standard practice for all projects. Like with enforcing performance budgets, it's ok to be dogmatic about this because the benefits are clear:
+One of the most important project deliverables, even if it hasn't been specifically requested, is a **style guide**. This is essentially a library of all the project's style information, such as colours and typefaces, as well as all the individual components, from the most basic to the complex. There are many great examples online. It's one of the things you should be demanding of your team and making standard practice for all projects. Like with enforcing performance budgets, it's ok to be dogmatic about this because the benefits are clear:
 
-- communication tool, demonstrates interactions
-- get your head around the look and feel
-- maintainability
-- consistency
-- forces modularity
+- **Communication tool**: It's a quick and easy-to-digest overview of the project's look and feel. You can also showcase interaction states like hovering or clicking. Everyone can play around with it and get to know exactly how everything is going to fit together. It also serves as a good reminder of things that might otherwise get missed, such as button states or error messages.
+- **Maintainability**: The project is likely to change and hopefully to grow. By compiling all the UI elements in one place it's easier for new comers to the project to understand what there is and how it works, allowing them to work on it more easily. If it's a living styleguide, i.e. tied in with the production code, then you can experiment with changes very easily and directly and instantly apply them throughout the project.
+- **Consistency**: By having all the UI components in one place you can more easily ensure that new ones are consistent with the others in terms of styling and behaviour.
+
+
+
+- forces modularity workflow
 - semantics / shared language
 - relates to the code, forces organisation, workflow
 - easier to test
+- performance
 
 bootstrap
 can be automated
