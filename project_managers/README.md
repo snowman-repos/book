@@ -1096,33 +1096,7 @@ You can set up a paid account on Guthub for your organisation or provide a serve
 
 A Github account is not expensive and also comes with an integrated issue tracker that can be used to assign tasks and report bugs.
 
-
-
-
-### Issue Tracking
-
-
-The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
-
-Using labels you can create issues for “discussion” i.e. we need a comment system, here are the options giving everyone visibility over the options and the opportunity to comment and be involved with the solution.
-
-A screenshot of low-fi sketches uploaded to GitHubIf I was the client I’d totes sign this off.
-GitHub wins on simplicity and its clean interface. Even some of our designers have adopted it for presenting low fidelity sketches to the client / team to review. It’s great to have communication in one centralised place rather than across emails and visible to all the team. You can set up email notifications when people comment or tag you in an issue.
-
-It has also given me more visibility on work in progress. In our daily ODI scrums we have even introduced the reviewing of pull requests. This helps limit work in progress by ensuring pull requests are reviewed, merged and closed. If the same PR is there several days running, it can quickly alert you that something is wrong that you wouldn’t normally be able to pick up on as a non technical PM.
-
-However, like any tool there are a couple of drawbacks. I have had to continue using spreadsheets to track time and velocity over sprints, as you can’t add estimates or track time spent on the issues themselves. However you can assign a milestone to tasks within a sprint which will give you a % indicator of tasks completed but isn’t that helpful if the one task you’ve not completed equates to half the sprint!
-
-Lastly, there is no easy way to prioritise issues. For ODI we’ve added priority 1 and priority 2 tags which work well but i’d like the open issues to work more like a physical backlog where you can click and drag issues to prioritise.
-
-
-
-
-
-
-Here are some reasons why Git has the power to improve your development workflow.
-
-
+***
 Git Encourages Modularization
 In even the smallest development projects, developers are often required to work on multiple components in parallel. Feature X, bug #102, a new UI for a sign-up form, etc.
 
@@ -1180,9 +1154,30 @@ We’ve all heard or experienced our own set of horror stories about failed back
 And if your team uses a remote source code repository such as GitHub, then the chances of losing your work in the event that your on-site backups fail is much smaller.
 
 If your backups break down, losing data isn’t even a possibility when using Git: Just take any team member’s local repository and restore in minutes.
+***
 
-How to Use Git Today
-Git has stepped out of being a technology for early-adopters. Today, more and more developers are using it to improve the quality of their code and workflow.
+### Issue Tracking
+
+
+The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
+
+Using labels you can create issues for “discussion” i.e. we need a comment system, here are the options giving everyone visibility over the options and the opportunity to comment and be involved with the solution.
+
+A screenshot of low-fi sketches uploaded to GitHubIf I was the client I’d totes sign this off.
+GitHub wins on simplicity and its clean interface. Even some of our designers have adopted it for presenting low fidelity sketches to the client / team to review. It’s great to have communication in one centralised place rather than across emails and visible to all the team. You can set up email notifications when people comment or tag you in an issue.
+
+It has also given me more visibility on work in progress. In our daily ODI scrums we have even introduced the reviewing of pull requests. This helps limit work in progress by ensuring pull requests are reviewed, merged and closed. If the same PR is there several days running, it can quickly alert you that something is wrong that you wouldn’t normally be able to pick up on as a non technical PM.
+
+However, like any tool there are a couple of drawbacks. I have had to continue using spreadsheets to track time and velocity over sprints, as you can’t add estimates or track time spent on the issues themselves. However you can assign a milestone to tasks within a sprint which will give you a % indicator of tasks completed but isn’t that helpful if the one task you’ve not completed equates to half the sprint!
+
+Lastly, there is no easy way to prioritise issues. For ODI we’ve added priority 1 and priority 2 tags which work well but i’d like the open issues to work more like a physical backlog where you can click and drag issues to prioritise.
+
+
+
+
+
+
+
 
 ### Servers
 
@@ -1248,9 +1243,10 @@ The value of testing with real devices is something Ruth John appreciates. She w
 
 I still have my own small device lab at home, even though I work permanently for a well-established company (which has a LOT of devices at its disposal) – it just means I can get a good overview of how things are looking during development.
 
-### Bug Tracking
 
 ### Seating Arrangements
+
+
 
 ### Analytics & Data
 - user data (analytics, user testing tools)
