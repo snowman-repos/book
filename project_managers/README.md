@@ -1044,8 +1044,11 @@ Each project will have documentation that everyone on the team should have fast 
 
 ### Communication, Systems & Protocols
 
+
+
 - naming conventions
 - communication tools
+- methodologies
 
 BUILD SYSTEMS, NOT SITES
 One big theme arising this year was that of building websites as systems, not as individual pages.
