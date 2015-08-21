@@ -1042,7 +1042,7 @@ Don't be afraid to swap out software when the industry starts to shift, or when 
 
 Each project will have documentation that everyone on the team should have fast and easy access to. The project's deliverables, the design, the code, the test cases, etc. should also be stored somewhere accessible. You'll want to consider the security implications of this - should the storage be publicly accessible? Should everyone have their own password? Do you need to track or restrict who accesses what files? Should everyone be allowed to edit files or just view and download them? Should it be physically located in your office or on cloud storage? How will backups be handled? Should people be able to access it out of the office? IS any special formatting required, for example when sharing files with clients? There are many options as to how you handle this storage, some examples being a shared server, dropbox, Google drive, Atlassian tools etc. Otherwise a file sharing solution might be a fun side project for someone.
 
-### Communication, Systems & Protocols
+### Communication & Conventions
 
 You'll definitely want to have some sort of instant messaging platform where people can quickly and easily discuss work and share files. In some cases, this kind of communication is less disruptive than walking over to someone's desk, and facilitates remote work. Having the other team members directly accessible like this also creates a sense of cohesion among the team. Again, multiple options are available such as Slack, Hipchat, Google hangouts, Skype, etc.
 
@@ -1055,6 +1055,8 @@ Naming convenstions are important when it comes to saving and sharing files. Thi
 > *- Phil Karlton*
 
 Indeed naming conventions should extend to the code and graphics files as well in order for them to remain easily maintainable by everyone. Not just naming conventions either, style guides should be put in place that dictate how code should be written, specifying things like spacing and indentation, documentation blocks, and other formatting issues. It may be up to you to enforce these protocols, but that can be made easier through the use of automated linting tools that provide feedback and report errors during compile time. Messy and non-uniform code will be more difficult for new team members to pick up and will be more difficult for anyone to go back into to change or update.
+
+### Workflow
 
 It's always up to you to establish best practice and enforce it. Consider things like mobile-first, responsive design, and progressive enhancement that determine the way work is carried out. People on your team have their own limited subset of tasks and so may not consider these over-arching protocols as much as someone in your role with a view on the big picture. These phrases are actually buzz-words that people on your team are probably already familiar with. They may have a different understanding of them or may be working under false assumptions about what they entail. Responsive is a classic example, where a designer might think they are designing a responsive website and yet produce 3 different sized static mockups - responsive fail! You should set the tone and ensure that everyone knows what is required of them in terms of workflow.
 
