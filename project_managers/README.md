@@ -991,11 +991,6 @@ You can deliver status reports in whatever format you feel is appropriate, depen
 
 
 
-Remember, these reports can be delivered in any format you feel is appropriate – some like to use a slide deck or PDF template, but you may find a message template on Basecamp or e-mail template work just as well. As long as the format remains consistent and clear you’re all good to go!
-
-
-
-
 
 YOU DON’T HAVE TO CREATE THE REPORT YOURSELF
 Many Web Project Managers have executives or support staff, use them. You setup the template, you create and send the first three or four, but after that there is no reason why a competent executive couldn’t be the ones to dig out the data for you leaving you to adjust schedules, polish up and send on.
@@ -1015,10 +1010,7 @@ The important thing is that the client doesn’t see the e-mail arrive in their 
 DON’T DROP BOMBSHELLS IN REPORTS
 Although weekly web project reports are the place to capture vital things such as project and budget updates, make sure you don’t let the client find out these facts from the report alone. If any time I feel the total, or phase budget is at risk of overrun, or the schedule is slipping and needs revision, I’ll speak to the client when I realise and not surprise them in the report.
 
-SUMMARY
-Producing and sending weekly web project status reports to clients seems like an obvious one, and something many of us start out doing at the beginning of a web project, but as the workload builds up and other projects on your plate are starting or ending, it can often fall by the wayside. This might not seem to be a problem in the short term, but it will become one the minute something doesn’t go according to plan.
 
-From the very beginning it’s important to remain disciplined and send your client a report every week. In this report you should highlight key information such as actions completed, actions to do, schedule and budget updates.
 
 RECORD YOUR WEB PROJECT MANAGEMENT MEETINGS
 
@@ -1095,6 +1087,10 @@ But come on, I’m probably just a bit rubbish when it comes to note taking, and
 …what are your tips for note taking in web project management meetings?
 
 The ‘rules’ I’m referring to are specifically surrounding the use of Twitter, blog reading, YouTube, Facebook, flexitime and all of the other things that now seem to be a widely expected, and to some extent, accepted part of everyday life in many digital agencies out there i.e. things that many view as a sign of people not doing the job they’re being paid to.
+
+
+
+
 
 THE CONTEXT SWITCHING ARGUMENT
 As a Web Project Manager I’ve heard the two-pronged ‘context switching’ argument a billion times:
