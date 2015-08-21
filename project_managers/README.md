@@ -1040,6 +1040,8 @@ Don't be afraid to swap out software when the industry starts to shift, or when 
 
 ### Shared Storage
 
+Each project will have
+
 ### Communication, Systems & Protocols
 
 - naming conventions
