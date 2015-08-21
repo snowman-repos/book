@@ -1050,6 +1050,8 @@ Each project will have documentation that everyone on the team should have fast 
 - communication tools
 - methodologies
 
+building blocks, start simple and add complexity. start with reusable stuff - check bootstrap's basic css documentation - things like typography, buttons, form inputs, tables, grid system, the building blocks for all other components/modules.
+
 BUILD SYSTEMS, NOT SITES
 One big theme arising this year was that of building websites as systems, not as individual pages.
 
