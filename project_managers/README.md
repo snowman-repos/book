@@ -1040,7 +1040,7 @@ Don't be afraid to swap out software when the industry starts to shift, or when 
 
 ### Shared Storage
 
-Each project will have documentation that everyone on the team should have fast and easy access to. The project's deliverables, the design, the code, the test cases, etc. should also be stored somewhere accessible. You'll want to consider the security implications of this - should the storage be publicly accessible? Should everyone have their own password? Do you need to track or restrict who accesses what files? Should everyone be allowed to edit files or just view and download them? Should it be physically located in your office or on cloud storage? How will backups be handled? Should people be able to access it out of the office? There are many options as to how you handle this storage, some examples being a shared server, dropbox, Google drive, Atlassian tools etc.
+Each project will have documentation that everyone on the team should have fast and easy access to. The project's deliverables, the design, the code, the test cases, etc. should also be stored somewhere accessible. You'll want to consider the security implications of this - should the storage be publicly accessible? Should everyone have their own password? Do you need to track or restrict who accesses what files? Should everyone be allowed to edit files or just view and download them? Should it be physically located in your office or on cloud storage? How will backups be handled? Should people be able to access it out of the office? IS any special formatting required, for example when sharing files with clients? There are many options as to how you handle this storage, some examples being a shared server, dropbox, Google drive, Atlassian tools etc. Otherwise a file sharing solution might be a fun side project for someone.
 
 ### Communication, Systems & Protocols
 
@@ -1048,7 +1048,7 @@ You'll definitely want to have some sort of instant messaging platform where peo
 
 You might want to instigate communication protocols, such as quiet time or how people should indicate when they don't want to be disturbed. A fixed meeting schedule is a good idea, as is a way of scheduling meetings such that everyone can receive reminders and notifications no matter what devices they use.
 
-
+Naming convenstions are important when it comes to saving and sharing files. Think about whether filenames should use spaces, hyphens, or underscores to separate words, capitalisation, version numbers, folders, colour labels, etc. This comes down to personal preference but consistency among the team will ensure that people will always be able to find and understand things easily and quickly.
 
 - naming conventions
 - methodologies
