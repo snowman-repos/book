@@ -1088,7 +1088,11 @@ Styleguides can also be generated automatically in case anyone is concerned with
 
 This really is crucial for any web project, especially those worked on by multiple people, or people in different location, or where the work is carried out over a period of long intervals and easily forgotten. Essentially what you need is a system that keeps track of all changes to all files, that enables you to revert those changes if necessary, and keep rolling backups of the entire project.
 
-It's not just about backing up and undoing either. It's about collaboration.
+It's not just about backing up and undoing either. It's about collaboration. It ensures that nobody's code gets lost or overwritten - think of the chaos that might ensue if everyone was just freely dropping files into a folder on an FTP server. Which files are the latest? Who created or changed what files? What exactly were the changes? Do the changes relate to a particular task or bug? Are there any files missing? How can we get them back? Version control resolves all of this.
+
+By far the most popular version control system is git, with the most popular remote code repository service being Github. Everyone submits their changes to a project in just a few simple commands and they are stored away safely on remote servers where they can be accessed and synchronised by anyone anywhere. Obviously you can secure your repositories and restrict access. Git keeps track of not just the changes made and previous versions, but also records who submitted exactly what changes. An added advantage of using a service like Github is that the repository, with all its history, can be handed over to a project owner as a deliverable. They can visually check on progress and take ownership of the project. Another advantage is that you, as the project manager, can also monitor progress; you can see who is contributing what and when they are contributing. If someone is not committing new work maybe they need help? If someone is committing too much work, late into the night, maybe they too need help?
+
+Setting up your team with either 
 
 
 
@@ -1099,9 +1103,7 @@ Richard Rutter of Clearleft sees clear advantages for the client, too. He recomm
 
 WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
 
-A year ago, I had never heard of GitHub and now I’m using it on several of my biggest projects and to my surprise, enjoying doing so!
 
-A cropped version of the GitHub 404 page banner showing it's Octocat character dressed as ObiWan from Star Wars in a desert scene in front of a land speeder and hut.It’s worth using GitHub if only for this each time you type with chubby fingers.
 It started just under a year ago when I asked my project team what their preference would be for tracking issues, and the developers were almost evangelical about GitHub. I was aware that most of our active projects were being hosted and deployed from GitHub but didn’t realise it could be used for managing projects too!
 
 So, we took the leap and instead of introducing something new into the mix we started using it to manage tasks, releases and bugs.
