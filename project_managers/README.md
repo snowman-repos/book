@@ -998,7 +998,7 @@ It's important that the status reports don't contain any major surprises. If the
 
 ### Sprint Reviews
 
-Don't worry, this isn't another type of meeting you have to have. This is just for you. As a web project manager, you'll likely be spending most of your time gathering data and applying it to detailed documentation. That's because data is used to drive decisions. At all stages of a web project we should be measuring how well we're coming along, not just in terms of adherence to schedule and budget, but to what extent we're on track to meet the project goals. Have the required features actually been completed to specifications? Does the solution work? At the end of each sprint you have the opportunity to experiment with the worlk produced, proactively spotting issues and identifying areas for improvement and prioritisation.
+Don't worry, this isn't another type of meeting you have to have. This is just for you. As a web project manager, you'll likely be spending most of your time gathering data and applying it to detailed documentation. That's because data is used to drive decisions. At all stages of a web project we should be measuring how well we're coming along, not just in terms of adherence to schedule and budget, but to what extent we're on track to meet the project goals. Have the required features actually been completed to specifications? Does the solution work? At the end of each sprint you have the opportunity to experiment with the work produced, proactively spotting issues and identifying areas for improvement and prioritisation.
 
 - design review
 - code review
