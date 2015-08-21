@@ -1049,7 +1049,6 @@ You'll definitely want to have some sort of instant messaging platform where peo
 You might want to instigate communication protocols, such as quiet time or how people should indicate when they don't want to be disturbed. A fixed meeting schedule is a good idea, as is a way of scheduling meetings such that everyone can receive reminders and notifications no matter what devices they use.
 
 - naming conventions
-- communication tools
 - methodologies
 
 building blocks, start simple and add complexity. start with reusable stuff - check bootstrap's basic css documentation - things like typography, buttons, form inputs, tables, grid system, the building blocks for all other components/modules.
