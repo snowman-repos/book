@@ -1054,9 +1054,9 @@ Naming convenstions are important when it comes to saving and sharing files. Thi
 
 > *- Phil Karlton*
 
-Indeed naming conventions should extend to the code and graphics files as well in order for them to remain easily maintainable by everyone.
+Indeed naming conventions should extend to the code and graphics files as well in order for them to remain easily maintainable by everyone. Not just naming conventions either, style guides should be put in place 
 
-- naming conventions
+
 - methodologies
 
 building blocks, start simple and add complexity. start with reusable stuff - check bootstrap's basic css documentation - things like typography, buttons, form inputs, tables, grid system, the building blocks for all other components/modules.
