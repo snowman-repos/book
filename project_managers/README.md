@@ -982,7 +982,7 @@ It's not just about providing the latest information either. The report should a
 
 The status report doesn't really have to take much time to compile. Once you have a template from the first one, all you need to do is quickly update the information each week. You should already have the latest schedule and budget figures to hand anyway. It's a constant challenge for a web project manager, juggling so many things, to stick to these formal processes. Project status reports may be deemed unimportant and may be one of the first things cast aside once Friday afternoon rolls around. However it does force good project management practice and it needs to become habitual It just takes discipline. By compiling these reports you are forced to review all the information yourself on a regular basis, reinforcing your control over the project. If you allow yourself to leave it for a week, two weeks, a month, then not only will it take longer but you'll be at a loss.
 
-You can deliver status reports in whatever format you feel is appropriate, depending on your project owner and the tone of your organisation. Maybe a PDF, PPT, or even just in an email. What's important is that the format is clear and consistent and accessible to everyone. As well as the format, you may want to adapt the level of detail and communication style for each client. Hopefully communication details will have been established at the start of the project. Maybe your client will want daily updates. Maybe they're especially busy and not details-oriented so will not want lenghy reports. Maybe they're not technical so the language should be simplified and without jargon.
+You can deliver status reports in whatever format you feel is appropriate, depending on your project owner and the tone of your organisation. Maybe a PDF, PPT, or even just in an email. What's important is that the format is clear and consistent and accessible to everyone. As well as the format, you may want to adapt the level of detail and communication style for each client. Hopefully communication details will have been established at the start of the project. Maybe your client will want daily updates. Maybe they're especially busy and not details-oriented so will not want lenghy reports. Maybe they're not technical so the language should be simplified and without jargon. Maybe they will want you to call them after sending the report and talk them through it.
 
 
 *****
@@ -991,17 +991,6 @@ You can deliver status reports in whatever format you feel is appropriate, depen
 
 
 
-
-YOU DON’T HAVE TO CREATE THE REPORT YOURSELF
-Many Web Project Managers have executives or support staff, use them. You setup the template, you create and send the first three or four, but after that there is no reason why a competent executive couldn’t be the ones to dig out the data for you leaving you to adjust schedules, polish up and send on.
-
-ADAPT PER CLIENT
-All clients are different and as with web project management approaches, they’ll all react differently to methods of communication and you have to adapt accordingly.
-
-While the fundamentals of the weekly report shouldn’t be changed too much, the way it’s written and delivered should match what you feel the client will be most responsive too. For example, if your client isn’t a ‘details person’ avoid lengthy reports, or if they’re not technical at all, make sure to not include technical web jargon as much as possible.
-
-A screenshot of a Tweet by Dan Storbaek that describes the KISS format for project reports. Keep It Short and Simple.Sexual PM tips from Dan
-Adaptation also extends to how you deliver the report, some clients will be happy to just receive it in an e-mail with a short summary, whereas others respond better to the report and quick call to go through it.
 
 Personally I’ll call the client for the first few and then just send through thereafter, unless there are specific elements I’d like to talk to them about.
 
