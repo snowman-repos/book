@@ -968,6 +968,9 @@ Immediately following the meeting, you'll have some action items. You'll have to
 
 In this role it's unlikely that you'll get away with one meeting per day, it's just something you'll have to get accustommed to. All meetings have the e same basic objectives - to gather information and make decisions. You'll also be accustomed to taking notes and documenting everything. So what advice can we offer here?
 
+1) Try not to let meetings descend into idle chit-chat. You need to get in, get what you came for, and get out, without coming across as rude, of course.
+2) Record meetings. Scruffy scribblings on easy-to-lose bits of paper are unlikely to serve you as well as you think they might later on. Instead of trying to dual-focus on your meeting _and_ on taking down the important points, just use a recording app on your phon
+
 ### Status Reports
 
 Whether you're following a pseudo-agile methodology or not, it's a good idea to provide status reports at the end of each week or sprint. But why? You're already busy enough as it is, right?
@@ -997,23 +1000,6 @@ It's important that the status reports don't contain any major surprises. If the
 
 
 
-
-Ok now that confession is out of the way, I’d also like to let you know how using a digital voice recorder in web project management meetings has proved invaluable time and time again for me when compared to old skool method of note taking with pen and paper.
-
-THE PROBLEM WITH NOTE TAKING
-Don’t get me wrong, when it comes to being a Web Project Manager I never go anywhere without my notepad and pen, despite it being a cheap notepad and having never actually owned a pen like a proper grown up.
-
-However there are just some web project management meetings where I get back to the office, look at my notes and realise they no longer make sense as they did in the meeting, but look like a cross between that guy’s tattoos in Prison Break and the scribbles on the wall of a mental case who didn’t leave his room for twenty years before being separated from society.
-
-The web project management meetings I’m talking about are the long ones where you’re required to understand your client’s entire business model, current technical and business workflows and rules, design brief and the oodles of new requirements they have – and all in the space of one or two hours.
-
-Now perhaps I’m just useless at note taking, but the fact is I just can’t remember all that information word for word and got a little scared when I had that inevitable moment we all have from time to time where your eyes glaze over, you see people talking, you nod profusely, but you’re literally hearing nothing.
-
-It was moments like this that resulted in me buying a digital voice recorder – ladies and gentleman, I present to you Excalibur!
-
-A picture of a white digital voice recorder on a wooden surfaceBehold Excalibur – she’s beautiful… innit
-THE DIGITAL VOICE RECORDER SOLUTION
-Due to my note taking being not great, the primary reason I use a digital voice recorder in detailed web project management meetings is because I want to focus 100% on the meeting and I’m not senior enough to have a PA.
 
 In all seriousness, when I’m talking to a client about their business, project and requirements I genuinely want to immerse myself into the process and really get down and dirty in the details, for two main reasons:
 
