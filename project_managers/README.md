@@ -1056,6 +1056,7 @@ Naming convenstions are important when it comes to saving and sharing files. Thi
 
 Indeed naming conventions should extend to the code and graphics files as well in order for them to remain easily maintainable by everyone. Not just naming conventions either, style guides should be put in place that dictate how code should be written, specifying things like spacing and indentation, documentation blocks, and other formatting issues. It may be up to you to enforce these protocols, but that can be made easier through the use of automated linting tools that provide feedback and report errors during compile time. Messy and non-uniform code will be more difficult for new team members to pick up and will be more difficult for anyone to go back into to change or update.
 
+It's always up to you to establish best practice and enforce it. 
 
 - methodologies
 
