@@ -984,6 +984,7 @@ The status report doesn't really have to take much time to compile. Once you hav
 
 You can deliver status reports in whatever format you feel is appropriate, depending on your project owner and the tone of your organisation. Maybe a PDF, PPT, or even just in an email. What's important is that the format is clear and consistent and accessible to everyone. As well as the format, you may want to adapt the level of detail and communication style for each client. Hopefully communication details will have been established at the start of the project. Maybe your client will want daily updates. Maybe they're especially busy and not details-oriented so will not want lenghy reports. Maybe they're not technical so the language should be simplified and without jargon. Maybe they will want you to call them after sending the report and talk them through it.
 
+It's important that the status reports don't contain any major surprises. If there are major issues that need to be raised, do so immediately, not at the end of the week as a footnote in a summary.
 
 *****
 
@@ -992,16 +993,7 @@ You can deliver status reports in whatever format you feel is appropriate, depen
 
 
 
-Personally I’ll call the client for the first few and then just send through thereafter, unless there are specific elements I’d like to talk to them about.
 
-The important thing is that the client doesn’t see the e-mail arrive in their Inbox, or meeting request reminder pop-up and groan, but instead feel like they’re receiving a professional service and the information included is important.
-
-DON’T DROP BOMBSHELLS IN REPORTS
-Although weekly web project reports are the place to capture vital things such as project and budget updates, make sure you don’t let the client find out these facts from the report alone. If any time I feel the total, or phase budget is at risk of overrun, or the schedule is slipping and needs revision, I’ll speak to the client when I realise and not surprise them in the report.
-
-
-
-RECORD YOUR WEB PROJECT MANAGEMENT MEETINGS
 
 For once I’m just going to share something I’ve been doing for years that I could now not imagine not doing… dressing up as Princess Leia from Return of the Jedi and re-enacting the ‘lying in front of Jabba’ scene all chained up n stuff.
 
