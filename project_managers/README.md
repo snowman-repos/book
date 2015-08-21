@@ -964,6 +964,10 @@ This kind of open meeting allows everyone to learn about what everyone else is d
 
 Immediately following the meeting, you'll have some action items. You'll have to update your plan, update the client or client manager, seek the answers to any questions that were raised, and chase up anyone who's work is blocking someone else's to see if any help can be offered or tasks rearranged.
 
+### Other Meetings
+
+In this role it's unlikely that you'll get away with one meeting per day. All meetings have the e same basic objectives - to gather information and make decisions.
+
 ### Status Reports
 
 Whether you're following a pseudo-agile methodology or not, it's a good idea to provide status reports at the end of each week or sprint. But why? You're already busy enough as it is, right?
