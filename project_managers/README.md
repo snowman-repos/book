@@ -1078,14 +1078,15 @@ One of the most important project deliverables, even if it hasn't been specifica
 - **Testing & QA**: The style guide is always the latest version and is easy to open and test. By being interactive, testers can directly play around with it and determine if at any point the layout breaks or if any  module is difficult to use on a particular device. All the modules can be tested early so that when they are combined into the final product, little if any testing will be required.
 - **Performance**: By focusing on exactly what's required, no more, no less, you avoid having repeat code. Less code lakes less time to write and less time to download. You have exactly the code needed to create everything that's required.
 
+A good exercise for you and your team is to study examples of such style guides and identify their merits. A great example is the documentation for Twitter Bootstrap. You can easily see all of the basic UI components and how they are gradually built into more complex modules, ready to be combined and reused in a larger website or application.
 
-
-bootstrap
-can be automated
-
-
+Styleguides can also be generated automatically in case anyone is concerned with spending extra time producing work that isn't strictly required as part of the final product. There are plenty of tools that generate style guide based on the code and integrate with multiple build systems.
 
 ### Version Control
+
+
+
+
 
  a revision control system enables you to keep track of changes, revert anything that breaks, and keep rolling backups of your project.
 
