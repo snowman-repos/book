@@ -1066,7 +1066,9 @@ One of the most important project deliverables, even if it hasn't been specifica
 - get your head around the look and feel
 - maintainability
 - consistency
-- 
+- forces modularity
+
+bootstrap
 
 
 Mobile first: force everyone to think about it, especially project owners, skew perceptions about what is typical on the web. responsive = device agnostic.
