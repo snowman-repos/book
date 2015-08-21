@@ -1092,14 +1092,12 @@ It's not just about backing up and undoing either. It's about collaboration. It 
 
 By far the most popular version control system is git, with the most popular remote code repository service being Github. Everyone submits their changes to a project in just a few simple commands and they are stored away safely on remote servers where they can be accessed and synchronised by anyone anywhere. Obviously you can secure your repositories and restrict access. Git keeps track of not just the changes made and previous versions, but also records who submitted exactly what changes. An added advantage of using a service like Github is that the repository, with all its history, can be handed over to a project owner as a deliverable. They can visually check on progress and take ownership of the project. Another advantage is that you, as the project manager, can also monitor progress; you can see who is contributing what and when they are contributing. If someone is not committing new work maybe they need help? If someone is committing too much work, late into the night, maybe they too need help?
 
-Setting up your team with either 
+You can set up a paid account on Guthub for your organisation or provide a server where you store git repositories for each project. Everyone on the team should either have a github account or access to the server, and everyone, be they designers, developers, content people, or testers, should be trained on how to use git. It is useful for every role and the risks of not using version control are simply too great. If anyone is unfamiliar with git then a practical way for them to experiment with it and learn is by submitting a pull request to an open-source project on Github.
 
 
 
 
-Graduating from being the sole architect of your codebase to contributing to a shared codebase is a huge leap for a developer. Perhaps a practical way for people who tend to work on their own to do that would be to submit a pull request or a patch to an open source project or plugin.”
 
-Richard Rutter of Clearleft sees clear advantages for the client, too. He recommends using source control “preferably in some sort of collaborative environment that you can open up or hand over to the client” – a feature found with hosted services such as GitHub.
 
 WEB PROJECT MANAGEMENT AND COLLABORATION USING GITHUB
 
