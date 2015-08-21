@@ -1040,7 +1040,7 @@ Don't be afraid to swap out software when the industry starts to shift, or when 
 
 ### Shared Storage
 
-### Systems & Protocols
+### Communication, Systems & Protocols
 
 - naming conventions
 - communication tools
