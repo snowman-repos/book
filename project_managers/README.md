@@ -1040,6 +1040,7 @@ Don't be afraid to swap out software when the industry starts to shift, or when 
 
 ### Storage, Version Control & Naming Conventions
 ### Servers
+### Testing & Deployment Solutions
 ### Seating Arrangements
 
 - seating arrangements
