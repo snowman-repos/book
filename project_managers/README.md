@@ -998,24 +998,25 @@ It's important that the status reports don't contain any major surprises. If the
 
 ### Sprint Reviews
 
-Don't worry, this isn't another type of meeting you have to have. This is just for you. As a web project manager, you'll likely be spending most of your time gathering data and applying it to detailed documentation. That's because data is used to drive decisions. At all stages of a web project we should be measuring how well we're coming along, not just in terms of adherence to schedule and budget, but to what extent we're on track to meet the project goals. Have the required features actually been completed to specifications? Does the solution work? At the end of each sprint you have the opportunity to play around with the work produced, proactively spotting issues and identifying areas for improvement and prioritisation. Indeed if you do find anything you think needs more work, you may have to call another meeting. Areas you'll have to consider, always referencing the pre-stated KPIs, are:
+Don't worry, this isn't another type of meeting you have to have. This is just for you. As a web project manager, you'll likely be spending most of your time gathering data and applying it to detailed documentation. That's because data is used to drive decisions. At all stages of a web project we should be measuring how well we're coming along, not just in terms of adherence to schedule and budget, but to what extent we're on track to meet the project goals. Have the required features actually been completed to specifications? Does the solution work? At the end of each sprint you have the opportunity to play around with the work produced, proactively spotting issues and identifying areas for improvement and prioritisation. Indeed if you do find anything you think needs more work, you may have to call another meeting. Areas you might have to consider, always referencing the pre-stated KPIs, are:
 
+* **Content**: does the copy confirm to the content styleguide? are the images and other media suitable a adapted for different devices? has all the required meta-data been included?
 * **Aesthetic design**: is the look and feel consistent with the tone of the project and the previously completed work? Will the project owner like it? Will the users like it?
-* 
+* **User interface design**: is it intuitive? does it perform well on different devices? is it accessible to disabled users?
+* **Code**: is it clean, modular, re-usable, semantic, well-documented? are there any bugs or memory leaks? does animation run smoothly?
+* **Test coverage**: were all the test cases completed? were any missing? will it stand up to scrutiny? how likely is it to break under certain conditions?
+* **Feedback**: has analytics tracking been implemented? do the team have any concerns or questions of their own about a particular feature or feature set?
+* **Performance**: how's the load time? what about the total payload? is the payload optimised for different devices or connections? have we made the best use of caching and data storage? are animations running at at least 60fps? 
 
-- design review
-- code review
-- test coverage
-- feedback
-- measure against KPIs
-- keep an eye on responsiveness
-- keep an eye on performance
+Exactly what you analyse and measure depends on you and your projects.
+
 
 - you may not want to do the sprint review alone
 - you will have to consult the client before adjusting schedules or adding work or changing the requirements
 - you do these reviews at the end of sprints so as to not disrupt project momentum
+- may need to think about your own solution and advise:
 
-Performance improvements often begin as one person’s voice within a company culture. You start to notice how other sites are making optimizations and improving their user experience through tweaks to perceived performance or total page load time. Then you start measuring how your competitors’ sites fare in WebPagetest and comparing your site’s performance to theirs. After beginning to learn about many of the easy performance wins that you could implement on your site, you start crafting improvements with little effort and tons of gains.
+
 
 These are the individuals who often start out as performance cops or janitors. Cleaning up after other designers and developers becomes a routine chore for these individuals; sometimes they’ve taken this responsibility on themselves, or sometimes they were assigned these responsibilities. Either way, this road leads to burnout.
 
