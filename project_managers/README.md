@@ -1008,16 +1008,11 @@ Don't worry, this isn't another type of meeting you have to have. This is just f
 * **Feedback**: has analytics tracking been implemented? do the team have any concerns or questions of their own about a particular feature or feature set?
 * **Performance**: how's the load time? what about the total payload? is the payload optimised for different devices or connections? have we made the best use of caching and data storage? are animations running at at least 60fps? 
 
-Exactly what you analyse and measure depends on you and your projects. The reason we do these reviews at the end of each sprint is to avoid disrupting project momentum. If you decide you want to change something on a previous feature, you don't want to interrupt the work on the current feature. You may decide however, especially for large or complex projects, to spend part of each day continuously reviewing the work rather than all at once at the end of each sprint. You may also decide not to do it alone, incolving the client or client manager for their business knowledge, or the rest of the production team themselves if they have time. Bear in mind that if you do come away with any problems or recommendations for improvement, the project owner should be consulted before you start adding work that may impact budgets and timelines, or changing the requirements. It may very well be the case that your team, no matter how good their skills or expert their knowledge or how hard they worked, have produced a solution that doesn't work or doesn't meet the requirements. In such cases you will need to offer constructive feedback and suggestions.
+Exactly what you analyse and measure depends on you and your projects. The reason we do these reviews at the end of each sprint is to avoid disrupting project momentum. If you decide you want to change something on a previous feature, you don't want to interrupt the work on the current feature. You may decide however, especially for large or complex projects, to spend part of each day continuously reviewing the work rather than all at once at the end of each sprint. You may also decide not to do it alone, incolving the client or client manager for their business knowledge, or the rest of the production team themselves if they have time. Bear in mind that if you do come away with any problems or recommendations for improvement, the project owner should be consulted before you start adding work that may impact budgets and timelines, or changing the requirements. It may very well be the case that your team, no matter how good their skills or expert their knowledge or how hard they worked, have produced a solution that doesn't work or doesn't meet the requirements. You are ultimately responsible for ensuring requirements are met, so in such cases you will need to offer constructive feedback and suggestions.
+
+Let's take performance as just one example, one that is all too often overlooked.
 
 
-
-- you do these reviews at the end of sprints so as to not disrupt project momentum
-- may need to think about your own solution and advise:
-
-
-
-These are the individuals who often start out as performance cops or janitors. Cleaning up after other designers and developers becomes a routine chore for these individuals; sometimes they’ve taken this responsibility on themselves, or sometimes they were assigned these responsibilities. Either way, this road leads to burnout.
 
 As time marches on, so many things will continue to create performance challenges for even the most stable site:
 
