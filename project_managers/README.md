@@ -1050,6 +1050,12 @@ You might want to instigate communication protocols, such as quiet time or how p
 
 Naming convenstions are important when it comes to saving and sharing files. Think about whether filenames should use spaces, hyphens, or underscores to separate words, capitalisation, version numbers, folders, colour labels, etc. This comes down to personal preference but consistency among the team will ensure that people will always be able to find and understand things easily and quickly.
 
+> “The only real difficulties in programming are cache invalidation and naming things.”
+
+> *- Phil Karlton*
+
+Indeed naming conventions should extend to the code and graphics files as well in order for them to remain easily maintainable by everyone.
+
 - naming conventions
 - methodologies
 
