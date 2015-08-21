@@ -1060,7 +1060,7 @@ It's always up to you to establish best practice and enforce it. Consider things
 
 As you are overseeing entire projects, keep on eye on the work to ensure that people are starting simple and gradually adding complexity. Remind everyone at the start of each project that they are building *systems*, not sites, or screens, or pages. You want your web projects to be stable, future-friendly, scalable, and extensible. For instance they should begin designing, building, and testing the most basic and reusable stuff - the typography, buttons, form inputs, grid systems, tables, etc. - the building blocks for all other components and modules. They should start off ensuring the basic feature requirements are met on the minimum system requirements - the oldest browsers and the smallest screens - before gradually enhancing the experience for more capable devices. This forces them to consider users who are not sitting at a comfortable desk like they are, on a fast wifi connection and using a high-end laptop. It also ensures that time will be saved later on as they re-use and build on previous work that's been tested and signed off. 
 
-
+One of the most important project deliverables, even if it hasn't been specifically requested, is a style guide.
 
 
 
