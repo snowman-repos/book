@@ -10,6 +10,8 @@ Your role is the most important.
 
 http://css-tricks.com/give-designers-tools-get-need/
 
+https://developers.google.com/web/fundamentals/performance/index?hl=en
+
 Have your code work harder so your users won't have to.
 
 If you're still doing the same thing as you did 2 years ago, or working in the same way, you're more than likely doing it wrong. You're doing the web wrong. The single most important skill for a web developer is the ability to learn new skills.
