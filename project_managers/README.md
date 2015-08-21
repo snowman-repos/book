@@ -966,7 +966,7 @@ Immediately following the meeting, you'll have some action items. You'll have to
 
 ### Other Meetings
 
-In this role it's unlikely that you'll get away with one meeting per day, it's just something you'll have to get accustommed to. All meetings have the e same basic objectives - to gather information and make decisions.
+In this role it's unlikely that you'll get away with one meeting per day, it's just something you'll have to get accustommed to. All meetings have the e same basic objectives - to gather information and make decisions. You'll also be accustomed to taking notes and documenting everything. So what advice can we offer here?
 
 ### Status Reports
 
