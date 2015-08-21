@@ -982,7 +982,7 @@ It's not just about providing the latest information either. The report should a
 
 The status report doesn't really have to take much time to compile. Once you have a template from the first one, all you need to do is quickly update the information each week. You should already have the latest schedule and budget figures to hand anyway. It's a constant challenge for a web project manager, juggling so many things, to stick to these formal processes. Project status reports may be deemed unimportant and may be one of the first things cast aside once Friday afternoon rolls around. However it does force good project management practice and it needs to become habitual It just takes discipline. By compiling these reports you are forced to review all the information yourself on a regular basis, reinforcing your control over the project. If you allow yourself to leave it for a week, two weeks, a month, then not only will it take longer but you'll be at a loss.
 
-
+You can deliver status reports in whatever format you feel is appropriate, depending on your project owner and the tone of your organisation. Maybe a PDF, PPT, or even just in an email. What's important is that the format is clear and consistent and accessible to everyone.
 
 
 *****
