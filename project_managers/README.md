@@ -1040,7 +1040,7 @@ Don't be afraid to swap out software when the industry starts to shift, or when 
 
 ### Shared Storage
 
-Each project will have
+Each project will have documentation that everyone on the team should have fast and easy access to. The project's deliverables, the design, the code, the test cases, etc. should also be stored somewhere accessible. You'll want to consider the security implications of this - should the storage be publicly accessible? Should everyone have their own password? Should everyone be allowed to edit files or just view and download them? Should it be physically located in your office or on cloud storage? How will backups be handled? Should people be able to access it out of the office? There are many options as to how you handle this storage, some examples being a shared server, dropbox, Google drive, Atlassian tools etc.
 
 ### Communication, Systems & Protocols
 
