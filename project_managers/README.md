@@ -1038,7 +1038,38 @@ The kinds of software tools we need are generally fairly limited. We need code e
 
 Don't be afraid to swap out software when the industry starts to shift, or when a team member suggests something different. Ultimately, you have to support whatever will make your team members, both present and future, work most effectively. Similarly, don't shy away from dropping a software package, even if it is industry standard, if it's just not the right tool for the job. The industry hasn't always been right and hasn't always been quick to react to changes, a classic example being the number of organisations still using Adobe Photoshop for web design, despite it never having been appropriate - it's a complicated package that requires a huge time investment to learn and user, making people reluctant to drop it. In fact actively seeking out new software options can be a good exercise and opportunity for team training sessions.
 
-### Storage, Version Control & Naming Conventions
+### Shared Storage
+
+### Systems & Protocols
+
+- naming conventions
+- 
+BUILD SYSTEMS, NOT SITES
+One big theme arising this year was that of building websites as systems, not as individual pages.
+
+Brad Frost:
+
+For me, teams making websites in 2015 shouldn’t be working on just-another-redesign redesign. People are realizing that in order to make stable, future-friendly, scalable, extensible web experiences they’re going to need to think more systematically. That means crafting deliberate and thoughtful design systems. That means establishing front-end style guides. That means killing the out-dated, siloed, assembly-line waterfall process and getting cross-disciplinary teams working together in meaningful ways. That means treating development as design. That means treating performance as design. That means taking the time out of the day to establish the big picture, rather than aimlessly crawling along quarter by quarter.
+
+Designer and developer Jina Bolton also advocates the use of style guides, and recommends making the guide a project deliverable:
+
+Consider adding on a style guide/UI library to your project as a deliverable for maintainability and thinking through all UI elements and components.
+
+Val Head agrees: “build and maintain a style guide for each project” she wrote. On the subject of approaching a redesign, she added:
+
+A UI inventory goes a long way to helping get your head around what a design system needs in the early stages of a redesign project.
+
+So what about that old chestnut, responsive web design? Should we be making sites responsive by default? How about mobile first?
+
+Richard Rutter:
+
+Think mobile first unless you have a very good reason not to. Remember to take the client with you on this principle, otherwise it won’t work as a convincing piece of design.
+
+Trent Walton adds:
+
+The more you can test and sort of skew your perception for what is typical on the web, the better. 4k displays hooked up to 100Mbps connections can make one extremely unsympathetic.
+
+### Version Control
 
  a revision control system enables you to keep track of changes, revert anything that breaks, and keep rolling backups of your project.
 
@@ -1124,30 +1155,7 @@ A clear call to arms to tighten up and formalise development and deployment prac
 
 
 
-BUILD SYSTEMS, NOT SITES
-One big theme arising this year was that of building websites as systems, not as individual pages.
 
-Brad Frost:
-
-For me, teams making websites in 2015 shouldn’t be working on just-another-redesign redesign. People are realizing that in order to make stable, future-friendly, scalable, extensible web experiences they’re going to need to think more systematically. That means crafting deliberate and thoughtful design systems. That means establishing front-end style guides. That means killing the out-dated, siloed, assembly-line waterfall process and getting cross-disciplinary teams working together in meaningful ways. That means treating development as design. That means treating performance as design. That means taking the time out of the day to establish the big picture, rather than aimlessly crawling along quarter by quarter.
-
-Designer and developer Jina Bolton also advocates the use of style guides, and recommends making the guide a project deliverable:
-
-Consider adding on a style guide/UI library to your project as a deliverable for maintainability and thinking through all UI elements and components.
-
-Val Head agrees: “build and maintain a style guide for each project” she wrote. On the subject of approaching a redesign, she added:
-
-A UI inventory goes a long way to helping get your head around what a design system needs in the early stages of a redesign project.
-
-So what about that old chestnut, responsive web design? Should we be making sites responsive by default? How about mobile first?
-
-Richard Rutter:
-
-Think mobile first unless you have a very good reason not to. Remember to take the client with you on this principle, otherwise it won’t work as a convincing piece of design.
-
-Trent Walton adds:
-
-The more you can test and sort of skew your perception for what is typical on the web, the better. 4k displays hooked up to 100Mbps connections can make one extremely unsympathetic.
 
 The value of testing with real devices is something Ruth John appreciates. She wrote:
 
