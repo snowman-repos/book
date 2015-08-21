@@ -1073,13 +1073,14 @@ One of the most important project deliverables, even if it hasn't been specifica
 - **Communication tool**: It's a quick and easy-to-digest overview of the project's look and feel. You can also showcase interaction states like hovering or clicking. Everyone can play around with it and get to know exactly how everything is going to fit together. It also serves as a good reminder of things that might otherwise get missed, such as button states or error messages.
 - **Maintainability**: The project is likely to change and hopefully to grow. By compiling all the UI elements in one place it's easier for new comers to the project to understand what there is and how it works, allowing them to work on it more easily. If it's a living styleguide, i.e. tied in with the production code, then you can experiment with changes very easily and directly and instantly apply them throughout the project.
 - **Consistency**: By having all the UI components in one place you can more easily ensure that new ones are consistent with the others in terms of styling and behaviour.
+- **Workflow**: Everyone is forced to consider the overall experience, rather than that of individual pages or sections. There is also a forced focus on modularity and reusability. By organising the UI components into a styleguide, it makes it easier to organise too the code itself and for designers and developers to find and adress issues. For instance there may be a collection of button types and a corresponding style document called 'Buttons'.
+- **Semantics**: The style guide offers a shared vocabulary that everybody can reference. Team members can refer by name to particular components or modules and everyone else will easily understand.
+- **Testing & QA**: 
 
 
 
-- forces modularity workflow
-- semantics / shared language
-- relates to the code, forces organisation, workflow
-- easier to test
+
+
 - performance
 
 bootstrap
