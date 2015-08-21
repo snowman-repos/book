@@ -1028,6 +1028,8 @@ Even though by now they may be bored of this project or tired of working on it, 
 
 ## Setting things up
 
+At the start of this chapter we described your role as “the enabler”. That means you are also responsible for ensuring that everyone on the team has everything they need in order to carry out the project work. What they will need depends on who you have in your team and what roles they fulfil, as well as what the project work entails. In all likeliness, most of your projects will be similar enough that these things may already be set up or that setting them up will be easy.
+
 - seating arrangements
 - tools
 - servers
