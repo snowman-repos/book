@@ -1038,11 +1038,12 @@ The kinds of software tools we need are generally fairly limited. We need code e
 
 Don't be afraid to swap out software when the industry starts to shift, or when a team member suggests something different. Ultimately, you have to support whatever will make your team members, both present and future, work most effectively. Similarly, don't shy away from dropping a software package, even if it is industry standard, if it's just not the right tool for the job. The industry hasn't always been right and hasn't always been quick to react to changes, a classic example being the number of organisations still using Adobe Photoshop for web design, despite it never having been appropriate - it's a complicated package that requires a huge time investment to learn and user, making people reluctant to drop it. In fact actively seeking out new software options can be a good exercise and opportunity for team training sessions.
 
-
+### Storage, Version Control & Naming Conventions
+### Servers
+### Seating Arrangements
 
 - seating arrangements
-- tools
-- servers
+
 
 
 
