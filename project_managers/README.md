@@ -1020,11 +1020,11 @@ Otherwise known as a “post-mortem”, this is where the entire production team
 
 You really want to try and tackle any problems that are found before the meeting is over. That means clearly defining any problems, identifying possible solutions, making decisions about which solution or solutions to adopt, and then assigning who is responsible for actioning them and when they should do so by.
 
-- discuss good and bad points
-- strategy to tackle problems before meeting is over. when set goal, set deadline, assign to people
-- ideas to make it better that an be sold to client
-- find best way to showcase it to win more work
-- kpis
+Again, bring up the project KPIs set out at the start and discuss whether or not they have been fully met. If not then why not? If they have then pats on the backs all-round! Let's remind everyone about what went well, what they did right, what they can be proud of. What can be showcased as part of people's personal portfolios or presented to new potential clients to win more work?
+
+It's not just about identifying the good and bad parts, either. Remember that a web project is *never* finished. During production maybe your team thought of some new feature ideas. What else could be done to improve the project? What could be a potential future roadmap that can be presented to the project owner so that you can continue working on it?
+
+Even though by now they may be bored of this project or tired of working on it, hopefully everyone can come away from this meeting re-energised and excited to get back into it.
 
 ## Setting things up
 
