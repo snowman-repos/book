@@ -1094,7 +1094,7 @@ By far the most popular version control system is git, with the most popular rem
 
 You can set up a paid account on Guthub for your organisation or provide a server where you store git repositories for each project. Everyone on the team should either have a Github account or access to the server, and everyone, be they designers, developers, content people, or testers, should be trained on how to use git. It is useful for every role and the risks of not using version control are simply too great. If anyone is unfamiliar with git then a practical way for them to experiment with it and learn is by submitting a pull request to an open-source project on Github.
 
-A Github account is not expensive and also comes with an integrated issue tracker that can be used to assign tasks and report bugs.
+
 
 ***
 Git Encourages Modularization
@@ -1155,6 +1155,8 @@ And if your team uses a remote source code repository such as GitHub, then the c
 
 If your backups break down, losing data isn’t even a possibility when using Git: Just take any team member’s local repository and restore in minutes.
 ***
+
+A Github account is not expensive and also comes with an integrated issue tracker that can be used to assign tasks and report bugs.
 
 ### Issue Tracking
 
