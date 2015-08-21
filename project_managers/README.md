@@ -1086,15 +1086,12 @@ Styleguides can also be generated automatically in case anyone is concerned with
 
 ### Version Control
 
+This really is crucial for any web project, especially those worked on by multiple people, or people in different location, or where the work is carried out over a period of long intervals and easily forgotten. Essentially what you need is a system that keeps track of all changes to all files, that enables you to revert those changes if necessary, and keep rolling backups of the entire project.
+
+It's not just about backing up and undoing either. It's about collaboration.
 
 
 
-
- a revision control system enables you to keep track of changes, revert anything that breaks, and keep rolling backups of your project.
-
-The benefits only start there, and Charlie Perrins recommends using source control “not just as a personal backup of your code, but as a way to play nicely with other developers.“
-
-Noting the benefits when collaborating with other developers, he adds:
 
 Graduating from being the sole architect of your codebase to contributing to a shared codebase is a huge leap for a developer. Perhaps a practical way for people who tend to work on their own to do that would be to submit a pull request or a patch to an open source project or plugin.”
 
