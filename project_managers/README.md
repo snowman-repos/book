@@ -966,7 +966,7 @@ Immediately following the meeting, you'll have some action items. You'll have to
 
 ### Other Meetings
 
-In this role it's unlikely that you'll get away with one meeting per day. All meetings have the e same basic objectives - to gather information and make decisions.
+In this role it's unlikely that you'll get away with one meeting per day, it's just something you'll have to get accustommed to. All meetings have the e same basic objectives - to gather information and make decisions.
 
 ### Status Reports
 
@@ -998,10 +998,6 @@ It's important that the status reports don't contain any major surprises. If the
 
 
 
-
-For once I’m just going to share something I’ve been doing for years that I could now not imagine not doing… dressing up as Princess Leia from Return of the Jedi and re-enacting the ‘lying in front of Jabba’ scene all chained up n stuff.
-
-A picture of toy version of Jabba the Hutt and Princess Leia from a Return of the Jedi sceneAwwwwww, look at cuddly lil Jabba
 Ok now that confession is out of the way, I’d also like to let you know how using a digital voice recorder in web project management meetings has proved invaluable time and time again for me when compared to old skool method of note taking with pen and paper.
 
 THE PROBLEM WITH NOTE TAKING
