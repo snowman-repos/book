@@ -1018,6 +1018,8 @@ If you notice the same kind of issues popping up time and time again, then that 
 
 Otherwise known as a “post-mortem”, this is where the entire production team come together at the end of a project and discuss what went well and what didn't. It's basically a useful learning exercise that shouldn't take up too much of anyone's time.
 
+You really want to try and tackle any problems that are found before the meeting is over. That means clearly defining a problem, identifying possible solutions, making a decision about which solution or solutions to adopt, and then assigning who is responsible for adopting it and when they should do so by.
+
 - discuss good and bad points
 - strategy to tackle problems before meeting is over. when set goal, set deadline, assign to people
 - ideas to make it better that an be sold to client
