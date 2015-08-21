@@ -955,7 +955,7 @@ Before the meeting closes, run through with everyone the deliverables, due dates
 
 Assuming the kick-off went well and the project has now begun smoothly, your ongoing role in this project is one of an overseer and facilitator. That means you'll require constant updates about project status and will need to identify and react to any potential issues. You could send out a list of questions in emails to each team member individually, but that would take a lot of time (that you undoubtedly don't have!) and create information silos - only you will have a clear overall picture.
 
-A great way to do this is to have a quickly daily standup meeting. This is where everyone gathers in one area and each person in turn says a few sentences about:
+A great way to do this is to have a quickly daily standup meeting, otherwise known as a “scrum” meeting. This is where everyone gathers in one area and each person in turn says a few sentences about:
 * What they are currently working on
 * What might be blocking them, if anything
 * What they will be moving onto next, and when
@@ -1006,21 +1006,12 @@ It's important that the status reports don't contain any major surprises. If the
 - keep an eye on responsiveness
 - keep an eye on performance
 
-Use data to drive decisionsAt all stages of a digital project, we should measure how well our service is working for our users. This includes measuring how well a system performs and how people are interacting with the system in real time. Our teams and agency leadership should carefully watch these metrics to proactively spot issues and identify which improvements should be prioritized. In addition to monitoring tools, a feedback mechanism should be in place for people to report issues directly.checklist
-Monitor system-level resource utilization in real time
-Monitor system performance, measuring response time, latency, throughput, and error rates in real-time
-Ensure monitoring in place can measure median, 95th percentile and 98th percentile performance
-Create automated alerts based on this monitoring
-Track concurrent users in real time, and monitor user behaviors (in the aggregate) to determine how well the service is meeting user needs
-Publish metrics internally
-Publish metrics externally
-Use an experimentation tool that supports multivariate testing in production
+Use data to drive decisionsAt all stages of a digital project, we should measure how well our service is working for our users. This includes measuring how well a system performs and how people are interacting with the system in real time. Our teams and agency leadership should carefully watch these metrics to proactively spot issues and identify which improvements should be prioritized. In addition to monitoring tools, a feedback mechanism should be in place for people to report issues directly.
 
 - performance
 
 Performance improvements often begin as one person’s voice within a company culture. You start to notice how other sites are making optimizations and improving their user experience through tweaks to perceived performance or total page load time. Then you start measuring how your competitors’ sites fare in WebPagetest and comparing your site’s performance to theirs. After beginning to learn about many of the easy performance wins that you could implement on your site, you start crafting improvements with little effort and tons of gains.
 
-Advertisement
 These are the individuals who often start out as performance cops or janitors. Cleaning up after other designers and developers becomes a routine chore for these individuals; sometimes they’ve taken this responsibility on themselves, or sometimes they were assigned these responsibilities. Either way, this road leads to burnout.
 
 As time marches on, so many things will continue to create performance challenges for even the most stable site:
