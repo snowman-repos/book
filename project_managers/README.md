@@ -1261,8 +1261,12 @@ I still have my own small device lab at home, even though I work permanently for
 
 ### Seating Arrangements
 
-
+### Analytics & Data
 - user data (analytics, user testing tools)
+- way to record the number of bugs,
+- time tracking
+- server deployment and error notifications
+- test reporting
 
 And speaking of systems, Mark Norman Francis recommends the use of measuring tools to aid the design process; “[U]se analytics and make decisions from actual data” he suggests, rather than relying totally on intuition.
 
