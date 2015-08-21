@@ -998,7 +998,10 @@ It's important that the status reports don't contain any major surprises. If the
 
 ### Sprint Reviews
 
-Don't worry, this isn't another type of meeting you have to have. This is just for you. As a web project manager, you'll likely be spending most of your time gathering data and applying it to detailed documentation. That's because data is used to drive decisions. At all stages of a web project we should be measuring how well we're coming along, not just in terms of adherence to schedule and budget, but to what extent we're on track to meet the project goals. Have the required features actually been completed to specifications? Does the solution work? At the end of each sprint you have the opportunity to experiment with the work produced, proactively spotting issues and identifying areas for improvement and prioritisation.
+Don't worry, this isn't another type of meeting you have to have. This is just for you. As a web project manager, you'll likely be spending most of your time gathering data and applying it to detailed documentation. That's because data is used to drive decisions. At all stages of a web project we should be measuring how well we're coming along, not just in terms of adherence to schedule and budget, but to what extent we're on track to meet the project goals. Have the required features actually been completed to specifications? Does the solution work? At the end of each sprint you have the opportunity to play around with the work produced, proactively spotting issues and identifying areas for improvement and prioritisation. Indeed if you do find anything you think needs more work, you may have to call another meeting. Areas you'll have to consider, always referencing the pre-stated KPIs, are:
+
+* **Aesthetic design**: is the look and feel consistent with the tone of the project and the previously completed work? Will the project owner like it? Will the users like it?
+* 
 
 - design review
 - code review
@@ -1008,9 +1011,9 @@ Don't worry, this isn't another type of meeting you have to have. This is just f
 - keep an eye on responsiveness
 - keep an eye on performance
 
-Our teams and agency leadership should carefully watch these metrics to proactively spot issues and identify which improvements should be prioritized. In addition to monitoring tools, a feedback mechanism should be in place for people to report issues directly.
-
-- performance
+- you may not want to do the sprint review alone
+- you will have to consult the client before adjusting schedules or adding work or changing the requirements
+- you do these reviews at the end of sprints so as to not disrupt project momentum
 
 Performance improvements often begin as one person’s voice within a company culture. You start to notice how other sites are making optimizations and improving their user experience through tweaks to perceived performance or total page load time. Then you start measuring how your competitors’ sites fare in WebPagetest and comparing your site’s performance to theirs. After beginning to learn about many of the easy performance wins that you could implement on your site, you start crafting improvements with little effort and tons of gains.
 
