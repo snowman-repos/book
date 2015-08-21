@@ -1044,7 +1044,9 @@ Each project will have documentation that everyone on the team should have fast 
 
 ### Communication, Systems & Protocols
 
-You'll definitely want to have some sort of instant messaging platform where people can quickly and easily discuss work and share files. In some cases, this kind of communication is less disruptive than walking over to someone's desk, and facilitates remote work. Having the other team members directly accessible like this also creates a sense of cohesion among the team. Again, multiple options are available such as Slack, Hipchat, Google hangouts, Skype, etc..
+You'll definitely want to have some sort of instant messaging platform where people can quickly and easily discuss work and share files. In some cases, this kind of communication is less disruptive than walking over to someone's desk, and facilitates remote work. Having the other team members directly accessible like this also creates a sense of cohesion among the team. Again, multiple options are available such as Slack, Hipchat, Google hangouts, Skype, etc.
+
+You might want to instigate communication protocols, such as quiet time or how people should indicate when they don't want to be disturbed. A fixed meeting schedule is a good idea, as is a way of scheduling meetings such that everyone can receive reminders and notifications no matter what devices they use.
 
 - naming conventions
 - communication tools
