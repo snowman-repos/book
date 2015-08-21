@@ -996,7 +996,7 @@ You can deliver status reports in whatever format you feel is appropriate, depen
 
 It's important that the status reports don't contain any major surprises. If there are major issues that need to be raised, do so immediately, not at the end of the week as a footnote in a summary.
 
-### Scrum Reviews
+### Sprint Reviews
 
 - design review
 - code review
