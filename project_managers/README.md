@@ -1026,7 +1026,7 @@ It's not just about identifying the good and bad parts, either. Remember that a 
 
 Even though by now they may be bored of this project or tired of working on it, hopefully everyone can come away from this meeting re-energised and excited to get back into it.
 
-## Setting things up
+## Setting Things Up && Getting Started
 
 At the start of this chapter we described your role as “the enabler”. That means you are also responsible for ensuring that everyone on the team has everything they need in order to carry out the project work. What they will need depends on who you have in your team and what roles they fulfil, as well as what the project work entails. In all likeliness, most of your projects will be similar enough that these things may already be set up or that setting them up will be easy. Perhaps you have a dedicated operations person or support team to handle things like this, or otherwise you might have to do it yourself. Make sure that you check first with each team member what they need and have it set up for them *before* the project work is scheduled to begin.
 
@@ -1060,18 +1060,22 @@ It's always up to you to establish best practice and enforce it. Consider things
 
 As you are overseeing entire projects, keep on eye on the work to ensure that people are starting simple and gradually adding complexity. Remind everyone at the start of each project that they are building *systems*, not sites, or screens, or pages. You want your web projects to be stable, future-friendly, scalable, and extensible. For instance they should begin designing, building, and testing the most basic and reusable stuff - the typography, buttons, form inputs, grid systems, tables, etc. - the building blocks for all other components and modules. They should start off ensuring the basic feature requirements are met on the minimum system requirements - the oldest browsers and the smallest screens - before gradually enhancing the experience for more capable devices. This forces them to keep performance in mind and consider users who are not sitting at a comfortable desk like they are, on a fast wifi connection and using a high-end laptop. By facing the constraints head on from the start, designers and developers are forced to really think about the problems and how to solve them. It also ensures that time will be saved later on as they are able to re-use and build on previous work that's been tested and signed off.
 
-One of the most important project deliverables, even if it hasn't been specifically requested, is a style guide. It's one of the things you should be demanding of your team and making standard practice for all projects. Like with enforcing performance budgets, it's ok to be dogmatic about this because the benefits are clear.
+The so-called “mobile-first” approach to design and development essentially means to start with the most basic user interface for small screens, maybe adding more content, design flourishes, and user-interface elements only if and when required as the screen size increases. We don't need to go into here the growth of the mobile web, nor the pace of new devices coming on the market from tiny wearables to large-screen displays. The mobile-first approach at least resets people's perspectives about what the web is. It's not just websites that you view on your laptop or desktop computer. This is especially important to project owners who may not be web professionals, spending most days considering things like this. Another phrase you'll often here is “responsive design”. This does not mean separate versions of your product for arbitrary “mobile”, “tablet”, and “desktop” devices, despite how often this misunderstanding is encountered. Reponsive means device agnostic, which in turn means that your products are not built at specific sizes
+
+One of the most important project deliverables, even if it hasn't been specifically requested, is a style guide. It's one of the things you should be demanding of your team and making standard practice for all projects. Like with enforcing performance budgets, it's ok to be dogmatic about this because the benefits are clear:
 
 
+- communication tool, demonstrates interactions
 - get your head around the look and feel
 - maintainability
 - consistency
 - forces modularity
+- semantics / shared language
+- relates to the code, forces organisation, workflow
+- easier to test
 
 bootstrap
-
-
-Mobile first: force everyone to think about it, especially project owners, skew perceptions about what is typical on the web. responsive = device agnostic.
+can be automated
 
 
 
