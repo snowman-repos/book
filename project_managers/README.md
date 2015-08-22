@@ -1143,11 +1143,15 @@ You'll also need to consider using a Content Delivery Network - basically a wide
 
 ### Build Processes
 
-During production there are lots of boring, repetitive, time-consuming, and easy-to-forget processes that need to be carried out. These might include moving and renaming files, minifying and compressing files, adding datestamps, compiling code, restarting servers, importing and concatonating files, downloading dependencies, running tests, deploying files etc. Missing out any of these steps might result in your project or workflow being sub-optimal or perhaps even breaking. Why rely on your busy team to perform these tasks? You want them to be able to concentrate on their actual work. Luckily, these kinds of tasks are what computers are great at, and there many different ways of automating them, tools such as Grunt, Gulp, Make files, Webpack etc. What tools or systems you use depends largely on what kind of project you're building and what your team are most familiar with. What's important though is that you ensure they are using them and have these systems in place when the project begins. You may find the configuration changes little from project to project so setting this up becomes trivial.
+> “So many issues on the web (performance, accessibility, etc.) can be greatly improved just by having a layer of automation involved. Issues like image compression — or simple accessibility issues like alt tags on images — should never be able to hit a live server. If you can detect it, you can automate it. And if you can automate it, you can free up time for designers and developers to focus on more challenging — and interesting — problems.”
+
+> *- Tim Kaldec*
+
+During production there are lots of boring, repetitive, time-consuming, and easy-to-forget processes that need to be carried out. These might include moving and renaming files, minifying and compressing files, adding datestamps, compiling code, restarting servers, importing and concatonating files, downloading dependencies, running tests, deploying files etc. Missing out any of these steps might result in your project or workflow being sub-optimal or perhaps even breaking. For example, graphics software might export bloated images that could end up being deployed live. By compressing them, you could shave megabytes off the initial payload for the end users, so missing this step would be a disaster. Why rely on your busy team to constantly perform these tasks? You want them to be able to concentrate on their actual work. Luckily, these kinds of tasks are what computers are great at, and there many different ways of automating them, tools such as Grunt, Gulp, Make files, Webpack etc. What tools or systems you use depends largely on what kind of project you're building and what your team are most familiar with. What's important though is that you ensure they are using them and have these systems in place when the project begins. You may find the configuration changes little from project to project so setting this up becomes trivial, and through automation you'll start seeing immediate gains for no effort.
 
 ### Testing
 
-Aside from testing servers, testers may need specialist software. At the very least they will need a copy of every web browser likely to be supported by any project, as well as perhaps other tools for annotating and labelling screenshots. Depending on your organisation's budget, it might be a good idea to invest in a range of testing devices. These do not necessarily have to be the latest, top of the range Apple devices, but they should at least reflect devices used by the user base of your projects. Your team members will likely already have some devices of their own, but they may be reluctant to offer them to testers if they contain personal data so be sure to check with them first. If you are lucky enough to live in or near a tech-hub like San Francisco, or New York, or London, or Brighton, then you may be able to make use of an open device lab offered by other agencies, although this isn't very convenient for continuous testing. At the very least, you should have access to a few kinds of devices, small, medium, and large touchscreen devices, as well as small and large desktop devices.
+Aside from testing servers, testers may need specialist software. At the very least they will need a copy of every web browser likely to be supported by any project, as well as perhaps other tools for annotating and labelling screenshots. Depending on your organisation's budget, it might be a good idea to invest in a range of testing devices. These do not necessarily have to be the latest, top of the range Apple devices, but they should at least reflect devices used by the user base of your projects. Your team members will likely already have some devices of their own, but they may be reluctant to offer them to testers if they contain personal data so be sure to check with them first. If you are lucky enough to live in or near a tech-hub like San Francisco, or New York, or London, or Brighton, then you may be able to make use of an open device lab offered by other agencies, although this isn't very convenient for continuous testing. At the very least, you should have access to a few kinds of devices, small, medium, and large touchscreen devices, as well as small and large desktop devices. It's all too easy for designers and developers to overlook the experience on devices that they themselves are not accustomed to using.
 
 Another thing that will make it easier on your testers is the practice of automated unit and integration testing. Whether you can make this part of your workflow depends on the skills and knowledge of your developers, so if they are unfamiliar with it you may want to consider arranging some training for them. Effectively it entails writing testing code that automatically verifies the functionality and performance of the product code. It does take some extra time to write this code, but it saves a lot of time in testing because human testers don't have to do it manually. Humans are invariably slower at these kinds of tasks than computers. It has the added benefit that developers can be notified immediately when some new code breaks a feature that was working previously, something that human testers are likely to miss. In writing these 'tests' first, developers are forced to think clearly and logically about exactly what functions the code should perform and will be less likely to neglect any edge cases. Automated testing is best practice that will improve the speed and quality of your team's work.
 
@@ -1164,29 +1168,13 @@ Run tests automatically as part of the build process
 Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques
 Conduct load and performance tests at regular intervals, including before public launch
 
-Tim Kadlec is a big proponent of automating your build process:
-
-I’ve been hammering that home to every client I’ve had this year. It’s amazing how many companies don’t really have a formal build/deployment process in place. So many issues on the web (performance, accessibility, etc.) can be greatly improved just by having a layer of automation involved.
-
-For example, graphic editing software spits out ridiculously bloated images. Very frequently, that’s what ends up getting put on a site. If you have a build process, you can have the compression automated and start seeing immediate gains for no effort. On a recent project, they were able to shave around 1.5MB from their site weight simply by automating compression.
-
 Once you have your code in source control, some of that automation can be made easier. Brian Suda writes:
 
 We have a few bash scripts that run on git commit: they compile the less, jslint and remove white-space, basically the 3 Cs, Compress, Concatenate, Combine. This is now part of our workflow without even realising it.
 
-One great way to get started with a build process is to use a tool like Grunt, and a great way to get started with Grunt is to read Chris Coyier’s Grunt for People Who Think Things Like Grunt are Weird and Hard.
-
-Tim reinforces:
-
-Issues like [image compression] — or simple accessibility issues like alt tags on images — should never be able to hit a live server. If you can detect it, you can automate it. And if you can automate it, you can free up time for designers and developers to focus on more challenging — and interesting — problems.
-
 A clear call to arms to tighten up and formalise development and deployment practices. The less that has to be done manually or is susceptible to change, the less that can go wrong when a site is built and deployed. Any procedures that are automated are no longer dependant on a single person’s knowledge, making it easier to build your team or just cope when someone important is out of the office or leaves.
 
-The value of testing with real devices is something Ruth John appreciates. She wrote:
 
-I still have my own small device lab at home, even though I work permanently for a well-established company (which has a LOT of devices at its disposal) – it just means I can get a good overview of how things are looking during development.
-
-device lab?
 
 
 
