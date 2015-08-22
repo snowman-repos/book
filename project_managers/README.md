@@ -1096,22 +1096,16 @@ You can set up a paid account on Guthub for your organisation or provide a serve
 
 Git encourages modularisation. Multiple components worked on in parallel can be isolated into “branches” so that the ongoing development work isn't in conflict; changing one thing won't break another. Branches can signify which code is currently in development, which is ready for testing and which is ready for deployment.
 
+It also encourages creativity and experimentation because in your isolated branch you know your work can't negatively impact anything else and that you can always undo your mistakes.
 
+TL;DR: everyone on your team, especially you, should become very familiar with git.
 
 ***
 
 
 
 
-Git Encourages Creativity and Experimentation
-Git branching will improve your code-quality and productivity. It facilitates creativity and experimentation by removing your fear that the current version of the project will be affected while you are trying out ideas, giving you an environment where you can confidently explore and develop your project’s future features.
 
-With Git, you can even create multiple branches that approach a given problem in different ways, test each of them with your master branch (the most current version of your project), and then choose the best option.
-
-Git Allows You to Undo Your Mistakes
-In Git, you can undo almost everything.
-
-Being able to undo things gives your team the courage to try out ideas and concepts without the risk of breaking stuff, which in turn fosters a culture of innovation.
 
 Git Makes Your Progress Clear
 A commit in Git refers to the act of recording changes you have made in your source code.
