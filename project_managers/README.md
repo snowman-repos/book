@@ -1132,22 +1132,19 @@ The issue tracker can serve as a todo list for everybody and give you an overvie
 
 Most of the project work is going to be carried out on your team's computers and then eventually deployed to a live server somewhere. Nothing is going to cause more panic among your team and frustration from the project owner if things don't work as expected after deployment at the end of a project, after all that work. Therefore it's important to have realistic development and staging environments that represent the live server environment as closely as possible. That means that the installed software should be the same, using the same versions, and the configuration identical. Any differences, no matter how small, could cause problems at the very last minute. There may not be time to diagnose the problem, nor any clear indications as to the cause. This is going to make your team look unprofessional and undermine all the effort you've put in so far.
 
-- test & development server
-- staging server
-- production server?
+A development server is one that your developers deploy to and testers test on. A staging server is one on which you deploy work to be presented to and tested by the project owner. If they approve what they see on the staging server then you can deploy it to the production server, live for the world to access. Obviously you'll want to restrict access to the development and staging servers from both users and search engines by setting up passwords and robots files, respectively.
+
+A handy way to ensure the server environments are always identical is to use a cloning or imaging system, such as a virtual machine, managed with a tool like Vagrant. Obviously you'll want to customise what server-side software is required depending on the technology stack for each project. You may choose to have a physical server located in your office, or to use an online service such as Amazon. An online service may be more expensive in the long term but the overall costs are still fairly low and such services offer the advantages of backups, recovery, redundancy, speed, and security, none of which anyone on your team needs to manage. If the project owner is in another country then a server that's located in your office may be difficult or slow for them to access, making performance issues difficult, if not impoissible, for your team to investigate.
+
+Another important consideration, especially if you are also arranging the live production servers for your projects, is to ensure that server setups are flexible enough to cope with traffic spikes. Server resources should always be provised based on real-time user demand, and available in multiple regions. Again, it will probably be a lot more expensive for you to hire someone with the skills and experience to manage this than it would be to pay for an dedicated hosting service. Such services often only charge based on the resources you use, further saving money.
+
+- CDNs
 
 
-To the extent practical, ensure that software can be deployed on a variety of commodity hardware types
 
-Deploy in a flexible hosting environmentOur services should be deployed on flexible infrastructure, where resources can be provisioned in real time to meet spikes in user demand. Our digital services are crippled when we host them in data centers which market themselves as “cloud hosting” but require us to manage and maintain hardware directly. This outdated practice wastes time, weakens our disaster recovery plans, and results in significantly higher costs.
-Resources are provisioned on demand
-Resources scale based on real-time user demand
-Resources are provisioned through an API
-Resources are available in multiple regions
-We pay only for the resources we use
+
 Static assets are served through a content delivery network
-Application is hosted on commodity hardware
-disaster recovery.
+
 
 
 
