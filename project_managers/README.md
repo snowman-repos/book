@@ -1125,6 +1125,7 @@ Issues could be new tasks relating to features and optimisations, or they could 
 * Issues can have comments/discussions
 * Issues can have attachments
 
+The issue tracker can serve as a todo list for everybody and give you an overview of project progress. You can list all features as tasks, maybe group them into categories, order them by priority, and assign them to the relevant people. As each person completes work on a task they can re-label and re-assign it. If the project owner, or anyone else for that matter has any ideas for changes or enancements
 
 
 The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
