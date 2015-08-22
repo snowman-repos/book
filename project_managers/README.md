@@ -1141,7 +1141,15 @@ Another important consideration, especially if you are also arranging the live p
 
 You'll also need to consider using a Content Delivery Network - basically a widely distributed network of servers that are used only for serving static assets like images, scripts, and stylesheets. Essentially requests for such files from your project by users are intercepted, with the files being served from wherever is closest to the user or would otherwise be the fastest download. CDN services are usually paid but not expensive. Installation usually requires the inclusion of a script or some easy server configuration. This is a major performance enhancement that you should at least install on your staging and production servers, if not development as well.
 
-### Testing & Deployment Solutions
+### Build Processes
+
+
+
+### Testing
+
+
+
+### Deployment
 
 A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
 
