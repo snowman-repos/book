@@ -242,7 +242,7 @@ In your role you simply don't have the time to do everything yourself, or even t
 
 You should absolutely be involved in the hiring process. If you're not, start kicking and screaming until you are. Nobody knows better than you what skillsets your team may be lacking and what are in surplus, nor is anyone else in a better position to assess how well a candidate will fit into your team. Chances are you've done design or development work previously so you can accurately assess candidates' breadth and depth of knowledge. You can find more useful advice about hiring & firing in _Chapter 3 - Production Directors_. Remember though, as we talked about previously, not to be resource greedy. Perhaps you don't need to hire someone new if an existing team member can be trained up.
 
-Each web project is different so you'll need to establish early on which skillsets you'll require to pull it off and match that up with what you have available in order to identify any potential gaps. Maybe you're a freelancer or a small agency where you yourself cover many roles. At the very least specialist jobs require specialist skills and may require dedicated experts, i.e. content people, design people, development people, testing people etc., to handle them. Within in each specialist area may be more precise specialisations to consider. A design role may need to cover complex animation, image manipulation, or video production for instance. A development role may necessitate experience with particular languages or frameworks. Your project will have a much greater chance of success of you have the luxury of putting together the right team.
+Each web project is different so you'll need to establish early on which skillsets you'll require to pull it off and match that up with what you have available in order to identify any potential gaps. Maybe you're a freelancer or a small agency where you yourself cover many roles. At the very least specialist jobs require specialist skills and may require dedicated experts, i.e. content people, design people, development people, testing people etc., to handle them. Within in each specialist area may be more precise specialisations to consider. A design role may need to cover complex animation, image manipulation, or video production for instance. A development role may necessitate experience with particular languages or frameworks. Your project will have a much greater chance of success of you have the luxury of putting together the right team. You want to try and keep your team as small and focused as possible, and to limit the number of organisation layers between them and the project owner. Too many cooks, kitchen policitcs etc. aren't going to produce the best web projects. 
 
 > Developers often treat PM as The Source of All Evil. And to some point they’re right. It’s a project manager who brings more work. It’s a project manager who bugs everyone asking when they’re going to be done.
 
@@ -1157,9 +1157,11 @@ Another thing that will make it easier on your testers is the practice of automa
 
 ### Deployment
 
-A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
+Probably not everyone on your team is a server expert, so this is another area where automation can come into play.
 
-Keep delivery teams small and focused; limit organizational layers that separate these teams from the business owners
+
+
+A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
 
 Automate testing and deploymentsToday, developers write automated scripts that can verify thousands of scenarios in minutes and then deploy updated code into production environments multiple times per day. They use automated performance tests which simulate surges in traffic to identify performance bottlenecks. While manual tests and quality assurance is still necessary, automated tests provide consistent and reliable protection against unintentional regressions, and make it possible for developers to confidently release frequent updates to the service.checklist
 Create automated tests that verify all user-facing functionality
