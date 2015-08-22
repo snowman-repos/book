@@ -1038,6 +1038,10 @@ The kinds of software tools we need are generally fairly limited. We need code e
 
 Don't be afraid to swap out software when the industry starts to shift, or when a team member suggests something different. Ultimately, you have to support whatever will make your team members, both present and future, work most effectively. Similarly, don't shy away from dropping a software package, even if it is industry standard, if it's just not the right tool for the job. The industry hasn't always been right and hasn't always been quick to react to changes, a classic example being the number of organisations still using Adobe Photoshop for web design, despite it never having been appropriate - it's a complicated package that requires a huge time investment to learn and user, making people reluctant to drop it. In fact actively seeking out new software options can be a good exercise and opportunity for team training sessions.
 
+### Seating Arrangements
+
+
+
 ### Shared Storage
 
 Each project will have documentation that everyone on the team should have fast and easy access to. The project's deliverables, the design, the code, the test cases, etc. should also be stored somewhere accessible. You'll want to consider the security implications of this - should the storage be publicly accessible? Should everyone have their own password? Do you need to track or restrict who accesses what files? Should everyone be allowed to edit files or just view and download them? Should it be physically located in your office or on cloud storage? How will backups be handled? Should people be able to access it out of the office? IS any special formatting required, for example when sharing files with clients? There are many options as to how you handle this storage, some examples being a shared server, dropbox, Google drive, Atlassian tools etc. Otherwise a file sharing solution might be a fun side project for someone.
@@ -1198,7 +1202,7 @@ The value of testing with real devices is something Ruth John appreciates. She w
 I still have my own small device lab at home, even though I work permanently for a well-established company (which has a LOT of devices at its disposal) – it just means I can get a good overview of how things are looking during development.
 
 
-### Seating Arrangements
+
 
 
 
