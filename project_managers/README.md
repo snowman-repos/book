@@ -1094,17 +1094,10 @@ By far the most popular version control system is git, with the most popular rem
 
 You can set up a paid account on Guthub for your organisation or provide a server where you store git repositories for each project. Everyone on the team should either have a Github account or access to the server, and everyone, be they designers, developers, content people, or testers, should be trained on how to use git. It is useful for every role and the risks of not using version control are simply too great. If anyone is unfamiliar with git then a practical way for them to experiment with it and learn is by submitting a pull request to an open-source project on Github.
 
-
+Git encourages modularisation. Multiple components worked on in parallel can be isolated into “branches” so that the ongoing development work isn't in conflict; changing one thing won't break another. Branches can signify which code is currently in development, which is ready for testing and which is ready for deployment.
 
 ***
-Git Encourages Modularization
-In even the smallest development projects, developers are often required to work on multiple components in parallel. Feature X, bug #102, a new UI for a sign-up form, etc.
 
-Among many others, here are a couple of major issues with projects that aren’t version-controlled:
-
-Project dependencies will be painful to manage. Team members must sort out which changes affect which components.
-Unfinished and experimental code will mix-in with production-ready code. Without version control, there is a huge chance that an unstable piece of code gets deployed to a production environment.
-Imagine these scenarios.
 
 Your client tells you that they don’t want feature X anymore.
 
