@@ -1096,7 +1096,7 @@ You can set up a paid account on Guthub for your organisation or provide a serve
 
 Git encourages modularisation. Multiple components worked on in parallel can be isolated into “branches” so that the ongoing development work isn't in conflict; changing one thing won't break another. Branches can signify which code is currently in development, which is ready for testing and which is ready for deployment.
 
-It also encourages creativity and experimentation because in your isolated branch you know your work can't negatively impact anything else and that you can always undo your mistakes.
+It also encourages creativity and experimentation because in your isolated branch you know your work can't negatively impact anything else and that you can always undo your mistakes. It allows people to work offline as it doesn't require constant access to a remote server - people can work on their own machines and commit their work when they do have access.
 
 One of the most useful features of git from a project manager's perspective is that it makes it easier to track progress because it keeps a log of who commits what to the repository. Each commit is accompanied by a message that can be used to explain which task or bug the change relates to. It can be very granular, telling you exact changes in exact lines of code. It can also tell you the difference between 2 versions of a file.
 
@@ -1113,14 +1113,6 @@ TL;DR: everyone on your team, especially you, should become very familiar with g
 
 
 
-You Can Work Offline
-A lot of companies underestimate the benefits that can be had if their developers were to be able to work offline.
-
-Being able to code on your laptop without having to connect to your company’s servers is not only about being able to work during a commute or while at home (which a lot of companies don’t permit due to security restrictions).
-
-More importantly, being able to work offline makes you more fail-safe as a team: While with a VCS like Subversion or CVS, a developer can’t continue their work when a central server goes down, this is not an issue with Git.
-
-In Git, developers can perform everything on their personal computer, making them independent of possible infrastructure downtimes.
 
 Never Lose Data Ever Again
 Losing data and not being able to recover it can break a dev project.
