@@ -1111,6 +1111,8 @@ A Github account is not expensive and also comes with an integrated issue tracke
 ### Issue Tracking
 
 
+
+
 The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
 
 Using labels you can create issues for “discussion” i.e. we need a comment system, here are the options giving everyone visibility over the options and the opportunity to comment and be involved with the solution.
