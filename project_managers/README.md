@@ -1169,14 +1169,16 @@ This kind of automated deployment and testing is commonly known as “continuous
 
 ### Analytics & Data
 
-The final part of your day to day job that you'll need to prepare for before the start of a project is collecting data. Find ways to record and track things such as:
+The final part of your day to day job that you'll need to prepare for before the start of a project is collecting data. You might consider finding ways to record and track things such as:
 
 * **User data**: If you have a live project then analytics data collected from users will help to inform design decisions. You may even be obliged to collect and analyse this data for the project owner to help drive their business decisions.
-* **Time tracking**: As mentioned previously in this chapter, this will give you a better judgement on how long various tasks take and how quickly people work, helping you r longterm planning abilities.
-* **Deployment and error notifications**: 
-* **Bug tracking**:
-* **Test coverage**:
-* **Project owner satisfaction**:
+* **Time tracking**: As mentioned previously in this chapter, this will give you a better judgement on how long various tasks take and how quickly people work, helping your longterm planning abilities.
+* **Deployment and error notifications**: Keep track of what's being deployed and what's breaking. How often do things break?
+* **Bug tracking**: Tracking the number of bugs will help you determine which kinds of features present the most difficulty, as well as getting a grip on team performance. If you can somehow measure the number of bugs against the size or complexity of each project you might be able to determine if the team is improving and producing fewer bugs in the longterm.
+* **Test coverage**: To what extent is your codebase verified? To what level of confidence are you sure all requirements have been met?
+* **Project owner satisfaction**: Perhaps you or your client manager could conduct surveys to determine if your team's performance has been satisfactory and if the project has met, even exceeded, their expectations. They may be able to highlight potential areas for improvement.
+
+Again, data drives decisions and these kinds of things are useful for you and the personal KPIs we discussed at the start of this chapter.
 
 ## Delivery
 
