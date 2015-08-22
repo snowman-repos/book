@@ -1100,7 +1100,9 @@ It also encourages creativity and experimentation because in your isolated branc
 
 One of the most useful features of git from a project manager's perspective is that it makes it easier to track progress because it keeps a log of who commits what to the repository. Each commit is accompanied by a message that can be used to explain which task or bug the change relates to. It can be very granular, telling you exact changes in exact lines of code. It can also tell you the difference between 2 versions of a file.
 
-Be wary though about how git is used, or indeed mis-used. As we said before, it's up to you to establish and enforce best practice. Make sure 
+Be wary though about how git is used, or indeed mis-used. As we said before, it's up to you to establish and enforce best practice. Make sure that everybody is only submitting commits that relate to a single task or bug. The commit may contain various changes across multiple files but as long as it relates to a single issue, and that issue is clearly referenced in the commit message, then it becomes easy to track changes relating to that issue. While skirting around the subject of commit messages, they should be clear and descriptive and, of course, never blank. Perhaps the changes contained in a commit need to be integrated somewhere else, so it's handy to have them all together and not mixed amongst other changes. If you need to roll back those changes then you can do so without impacting other issues; if a commit contains changes for multiple issues then when you roll back you'll have to re-do the work on the other issues and re-commit those separately.
+
+
 
 TL;DR: everyone on your team, especially you, should become very familiar with git.
 
@@ -1108,16 +1110,6 @@ TL;DR: everyone on your team, especially you, should become very familiar with g
 
 
 
-
-
-
-A side note when using commits: As a good version control policy, I recommend that each commit should only contain changes that belong to a single topic.
-
-For instance, if you’re fixing a specific bug — let’s call it bug #200 — that requires multiple source code changes across several files, all those changes should be under one commit in order for you to easily track changes to your project related to that bug. This way, you can document that "commit X fixed bug #200". A side benefit of this commit policy is, when you encounter another bug similar to bug #200 somewhere else in your project months from now, you can review how you resolved the first bug.
-
-Mixing different topics in one commit makes it hard to see what things were added or resolved.
-
-Also, multi-topic commits makes it more difficult to roll back to a previous version if you ever find the need to do so. Imagine a commit that contains changes for both feature A and feature B. If you find out later on that you introduced a severe security leak with feature B, you’ll have to roll back the code for both topics just to get rid of the problem.
 
 
 
