@@ -1110,7 +1110,7 @@ Finally, the repository, with all its history, can be handed over to a project o
 
 Be wary though about how git is used, or indeed mis-used. As we said before, it's up to you to establish and enforce best practice. Make sure that everybody is only submitting commits that relate to a single task or bug. The commit may contain various changes across multiple files but as long as it relates to a single issue, and that issue is clearly referenced in the commit message, then it becomes easy to track changes relating to that issue. While skirting around the subject of commit messages, they should be clear and descriptive and, of course, never blank. Perhaps the changes contained in a commit need to be integrated somewhere else, so it's handy to have them all together and not mixed amongst other changes. If you need to roll back those changes then you can do so without impacting other issues; if a commit contains changes for multiple issues then when you roll back you'll have to re-do the work on the other issues and re-commit those separately.
 
-A Github account is not expensive and also comes with an integrated issue tracker that can be used to assign tasks and report bugs.
+A Github account is not expensive and also comes with an integrated issue tracker that can be used to assign tasks and report bugs. It has a clean interface, is feature-rich, and can tie-in nicely with the commit history.
 
 ### Issue Tracking
 
