@@ -1090,7 +1090,9 @@ This really is crucial for any web project, especially those worked on by multip
 
 It's not just about backing up and undoing either. It's about collaboration. It ensures that nobody's code gets lost or overwritten - think of the chaos that might ensue if everyone was just freely dropping files into a folder on an FTP server. Which files are the latest? Who created or changed what files? What exactly were the changes? Do the changes relate to a particular task or bug? Which code is tested and production-ready and which isn't? Are there any files missing? How can we get them back? Version control resolves all of this.
 
-By far the most popular version control system is git, with the most popular remote code repository service being Github. Everyone submits their changes to a project in just a few simple commands and they are stored away safely on remote servers where they can be accessed and synchronised by anyone anywhere. Obviously you can secure your repositories and restrict access. Git keeps track of not just the changes made and previous versions, but also records who submitted exactly what changes. An added advantage of using a service like Github is that the repository, with all its history, can be handed over to a project owner as a deliverable. They can visually check on progress and take ownership of the project. Another advantage is that you, as the project manager, can also monitor progress; you can see who is contributing what and when they are contributing. If someone is not committing new work maybe they need help? If someone is committing too much work, late into the night, maybe they too need help?
+By far the most popular version control system is git, with the most popular remote code repository service being Github. Everyone submits their changes to a project in just a few simple commands and they are stored away safely on remote servers where they can be accessed and synchronised by anyone anywhere. Obviously you can secure your repositories and restrict access.
+
+TL;DR: everyone on your team, especially you, should become very familiar with git.
 
 You can set up a paid account on Guthub for your organisation or provide a server where you store git repositories for each project. Everyone on the team should either have a Github account or access to the server, and everyone, be they designers, developers, content people, or testers, should be trained on how to use git. It is useful for every role and the risks of not using version control are simply too great. If anyone is unfamiliar with git then a practical way for them to experiment with it and learn is by submitting a pull request to an open-source project on Github.
 
@@ -1098,13 +1100,15 @@ Git encourages modularisation. Multiple components worked on in parallel can be 
 
 It also encourages creativity and experimentation because in your isolated branch you know your work can't negatively impact anything else and that you can always undo your mistakes. It allows people to work offline as it doesn't require constant access to a remote server - people can work on their own machines and commit their work when they do have access.
 
-One of the most useful features of git from a project manager's perspective is that it makes it easier to track progress because it keeps a log of who commits what to the repository. Each commit is accompanied by a message that can be used to explain which task or bug the change relates to. It can be very granular, telling you exact changes in exact lines of code. It can also tell you the difference between 2 versions of a file.
+One of the most useful features of git from a project manager's perspective is that it keeps track of not just the changes made and previous versions, but also records who submitted exactly what changes to the repository, so you can more easily monitor progress. Each commit is accompanied by a message that can be used to explain which task or bug the change relates to. It can be very granular, telling you exact changes in exact lines of code. It can also tell you the difference between 2 versions of a file. You can see who is contributing and when they are contributing. If someone is not committing new work maybe they need help? If someone is committing too much work, late into the night, maybe they too need help?
+
+Finally, the repository, with all its history, can be handed over to a project owner as a deliverable. They can visually check on progress and take ownership of the project.
 
 Be wary though about how git is used, or indeed mis-used. As we said before, it's up to you to establish and enforce best practice. Make sure that everybody is only submitting commits that relate to a single task or bug. The commit may contain various changes across multiple files but as long as it relates to a single issue, and that issue is clearly referenced in the commit message, then it becomes easy to track changes relating to that issue. While skirting around the subject of commit messages, they should be clear and descriptive and, of course, never blank. Perhaps the changes contained in a commit need to be integrated somewhere else, so it's handy to have them all together and not mixed amongst other changes. If you need to roll back those changes then you can do so without impacting other issues; if a commit contains changes for multiple issues then when you roll back you'll have to re-do the work on the other issues and re-commit those separately.
 
 
 
-TL;DR: everyone on your team, especially you, should become very familiar with git.
+
 
 ***
 
