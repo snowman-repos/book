@@ -1114,7 +1114,7 @@ A Github account is not expensive and also comes with an integrated issue tracke
 
 ### Issue Tracking
 
-Another crucial tool is an issue tracker. This could be as simple as an email inbox, or it could be a physical board in the office somewhere that's peppered with scribbled index cards. Whatever system works best for you.
+Another crucial tool is an issue tracker. This could be as simple as an email inbox, or it could be a physical board in the office somewhere that's peppered with scribbled index cards. There are many on and offline software options. Whatever system works best for you.
 
 Issues could be new tasks relating to features and optimisations, or they could be bugs. There *will* be bugs. The key features of an issue tracker are:
 
@@ -1124,6 +1124,7 @@ Issues could be new tasks relating to features and optimisations, or they could 
 * Issues can have deadlines
 * Issues can have comments/discussions
 * Issues can have attachments
+
 
 
 The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
