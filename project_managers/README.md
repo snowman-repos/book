@@ -1040,7 +1040,7 @@ Don't be afraid to swap out software when the industry starts to shift, or when 
 
 ### Seating Arrangements
 
-
+In order to foster smooth team collaboration, make people sit together.
 
 ### Shared Storage
 
