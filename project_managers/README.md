@@ -1091,6 +1091,7 @@ Styleguides can also be generated automatically in case anyone is concerned with
 ### Version Control
 
 - branches
+- compiled files
 
 This really is crucial for any web project, especially those worked on by multiple people, or people in different location, or where the work is carried out over a period of long intervals and easily forgotten. Essentially what you need is a system that keeps track of all changes to all files, that enables you to revert those changes if necessary, and keep rolling backups of the entire project.
 
@@ -1159,6 +1160,8 @@ Another thing that will make it easier on your testers is the practice of automa
 
 ### Deployment
 
+- compile files
+
 Probably not everyone on your team is a server expert, so this is another area where automation can come into play. Any procedures that are automated are no longer dependant on a single person’s knowledge, making it easier to cope when the people who do understand servers are away or busy. There are of course simple deployment solutions, but they generally come with risks. Your effort in getting everyone set up and trained on version control will be wasted if they are just going to overwrite each others work by dragging files onto an FTP server. Not only are such deployment practices dangerous and unreliable, but they take time and effort.
 
 Most version control systems make it easy to automate deployments. In git for example, you could have a script on your server that pulls the latest code from a stable branch on the repository. Then you just need to have your version control system hook into that script whenever new code is pushed to that branch. Deployments will happen seamlessly in the background as the developers are continuing with their work. This also ensures that the code on the server is the latest stable version. You can track versions just like on the developers' local machines. Your developers will be happier and less stressed.
@@ -1182,40 +1185,18 @@ Again, data drives decisions and these kinds of things are useful for you and th
 
 ## Delivery
 
-
+So you've finished the project and it's time to put it live. This is always a nerve-racking experience. What if it breaks? What if the project owner demands last minute changes? What if the users's don't like it?
 
 - deployment
 - fully tested beforehand
 - beta period = your warranty period
 
-Continuous Integration makes dev life easier. Happier, better developers and testers. More efficient cycle. Keeps people happy.
-
-Ensure that each project has easy to understand instructions for setting up a local development environment, and that team members can be quickly added or removed from projects
 
 
-Once you have developed your site, how do you make it live on your web hosting? For many years the answer was to log on to your server and upload the files via FTP. Over time most hosts and FTP clients began to support SFTP, ensuring your files were transmitted over a secure connection. The process of deploying a site however remained the same.
 
-There are issues with deploying a site in this way. You are essentially transferring files one by one to the server without any real management of that transfer. If the transfer fails for some reason, you may end up with a site that is only half updated. It can then be really difficult to work out what hasn’t been replaced or added, especially where you are updating an existing site. If you are updating some third-party software your update may include files that should be removed, but that may not be obvious to you and you risk leaving outdated files littering your file system. Updating using (S)FTP is a fragile process that leaves you open to problems caused by both connectivity and human error. Is there a better way to do this?
 
-You’ll be glad to know that there is. A modern professional deployment workflow should have you moving away from fragile manual file transfers to deployments linked to code committed into source control.
 
-THE BENEFITS OF GOOD PRACTICE
-You may never have experienced any major issues while uploading files over FTP, and good FTP clients can help. However, there are other benefits to moving to modern deployment practices.
 
-No surprises when you launch
-If you are deploying in the way I suggest in this article you should have no surprises when you launch because the code you committed from your local environment should be the same code you deploy – and to staging if you have a staging server. A missing vital file won’t cause things to start throwing errors on updating the live site.
-
-Being able to work collaboratively
-Source control and good deployment practice makes working with your clients and other developers easy. Deploying first to a staging server means you can show your client updates and then push them live. If you subcontract some part of the work, you can give your subcontractor the ability to deploy to staging, leaving you with the final push to launch, once you know you are happy with the work.
-
-Having a proper backup of site files with access to them from anywhere
-The process I will outline requires the use of hosted, external source control. This gives you a backup of your latest commit and the ability to clone those files and start working on them from any machine, wherever you are.
-
-Being able to jump back into a site quickly when the client wants a few changes
-When doing client work it is common for some work to be handed over, then several months might go by without you needing to update the site. If you don’t have a good process in place, just getting back to work on it may take several hours for what could be only a few hours of work in itself. A solid method for getting your local copy up to date and deploying your changes live can cut that set-up time down to a few minutes.
-
-THE TOOL CHAIN
-In the rest of this article I assume that your current practice is to deploy your files over (S)FTP, using an FTP client. You would like to move to a more robust method of deployment, but without blowing apart your workflow and spending all Christmas trying to put it back together again. Therefore I’m selecting the most straightforward tools to get you from A to B.
 
 Source control
 Perhaps you already use some kind of source control for your sites. Today that is likely to be Git but you might also use Subversion or Mercurial. If you are not using any source control at all then I would suggest you choose Git, and that is what I will be working with in this article.
