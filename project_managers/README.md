@@ -1161,7 +1161,7 @@ Another thing that will make it easier on your testers is the practice of automa
 
 Probably not everyone on your team is a server expert, so this is another area where automation can come into play. Any procedures that are automated are no longer dependant on a single person’s knowledge, making it easier to cope when the people who do understand servers are away or busy. There are of course simple deployment solutions, but they generally come with risks. Your effort in getting everyone set up and trained on version control will be wasted if they are just going to overwrite each others work by dragging files onto an FTP server. Not only are such deployment practices dangerous and unreliable, but they take time and effort.
 
-Most version control systems make it easy to automate deployments. In git for example, you could have a script on your server that pulls the latest code from a stable branch on the repository. Then you just need to have your version control system hook into that script whenever new code is pushed to that branch. Deployments will happen seamlessly in the background as the developers are continuing with their work. This also ensures that the code on the server is the latest stable version. You can track versions just like on the developers' local machines.
+Most version control systems make it easy to automate deployments. In git for example, you could have a script on your server that pulls the latest code from a stable branch on the repository. Then you just need to have your version control system hook into that script whenever new code is pushed to that branch. Deployments will happen seamlessly in the background as the developers are continuing with their work. This also ensures that the code on the server is the latest stable version. You can track versions just like on the developers' local machines. Your developers will be happier and less stressed.
 
 If you have automated tests then you could have your server script run those as well as an extra layer of defense against unexpected bugs when the code is run in a different environment. If you're getting really fancy you could have it notify you if anything goes wrong. If on the other hand all tests pass then you could have the files copied to another folder from which they are served. The same system can be copied over to all server environments. This will take a little initial set up but the benefits are clear.
 
@@ -1181,6 +1181,8 @@ The final part of your day to day job that you'll need to prepare for before the
 Again, data drives decisions and these kinds of things are useful for you and the personal KPIs we discussed at the start of this chapter.
 
 ## Delivery
+
+
 
 - deployment
 - fully tested beforehand
