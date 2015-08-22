@@ -1114,39 +1114,19 @@ A Github account is not expensive and also comes with an integrated issue tracke
 
 ### Issue Tracking
 
-Another crucial tool is an issue tracker. This could be as simple as an email inbox, or it could be a physical board in the office somewhere that's peppered with scribbled index cards. There are many on and offline software options. Whatever system works best for you. You might even try a combination of systems.
+Another crucial tool is an issue tracker. This could be as simple as an email inbox, or it could be a physical board in the office somewhere that's peppered with scribbled index cards. There are many on and offline software options. Whatever system works best for you. You might even try a combination of systems. Ultimately, the issue tracker is a communication tool where the information is centralised and accessible to the entire team.
 
 Issues could be new tasks relating to features and optimisations, or they could be bugs. There *will* be bugs. The key features of an issue tracker are:
 
 * Issues can be assigned to people
 * Issues can be labelled/categorised/grouped
 * Issues can be prioritised
-* Issues can have deadlines
+* Issues can have deadlines and milestones
 * Issues can have comments/discussions
 * Issues can have attachments
+* Issues can have notifications
 
-The issue tracker can serve as a todo list for everybody and give you an overview of project progress. At the start of the project, you can list all features as tasks, maybe group them into categories, order them by priority, and assign them to the relevant people. As each person completes work on a task they can re-label and re-assign it. If the project owner, or anyone else for that matter, has any ideas for changes or enhancements they can be added to the issue list as well and appropriately labelled. If anyone has any concerns about a task, they can add screenshots and comments. If a tester finds a bug they can raise a new issue and assign it to someone. As well as having an overview on progress, you'll be able to see who has the most or least issues assigned and be able to identify if anyone is struggling or if there are any bottle necks. The outstanding issues provide clear talking points for sprint reviews.
-
-
-The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
-
-Using labels you can create issues for “discussion” i.e. we need a comment system, here are the options giving everyone visibility over the options and the opportunity to comment and be involved with the solution.
-
-A screenshot of low-fi sketches uploaded to GitHubIf I was the client I’d totes sign this off.
-GitHub wins on simplicity and its clean interface. Even some of our designers have adopted it for presenting low fidelity sketches to the client / team to review. It’s great to have communication in one centralised place rather than across emails and visible to all the team. You can set up email notifications when people comment or tag you in an issue.
-
-It has also given me more visibility on work in progress. In our daily ODI scrums we have even introduced the reviewing of pull requests. This helps limit work in progress by ensuring pull requests are reviewed, merged and closed. If the same PR is there several days running, it can quickly alert you that something is wrong that you wouldn’t normally be able to pick up on as a non technical PM.
-
-However, like any tool there are a couple of drawbacks. I have had to continue using spreadsheets to track time and velocity over sprints, as you can’t add estimates or track time spent on the issues themselves. However you can assign a milestone to tasks within a sprint which will give you a % indicator of tasks completed but isn’t that helpful if the one task you’ve not completed equates to half the sprint!
-
-Lastly, there is no easy way to prioritise issues. For ODI we’ve added priority 1 and priority 2 tags which work well but i’d like the open issues to work more like a physical backlog where you can click and drag issues to prioritise.
-
-
-
-
-
-
-
+The issue tracker can serve as a todo list for everybody and give you an overview of project progress. At the start of the project, you can list all features as tasks, maybe group them into categories, order them by priority, and assign them to the relevant people. As each person completes work on a task they can re-label and re-assign it. If the project owner, or anyone else for that matter, has any ideas for changes or enhancements they can be added to the issue list as well and appropriately labelled. If anyone has any concerns about a task, they can add screenshots and comments. If a tester finds a bug they can raise a new issue and assign it to someone. As well as having an overview on progress, you'll be able to see who has the most or least issues assigned and be able to identify if anyone is struggling or if there are any bottle necks. The outstanding issues provide clear talking points for sprint reviews or daily standups.
 
 ### Servers
 
