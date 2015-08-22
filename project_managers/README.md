@@ -1130,6 +1130,11 @@ The issue tracker can serve as a todo list for everybody and give you an overvie
 
 ### Servers
 
+- test & development server
+- staging server
+- production server?
+
+
 To the extent practical, ensure that software can be deployed on a variety of commodity hardware types
 
 Deploy in a flexible hosting environmentOur services should be deployed on flexible infrastructure, where resources can be provisioned in real time to meet spikes in user demand. Our digital services are crippled when we host them in data centers which market themselves as “cloud hosting” but require us to manage and maintain hardware directly. This outdated practice wastes time, weakens our disaster recovery plans, and results in significantly higher costs.
