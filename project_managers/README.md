@@ -1114,7 +1114,7 @@ A Github account is not expensive and also comes with an integrated issue tracke
 
 ### Issue Tracking
 
-Another crucial tool is an issue tracker. This could be as simple as an email inbox, or it could be a physical board in the office somewhere that's peppered with scribbled index cards. There are many on and offline software options. Whatever system works best for you.
+Another crucial tool is an issue tracker. This could be as simple as an email inbox, or it could be a physical board in the office somewhere that's peppered with scribbled index cards. There are many on and offline software options. Whatever system works best for you. You might even try a combination of systems.
 
 Issues could be new tasks relating to features and optimisations, or they could be bugs. There *will* be bugs. The key features of an issue tracker are:
 
@@ -1125,7 +1125,7 @@ Issues could be new tasks relating to features and optimisations, or they could 
 * Issues can have comments/discussions
 * Issues can have attachments
 
-The issue tracker can serve as a todo list for everybody and give you an overview of project progress. At the start of the project, you can list all features as tasks, maybe group them into categories, order them by priority, and assign them to the relevant people. As each person completes work on a task they can re-label and re-assign it. If the project owner, or anyone else for that matter, has any ideas for changes or enhancements they can be added to the issue list as well and appropriately labelled.
+The issue tracker can serve as a todo list for everybody and give you an overview of project progress. At the start of the project, you can list all features as tasks, maybe group them into categories, order them by priority, and assign them to the relevant people. As each person completes work on a task they can re-label and re-assign it. If the project owner, or anyone else for that matter, has any ideas for changes or enhancements they can be added to the issue list as well and appropriately labelled. If anyone has any concerns about a task, they can add screenshots and comments. If a tester finds a bug they can raise a new issue and assign it to someone. As well as having an overview on progress, you'll be able to see who has the most or least issues assigned and be able to identify if anyone is struggling or if there are any bottle necks. The outstanding issues provide clear talking points for sprint reviews.
 
 
 The results have far exceeded my expectations, i’ve seen some of the best examples of team collaboration between client, UX, developers, testers and PM, even users have used it to raise bugs or enhancements they’d like to see. This is invaluable for the product owner, who is able to respond to clients directly and add enhancements to the backlog and prioritise accordingly.
