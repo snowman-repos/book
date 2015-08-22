@@ -1143,7 +1143,7 @@ You'll also need to consider using a Content Delivery Network - basically a wide
 
 ### Build Processes
 
-
+During production there are lots of boring and easy-to-forget processes that need to be carried out. These might include moving and renaming files, minifying and compressing files, adding datestamps, compiling code, restarting servers, importing and concatonating files, downloading dependencies, running tests, deploying files etc. 
 
 ### Testing
 
