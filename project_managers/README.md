@@ -1090,6 +1090,8 @@ Styleguides can also be generated automatically in case anyone is concerned with
 
 ### Version Control
 
+- branches
+
 This really is crucial for any web project, especially those worked on by multiple people, or people in different location, or where the work is carried out over a period of long intervals and easily forgotten. Essentially what you need is a system that keeps track of all changes to all files, that enables you to revert those changes if necessary, and keep rolling backups of the entire project.
 
 It's not just about backing up and undoing either. It's about collaboration. It ensures that nobody's code gets lost or overwritten - think of the chaos that might ensue if everyone was just freely dropping files into a folder on an FTP server. Which files are the latest? Who created or changed what files? What exactly were the changes? Do the changes relate to a particular task or bug? Which code is tested and production-ready and which isn't? Are there any files missing? How can we get them back? Version control resolves all of this.
@@ -1157,13 +1159,12 @@ Another thing that will make it easier on your testers is the practice of automa
 
 ### Deployment
 
-Probably not everyone on your team is a server expert, so this is another area where automation can come into play.
+Probably not everyone on your team is a server expert, so this is another area where automation can come into play. Most version control systems make it easy to automate deployments. In git for example, you could have a script on your server that pulls the latest code from a stable branch on the repository. Then you just need to have your version control system hook into that script whenever new code is pushed to that branch. Deploymets will happen seamlessly in the background as the developers are continuing with their work. This also ensures that the code on the server is the latest stable version. You can track versions just like on the developers' local machines.
 
 
 
-A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
 
-Automate testing and deploymentsToday, developers write automated scripts that can verify thousands of scenarios in minutes and then deploy updated code into production environments multiple times per day. They use automated performance tests which simulate surges in traffic to identify performance bottlenecks. While manual tests and quality assurance is still necessary, automated tests provide consistent and reliable protection against unintentional regressions, and make it possible for developers to confidently release frequent updates to the service.checklist
+They use automated performance tests which simulate surges in traffic to identify performance bottlenecks. While manual tests and quality assurance is still necessary, automated tests provide consistent and reliable protection against unintentional regressions, and make it possible for developers to confidently release frequent updates to the service.checklist
 Create automated tests that verify all user-facing functionality
 Create unit and integration tests to verify modules and components
 Run tests automatically as part of the build process
