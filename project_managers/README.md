@@ -1143,7 +1143,7 @@ You'll also need to consider using a Content Delivery Network - basically a wide
 
 ### Build Processes
 
-During production there are lots of boring and easy-to-forget processes that need to be carried out. These might include moving and renaming files, minifying and compressing files, adding datestamps, compiling code, restarting servers, importing and concatonating files, downloading dependencies, running tests, deploying files etc. 
+During production there are lots of boring, repetitive, time-consuming, and easy-to-forget processes that need to be carried out. These might include moving and renaming files, minifying and compressing files, adding datestamps, compiling code, restarting servers, importing and concatonating files, downloading dependencies, running tests, deploying files etc. Missing out any of these steps might result in your project or workflow being sub-optimal or perhaps even breaking. Why rely on your busy team to perform these tasks? You want them to be able to concentrate on their actual work. Luckily, these kinds of tasks are what computers are great at, and there many different ways of automating them, tools such as Grunt, Gulp, Make files, Webpack etc. What tools or systems you use depends largely on what kind of project you're building and what your team are most familiar with. What's important though is that you ensure they are using them and have these systems in place when the project begins. You may find the configuration changes little from project to project so setting this up becomes trivial.
 
 ### Testing
 
