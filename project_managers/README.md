@@ -1098,6 +1098,10 @@ Git encourages modularisation. Multiple components worked on in parallel can be 
 
 It also encourages creativity and experimentation because in your isolated branch you know your work can't negatively impact anything else and that you can always undo your mistakes.
 
+One of the most useful features of git from a project manager's perspective is that it makes it easier to track progress because it keeps a log of who commits what to the repository. Each commit is accompanied by a message that can be used to explain which task or bug the change relates to. It can be very granular, telling you exact changes in exact lines of code. It can also tell you the difference between 2 versions of a file.
+
+Be wary though about how git is used, or indeed mis-used. As we said before, it's up to you to establish and enforce best practice. Make sure 
+
 TL;DR: everyone on your team, especially you, should become very familiar with git.
 
 ***
@@ -1107,11 +1111,6 @@ TL;DR: everyone on your team, especially you, should become very familiar with g
 
 
 
-Git Makes Your Progress Clear
-A commit in Git refers to the act of recording changes you have made in your source code.
-
-When used properly, Git makes it easy to craft very granular commits. You can see what changes have occurred down to the microscopic level: Git will tell you what characters and lines in your source code have been altered. If you want to compare two versions of a file or the difference between two of your commits, you can issue Git’s diff command, which will highlight the differences between them.
-
 A side note when using commits: As a good version control policy, I recommend that each commit should only contain changes that belong to a single topic.
 
 For instance, if you’re fixing a specific bug — let’s call it bug #200 — that requires multiple source code changes across several files, all those changes should be under one commit in order for you to easily track changes to your project related to that bug. This way, you can document that "commit X fixed bug #200". A side benefit of this commit policy is, when you encounter another bug similar to bug #200 somewhere else in your project months from now, you can review how you resolved the first bug.
@@ -1119,6 +1118,8 @@ For instance, if you’re fixing a specific bug — let’s call it bug #200 —
 Mixing different topics in one commit makes it hard to see what things were added or resolved.
 
 Also, multi-topic commits makes it more difficult to roll back to a previous version if you ever find the need to do so. Imagine a commit that contains changes for both feature A and feature B. If you find out later on that you introduced a severe security leak with feature B, you’ll have to roll back the code for both topics just to get rid of the problem.
+
+
 
 You Can Work Offline
 A lot of companies underestimate the benefits that can be had if their developers were to be able to work offline.
