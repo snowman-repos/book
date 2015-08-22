@@ -1096,16 +1096,12 @@ You can set up a paid account on Guthub for your organisation or provide a serve
 
 Git encourages modularisation. Multiple components worked on in parallel can be isolated into “branches” so that the ongoing development work isn't in conflict; changing one thing won't break another. Branches can signify which code is currently in development, which is ready for testing and which is ready for deployment.
 
+
+
 ***
 
 
-Your client tells you that they don’t want feature X anymore.
 
-Or what if you find that feature Y — an experimental feature you have been working on — can’t be implemented?
-
-How do you get code removed safely from your code base?
-
-Using branches is the solution to these commonplace development problems. Although Git wasn’t the version control system (VCS) that introduced the concept of branching, it’s the first of its kind that makes it user-friendly.
 
 Git Encourages Creativity and Experimentation
 Git branching will improve your code-quality and productivity. It facilitates creativity and experimentation by removing your fear that the current version of the project will be affected while you are trying out ideas, giving you an environment where you can confidently explore and develop your project’s future features.
