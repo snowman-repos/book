@@ -1145,12 +1145,6 @@ Another important consideration, especially if you are also arranging the live p
 
 Static assets are served through a content delivery network
 
-
-
-
-
-Better yet is to use a virtual machine, managed with a tool such as Vagrant. If you’re interested in learning more about that, we have an article on that subject later in the series.
-
 ### Testing & Deployment Solutions
 
 A critical capability is being able to automatically test and deploy the service so that new features can be added often and easily put into production.
