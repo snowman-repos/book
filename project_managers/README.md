@@ -1159,28 +1159,13 @@ Another thing that will make it easier on your testers is the practice of automa
 
 ### Deployment
 
-Probably not everyone on your team is a server expert, so this is another area where automation can come into play. Most version control systems make it easy to automate deployments. In git for example, you could have a script on your server that pulls the latest code from a stable branch on the repository. Then you just need to have your version control system hook into that script whenever new code is pushed to that branch. Deploymets will happen seamlessly in the background as the developers are continuing with their work. This also ensures that the code on the server is the latest stable version. You can track versions just like on the developers' local machines.
+Probably not everyone on your team is a server expert, so this is another area where automation can come into play. Any procedures that are automated are no longer dependant on a single person’s knowledge, making it easier to cope when the people who do understand servers are away or busy. There are of course simple deployment solutions, but they generally come with risks. Your effort in getting everyone set up and trained on version control will be wasted if they are just going to overwrite each others work by dragging files onto an FTP server. Not only are such deployment practices dangerous and unreliable, but they take time and effort.
 
+Most version control systems make it easy to automate deployments. In git for example, you could have a script on your server that pulls the latest code from a stable branch on the repository. Then you just need to have your version control system hook into that script whenever new code is pushed to that branch. Deployments will happen seamlessly in the background as the developers are continuing with their work. This also ensures that the code on the server is the latest stable version. You can track versions just like on the developers' local machines.
 
+If you have automated tests then you could have your server script run those as well as an extra layer of defense against unexpected bugs when the code is run in a different environment. If you're getting really fancy you could have it notify you if anything goes wrong. If on the other hand all tests pass then you could have the files copied to another folder from which they are served. The same system can be copied over to all server environments. This will take a little initial set up but the benefits are clear.
 
-
-They use automated performance tests which simulate surges in traffic to identify performance bottlenecks. While manual tests and quality assurance is still necessary, automated tests provide consistent and reliable protection against unintentional regressions, and make it possible for developers to confidently release frequent updates to the service.checklist
-Create automated tests that verify all user-facing functionality
-Create unit and integration tests to verify modules and components
-Run tests automatically as part of the build process
-Perform deployments automatically with deployment scripts, continuous delivery services, or similar techniques
-Conduct load and performance tests at regular intervals, including before public launch
-
-Once you have your code in source control, some of that automation can be made easier. Brian Suda writes:
-
-We have a few bash scripts that run on git commit: they compile the less, jslint and remove white-space, basically the 3 Cs, Compress, Concatenate, Combine. This is now part of our workflow without even realising it.
-
-A clear call to arms to tighten up and formalise development and deployment practices. The less that has to be done manually or is susceptible to change, the less that can go wrong when a site is built and deployed. Any procedures that are automated are no longer dependant on a single person’s knowledge, making it easier to build your team or just cope when someone important is out of the office or leaves.
-
-
-
-
-
+This kind of automated deployment and testing is commonly known as “continuous integration”. That's because you can keep deploying code to the server safe in the knowledge that it's all being tested and only the verified code will be served up on the test/staging/production site. If anything goes back, rollbacks can be done quickly and easily. There are of course many online services to help you with continuous integration - you pay a nominal fee and they handle all your configuration and reporting. Some can even do things like simulating traffic surges and identifying performance bottlenecks, as well as providing you with useful analytics data.
 
 ### Analytics & Data
 - user data (analytics, user testing tools)
