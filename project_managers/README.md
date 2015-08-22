@@ -1098,35 +1098,13 @@ You can set up a paid account on Guthub for your organisation or provide a serve
 
 Git encourages modularisation. Multiple components worked on in parallel can be isolated into “branches” so that the ongoing development work isn't in conflict; changing one thing won't break another. Branches can signify which code is currently in development, which is ready for testing and which is ready for deployment.
 
-It also encourages creativity and experimentation because in your isolated branch you know your work can't negatively impact anything else and that you can always undo your mistakes. It allows people to work offline as it doesn't require constant access to a remote server - people can work on their own machines and commit their work when they do have access. Using a system like git, especially in combination with a service like Github, pretty much ensures that work will never be lost. That's because
+It also encourages creativity and experimentation because in your isolated branch you know your work can't negatively impact anything else and that you can always undo your mistakes. It allows people to work offline as it doesn't require constant access to a remote server - people can work on their own machines and commit their work when they do have access. Using a system like git, especially in combination with a service like Github, pretty much ensures that work will never be lost. That's because everyone has a full local copy of the project on their computer, including the project's full change history, which can be used to restore if necessary.
 
 One of the most useful features of git from a project manager's perspective is that it keeps track of not just the changes made and previous versions, but also records who submitted exactly what changes to the repository, so you can more easily monitor progress. Each commit is accompanied by a message that can be used to explain which task or bug the change relates to. It can be very granular, telling you exact changes in exact lines of code. It can also tell you the difference between 2 versions of a file. You can see who is contributing and when they are contributing. If someone is not committing new work maybe they need help? If someone is committing too much work, late into the night, maybe they too need help?
 
 Finally, the repository, with all its history, can be handed over to a project owner as a deliverable. They can visually check on progress and take ownership of the project.
 
 Be wary though about how git is used, or indeed mis-used. As we said before, it's up to you to establish and enforce best practice. Make sure that everybody is only submitting commits that relate to a single task or bug. The commit may contain various changes across multiple files but as long as it relates to a single issue, and that issue is clearly referenced in the commit message, then it becomes easy to track changes relating to that issue. While skirting around the subject of commit messages, they should be clear and descriptive and, of course, never blank. Perhaps the changes contained in a commit need to be integrated somewhere else, so it's handy to have them all together and not mixed amongst other changes. If you need to roll back those changes then you can do so without impacting other issues; if a commit contains changes for multiple issues then when you roll back you'll have to re-do the work on the other issues and re-commit those separately.
-
-
-
-
-
-***
-
-
-
-
-
-
-
-Never Lose Data Ever Again
-Losing data and not being able to recover it can break a dev project.
-
-We’ve all heard or experienced our own set of horror stories about failed backups and servers. It’s good to know that when using Git, every developer working on a project has a full-fledged copy on their machine, including the project’s complete change history.
-
-And if your team uses a remote source code repository such as GitHub, then the chances of losing your work in the event that your on-site backups fail is much smaller.
-
-If your backups break down, losing data isn’t even a possibility when using Git: Just take any team member’s local repository and restore in minutes.
-***
 
 A Github account is not expensive and also comes with an integrated issue tracker that can be used to assign tasks and report bugs.
 
