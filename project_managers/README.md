@@ -1168,31 +1168,15 @@ If you have automated tests then you could have your server script run those as 
 This kind of automated deployment and testing is commonly known as “continuous integration”. That's because you can keep deploying code to the server safe in the knowledge that it's all being tested and only the verified code will be served up on the test/staging/production site. If anything goes back, rollbacks can be done quickly and easily. There are of course many online services to help you with continuous integration - you pay a nominal fee and they handle all your configuration and reporting. Some can even do things like simulating traffic surges and identifying performance bottlenecks, as well as providing you with useful analytics data.
 
 ### Analytics & Data
-- user data (analytics, user testing tools)
-- way to record the number of bugs,
-- time tracking
-- server deployment and error notifications
-- test reporting
 
-And speaking of systems, Mark Norman Francis recommends the use of measuring tools to aid the design process; “[U]se analytics and make decisions from actual data” he suggests, rather than relying totally on intuition.
+The final part of your day to day job that you'll need to prepare for before the start of a project is collecting data. Find ways to record and track things such as:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* **User data**: If you have a live project then analytics data collected from users will help to inform design decisions. You may even be obliged to collect and analyse this data for the project owner to help drive their business decisions.
+* **Time tracking**: As mentioned previously in this chapter, this will give you a better judgement on how long various tasks take and how quickly people work, helping you r longterm planning abilities.
+* **Deployment and error notifications**: 
+* **Bug tracking**:
+* **Test coverage**:
+* **Project owner satisfaction**:
 
 ## Delivery
 
