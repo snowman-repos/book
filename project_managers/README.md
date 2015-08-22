@@ -1176,7 +1176,7 @@ The value of testing with real devices is something Ruth John appreciates. She w
 
 I still have my own small device lab at home, even though I work permanently for a well-established company (which has a LOT of devices at its disposal) – it just means I can get a good overview of how things are looking during development.
 
-
+device lab?
 
 
 
