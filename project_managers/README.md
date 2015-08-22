@@ -1147,7 +1147,7 @@ During production there are lots of boring, repetitive, time-consuming, and easy
 
 ### Testing
 
-
+We'll cover more about testing in chapter 
 
 ### Deployment
 
