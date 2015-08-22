@@ -1147,7 +1147,9 @@ During production there are lots of boring, repetitive, time-consuming, and easy
 
 ### Testing
 
-We'll cover more about testing in chapter 
+Aside from testing servers, testers may need specialist software. At the very least they will need a copy of every web browser likely to be supported by any project, as well as perhaps other tools for annotating and labelling screenshots. Depending on your organisation's budget, it might be a good idea to invest in a range of testing devices. These do not necessarily have to be the latest, top of the range Apple devices, but they should at least reflect devices used by the user base of your projects. Your team members will likely already have some devices of their own, but they may be reluctant to 
+
+
 
 ### Deployment
 
