@@ -1130,6 +1130,8 @@ The issue tracker can serve as a todo list for everybody and give you an overvie
 
 ### Servers
 
+Most of the project work is going to be carried out on your team's computers and then eventually deployed to a live server somewhere. Nothing is going to cause panic among your team and frustration from the project owner if things don't work as expected after deployment at the end of a project, after all that work. Therefore it's important to have realistic development and staging environments that represent the live server environment as closely as possible. That means that the installed software should be the same, using the same versions, and the configuration identical. Any differences, no matter how small, could cause problems at the very last minute. There may not be time to diagnose the problem, nor any clear indications as to the cause. This is going to make your team look unprofessional.
+
 - test & development server
 - staging server
 - production server?
@@ -1147,18 +1149,8 @@ Static assets are served through a content delivery network
 Application is hosted on commodity hardware
 disaster recovery.
 
-Create a stable development environment
-There’s little more likely to send a web developer into a wild panic and a client into a wild rage than making a new site live and things just not working. That’s why it’s important to have realistic development and staging environments that mimic the live server as closely as possible.
 
-Are you in the habit of developing new sites right on the client’s server? Or maybe in a subfolder on your local machine? It’s time to reconsider.
 
-Charlie Perrins writes:
-
-Don’t work on a live server – this feels like one of those gear-changing moments for a developer’s growth. Build something that works just as well locally on your own machine as it does on a live server, and capture the differences in the code between the local and live version in a single config file. Ultimately, if you can get all the differences between environments down to a config level then you’ll be in a really good position to automate the deployment process at some point in the future.
-
-Anything that creates a significant difference between the development and the live environments has the potential to cause problems you won’t know about until the site goes live – and at that point the problems are very public and very embarrassing, not to mention unprofessional.
-
-A reasonable solution is to use a tool like MAMP PRO which enables you to set up an individual local website for each project you work on. Importantly, individual sites give you both consistency of paths between development and live, but also the ability to configure server options (like PHP versions and configuration, for example) to match the live site.
 
 Better yet is to use a virtual machine, managed with a tool such as Vagrant. If you’re interested in learning more about that, we have an article on that subject later in the series.
 
