@@ -1093,6 +1093,18 @@ Styleguides can also be generated automatically in case anyone is concerned with
 - branches
 - compiled files
 
+***
+Perhaps you already use some kind of source control for your sites. Today that is likely to be Git but you might also use Subversion or Mercurial. If you are not using any source control at all then I would suggest you choose Git, and that is what I will be working with in this article.
+
+When you work with Git, you always have a local repository. This is where your changes are committed. You also have the option to push those changes to a remote repository; for example, GitHub. You may well have come across GitHub as somewhere you can go to download open source code. However, you can also set up private repositories for sites whose code you don’t want to make publicly accessible.
+
+A hosted Git repository gives you somewhere to push your commits to and deploy from, so it’s a crucial part of our tool chain.
+
+Using Git branches
+As you become more familiar with using Git, and especially if you start working with other people, you might need to start developing using branches. You can then have a staging branch that deploys to staging and a production branch that is always a snapshot of what has been pushed to production. This guide from Beanstalk explains how this works.
+***
+
+
 This really is crucial for any web project, especially those worked on by multiple people, or people in different location, or where the work is carried out over a period of long intervals and easily forgotten. Essentially what you need is a system that keeps track of all changes to all files, that enables you to revert those changes if necessary, and keep rolling backups of the entire project.
 
 It's not just about backing up and undoing either. It's about collaboration. It ensures that nobody's code gets lost or overwritten - think of the chaos that might ensue if everyone was just freely dropping files into a folder on an FTP server. Which files are the latest? Who created or changed what files? What exactly were the changes? Do the changes relate to a particular task or bug? Which code is tested and production-ready and which isn't? Are there any files missing? How can we get them back? Version control resolves all of this.
@@ -1191,173 +1203,8 @@ So you've finished the project and it's time to put it live. This is always a ne
 - fully tested beforehand
 - beta period = your warranty period
 
-
-
-
-
-
-
-
-Source control
-Perhaps you already use some kind of source control for your sites. Today that is likely to be Git but you might also use Subversion or Mercurial. If you are not using any source control at all then I would suggest you choose Git, and that is what I will be working with in this article.
-
-When you work with Git, you always have a local repository. This is where your changes are committed. You also have the option to push those changes to a remote repository; for example, GitHub. You may well have come across GitHub as somewhere you can go to download open source code. However, you can also set up private repositories for sites whose code you don’t want to make publicly accessible.
-
-A hosted Git repository gives you somewhere to push your commits to and deploy from, so it’s a crucial part of our tool chain.
-
-A deployment service
-Once you have your files pushed to a remote repository, you then need a way to deploy them to your staging environment and live server. This is the job of a deployment service.
-
-This service will connect securely to your hosting, and either automatically (or on the click of a button) transfer files from your Git commit to the hosting server. If files need removing, the service should also do this too, so you can be absolutely sure that your various environments are the same.
-
-Tools to choose from
-What follows are not exhaustive lists, but any of these should allow you to deploy your sites without FTP.
-
-HOSTED GIT REPOSITORIES
-GitHub
-Beanstalk
-Bitbucket
-STANDALONE DEPLOYMENT TOOLS
-Deploy
-dploy.io
-FTPloy
-I’ve listed Beanstalk as a hosted Git repository, though it also includes a bundled deployment tool. Dploy.io is a standalone version of that tool just for deployment. In this tutorial I have chosen two separate services to show how everything fits together, and because you may already be using source control. If you are setting up all of this for the first time then using Beanstalk saves having two accounts – and I can personally recommend them.
-
-PUTTING IT ALL TOGETHER
-The steps we are going to work through are:
-
-Getting your local site into a local Git repository
-Pushing the files to a hosted repository
-Connecting a deployment tool to your web hosting
-Setting up a deployment
-Get your local site into a local Git repository
-Download and install Git for your operating system.
-
-Open up a Terminal window and tell Git your name using the following command (use the name you will set up on your hosted repository).
-
-> git config --global user.name "YOUR NAME"
-Use the next command to give Git your email address. This should be the address that you will use to sign up for your remote repository.
-
-> git config --global user.email "YOUR EMAIL ADDRESS"
-Staying in the command line, change to the directory where you keep your site files. If your files are in /Users/rachel/Sites/mynicewebite you would type:
-
-> cd /Users/rachel/Sites/mynicewebsite
-The next command tells Git that we want to create a new Git repository here.
-
-> git init
-We then add our files:
-
-> git add .
-Then commit the files:
-
-> git commit -m “Adding initial files”
-The bit in quotes after -m is a message describing what you are doing with this commit. It’s important to add something useful here to remind yourself later why you made the changes included in the commit.
-
-Your local files are now in a Git repository! However, everything should be just the same as before in terms of working on the files or viewing them in a local web server. The only difference is that you can add and commit changes to this local repository.
-
-Want to know more about Git? There are some excellent resources in a range of formats here.
-
-Setting up a hosted Git repository
-I’m going to use Atlassian Bitbucket for my first example as they offer a free hosted and private repository.
-
-Create an account on Bitbucket. Then create a new empty repository and give it a name that will identify the repository easily.
-
-Click Getting Started and under Command Line select “I have an existing project”. This will give you a set of instructions to run on the command line. The first instruction is just to change into your working directory as we did before. We then add a remote repository, and run two commands to push everything up to Bitbucket.
-
-cd /path/to/my/repo
-git remote add origin https://myuser@bitbucket.org/myname/24ways-tutorial.git
-git push -u origin --all 
-git push -u origin --tags 
-When you run the push command you will be asked for the password that you set for Bitbucket. Having entered that, you should be able to view the files of your site on Bitbucket by selecting the navigation option Source in the sidebar.
-
-You will also be able to see commits. When we initially committed our files locally we added the message “Adding initial files”. If you select Commits from the sidebar you’ll see we have one commit, with the message we set locally. You can imagine how useful this becomes when you can look back and see why you made certain changes to a project that perhaps you haven’t worked on for six months.
-
-Before working on your site locally you should run:
-
-> git pull
-in your working directory to make sure you have all of the most up-to-date files. This is especially important if someone else might work on them, or you just use multiple machines.
-
-You then make your changes and add any changed or modified files, for example:
-
-> git add index.php
-Commit the change locally:
-
-> git commit -m “updated the homepage”
-Then push it to Bitbucket:
-
-> git push origin master
-If you want to work on your files on a different computer you clone them using the following command:
-
-> git clone https://myuser@bitbucket.org/myname/24ways-tutorial.git
-You then have a copy of your files that is already a Git repository with the Bitbucket repository set up as a remote, so you are all ready to start work.
-
-Connecting a deployment tool to your repository and web hosting
-The next step is deploying files. I have chosen to use a deployment tool called Deploy as it has support for Bitbucket. It does have a monthly charge – but offers a free account for open source projects.
-
-Sign up for your account then log in and create your first project. Select Create an empty project. Under Configure Repository Details choose Bitbucket and enter your username and password.
-
-If Deploy can connect, it will show you your list of projects. Select the one you want.
-
-The next screen is Add New Server and here you need to configure the server that you want to deploy to. You might set up more than one server per project. In an ideal world you would deploy to a staging server for your client preview changes and then deploy once everything is signed off. For now I’ll assume you just want to set up your live site.
-
-Give the server a name; I usually use Production for the live web server. Then choose the protocol to connect with. Unless your host really does not support SFTP (which is pretty rare) I would choose that instead of FTP.
-
-You now add the same details your host gave you to log in with your SFTP client, including the username and password. The Path on server should be where your files are on the server. When you log in with an SFTP client and you get put in the directory above public_html then you should just be able to add public_html here.
-
-Once your server is configured you can deploy. Click Deploy now and choose the server you just set up. Then choose the last commit (which will probably be selected for you) and click Preview deployment. You will then get a preview of which files will change if you run the deployment: the files that will be added and any that will be removed. At the very top of that screen you should see the commit message you entered right back when you initially committed your files locally.
-
-If all looks good, run the deployment.
-
-You have taken the first steps to a more consistent and robust way of deploying your websites. It might seem like quite a few steps at first, but you will very soon come to realise how much easier deploying a live site is through this process.
-
-YOUR NEW PROCEDURE STEP BY STEP
-Edit your files locally as before, testing them through a web server on your own computer.
-Commit your changes to your local Git repository.
-Push changes to the remote repository.
-Log into the deployment service.
-Hit the Deploy now button.
-Preview the changes.
-Run the deployment and then check your live site.
-TAKING IT FURTHER
-I have tried to keep things simple in this article because so often, once you start to improve processes, it is easy to get bogged down in all the possible complexities. If you move from deploying with an FTP client to working in the way I have outlined above, you’ve taken a great step forward in creating more robust processes. You can continue to improve your procedures from this point.
-
-Staging servers for client preview
-When we added our server we could have added an additional server to use as a staging server for clients to preview their site on. This is a great use of a cheap VPS server, for example. You can set each client up with a subdomain – clientname.yourcompany.com – and this becomes the place where they can view changes before you deploy them.
-
-In that case you might deploy to the staging server, let the client check it out and then go back and deploy the same commit to the live server.
-
-Using Git branches
-As you become more familiar with using Git, and especially if you start working with other people, you might need to start developing using branches. You can then have a staging branch that deploys to staging and a production branch that is always a snapshot of what has been pushed to production. This guide from Beanstalk explains how this works.
-
 Automatic deployment to staging
 I wouldn’t suggest doing automatic deployment to the live site. It’s worth having someone on hand hitting the button and checking that everything worked nicely. If you have configured a staging server, however, you can set it up to deploy the changes each time a commit is pushed to it.
-
-If you use Bitbucket and Deploy you would create a deployment hook on Bitbucket to post to a URL on Deploy when a push happens to deploy the code. This can save you a few steps when you are just testing out changes. Even if you have made lots of changes to the staging deployment, the commit that you push live will include them all, so you can do that manually once you are happy with how things look in staging.
-
-Further Reading
-The tutorials from Git Client Tower, already mentioned in this article, are a great place to start if you are new to Git.
-A presentation from Liam Dempsey showing how to use the GitHub App to connect to Bitbucket
-Try Git from Code School
-The Git Workbook a self study guide to Git from Lorna Mitchell
-GET SET UP FOR THE NEW YEAR
-I love to start the New Year with a clean slate and improved processes. If you are still wrangling files with FTP then this is one thing you could tick off your list to save you time and energy in 2015. Post to the comments if you have suggestions of tools or ideas for ways to enhance this type of set-up for those who have already taken the first steps.
-
-
-It's not about the work that you do, but the work you enable others to do.
-
-Smaller teams can afford to keep goals small and finish them often. Then you can test faster and learn quicker. By working quickly you can make decisions quickly, things flow better, and other teams will be envious. Cut your chunks of work into smaller chunks. Keep going to the minimum. If you can see measured improvement then do the rest of the chunks. If not, you've only lost a day or two maximum. Communicating frequently about what you're releasing makes you feel truly agile. Releasing often not only makes the team look good internally, but improves the end result for users too.
-
-THINK HOW, NOT WHAT
-Your product isn’t just a bunch of features - so stop focusing on them.
-
-What matters is not what functionality your product has, but how it works. A sign-up process is not just a sign-up process, a checkout process is not just a checkout process, a button is not just a button, a rating system is not just a rating system. Think about how you can stand out by introducing something that everyone else might have but in a unique way - what you are selling at it’s core. Here are a few questions to answer:
-
-What is needed for your product to function well?
-How much can you take away from it without sacrificing the core product
-Why will people be excited about it
-Glasses have one primary purpose, to help you see. Everything on top of that - such as colors, shapes, sizes and logos - is a feature. Understand when you are working on your core product and when you are working on adding features. The benefits of thinking like this, is that it will help you establish a very clear and precise picture of what makes your product your product. This will help you understand the minimal work necessary to get a valuable product out the door, and why you are adding features when you are.
-
-You will be surprised how much the “how” can help improving your product - and getting an MVP out the door.
 
 SHIPPED IS BETTER THAN PERFECT
 The goal of sketching, wireframing and prototyping is delivering great product concepts, not great deliverables.
@@ -1385,52 +1232,6 @@ The people who will allow you to build a great business around your product are 
 * Use data to drive decisions
 * Default to open
 
-Understand what people need
-
-We must begin digital projects by exploring and pinpointing the needs of the people who will use the service, and the ways in which the service will fit into their lives. Whether the users are members of the public or government employees, policy makers must include real people in their design process from the very beginning. The needs of people — not constraints of government structures or silos — should drive technical and design decisions. We need to continually test the products we build with real people to keep us honest about what is important.checklist
-* Early in the project, spend time with current and prospective users of the service
-* Use a range of qualitative and quantitative user research methods to determine people’s goals, needs, and behaviors; be thoughtful about the time spent
-* Test prototypes of possible solutions with real people, in the field if possible
-* Document the findings about user goals, needs, behaviors, and preferences
-* Share findings with the team and agency leadership
-* Create a prioritized list of user stories, which are short descriptions of the goals the user is trying to accomplish
-* As the digital service is being built, regularly test it with potential users to ensure it will meet peoples’ needs
-key questions
-    * What user needs will this service address?
-    * Why does the user want or need this service?
-    * Who are your key users?
-    * Which people will have the most difficulty with your service?
-    * What research methods were used?
-    * What were the key findings from users’ current experience?
-    * How were the findings documented? Where can future team members access the documentation?
-    * How often are you testing with real people?
-
-
-Address the whole experience, from start to finishWe must build digital services with an understanding of the range of ways a person might interact with our service, including the actions they take online, through a mobile application, on the phone, or in person. Every encounter should move the user closer towards the desired outcome, whether that encounter is online or offline.checklist
-Understand the different points at which people will interact with the service – both online and in person
-Identify pain points in the current way users interact with the service, and prioritize these according to user needs
-Design the digital parts of the service so that they are integrated with the offline touch points people use to interact with the service
-Develop metrics that will measure how well the service is meeting user needs, at each step of the service
-key questions
-What are the different ways (both online and offline) that people currently accomplish the task the digital service is designed to help with?
-Where are user pain points in the current way people accomplish the task?
-Where does this specific project fit into the larger way people currently obtain the service being offered?
-What metrics will best indicate how well the service is working for its users?
-
-Make it simple and intuitiveUsing a government service shouldn’t be stressful, confusing, or daunting — it’s our job to build services that are simple and intuitive enough that users succeed the first time, unaided.checklist
-Create or use an existing, simple, and flexible design style guide for the service
-Use the design style guide across related digital services
-Provide users with clear information about where they are in the process as they use the service
-Follow accessibility best practices to ensure all people can use the service
-Provide users with a way to exit and return later to complete the process
-Use language that is familiar to the user and is easy to understand
-Use language and design consistently throughout the service, including in the online and offline (non-digital) touch points people use to interact with the service
-key questions
-What primary tasks are the user trying to accomplish?
-What is the reading level of the language the service uses?
-What languages is your service offered in?
-If a user needs help while using the service how do they go about getting it?
-How does the service’s design visually relate to other government services?
 
 ## Ongoing Maintenance
 
