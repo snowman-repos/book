@@ -1262,11 +1262,6 @@ What tool/technology is used for A/B testing?
 
 
 
-
-Digital Projects: When Shit Happens | Digital Project Management | Digital Project Manager | thesambarnes
-thesambarnes.com · by thesambarnes · February 27, 2014
-Margarida Fonseca is a Project Manager at the biggest Portuguese IT company, Portugal Telecom. She is a Certified PMP and has a skill-set spanning several fields, from UX design to digital marketing. You can contact Margarida through LinkedIn.
-
 We’re told that we learn by making mistakes, that there are upsides to making mistakes and thus we should embrace them in order to become wise, but, as a Digital Project Manager, I work incredibly hard to make sure that no mistakes happen on my web projects.
 
 Somehow it’s become a standard that Digital Project Managers must sense and deal with any critical issues that can threaten a project long before it actually happens.
