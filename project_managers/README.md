@@ -1195,7 +1195,7 @@ Along with pushing the code to a live server, also consider what else you should
 ## Ongoing Maintenance
 
 
-
+- bug fixing
 - security
 - performance
 
@@ -1223,103 +1223,16 @@ What tool/technology is used for A/B testing?
 
 
 
-We’re told that we learn by making mistakes, that there are upsides to making mistakes and thus we should embrace them in order to become wise, but, as a Digital Project Manager, I work incredibly hard to make sure that no mistakes happen on my web projects.
-
-Somehow it’s become a standard that Digital Project Managers must sense and deal with any critical issues that can threaten a project long before it actually happens.
-
-But sometimes, even under the most controlled environments, shit happens.
-
-A photo of Star Wars toys showing Stormtroopers laughing at a Death Star worker who has a sign on his back saying 
-Sometimes, Digital Project Managers have problems they can’t see.
-Something as small as one line of code can significantly impact the direction of a digital project and guess what, that’s exactly what has happened to me on a project I just completed.
-
-The digital project
-
-I was the Content team’s Digital Project Manager for a SharePoint-based website project. This was that kind of project that had the highest level of visibility and exposure within the organization and so great expectations fell on the shoulders of the Digital Project Management team.
-
-After two months of intense design and development, the time had arrived for the Content team to populate the site with copy, images and business apps.
-The Development team ran a workshop for the Content team on how to add content to the website and we were all in a big rush to get the work complete.
-
-The Content team really put in a lot of effort to learn how to do this because most of their backgrounds had nothing to do with digital and most were either journalists or designers.
-
-What went wrong?
-
-One week before the big website presentation to the Board, we signed out of SharePoint and tried accessing the website anonymously and uh oh! Something had gone wrong, really wrong! We couldn’t see any content or pages!
-
-The General Project Manager summoned me for a private meeting and I knew this wasn’t going to be good.
-
-A photo of a small cute kitten looking scared from behind a red wooden door or window frame.
-Getting called to see the boss when you know it’s not good…
-The five-step emotional roller coaster of dealing with shit happening
-
-It turned out that during the workshop, all of the examples and the tutorials delivered to the Content team had the filepaths to the authoring environment defined, so when the Content team went to add everything, without knowing any better, they copied and pasted the filepaths from the tutorials. Eeeek!
-
-During the five minute talk with the General Project Manager, I went through this internal five-step emotional rollercoaster of feelings:
-
-1. I began by taking the Catholic approach to shit happening.
-
-It happened because I’m bad! I blamed myself for what happened, how could I have overlooked such an important detail?
-
-2. I quickly moved to the Calvinist approach to shit happening.
-
-It happened because they didn’t work hard enough! I blamed everyone else for what happened. How did no one notice this? The Development and Content teams should’ve noticed this!
-
-3. Even quicker than the previous stage, I took the guerrilla approach to shit happening.
-
-It did happen and I need to take a hostage! The effort to correct the damage would have to be divided by both teams, Development and Content teams.
-
-4. I then switched to an Einsteinian approach to shit happening.
-
-Thinking that maybe the dimension of it was relative! After all, it would be the second time that they’d be populating the site and thus they’d be much quicker at it this time round.
-
-5. Leading finally to resignation and to a stoic approach to it.
-
-I can take this shit! Break the news to the team as quickly and clearly as possible.
-
-I like to think of this as ‘the five stages of converting digital project shit into digital project fertilizer’
-
-Turning shit into fertilizer
-
-I took a deep breath, made a quick plan of the topics I wanted to address, read them out loud to myself first so I could assert my posture and tone of voice in a positive way (and also to let all of my anger out!)
-
-A photo of a small duckling facing the camera with it's beak open as if shouting.
-Let your own anger out. Ironically this picture calms me down.
-I needed the team on board and if not motivated, at least focused on the fixing the problem. This was the list of topics I talked to them about on that day:
-
-1. Make it guilt free.
-
-A mistake had been made, explain how the mistake was made and explain to them the extent and impact of it on the whole digital project. Most importantly, it doesn’t matter whose fault it was.
-
-2. Own the solution.
-
-Own the mistake and make them own the solution. It’s up to us to solve this.
-
-3. Give the team time to complain.
-
-Give them time to let it all out and make that moment the only moment of complaining. Then empathize and wrap it up so we can prepare them to kick into action. While in this state of mind, break the message that we have to correct all of it today (it was 5:30 PM when I held the meeting).
-
-4. Be firm about the deadline and make it visual.
-
-Write on the board all the necessary steps and divide the errors into small acheivable tasks. Ask the team to collaborate on the problem solving and adjust when needed. Make sure that everyone knows where and how the error needs to be corrected. We cannot leave today without correcting it and then double checking it.
-
-5. Finish with a bang.
-
-C’mon, let’s roll up our sleeves and show that this can be done on time!
-
-Into the meeting I went…
-
-That meeting that turned out to be a decisive moment on the project. Not only did none of them leave until everyone had finished the job, but they did it perfectly and efficiently – by 9PM the whole website was complete.
-
-The upside to making mistakes
-
-That mistake and its resolution represented a turning point for how I perceived them and how they perceived me. In a twisted way, it was an opportunity for everyone to come together as an organized, determined awesome team.
-
-A photo of small toys with big mouths together and punching the air triumphantly.
-GO TEAM!
-Digital projects are funny like that. Sometimes, when they really go shit, you get through it and come out the other side a stronger person and part of a stronger team.
-
-When the project ended and the teams went their separate ways, they sent me a farewell email thanking me for my balance, calmness and straightforwardness, signed with…
+Project Managers must sense and deal with any critical issues that can threaten a project long before it actually happens. But sometimes, even under the most controlled environments, shit happens.
+- blame your self, what did you overlook? catholic
+- calvinist: blame the team for not working hard enough
+- guerilla: take a hostage, call in team members to help sort it
+- einsteinian: it's relative, fixing this bug isit's a good thing that we found the bug now and can deal with it and hopefully make the same bug less likely in future
+- stoic: i can take it, break it to the team, deal with it calmly
 
 
-
-
+when dealing with the team, avoid blame, explain the issue clearly and its impact
+own the solution - we have to fix it
+empathise, hear their complaints
+be firm about the deadline and stay with them until it's done
+congratulate and acknowledge
