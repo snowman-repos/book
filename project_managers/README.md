@@ -1188,35 +1188,9 @@ So you've finished the project and it's time to put it live. This is always a ne
 
 The real question then is when to go live. You've probably set some arbitrary date based on how long you determined it would take to build and test all required features. It's always good to have deadlines. But remember that with web projects deadlines are always flexible.
 
-A major pitfall you should avoid is pushing back the deadlines because it's not “perfect”, adding pressure on your team to produce the “perfect” work in a hurry because it's late. If any minor features are missing or not fully working then why not just deploy anyway? The answer to that is probably some commitment to the client or project owner. Of course there will be some time-cri
+A major pitfall you should avoid is pushing back the deadlines because it's not “perfect”, adding pressure on your team to produce the “perfect” work in a hurry because it's late. If any minor features are missing or not fully working then why not just deploy anyway? The answer to that is probably some commitment to the client or project owner. Of course there will be some time-critical projets, such as those around product launches, that require everything to be perfect in preparation for peak traffic just after launch. A negative reaction or poor experience could harm the client's business. For other projects though, this may more more of a client management issue than a project management one. Shipped may be better than perfect. You can gauge user reactions and gather data that could be used for doing minor optimisations before the official launch. This is what's known as “beta testing”.
 
-
-SHIPPED IS BETTER THAN PERFECT
-The goal of sketching, wireframing and prototyping is delivering great product concepts, not great deliverables.
-
-Nobody cares if your deliverables are great if they’re not finished. And few will care how perfect they are even if they are finished. The only people who may marvel at the deliverables are the UX designers, but they’re hopefully too busy to care about internal documentation. On the other hand, everyone wants or absolutely needs you to communicate the right level of details about what they need to do to make a great and feasible solution so they can ship better products, faster.
-
-If you’ve sketched something on scrap paper that you’re confident is a solid solution that everyone can act on immediately, there’s no value in re-creating it in a wireframe or anywhere else. Just take a picture of it and share it where appropriate. In some cases, you may have to quickly replicate it for organizational purposes, but don’t make deliverables for the sake of it - you have better things to do.
-
-When we launched Perch we were, in most cases gently, mocked for writing it in that language everyone loves to hate – PHP. We were quizzed as to why we were not using a trendy NoSQL database. Our technology decisions however, were entirely sensible. They were based on what we knew to be true – that our target customers would not have Python, Ruby on Rails or the latest database available on their cheap hosting. We couldn’t even rely on them to have up to date PHP.
-
-When it comes to launching your own product, it is very tempting to use it as the chance to do all of those things you never get to do in your day job, or on client projects. At last YOU are the client, as a developer there is little more fun than getting to grips with a new technology, building things with the shiniest tools. However, will that serve your customers well? Will they even care, or worse will your latest and greatest languages, tools and techniques actually prevent them from using your product?
-
-PHP isn’t fashionable, a NoSQL database could actually be a great fit for Perch, however if it isn’t available on our target customer’s hosting then there is no point considering it.
-
-The people who will allow you to build a great business around your product are far more invested in your success, because they use your product every day. In our case customers have built their business around selling sites built using Perch. Often they are not developers, but designers and learning a new CMS takes a considerable investment of time. They put a great deal of faith in us, that we won’t turn Perch into something that they can’t use. They trust that we won’t sell out, or otherwise abandon them and we really value that trust.
-
-* Concentrate on what the users need
-* Address the whole experience from start to finish
-* Make it simple and intuitive
-* Build it using agile and iterative practices
-* Choose an appropriate technology stack
-* Deploy on a suitable hosting environment
-* Automate testing and deployments
-* Manage security and privacy through reusable processes
-* Use data to drive decisions
-* Default to open
-
+Along with pushing the code to a live server, also consider what else you should provide to the project owner, even if you're not contractually obliged to. Such deliverables may include a style guide, or documentation, or training materials, that will make it easier for them to maintain the project going forward and also consider your team for ongoing support. A web project is never finished, there's always more you can do, and delivery time is when you can capitalise on the project's momentum to offer up some suggestions.
 
 ## Ongoing Maintenance
 
