@@ -1184,15 +1184,12 @@ Again, data drives decisions and these kinds of things are useful for you and th
 
 ## Delivery
 
-So you've finished the project and it's time to put it live. This is always a nerve-racking experience. What if it breaks? What if the project owner demands last minute changes? What if the users's don't like it?
+So you've finished the project and it's time to put it live. This is always a nerve-racking experience. What if it breaks? What if the project owner demands last minute changes? What if the users's don't like it? Hopefully you've mitigated this risks through solid prior preparation? Hopefully you've ensured that you have fully tested all features and automated a deployment and testing system?
 
+The real question then is when to go live. You've probably set some arbitrary date based on how long you determined it would take to build and test all required features. It's always good to have deadlines. But remember that with web projects deadlines are always flexible.
 
-- deployment
-- fully tested beforehand
-- beta period = your warranty period
+A major pitfall you should avoid is pushing back the deadlines because it's not “perfect”, adding pressure on your team to produce the “perfect” work in a hurry because it's late. If any minor features are missing or not fully working then why not just deploy anyway? The answer to that is probably some commitment to the client or project owner. Of course there will be some time-cri
 
-Automatic deployment to staging
-I wouldn’t suggest doing automatic deployment to the live site. It’s worth having someone on hand hitting the button and checking that everything worked nicely. If you have configured a staging server, however, you can set it up to deploy the changes each time a commit is pushed to it.
 
 SHIPPED IS BETTER THAN PERFECT
 The goal of sketching, wireframing and prototyping is delivering great product concepts, not great deliverables.
