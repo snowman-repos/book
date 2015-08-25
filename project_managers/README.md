@@ -1194,31 +1194,16 @@ Along with pushing the code to a live server, also consider what else you should
 
 ## Ongoing Maintenance
 
+By monitoring the following data, you may be able to offer suggestions for changes or new features, as well as security and performance optimisations:
 
-- bug fixing
-- security
-- performance
+* System resource utilisation
+* System performance,: response times, latency, error-rates, uptimes etc.
+* User behaviours
+* Key metrics (i.e. the project KPIs)
 
-Monitor system-level resource utilization in real time
-Monitor system performance, measuring response time, latency, throughput, and error rates in real-time
-Ensure monitoring in place can measure median, 95th percentile and 98th percentile performance
-Create automated alerts based on this monitoring
-Track concurrent users in real time, and monitor user behaviors (in the aggregate) to determine how well the service is meeting user needs
-Publish metrics internally
-Publish metrics externally
-Use an experimentation tool that supports multivariate testing in production
-key questions
-What are the key metrics for the service?
-How have these key metrics performed over the life of the service?
-What system monitoring tool(s) are in place?
-What is the targeted average response time for your service? What percent of requests take more than 1 second, 2 seconds, 4 seconds, and 8 seconds?
-What is the average response time and percentile breakdown (percent of requests taking more than 1s, 2s, 4s, and 8s) for your service’s top 10 transactions?
-What is your service’s monthly uptime target?
-What is your service’s monthly uptime percentage including scheduled maintenance? Excluding scheduled maintenance?
-How does your team receive automated alarms when incidents occur?
-What is the volume of each of your service’s top 10 transactions? What is the percentage of transactions started vs. completed?
-What tool(s) are in place to measure user behavior?
-What tool/technology is used for A/B testing?
+There are tools for monitoring server performance and usage that can also send you summaries and notifications. Likewise there are analytics tools for gathering data about user behaviour. You may also want to use A/B testing tools in case there are any contentious design decisions that need data to back them up - this basically entails the users being randomly presented with one of 2 versions of a feature or section that vary in only one single aspect; by gathering data about how each version performs then you can make an informed decision over the design. Always have the project KPIs in mind when collecting data and share metrics among the production team to emphasise their importance. Have the KPIs always been upheld since the project went live? What is the target average response time? What is the volume of conversions? At what stages do conversions generally fail? These kinds of questions make for important discussions and analysis that you can then take back to the product owner.
+
+The other area of ongoing support, that you should account for in your project plan, is bug fixing time, a.k.a the warranty period.
 
 
 
