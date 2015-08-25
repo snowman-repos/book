@@ -1207,12 +1207,6 @@ The other area of ongoing support, that you should account for in your project p
 
 Ideally you'd be able to preemptively deal with any major issues that may threaten the project's longterm success. However, even with an all-star team working under ideal conditions, shit happens.
 
-How we deal with shit happening is what sets good managers apart from the bad. The latter might blame themselves for missing something or, worse, blame the team for not working hard enough. The former will realise that bugs are inevitable, that finding and fixing them only improves the project and decreases the likelihood of the bug reoccurring in future projects, and then they calmly deal with the situation. When you break the news to the team that bugs need fixing, avoid blame. Explain the issue clearly and also its impact. By all means empathise with them and hear their complaints, but ultimately you'll need to enforce a strict deadline and ensure everyone works together to resolve it as soon as possible.
+How we deal with shit happening is what sets good managers apart from the bad. The latter might blame themselves for missing something or, worse, blame the team for not working hard enough. The former will realise that bugs are inevitable, that finding and fixing them only improves the project and decreases the likelihood of the bug reoccurring in future projects, and then they calmly deal with the situation. When you break the news to the team that bugs need fixing, avoid blame. Explain the issue clearly and also its impact. By all means empathise with them and hear their complaints, but ultimately you'll need to enforce a strict deadline and ensure everyone works together to resolve it as soon as possible. Stay with them to offer any and all support that's required.
 
-
-
-when dealing with the team, avoid blame, explain the issue clearly and its impact
-own the solution - we have to fix it
-empathise, hear their complaints
-be firm about the deadline and stay with them until it's done
-congratulate and acknowledge
+Finally, thank and pat everyone on the back for pulling off a great project.
