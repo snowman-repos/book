@@ -1205,10 +1205,10 @@ There are tools for monitoring server performance and usage that can also send y
 
 The other area of ongoing support, that you should account for in your project plan, is bug fixing time, a.k.a the warranty period.
 
+Ideally you'd be able to preemptively deal with any major issues that may threaten the project's longterm success. However, even with an all-star team working under ideal conditions, shit happens.
 
+How you deal with 
 
-
-Project Managers must sense and deal with any critical issues that can threaten a project long before it actually happens. But sometimes, even under the most controlled environments, shit happens.
 - blame your self, what did you overlook? catholic
 - calvinist: blame the team for not working hard enough
 - guerilla: take a hostage, call in team members to help sort it
