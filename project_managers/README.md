@@ -1207,13 +1207,8 @@ The other area of ongoing support, that you should account for in your project p
 
 Ideally you'd be able to preemptively deal with any major issues that may threaten the project's longterm success. However, even with an all-star team working under ideal conditions, shit happens.
 
-How you deal with 
+How we deal with shit happening is what sets good managers apart from the bad. The latter might blame themselves for missing something or, worse, blame the team for not working hard enough. The former will realise that bugs are inevitable, that finding and fixing them only improves the project and decreases the likelihood of the bug reoccurring in future projects, and then they calmly deal with the situation. When you break the news to the team that bugs need fixing, avoid blame. Explain the issue clearly and also its impact. By all means empathise with them and hear their complaints, but ultimately you'll need to enforce a strict deadline and ensure everyone works together to resolve it as soon as possible.
 
-- blame your self, what did you overlook? catholic
-- calvinist: blame the team for not working hard enough
-- guerilla: take a hostage, call in team members to help sort it
-- einsteinian: it's relative, fixing this bug isit's a good thing that we found the bug now and can deal with it and hopefully make the same bug less likely in future
-- stoic: i can take it, break it to the team, deal with it calmly
 
 
 when dealing with the team, avoid blame, explain the issue clearly and its impact
