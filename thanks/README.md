@@ -64,8 +64,6 @@ This book is merely a collection of my thoughts and experiences from the past se
   * Nicholas Gallagher
   * Sam Barnes
   * Yahuda Katz
-  * Julien Buty
-
 
 * **Lowe-Profero**
 
